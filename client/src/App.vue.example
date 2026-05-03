@@ -1,0 +1,141 @@
+<template>
+  <div id="app">
+    <!-- 版本刷新提示条 -->
+    <VersionRefreshBanner @refresh="handleRefresh" @dismiss="handleDismiss" />
+    
+    <!-- 头部 -->
+    <header>
+      <h1>AI 酒馆故事游戏</h1>
+      <RefreshButton @refresh="handleRefresh" />
+    </header>
+    
+    <!-- 主内容 -->
+    <main>
+      <!-- 角色卡列表 -->
+      <div v-for="character in characters" :key="character.id" class="character-card">
+        <div class="character-header">
+          <h2>{{ character.name }}</h2>
+          <CharacterVersionInfo :character-id="character.id" />
+        </div>
+        <p>{{ character.description }}</p>
+      </div>
+    </main>
+  </div>
+</template>
+
+<script setup>
+import { ref, onMounted, onUnmounted } from 'vue';
+import { useVersionManager } from './composables/useVersionManager';
+import VersionRefreshBanner from './components/VersionRefreshBanner.vue';
+import RefreshButton from './components/RefreshButton.vue';
+import CharacterVersionInfo from './components/CharacterVersionInfo.vue';
+
+const {
+  startPeriodicCheck,
+  stopPeriodicCheck,
+  getCharacter,
+  onVersionChange,
+  offVersionChange
+} = useVersionManager();
+
+const characters = ref([
+  { id: '角色卡_赵怜云', name: '赵怜云', description: '' },
+  { id: '角色卡_方源', name: '方源', description: '' }
+]);
+
+// 加载角色卡数据
+const loadCharacters = async () => {
+  for (const character of characters.value) {
+    try {
+      const data = await getCharacter(character.id);
+      character.description = data.description;
+    } catch (error) {
+      console.error(`加载角色卡 ${character.id} 失败:`, error);
+    }
+  }
+};
+
+// 监听版本变化
+const handleVersionChange = (characterId, oldVersion, newVersion) => {
+  console.log(`${characterId} 版本变化: ${oldVersion} -> ${newVersion}`);
+  
+  // 重新加载该角色卡
+  const character = characters.value.find(c => c.id === characterId);
+  if (character) {
+    getCharacter(characterId, true).then(data => {
+      character.description = data.description;
+    });
+  }
+};
+
+// 处理刷新事件
+const handleRefresh = () => {
+  loadCharacters();
+};
+
+const handleDismiss = () => {
+  console.log('用户点击稍后');
+};
+
+onMounted(() => {
+  // 加载角色卡数据
+  loadCharacters();
+  
+  // 启动定期检查（每 30 秒）
+  startPeriodicCheck(30000);
+  
+  // 监听所有版本变化
+  onVersionChange('*', handleVersionChange);
+});
+
+onUnmounted(() => {
+  // 停止定期检查
+  stopPeriodicCheck();
+  
+  // 移除监听器
+  offVersionChange('*', handleVersionChange);
+});
+</script>
+
+<style>
+#app {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+header h1 {
+  margin: 0;
+  color: #333;
+}
+
+.character-card {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.character-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.character-header h2 {
+  margin: 0;
+  color: #667eea;
+}
+</style>

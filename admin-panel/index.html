@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>InkSoul / 墨魂 - 控制面板</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>� InkSoul / 墨魂 控制面板</h1>
+      <p class="subtitle">一键启动，轻松畅玩</p>
+    </div>
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <button class="tab-button active" onclick="switchTab('story')">📖 小说初始化</button>
+      <button class="tab-button" onclick="switchTab('server')">🎮 故事服务</button>
+      <button class="tab-button" onclick="switchTab('config')">⚙️ 配置管理</button>
+    </div>
+
+    <!-- Novel Initialization Tab -->
+    <div id="tab-story" class="tab-content active">
+      <div class="control-section">
+        <h2>小说管理</h2>
+        <div class="novel-selector">
+          <label for="novelSelect">选择小说：</label>
+          <select id="novelSelect" onchange="selectNovel()">
+            <option value="">加载中...</option>
+          </select>
+          <button class="btn btn-small btn-secondary" onclick="refreshNovels()">刷新</button>
+        </div>
+        <div class="button-group">
+          <button class="btn btn-secondary" onclick="showAddNovelDialog()">
+            <span class="btn-icon">+</span>
+            添加小说
+          </button>
+          <button class="btn btn-danger" onclick="deleteNovel()" id="deleteNovelBtn" disabled>
+            <span class="btn-icon">🗑</span>
+            删除小说
+          </button>
+        </div>
+      </div>
+
+      <div class="status-card">
+        <div class="status-header">
+          <span class="status-label">小说数据状态</span>
+          <span id="extractionStatusBadge" class="status-badge stopped">检查中...</span>
+        </div>
+        <div class="status-details" id="extractionStats">
+          <div class="detail-item">
+            <span class="detail-label">角色数:</span>
+            <span id="charCount">-</span>
+          </div>
+          <div class="detail-item">
+            <span class="detail-label">事件数:</span>
+            <span id="eventCount">-</span>
+          </div>
+          <div class="detail-item">
+            <span class="detail-label">世界书条目:</span>
+            <span id="worldbookCount">-</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="control-section">
+        <h2>小说数据提取</h2>
+        <p class="section-description">首次使用需要从小说文件中提取角色、事件、关系等数据。此过程可能需要较长时间（取决于小说大小）。</p>
+        <div class="button-group">
+          <button id="startExtractionBtn" class="btn btn-primary" onclick="startExtraction()">
+            <span class="btn-icon">▶</span>
+            开始提取小说
+          </button>
+          <button id="retryFailedBtn" class="btn btn-warning" onclick="retryFailedChapters()">
+            <span class="btn-icon">🔄</span>
+            重试失败章节
+          </button>
+          <button id="stopExtractionBtn" class="btn btn-danger" onclick="stopExtraction()" disabled>
+            <span class="btn-icon">⏹</span>
+            停止提取
+          </button>
+        </div>
+      </div>
+
+      <div class="control-section">
+        <h2>提取日志</h2>
+        <div class="log-container">
+          <div id="extractionLogContent" class="log-content"></div>
+        </div>
+        <button class="btn btn-small btn-secondary" onclick="clearExtractionLogs()">清空日志</button>
+      </div>
+
+      <div class="control-section">
+        <h2>故事框架生成</h2>
+        <p class="section-description">基于已提取的小说数据生成故事框架，用于驱动AI故事生成。</p>
+        
+        <div class="form-group">
+          <label for="frameworkProtagonist">主角名称</label>
+          <input type="text" id="frameworkProtagonist" value="韩立" placeholder="主角名称" onchange="autoFillProtagonistProfile()" />
+          <small class="help-text">原创主角（输入名称后自动加载档案）</small>
+        </div>
+        
+        <div class="form-group">
+          <label>主角详细档案（可选，AI将补充缺失部分）</label>
+          <button type="button" onclick="toggleProtagonistEditor()" style="background: #f0f0f0; border: 1px solid #ddd; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 12px; margin-bottom: 8px;">展开/收起编辑</button>
+          <div id="protagonistEditor" style="display: block; background: #f9f9f9; padding: 12px; border-radius: 4px; border: 1px solid #eee;">
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+              <div class="form-group">
+                <label for="protagonistBirth">出生</label>
+                <input type="text" id="protagonistBirth" placeholder="未知" style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px;" />
+              </div>
+              <div class="form-group">
+                <label for="protagonistAge">年龄</label>
+                <input type="text" id="protagonistAge" placeholder="外表约20岁" style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px;" />
+              </div>
+              <div class="form-group">
+                <label for="protagonistGender">性别</label>
+                <input type="text" id="protagonistGender" placeholder="男" style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px;" />
+              </div>
+              <div class="form-group">
+                <label for="protagonistStartingRealm">起始境界</label>
+                <input type="text" id="protagonistStartingRealm" placeholder="一转初阶" style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px;" />
+              </div>
+              <div class="form-group">
+                <label for="protagonistStartingLocation">起始位置</label>
+                <input type="text" id="protagonistStartingLocation" placeholder="北原青茅山" style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px;" />
+              </div>
+              <div class="form-group">
+                <label for="protagonistCultivationPath">修炼道路</label>
+                <input type="text" id="protagonistCultivationPath" placeholder="魔道" style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px;" />
+              </div>
+            </div>
+            <div class="form-group" style="margin-top: 12px;">
+              <label for="protagonistBackground">背景故事</label>
+              <textarea id="protagonistBackground" rows="2" placeholder="正在了解自己的处境和当前状况..." style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px; font-family: inherit;"></textarea>
+            </div>
+            <div class="form-group" style="margin-top: 8px;">
+              <label for="protagonistFamily">家事</label>
+              <textarea id="protagonistFamily" rows="2" placeholder="无依无靠..." style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px; font-family: inherit;"></textarea>
+            </div>
+            <div class="form-group" style="margin-top: 8px;">
+              <label for="protagonistPersonality">性格特征</label>
+              <textarea id="protagonistPersonality" rows="2" placeholder="冷静、沉着、心思缜密..." style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px; font-family: inherit;"></textarea>
+            </div>
+            <div class="form-group" style="margin-top: 8px;">
+              <label for="protagonistGoals">目标</label>
+              <input type="text" id="protagonistGoals" placeholder="追求长生" style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px;" />
+            </div>
+            <div class="form-group" style="margin-top: 8px;">
+              <label for="protagonistSpecialAbilities">特殊能力</label>
+              <input type="text" id="protagonistSpecialAbilities" placeholder="依靠观察和智慧" style="width: 100%; padding: 6px; border: 1px solid #ddd; border-radius: 4px;" />
+            </div>
+          </div>
+        </div>
+        
+        <div class="form-group">
+          <label for="frameworkStartChapter">起点章节</label>
+          <input type="number" id="frameworkStartChapter" value="1" min="1" placeholder="起点章节" />
+          <small class="help-text">从第几章开始生成框架</small>
+        </div>
+        
+        <div class="form-group">
+          <label for="frameworkMaxChapters">生成章节数</label>
+          <input type="number" id="frameworkMaxChapters" value="20" min="1" max="1000" placeholder="生成章节数" />
+          <small class="help-text">生成多少章的故事框架</small>
+        </div>
+        
+        <div class="form-group">
+          <label for="frameworkFocusCharacters">重点角色（可选）</label>
+          <input type="text" id="frameworkFocusCharacters" placeholder="方源, 古月方正" />
+          <div style="display: flex; gap: 8px; align-items: center; position: absolute; right: 8px; top: 32px;">
+            <input type="number" id="autoFillCount" value="15" min="1" max="50" style="width: 50px; padding: 4px; border: 1px solid #ddd; border-radius: 4px; font-size: 12px;" />
+            <button type="button" onclick="autoFillFocusCharacters()" style="background: none; border: 1px solid #ddd; border-radius: 4px; padding: 4px 8px; cursor: pointer; font-size: 12px;">自动填充</button>
+          </div>
+          <small class="help-text">重点关注哪些角色，用逗号分隔</small>
+        </div>
+        
+        <div class="form-group" style="display: flex; gap: 12px;">
+          <div style="flex: 1;">
+            <label for="frameworkPlayerInfluence">玩家影响程度</label>
+            <select id="frameworkPlayerInfluence" style="width: 100%;">
+              <option value="low" selected>低</option>
+              <option value="medium">中</option>
+              <option value="high">高</option>
+            </select>
+            <small class="help-text">主角能否改变剧情走向（结果层面）</small>
+          </div>
+          <div style="flex: 1;">
+            <label for="frameworkInteractionMode">互动方式</label>
+            <select id="frameworkInteractionMode" style="width: 100%;">
+              <option value="low" selected>低</option>
+              <option value="medium">中</option>
+              <option value="high">高</option>
+            </select>
+            <small class="help-text">主角与他人互动的频率（过程层面）</small>
+          </div>
+        </div>
+        <div class="form-group" style="background: #f5f7fa; padding: 8px; border-radius: 4px; font-size: 12px; color: #555;">
+          <strong>两者区别：</strong><br/>
+          • <strong>玩家影响</strong>：主角能多大程度改变原著剧情结果（低=完全旁观；中=影响过程但保留关键结果；高=可改变关键走向）<br/>
+          • <strong>互动方式</strong>：主角与NPC/原著角色的互动频率（低=几乎不互动，以旁观收集情报为主；中=正常交易对话；高=频繁深度交互、结盟或冲突）
+        </div>
+
+        <div class="form-group">
+          <label>
+            <input type="checkbox" id="frameworkBranches" checked />
+            包含分支选项
+          </label>
+          <small class="help-text">是否生成剧情分支选项</small>
+        </div>
+        
+        <div class="button-group">
+          <button id="generateFrameworkBtn" class="btn btn-primary" onclick="generateFramework()">
+            <span class="btn-icon">🎨</span>
+            生成故事框架
+          </button>
+          <button class="btn btn-secondary" onclick="viewFramework()">
+            <span class="btn-icon">👁</span>
+            查看已有框架
+          </button>
+        </div>
+        
+        <div id="frameworkProgress" class="progress-section" style="display: none;">
+          <div class="progress-bar">
+            <div id="frameworkProgressBar" class="progress-fill"></div>
+          </div>
+          <div id="frameworkStatus" class="progress-status">生成中...</div>
+        </div>
+        
+        <div id="frameworkResult" class="result-section" style="display: none;">
+          <h3>生成结果</h3>
+          <div id="frameworkContent" class="result-content"></div>
+        </div>
+      </div>
+
+      <div class="control-section">
+        <h2>提取日志</h2>
+        <div class="log-container">
+          <div id="extractionLogContent" class="log-content"></div>
+        </div>
+        <button class="btn btn-small btn-secondary" onclick="clearExtractionLogs()">清空日志</button>
+      </div>
+
+      <div class="help-section">
+        <h2>说明</h2>
+        <ul class="help-list">
+          <li><strong>首次使用：</strong>必须先执行小说数据提取，才能开始游玩</li>
+          <li><strong>多小说支持：</strong>可以添加多本小说，每本小说的数据相互独立</li>
+          <li><strong>小说文件：</strong>确保小说文件存在，路径正确</li>
+          <li><strong>提取时间：</strong>根据小说大小，可能需要 10-30 分钟</li>
+          <li><strong>重新提取：</strong>如果小说更新，可以重新执行提取</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Story Service Tab -->
+    <div id="tab-server" class="tab-content">
+      <div class="status-card">
+        <div class="status-header">
+          <span class="status-label">服务器状态</span>
+          <span id="statusBadge" class="status-badge stopped">已停止</span>
+        </div>
+        <div class="status-details">
+          <div class="detail-item">
+            <span class="detail-label">地址:</span>
+            <span id="serverUrl">http://localhost:3000</span>
+          </div>
+          <div class="detail-item">
+            <span class="detail-label">端口:</span>
+            <span id="serverPort">3000</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="control-section">
+        <h2>服务器控制</h2>
+        <div class="button-group">
+          <button id="startBtn" class="btn btn-primary" onclick="startServer()">
+            <span class="btn-icon">▶</span>
+            启动服务器
+          </button>
+          <button id="stopBtn" class="btn btn-danger" onclick="stopServer()" disabled>
+            <span class="btn-icon">⏹</span>
+            停止服务器
+          </button>
+          <button id="openStoryBtn" class="btn btn-success" onclick="openStory()" disabled>
+            <span class="btn-icon">📖</span>
+            打开故事
+          </button>
+        </div>
+      </div>
+
+      <div class="control-section">
+        <h2>服务器日志</h2>
+        <div class="log-container">
+          <div id="logContent" class="log-content"></div>
+        </div>
+        <button class="btn btn-small btn-secondary" onclick="clearLogs()">清空日志</button>
+      </div>
+    </div>
+
+    <!-- Configuration Tab -->
+    <div id="tab-config" class="tab-content">
+      <div class="control-section">
+        <h2>配置管理</h2>
+        <div class="config-form">
+          <div class="form-group">
+            <label for="apiKey">DeepSeek API Key</label>
+            <input type="password" id="apiKey" placeholder="sk-..." />
+            <button class="btn btn-small" onclick="toggleApiKeyVisibility()">👁</button>
+          </div>
+          <div class="form-group">
+            <label for="apiUrl">API 地址</label>
+            <input type="text" id="apiUrl" placeholder="https://api.deepseek.com/v1/chat/completions" />
+          </div>
+          <button class="btn btn-secondary" onclick="saveConfig()">
+            <span class="btn-icon">💾</span>
+            保存配置
+          </button>
+        </div>
+      </div>
+
+      <div class="help-section">
+        <h2>帮助</h2>
+        <ul class="help-list">
+          <li><strong>获取 API Key：</strong>访问 <a href="https://platform.deepseek.com" target="_blank">https://platform.deepseek.com</a> 注册并获取</li>
+          <li><strong>防火墙问题：</strong>如果无法启动，请允许 Node.js 通过防火墙</li>
+          <li><strong>更多帮助：</strong>查看 <a href="#" onclick="openUserManual()">用户手册</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="panel.js"></script>
+</body>
+</html>

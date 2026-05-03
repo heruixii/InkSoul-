@@ -1,0 +1,32 @@
+{
+  "name": "inksoul",
+  "version": "1.0.0",
+  "description": "InkSoul / 墨魂 - AI 故事编织者",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "node server/check-deps.js && node server/index.js",
+    "check-deps": "node server/check-deps.js",
+    "fix-all-characters": "node server/fix-all-from-novel.js",
+    "fix-all-characters:dry": "node server/fix-all-from-novel.js --dry-run",
+    "enrich-story": "node server/enrich-story-from-novel.js",
+    "enrich-story-full": "node server/enrich-story-from-novel.js",
+    "verify-story": "node server/verify-story-data.js",
+    "verify-story:fix": "node server/verify-story-data.js --fix",
+    "sync-characters": "node server/sync-characters-with-novel.js",
+    "sync-characters:dry": "node server/sync-characters-with-novel.js --dry-run",
+    "prune": "node scripts/project-prune.js",
+    "prune:dry": "node scripts/project-prune.js --dry-run",
+    "prune:yes": "node scripts/project-prune.js --yes"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "node-cron": "^4.2.1"
+  }
+}

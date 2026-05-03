@@ -1,0 +1,7103 @@
+{
+  "方源": {
+    "name": "方源",
+    "realm": "八转",
+    "path": "无",
+    "description": "取走盗天真传，收起五界大限阵后最后一个出来"
+  },
+  "星宿": {
+    "name": "星宿",
+    "realm": "尊者",
+    "path": null,
+    "description": "元始仙尊的徒弟，将绣楼转变成仙蛊屋"
+  },
+  "方正": {
+    "name": "方正",
+    "realm": "蛊仙",
+    "path": "血道",
+    "description": "专修血道，早年学艺仙鹤门，拜师天鹤上人，参与三陆大战，被凤九歌救走，回到仙鹤门，得到天庭看重提携成仙，成为仙鹤门太上长老。身份特殊，不能随意走出飞鹤山。"
+  },
+  "舅父舅母": {
+    "name": "舅父舅母",
+    "realm": null,
+    "path": null,
+    "description": "方源和方正的抚养者，侵占了双亲遗产，对方源的态度是投资而非爱。",
+    "firstChapterIndex": 2
+  },
+  "双亲": {
+    "name": "双亲",
+    "realm": null,
+    "path": null,
+    "description": "方源和方正的父母，因家族任务双双陨落。",
+    "firstChapterIndex": 2
+  },
+  "负责人": {
+    "name": "负责人",
+    "realm": null,
+    "path": null,
+    "description": "隔岸的负责人，皱眉，认为希望蛊数量少。",
+    "firstChapterIndex": 5
+  },
+  "家老": {
+    "name": "家老",
+    "realm": null,
+    "path": null,
+    "description": "很多家老，暗中关注方源，看到甲等资质应有的气象后心中一沉。",
+    "firstChapterIndex": 5
+  },
+  "族长": {
+    "name": "族长",
+    "realm": null,
+    "path": null,
+    "description": "皱起眉头，认为甲等资质不该如此。",
+    "firstChapterIndex": 5
+  },
+  "人祖": {
+    "name": "人祖",
+    "realm": null,
+    "path": null,
+    "description": "传说中第一个人类，用生命供养三蛊，最终把心交给希望蛊。",
+    "firstChapterIndex": 5
+  },
+  "困境": {
+    "name": "困境",
+    "realm": null,
+    "path": null,
+    "description": "一群野兽，喜欢人祖的味道，想要吃掉他，最怕希望蛊。",
+    "firstChapterIndex": 5
+  },
+  "力量蛊": {
+    "name": "力量蛊",
+    "realm": null,
+    "path": null,
+    "description": "三头蛊中最大的那只，带给人祖力量，后绝情离开。",
+    "firstChapterIndex": 5
+  },
+  "智慧蛊": {
+    "name": "智慧蛊",
+    "realm": null,
+    "path": null,
+    "description": "三头蛊中最美丽的那只，带给人祖智慧，后绝情离开。",
+    "firstChapterIndex": 5
+  },
+  "希望蛊": {
+    "name": "希望蛊",
+    "realm": null,
+    "path": null,
+    "description": "三头蛊中最小、最黯淡的一只，带给人祖希望，能克服困境，形成光点投入方源体内。",
+    "firstChapterIndex": 5
+  },
+  "古月赤练": {
+    "name": "古月赤练",
+    "realm": null,
+    "path": null,
+    "description": "古月一族家老，宣称方正因为赤脉分支应归其收养。",
+    "firstChapterIndex": 6
+  },
+  "古月漠尘": {
+    "name": "古月漠尘",
+    "realm": null,
+    "path": null,
+    "description": "古月一族家老，与古月赤练争夺方正抚养权。",
+    "firstChapterIndex": 6
+  },
+  "古月博": {
+    "name": "古月博",
+    "realm": null,
+    "path": null,
+    "description": "古月族长，提议亲自栽培方正。",
+    "firstChapterIndex": 6
+  },
+  "学堂家老": {
+    "name": "学堂家老",
+    "realm": "无",
+    "path": "无",
+    "description": "提及一次，说过考核奖励。"
+  },
+  "古月师": {
+    "name": "古月师",
+    "realm": null,
+    "path": null,
+    "description": "学堂家老，负责教导少年蛊师。",
+    "firstChapterIndex": 7
+  },
+  "古月方正": {
+    "name": "古月方正",
+    "realm": "蛊师",
+    "path": "无",
+    "description": "方源的弟弟，从默默无闻到开始绽放光芒，自信滋长，下意识模仿哥哥但还不适应。"
+  },
+  "古月方源": {
+    "name": "古月方源",
+    "realm": "三转",
+    "path": "蛊师",
+    "description": "操纵黑熊，使用人兽葬生蛊晋升三转。"
+  },
+  "四代族长": {
+    "name": "四代族长",
+    "realm": "五转蛊师",
+    "path": null,
+    "description": "古月一族历史上的一位强者，被花酒行者偷袭后重伤不治而死。",
+    "firstChapterIndex": 7
+  },
+  "花酒行者": {
+    "name": "花酒行者",
+    "realm": "五转蛊师",
+    "path": null,
+    "description": "为恶多年的采花大盗，魔道中人，被四代族长击毙。",
+    "firstChapterIndex": 7
+  },
+  "一代族长": {
+    "name": "一代族长",
+    "realm": "五转蛊师",
+    "path": null,
+    "description": "古月山寨的创立者。",
+    "firstChapterIndex": 7
+  },
+  "掌柜": {
+    "name": "掌柜",
+    "realm": "无",
+    "path": "无",
+    "description": "酒肆掌柜，矮矮的中年胖子，满脸油光。",
+    "firstChapterIndex": 8
+  },
+  "古月冻土": {
+    "name": "古月冻土",
+    "realm": null,
+    "path": null,
+    "description": "方源方正的舅父，眉头拧成疙瘩，说话温和但有心计。",
+    "firstChapterIndex": 9
+  },
+  "舅母": {
+    "name": "舅母",
+    "realm": null,
+    "path": null,
+    "description": "方源方正的舅母，面目表情笼罩阴影，温言但有阴险一面。",
+    "firstChapterIndex": 9
+  },
+  "沈翠": {
+    "name": "沈翠",
+    "realm": null,
+    "path": null,
+    "description": "方源的贴身丫鬟，沈嬷嬷的女儿。",
+    "firstChapterIndex": 9
+  },
+  "沈嬷嬷": {
+    "name": "沈嬷嬷",
+    "realm": null,
+    "path": null,
+    "description": "舅母最器重的人，管理家中奴仆的管家，沈翠的母亲。",
+    "firstChapterIndex": 9
+  },
+  "古月漠北": {
+    "name": "古月漠北",
+    "path": null,
+    "realm": null,
+    "description": "被提及，背后有长辈支持。",
+    "firstChapterIndex": 10
+  },
+  "古月赤城": {
+    "name": "古月赤城",
+    "path": null,
+    "realm": null,
+    "description": "被提及，背后有长辈支持。",
+    "firstChapterIndex": 10
+  },
+  "老汉": {
+    "name": "老汉",
+    "realm": null,
+    "path": null,
+    "description": "在客栈饭堂靠窗独酌的老汉。",
+    "firstChapterIndex": 11
+  },
+  "猎户们": {
+    "name": "猎户们",
+    "realm": null,
+    "path": null,
+    "description": "五六个猎户，在客栈饭堂中央一桌大声交谈。",
+    "firstChapterIndex": 11
+  },
+  "两个年轻人": {
+    "name": "两个年轻人",
+    "realm": null,
+    "path": null,
+    "description": "在客栈角落一桌密谈，身形隐没在阴影中。",
+    "firstChapterIndex": 11
+  },
+  "江牙": {
+    "name": "江牙",
+    "realm": "一转高阶",
+    "path": null,
+    "description": "青年蛊师，二十多岁，资质丁等。身穿深蓝武服，头戴宝蓝色头带，腰带铜片刻有'一'字。起初坐在角落，后起身挑衅猎户，摔酒坛训斥猎户。可能是后勤蛊师，非战斗蛊师。",
+    "firstChapterIndex": 12
+  },
+  "女同伴": {
+    "name": "女同伴",
+    "realm": null,
+    "path": null,
+    "description": "与江牙同坐一桌的年轻人，开口劝阻江牙，说话后众人才知其是女子。其他信息未提及。",
+    "firstChapterIndex": 12
+  },
+  "峰哥": {
+    "name": "峰哥",
+    "realm": null,
+    "path": null,
+    "description": "猎户之一，被其他猎户称为'峰大哥'，能一个人搞定一头黑皮野猪。试图打圆场。",
+    "firstChapterIndex": 12
+  },
+  "张老弟": {
+    "name": "张老弟",
+    "realm": null,
+    "path": null,
+    "description": "猎户之一，被其他猎户劝酒。",
+    "firstChapterIndex": 12
+  },
+  "店小二": {
+    "name": "店小二",
+    "realm": null,
+    "path": null,
+    "description": "客栈跑堂的小二，精明，推销青竹酒。",
+    "firstChapterIndex": 12
+  },
+  "窗边独酌的老人": {
+    "name": "窗边独酌的老人",
+    "realm": null,
+    "path": null,
+    "description": "坐在窗边独酌的老人，因酒香转头看青竹酒，后避开江牙目光。",
+    "firstChapterIndex": 12
+  },
+  "古月四代族长": {
+    "name": "古月四代族长",
+    "realm": "五转蛊师",
+    "path": null,
+    "description": "古月族史上最受传诵的四代族长，青年天才，名扬青茅山，为保护族人与魔头花酒行者对战，击败对手后被偷袭伤重而亡。但故事被指出不可尽信。",
+    "firstChapterIndex": 13
+  },
+  "醉酒蛊师": {
+    "name": "醉酒蛊师",
+    "realm": null,
+    "path": null,
+    "description": "前世一个月后，一位因失恋醉酒的蛊师，烂醉如泥躺在山寨外，酒香引来酒虫，跟随发现花酒行者地下密洞遗骸及遗产，禀告家族后受益，成为风云人物。",
+    "firstChapterIndex": 13
+  },
+  "酒虫": {
+    "name": "酒虫",
+    "realm": null,
+    "path": null,
+    "description": "一转蛊虫，体型如蚕宝宝，通体散发着珍珠一样的白光，有点胖胖的，外形很可爱。以酒水为食物，能够凌空飞行。飞行时，会把身躯团成一团，速度还很快。",
+    "firstChapterIndex": 14
+  },
+  "家老们": {
+    "name": "家老们",
+    "realm": null,
+    "path": null,
+    "description": "年老的旁观者，是那年代的族中家老。在画面中观战，后为族长报仇被花酒行者杀死或打伤。",
+    "firstChapterIndex": 15
+  },
+  "女蛊师": {
+    "name": "女蛊师",
+    "realm": null,
+    "path": null,
+    "description": "女性蛊师，被方源击昏后挡在身前，死亡。右胸、一只小腿失去，手臂有电狼啃噬伤口，死因心脏麻痹。曾与方源争抢猪腹位置但失败。",
+    "firstChapterIndex": 20
+  },
+  "治疗蛊师": {
+    "name": "治疗蛊师",
+    "realm": null,
+    "path": null,
+    "description": "男性治疗蛊师，认识女蛊师并对其心存爱慕。指责方源躲女人背后，被方源踹飞，后被组员劝住。",
+    "firstChapterIndex": 20
+  },
+  "角三": {
+    "name": "角三",
+    "realm": null,
+    "path": null,
+    "description": "男性蛊师，小组四人之一，背对着方源逃命。尸体保存相对完好，但手指抽搐（未死），身边有碎裂的蛇蛊红岩蟒和电狼尸首。",
+    "firstChapterIndex": 20
+  },
+  "空井": {
+    "name": "空井",
+    "realm": null,
+    "path": null,
+    "description": "男性蛊师，小组四人之一，背对着方源逃命。尸体被啃噬得面目全非。",
+    "firstChapterIndex": 20
+  },
+  "内务堂蛊师": {
+    "name": "内务堂蛊师",
+    "realm": null,
+    "path": null,
+    "description": "中年男蛊师，与古月冻土有私下交易，为拖延任务而收受元石，准备交给方源最难的任务。",
+    "firstChapterIndex": 22
+  },
+  "女童": {
+    "name": "女童",
+    "realm": null,
+    "path": null,
+    "description": "凡人，在山寨街道上追逐陀螺，撞到方源后被父亲带着下跪。",
+    "firstChapterIndex": 24
+  },
+  "女童父亲": {
+    "name": "女童父亲",
+    "realm": null,
+    "path": null,
+    "description": "凡人，因女童冲撞方源而惊恐下跪。",
+    "firstChapterIndex": 24
+  },
+  "中年男蛊师": {
+    "name": "中年男蛊师",
+    "realm": null,
+    "path": null,
+    "description": "内务堂负责接待的蛊师，与古月冻土有交情，属于拿人钱财替人消灾。",
+    "firstChapterIndex": 26
+  },
+  "伙计们": {
+    "name": "伙计们",
+    "realm": null,
+    "path": null,
+    "description": "酒肆的伙计，精明能干，对方源讨好谄笑，因酒肆易主而忐忑不安。",
+    "firstChapterIndex": 27
+  },
+  "女蛊师们": {
+    "name": "女蛊师们",
+    "realm": "二转",
+    "path": null,
+    "description": "租住竹楼的女房客，得知方源身份后看向他的目光带着媚色，希望能嫁给方源过上安稳生活。",
+    "firstChapterIndex": 27
+  },
+  "古月青书": {
+    "name": "古月青书",
+    "realm": "二转蛊师",
+    "path": null,
+    "description": "孤儿，由族长古月博亲自抚养成人，乙等资质，在乙等中出类拔萃，可称之为'伪甲等'。脾气温和，富有亲和力，对家族十分忠诚。后被古月博作为族长候选人栽培，因方正出现断绝继承希望，转而一心一意照看方正。在一年的狼潮中，以二转修为强行催动三转蛊虫守住北大门，但空窍损灭，化为树人而亡。",
+    "firstChapterIndex": 29
+  },
+  "蛮石": {
+    "name": "蛮石",
+    "realm": "二转",
+    "path": null,
+    "description": "二转蛊师，身躯矮小但腰板臂膀粗壮，浓密黑色胡须从两颊一路向下延伸在下巴处汇合，浑身上下散发汹汹气势；曾在白凝冰下逃得一命",
+    "firstChapterIndex": 32
+  },
+  "白凝冰": {
+    "name": "白凝冰",
+    "realm": "六转",
+    "path": "冰雪流派",
+    "description": "早已掌握上古战阵四通八达"
+  },
+  "围观蛊师": {
+    "name": "围观蛊师",
+    "realm": null,
+    "path": null,
+    "description": "包括二转蛊师，窃窃私语，对事件感到震惊",
+    "firstChapterIndex": 33
+  },
+  "凡人酒客": {
+    "name": "凡人酒客",
+    "realm": null,
+    "path": null,
+    "description": "酒肆中的凡人，被蛮石喝令不准离开",
+    "firstChapterIndex": 33
+  },
+  "退隐的前辈": {
+    "name": "退隐的前辈",
+    "realm": null,
+    "path": null,
+    "description": "蛮石背后的支持者，身份未具体指明",
+    "firstChapterIndex": 33
+  },
+  "古月蛮石": {
+    "name": "古月蛮石",
+    "realm": "二转",
+    "path": null,
+    "description": "小有名气的二转蛊师，两年前曾在白凝冰手下逃得性命，败给方源后辞去组长职务。",
+    "firstChapterIndex": 34
+  },
+  "贾富": {
+    "name": "贾富",
+    "realm": "四转",
+    "path": null,
+    "description": "四转蛊师强者，商队首领，脸上有伤疤，与贾贵竞争激烈。",
+    "firstChapterIndex": 34
+  },
+  "贾金生": {
+    "name": "贾金生",
+    "realm": null,
+    "path": null,
+    "description": "已故，贾富家族成员，死因与贾贵有关。",
+    "firstChapterIndex": 34
+  },
+  "贾贵": {
+    "name": "贾贵",
+    "realm": null,
+    "path": null,
+    "description": "贾富的竞争对手。",
+    "firstChapterIndex": 34
+  },
+  "古月药姬": {
+    "name": "古月药姬",
+    "realm": "三转",
+    "path": null,
+    "description": "药堂家老，治疗蛊师第一，曾救过许多家老的性命，在族中人脉极强。系白色腰带，正面镶方形银片刻有“三”字。",
+    "firstChapterIndex": 35
+  },
+  "少女": {
+    "name": "少女",
+    "realm": null,
+    "path": null,
+    "description": "古月药姬的孙女，明天参加开窍大典。",
+    "firstChapterIndex": 35
+  },
+  "少女（药乐）": {
+    "name": "少女（药乐）",
+    "realm": null,
+    "path": null,
+    "description": "古月药姬的孙女，活泼好奇，称酒虫为“酒虫宝宝”。",
+    "firstChapterIndex": 36
+  },
+  "男管事": {
+    "name": "男管事",
+    "realm": "三转蛊师",
+    "path": null,
+    "description": "树屋管事，贾富的心腹，处理古月药姬的购买事宜。",
+    "firstChapterIndex": 36
+  },
+  "赤城": {
+    "name": "赤城",
+    "realm": null,
+    "path": null,
+    "description": "古月赤练的孙子，丙等资质，需要净水蛊消除空窍中的异种气息。",
+    "firstChapterIndex": 36
+  },
+  "漠颜": {
+    "name": "漠颜",
+    "realm": "二转高阶",
+    "path": null,
+    "description": "猜测中的赤铁舍利蛊竞争者",
+    "firstChapterIndex": 38
+  },
+  "赤山": {
+    "name": "赤山",
+    "realm": "二转高阶",
+    "path": null,
+    "description": "猜测中的赤铁舍利蛊竞争者",
+    "firstChapterIndex": 38
+  },
+  "药姬": {
+    "name": "药姬",
+    "realm": "三转",
+    "path": null,
+    "description": "家老，为孙女古月药乐出价购买赤铁舍利蛊",
+    "firstChapterIndex": 38
+  },
+  "古月药乐": {
+    "name": "古月药乐",
+    "realm": null,
+    "path": null,
+    "description": "药姬的孙女，今年要参加开窍大典",
+    "firstChapterIndex": 38
+  },
+  "铁血冷": {
+    "name": "铁血冷",
+    "realm": null,
+    "path": null,
+    "description": "神捕，修为高深，擅长破案，要到后年才能到青茅山",
+    "firstChapterIndex": 38
+  },
+  "玉眼石猴": {
+    "name": "玉眼石猴",
+    "realm": null,
+    "path": null,
+    "description": "一群瞪着绿色圆瞳的石猴，被斩杀后会化为石雕并碎裂，留下玉珠。",
+    "firstChapterIndex": 39
+  },
+  "玉眼石猴王": {
+    "name": "玉眼石猴王",
+    "realm": null,
+    "path": null,
+    "description": "位于最大石柱最上层石洞中的猴王，推测是百兽王，麾下有数百只石猴。",
+    "firstChapterIndex": 39
+  },
+  "石猴王": {
+    "name": "石猴王",
+    "realm": null,
+    "path": null,
+    "description": "玉眼石猴的猴王，体型为普通石猴的三倍，有野生隐身蛊虫寄居，能隐身偷袭。为百兽王。",
+    "firstChapterIndex": 40
+  },
+  "石猴新王": {
+    "name": "石猴新王",
+    "realm": null,
+    "path": null,
+    "description": "一只玉眼石猴，在旧石猴王死后踏尸体上位，成为新王。被方源驱赶后逃离。",
+    "firstChapterIndex": 41
+  },
+  "内务堂家老": {
+    "name": "内务堂家老",
+    "realm": null,
+    "path": null,
+    "description": "负责内务的家老，提及方源未曾加入小组，任务失败记录多，看不惯方源。",
+    "firstChapterIndex": 44
+  },
+  "男蛊师": {
+    "name": "男蛊师",
+    "realm": null,
+    "path": null,
+    "description": "当初小兽潮的治疗蛊师，深恨方源，因方源曾将他爱慕的女子当盾牌。",
+    "firstChapterIndex": 44
+  },
+  "掌柜老者": {
+    "name": "掌柜老者",
+    "realm": null,
+    "path": null,
+    "description": "酒肆掌柜，头部缠白色绷带，对方源有怨毒之色。",
+    "firstChapterIndex": 44
+  },
+  "酒肆掌柜": {
+    "name": "酒肆掌柜",
+    "realm": null,
+    "path": null,
+    "description": "被男蛊师的组长杀死",
+    "firstChapterIndex": 45
+  },
+  "组中女蛊师": {
+    "name": "组中女蛊师",
+    "realm": null,
+    "path": null,
+    "description": "赤山小组成员，指出百年苦贝",
+    "firstChapterIndex": 45
+  },
+  "熊力": {
+    "name": "熊力",
+    "realm": null,
+    "path": null,
+    "description": "熊家寨二转蛊师第一人，身怀熊豪蛊，爆发有一熊之力，号称青茅山第一大力士。",
+    "firstChapterIndex": 46
+  },
+  "熊林": {
+    "name": "熊林",
+    "realm": null,
+    "path": null,
+    "description": "熊家寨新人，本届第一天才，与方源同岁，身材矮小，剃光头。",
+    "firstChapterIndex": 46
+  },
+  "熊姜": {
+    "name": "熊姜",
+    "realm": null,
+    "path": null,
+    "description": "熊力小组中的蛊师，阴测测。",
+    "firstChapterIndex": 46
+  },
+  "青书": {
+    "name": "青书",
+    "realm": null,
+    "path": null,
+    "description": "古月家族的二转蛊师，与方源实力相当。",
+    "firstChapterIndex": 47
+  },
+  "白病已": {
+    "name": "白病已",
+    "realm": "二转",
+    "path": null,
+    "description": "白家年青蛊师中仅次于白凝冰，擅长水钻蛊，向熊姜认输",
+    "firstChapterIndex": 50
+  },
+  "古月族长": {
+    "name": "古月族长",
+    "realm": null,
+    "path": null,
+    "description": "石楼上三位族长之一，居中",
+    "firstChapterIndex": 50
+  },
+  "白家族长": {
+    "name": "白家族长",
+    "realm": null,
+    "path": null,
+    "description": "石楼上三位族长之一，位列古月族长右侧",
+    "firstChapterIndex": 50
+  },
+  "熊家族长": {
+    "name": "熊家族长",
+    "realm": null,
+    "path": null,
+    "description": "石楼上三位族长之一，位列古月族长左侧",
+    "firstChapterIndex": 50
+  },
+  "古月鹏": {
+    "name": "古月鹏",
+    "realm": null,
+    "path": null,
+    "description": "方源的同窗，曾受方源欺压勒索，属于一个五人蛊师小组，小组名列战功榜第七十五位。",
+    "firstChapterIndex": 55
+  },
+  "小组组长": {
+    "name": "小组组长",
+    "realm": "二转",
+    "path": null,
+    "description": "负责侦查的小组组长，发现狼潮后惊恐逃跑。",
+    "firstChapterIndex": 55
+  },
+  "太日阳莽": {
+    "name": "太日阳莽",
+    "realm": null,
+    "path": null,
+    "description": "人祖的大儿子，金发，健壮身躯。",
+    "firstChapterIndex": 56
+  },
+  "古月阴荒": {
+    "name": "古月阴荒",
+    "realm": null,
+    "path": null,
+    "description": "人祖的二女儿。",
+    "firstChapterIndex": 56
+  },
+  "熊毡": {
+    "name": "熊毡",
+    "realm": null,
+    "path": null,
+    "description": "熊家寨蛊师，担任组长，面对豪电狼时真元不足。",
+    "firstChapterIndex": 56
+  },
+  "两位蛊师": {
+    "name": "两位蛊师",
+    "realm": null,
+    "path": null,
+    "description": "站在熊毡面前，艰难抵挡豪电狼的进攻，其中一位在熊毡死后被豪电狼追上扑倒咬碎咽喉，另一位来自白家寨的蛊师向白凝冰求救但被白凝冰杀死",
+    "firstChapterIndex": 57
+  },
+  "豪电狼": {
+    "name": "豪电狼",
+    "realm": null,
+    "path": null,
+    "description": "电狼，踱步接近，牙齿间电芒闪烁，能喷射幽蓝电流，共生的蛊虫为电流蛊，被白凝冰一刀斩首",
+    "firstChapterIndex": 57
+  },
+  "普通电狼": {
+    "name": "普通电狼",
+    "realm": null,
+    "path": null,
+    "description": "数百头健壮，紧随豪电狼",
+    "firstChapterIndex": 58
+  },
+  "蛊师老者": {
+    "name": "蛊师老者",
+    "realm": null,
+    "path": null,
+    "description": "家族中的一位资格很老的家老",
+    "firstChapterIndex": 64
+  },
+  "白家蛊师们": {
+    "name": "白家蛊师们",
+    "realm": "白家",
+    "path": null,
+    "description": "一群白家族人，对方源夺取蛊虫感到愤怒并试图阻止。",
+    "firstChapterIndex": 68
+  },
+  "古月一族援军": {
+    "name": "古月一族援军",
+    "realm": "古月一族",
+    "path": null,
+    "description": "赶来支援的古月一族蛊师，与白家对峙后罢手。",
+    "firstChapterIndex": 68
+  },
+  "古月野": {
+    "name": "古月野",
+    "realm": null,
+    "path": null,
+    "description": "老头，老蛊师，睚眦必报。被方源提价，购买生机叶。",
+    "firstChapterIndex": 71
+  },
+  "熊骄嫚": {
+    "name": "熊骄嫚",
+    "realm": null,
+    "path": null,
+    "description": "组长，身材火辣，面目姣好，说话带脏话。拥有两头巨熊蛊兽。",
+    "firstChapterIndex": 71
+  },
+  "熊元贞": {
+    "name": "熊元贞",
+    "realm": null,
+    "path": null,
+    "description": "奄奄一息，重伤死亡。暗恋熊骄嫚，至死未表白。",
+    "firstChapterIndex": 71
+  },
+  "药乐小姐": {
+    "name": "药乐小姐",
+    "realm": null,
+    "path": null,
+    "description": "劝说古月药姬颁布通告的人物。",
+    "firstChapterIndex": 73
+  },
+  "药乐": {
+    "name": "药乐",
+    "realm": null,
+    "path": null,
+    "description": "目送熊骄嫚一行人走出大门",
+    "firstChapterIndex": 74
+  },
+  "娜娜": {
+    "name": "娜娜",
+    "realm": null,
+    "path": null,
+    "description": "被提及‘我要给你报仇’，身份未知",
+    "firstChapterIndex": 75
+  },
+  "黑熊": {
+    "name": "黑熊",
+    "realm": null,
+    "path": null,
+    "description": "被方源带来山洞，在驭熊蛊控制下（后出于觅食本能）杀死并食用古月药乐。",
+    "firstChapterIndex": 76
+  },
+  "古月药乐的奶奶": {
+    "name": "古月药乐的奶奶",
+    "realm": null,
+    "path": null,
+    "description": "被古月药乐提及，称“奶奶会收拾你”，但未直接出现。",
+    "firstChapterIndex": 76
+  },
+  "赤钟": {
+    "name": "赤钟",
+    "realm": null,
+    "path": null,
+    "description": "赤脉成员，妻子是药脉中人，被族长任命暂代药堂家老职位。",
+    "firstChapterIndex": 80
+  },
+  "古月赤钟": {
+    "name": "古月赤钟",
+    "realm": null,
+    "path": null,
+    "description": "暂代药堂家老，新官上任，为贯彻药脉政策与方源交易",
+    "firstChapterIndex": 83
+  },
+  "狂电狼": {
+    "name": "狂电狼",
+    "realm": null,
+    "path": null,
+    "description": "巨象般的身躯，身上寄居着防御性的蛊虫，已死，狼血流淌。",
+    "firstChapterIndex": 85
+  },
+  "几位家老": {
+    "name": "几位家老",
+    "realm": null,
+    "path": null,
+    "description": "未具名，与方源并肩作战，大喘粗气，浑身雨水、狼血和泥泞，对方源刮目相看，态度客客气气，满脸微笑。",
+    "firstChapterIndex": 85
+  },
+  "古月李晨": {
+    "name": "古月李晨",
+    "realm": "二转蛊师",
+    "path": null,
+    "description": "药脉中人，治疗蛊师头领，坚持要替方源检查，对方源带有厌恶。",
+    "firstChapterIndex": 85
+  },
+  "古月定宗": {
+    "name": "古月定宗",
+    "realm": null,
+    "path": null,
+    "description": "方源的同届学员，性情软弱中藏有一丝精明，对方面前谄媚卑微，设宴邀请方源。",
+    "firstChapterIndex": 85
+  },
+  "漠北": {
+    "name": "漠北",
+    "realm": null,
+    "path": null,
+    "description": "有深厚背景的同窗，未出席酒宴。",
+    "firstChapterIndex": 86
+  },
+  "赤练": {
+    "name": "赤练",
+    "realm": null,
+    "path": null,
+    "description": "方源曾向她借了三千块元石。",
+    "firstChapterIndex": 86
+  },
+  "古月先祖": {
+    "name": "古月先祖",
+    "realm": "五转蛊师",
+    "path": null,
+    "description": "五转蛊师强者，发现地下溶洞中的天然元泉，创建古月山寨雏形，娶妻妾上百播撒血脉。",
+    "firstChapterIndex": 88
+  },
+  "元莲仙尊": {
+    "name": "元莲仙尊",
+    "realm": null,
+    "path": "正道蛊师",
+    "description": "数千年前的正道蛊师，创立天元宝莲合炼秘方。",
+    "firstChapterIndex": 88
+  },
+  "雷冠头狼": {
+    "name": "雷冠头狼",
+    "realm": "万兽王",
+    "path": null,
+    "description": "体型如小山般巨大的电狼，浑身长着幽蓝色鳞片，金黄色狼毛分布在狼爪和头尾，头部狼毛形成高耸的王冠之状。",
+    "firstChapterIndex": 88
+  },
+  "狡电狈": {
+    "name": "狡电狈",
+    "realm": "万兽王",
+    "path": null,
+    "description": "外形极似雷冠头狼，但前肢短小、后肢发达，如袋鼠蹦跳；具有类人智慧，是狼群军师；使用四转狼烟蛊，能发射黑球和闪电攻击。",
+    "firstChapterIndex": 93
+  },
+  "铁若男": {
+    "name": "铁若男",
+    "realm": null,
+    "path": null,
+    "description": "少女，铁血冷的女儿，立志走和父亲一样的路。",
+    "firstChapterIndex": 96
+  },
+  "古月歌燕": {
+    "name": "古月歌燕",
+    "realm": null,
+    "path": null,
+    "description": "古月一族的家老之一。",
+    "firstChapterIndex": 96
+  },
+  "古月漠颜": {
+    "name": "古月漠颜",
+    "realm": null,
+    "path": null,
+    "description": "古月漠尘的孙女，据称深爱方源。",
+    "firstChapterIndex": 97
+  },
+  "铁家父女": {
+    "name": "铁家父女",
+    "realm": null,
+    "path": null,
+    "description": "包括铁血冷及其女儿，具体女儿名字未提及。",
+    "firstChapterIndex": 97
+  },
+  "古月江鹤": {
+    "name": "古月江鹤",
+    "realm": null,
+    "path": null,
+    "description": "古月家下属，曾为方源杀死王老汉一家的事情隐瞒不报",
+    "firstChapterIndex": 100
+  },
+  "王大": {
+    "name": "王大",
+    "realm": "魔道",
+    "path": null,
+    "description": "山脚村子中的猎人，因父亲王老汉被杀而成为魔道蛊师，袭杀方正（误认为方源）",
+    "firstChapterIndex": 100
+  },
+  "王老汉": {
+    "name": "王老汉",
+    "realm": null,
+    "path": null,
+    "description": "被方源所杀的王大父亲",
+    "firstChapterIndex": 100
+  },
+  "熊家寨使者": {
+    "name": "熊家寨使者",
+    "realm": null,
+    "path": null,
+    "description": "熊家寨派出的使者，引发古月家族波澜",
+    "firstChapterIndex": 100
+  },
+  "客栈掌柜": {
+    "name": "客栈掌柜",
+    "realm": null,
+    "path": null,
+    "description": "售卖青竹酒的客栈的掌柜。",
+    "firstChapterIndex": 102
+  },
+  "竹君子": {
+    "name": "竹君子",
+    "realm": null,
+    "path": null,
+    "description": "被提及可能被方源骗过。",
+    "firstChapterIndex": 106
+  },
+  "一代先祖": {
+    "name": "一代先祖",
+    "realm": null,
+    "path": null,
+    "description": "古月山寨的创始者，留有预言和遗嘱。",
+    "firstChapterIndex": 106
+  },
+  "古月一代": {
+    "name": "古月一代",
+    "realm": null,
+    "path": null,
+    "description": "从血湖中央的大红棺材中出现，赤面獠牙，一头红毛如血，没有皮肤，红枯瘦肌肉。",
+    "firstChapterIndex": 110
+  },
+  "白重水": {
+    "name": "白重水",
+    "realm": null,
+    "path": null,
+    "description": "白家年轻精锐，体胖，使用水弹蛊，与熊家和古月家战斗。",
+    "firstChapterIndex": 113
+  },
+  "熊家蛊师": {
+    "name": "熊家蛊师",
+    "realm": null,
+    "path": null,
+    "description": "无名角色，被白重水打伤后陷入昏迷。",
+    "firstChapterIndex": 113
+  },
+  "白眉老者": {
+    "name": "白眉老者",
+    "realm": "五转",
+    "path": null,
+    "description": "蛊师老者，骑在白鹤之上，白眉如刀锋，双眸透射杀机，端坐在巨鹤背上，声音冰寒，自称“老夫”，要报仇。",
+    "firstChapterIndex": 116
+  },
+  "天鹤上人": {
+    "name": "天鹤上人",
+    "realm": "五转",
+    "path": null,
+    "description": "古月一代的师兄，五转蛊师，与古月一代是不共戴天的大仇敌。",
+    "firstChapterIndex": 122
+  },
+  "青年蛊师": {
+    "name": "青年蛊师",
+    "realm": null,
+    "path": null,
+    "description": "铁家寨的蛊师，劝说铁若男，受族长关照要护送铁若男回山寨，弄晕铁若男后命鬼一护送，自己打算沿黄龙江追踪。",
+    "firstChapterIndex": 128
+  },
+  "鬼一": {
+    "name": "鬼一",
+    "realm": null,
+    "path": null,
+    "description": "青年蛊师的下属，奉命护送铁若男回山寨。",
+    "firstChapterIndex": 128
+  },
+  "雄鳄王": {
+    "name": "雄鳄王",
+    "realm": null,
+    "path": null,
+    "description": "六足鳄群的百兽王级雄鳄王；身躯似牦牛，用两只后足迈步，似人行走，有四只利爪臂膀，鳄尾；弱点在胸膛上的白皮；寄生有背甲蛊和鳄力蛊。",
+    "firstChapterIndex": 129
+  },
+  "熔岩鳄王": {
+    "name": "熔岩鳄王",
+    "realm": null,
+    "path": null,
+    "description": "千兽王，体型巨大，浑身暗红色鳞甲，四肢粗壮，鳄尾长十米，背部有两个微型火山凸起，喷黑烟，拥有三转蛊虫熔岩炸裂蛊、炎胄蛊、积灰蛊。",
+    "firstChapterIndex": 132
+  },
+  "陈翠花": {
+    "name": "陈翠花",
+    "realm": 3,
+    "path": null,
+    "description": "魔道女蛊师，三转，口音粗鄙，战斗技巧不足，生存经验不足，体格粗鲁健壮，原是农妇，中了绿蟒毒。使用了焦雷土豆蛊（二转草蛊）。",
+    "firstChapterIndex": 135
+  },
+  "方源（古月方正）": {
+    "name": "方源（古月方正）",
+    "realm": "一转",
+    "path": null,
+    "description": "古月族少主，相貌普通，目光沉静，落难中，自称古月方正",
+    "firstChapterIndex": 140
+  },
+  "百陌行": {
+    "name": "百陌行",
+    "realm": null,
+    "path": null,
+    "description": "百家寨族长之叔父，家老重臣，第一家老，六十八岁，年老成精",
+    "firstChapterIndex": 140
+  },
+  "百家族长": {
+    "name": "百家族长",
+    "realm": null,
+    "path": null,
+    "description": "中年女子，主位，热情招待",
+    "firstChapterIndex": 140
+  },
+  "百陌行的侄子": {
+    "name": "百陌行的侄子",
+    "realm": null,
+    "path": null,
+    "description": "年轻小伙，开口介绍百陌行",
+    "firstChapterIndex": 140
+  },
+  "其他三位蛊师": {
+    "name": "其他三位蛊师",
+    "realm": null,
+    "path": null,
+    "description": "跟随百陌行的三位蛊师，未具体命名",
+    "firstChapterIndex": 140
+  },
+  "百莲": {
+    "name": "百莲",
+    "realm": null,
+    "path": null,
+    "description": "百家成员，女性；向方源提供情报；与百战猎比试后脱离大比；与百生、百花私交甚密；建议上白骨山狩猎。",
+    "firstChapterIndex": 143
+  },
+  "百战猎": {
+    "name": "百战猎",
+    "realm": null,
+    "path": null,
+    "description": "男性；与百莲青梅竹马；对方源有敌意；捕捉到游龙蝶蛊，战绩领先。",
+    "firstChapterIndex": 143
+  },
+  "百盛景": {
+    "name": "百盛景",
+    "realm": null,
+    "path": null,
+    "description": "百家成员，男性；曾预言方源队伍战绩超过百战猎；随队上白骨山。",
+    "firstChapterIndex": 143
+  },
+  "百生": {
+    "name": "百生",
+    "realm": null,
+    "path": null,
+    "description": "胞兄妹中的兄长，百家少主；无修为；敬方源酒后离去；后随队上白骨山。",
+    "firstChapterIndex": 143
+  },
+  "百花": {
+    "name": "百花",
+    "realm": null,
+    "path": null,
+    "description": "胞兄妹中的妹妹，百家少主；无修为；敬方源酒后离去；后随队上白骨山。",
+    "firstChapterIndex": 143
+  },
+  "侦察蛊师": {
+    "name": "侦察蛊师",
+    "realm": null,
+    "path": null,
+    "description": "百家族长的下属，俘虏了铁刀苦并禀告情报。",
+    "firstChapterIndex": 144
+  },
+  "铁刀苦": {
+    "name": "铁刀苦",
+    "realm": null,
+    "path": null,
+    "description": "自称铁家蛊师，被百家俘虏。曾随铁傲天一行九人追捕魔道蛊师，遭焦雷土豆蛊陷阱，铁傲天等被炸死，他重伤幸存，后继续追捕直至晕死被救。",
+    "firstChapterIndex": 144
+  },
+  "铁傲天": {
+    "name": "铁傲天",
+    "realm": null,
+    "path": null,
+    "description": "铁家四公子，资质卓越，铁族长的竞争者，在焦雷土豆蛊陷阱中被炸死。",
+    "firstChapterIndex": 144
+  },
+  "方正（方源）": {
+    "name": "方正（方源）",
+    "realm": null,
+    "path": "魔道蛊师",
+    "description": "魔道蛊师，挟持两位少主，冷笑威胁。",
+    "firstChapterIndex": 145
+  },
+  "三位家老": {
+    "name": "三位家老",
+    "realm": null,
+    "path": null,
+    "description": "修为强大，跟踪保护队伍，出现劝阻。",
+    "firstChapterIndex": 145
+  },
+  "灰骨才子": {
+    "name": "灰骨才子",
+    "realm": null,
+    "path": null,
+    "description": "白骨山传承之主，致力于研炼辅助修行的蛊虫，但已故",
+    "firstChapterIndex": 150
+  },
+  "宋甲丹": {
+    "name": "宋甲丹",
+    "realm": "七转",
+    "path": "智道",
+    "description": "东海宋家蛊仙，盘坐双极海峡悬崖，下半身灰色石头，上半身老者模样，皱纹丛生，苍老不堪，面部肌肉僵死，不能动容。",
+    "firstChapterIndex": 156
+  },
+  "宋亦诗": {
+    "name": "宋亦诗",
+    "realm": null,
+    "path": null,
+    "description": "女仙，身着白衣，如莲花仙子，清纯动人，灵动的双眸顾盼间又透着一丝活泼气息。称呼宋甲丹为“甲丹族叔”或“甲丹叔叔”。",
+    "firstChapterIndex": 156
+  },
+  "宋夏麒": {
+    "name": "宋夏麒",
+    "realm": null,
+    "path": null,
+    "description": "男仙，中年模样，老成持重，走在女子身后。称呼宋甲丹为“甲丹表兄”或“表兄”。",
+    "firstChapterIndex": 156
+  },
+  "宋启元": {
+    "name": "宋启元",
+    "realm": "八转",
+    "path": null,
+    "description": "宋家太上大长老，未直接出场，其令牌被宋亦诗携带。",
+    "firstChapterIndex": 156
+  },
+  "焚天魔女": {
+    "name": "焚天魔女",
+    "realm": "八转",
+    "path": "仙僵",
+    "description": "破坏鲨魔计划"
+  },
+  "太白云生": {
+    "name": "太白云生",
+    "realm": null,
+    "path": null,
+    "description": "已陨落，被方源亲手杀死",
+    "firstChapterIndex": 156
+  },
+  "鲨魔": {
+    "name": "鲨魔",
+    "realm": null,
+    "path": null,
+    "description": "购买百八十奴真传，想掌控一指流鲨，失败，和苏白曼化为至尊仙胎蛊材",
+    "firstChapterIndex": 156
+  },
+  "炎煌雷泽仙僵": {
+    "name": "炎煌雷泽仙僵",
+    "realm": "七转",
+    "path": null,
+    "description": "十绝体；战力保留四成；拥有两个仙道杀招用于移动；施展赤红火焰仙道杀招；智道造诣不俗；心思缜密；速极快，身形化作黑线",
+    "firstChapterIndex": 158
+  },
+  "黑城": {
+    "name": "黑城",
+    "realm": null,
+    "path": null,
+    "description": "从落魄谷突围而出；身上带伤；只拥有暗箭仙蛊；仙蛊屋可能已丢在落魄谷",
+    "firstChapterIndex": 158
+  },
+  "凤九歌": {
+    "name": "凤九歌",
+    "realm": "天庭蛊仙",
+    "path": "八转（借用八转仙蛊）",
+    "description": "赶到龙公面前，使用仙道杀招俯首歌、一曲之士，使年兽背叛方源投靠"
+  },
+  "雪松子": {
+    "name": "雪松子",
+    "realm": null,
+    "path": null,
+    "description": "被方源故意保留；对凤九歌��秦百胜影响不大",
+    "firstChapterIndex": 158
+  },
+  "剑仙薄青": {
+    "name": "剑仙薄青",
+    "realm": null,
+    "path": "剑道",
+    "description": "历史上著名的剑道蛊仙，曾拥有七转剑眉蛊、七转浪剑蛊、七转飞剑蛊、七转剑遁蛊，并创造八转慧剑蛊。其仙僵尸躯被墨瑶残魂占据。",
+    "firstChapterIndex": 164
+  },
+  "凤金煌": {
+    "name": "凤金煌",
+    "realm": null,
+    "path": null,
+    "description": "给与方源关于剑仙薄青资料的来源，仅提及名字，无其他信息。",
+    "firstChapterIndex": 164
+  },
+  "墨瑶残魂": {
+    "name": "墨瑶残魂",
+    "realm": null,
+    "path": null,
+    "description": "残魂，占据仙僵薄青的尸躯，拥有墨瑶假意等手段。",
+    "firstChapterIndex": 164
+  },
+  "东方长凡": {
+    "name": "东方长凡",
+    "realm": null,
+    "path": "智道",
+    "description": "智星真传的拥有者",
+    "firstChapterIndex": 164
+  },
+  "萧家太上家老": {
+    "name": "萧家太上家老",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "南疆蛊仙，在赌局中转化了最多的战意，建立了前期优势",
+    "firstChapterIndex": 168
+  },
+  "萧家老祖": {
+    "name": "萧家老祖",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "南疆蛊仙，希望萧山不要让他失望，前期优势已建立",
+    "firstChapterIndex": 168
+  },
+  "武当芷": {
+    "name": "武当芷",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "武家女仙，宁愿牺牲修为也要让选中的棋子提前进入义天山",
+    "firstChapterIndex": 168
+  },
+  "武神通": {
+    "name": "武神通",
+    "realm": "蛊师",
+    "path": "奴道",
+    "description": "四转巅峰奴道蛊师，身材单薄脸色苍白像病书生，武家成员",
+    "firstChapterIndex": 168
+  },
+  "萧山": {
+    "name": "萧山",
+    "realm": "蛊师",
+    "path": null,
+    "description": "五转蛊师，萧家原族长，义天寨的大头领",
+    "firstChapterIndex": 168
+  },
+  "孙胖虎": {
+    "name": "孙胖虎",
+    "realm": "蛊师",
+    "path": null,
+    "description": "五转魔道蛊师",
+    "firstChapterIndex": 168
+  },
+  "周星星": {
+    "name": "周星星",
+    "realm": "蛊师",
+    "path": null,
+    "description": "五转魔道蛊师",
+    "firstChapterIndex": 168
+  },
+  "武家四转家老": {
+    "name": "武家四转家老",
+    "realm": "蛊师",
+    "path": null,
+    "description": "四转蛊师，贴身护卫武神通",
+    "firstChapterIndex": 168
+  },
+  "依附武家的山寨族长（两人）": {
+    "name": "依附武家的山寨族长（两人）",
+    "realm": "蛊师",
+    "path": null,
+    "description": "两位四转蛊师，依附武家",
+    "firstChapterIndex": 168
+  },
+  "三转蛊师（被萧山杀）": {
+    "name": "三转蛊师（被萧山杀）",
+    "realm": "蛊师",
+    "path": null,
+    "description": "三转蛊师，提议撤退后被萧山当场杀死",
+    "firstChapterIndex": 168
+  },
+  "黑楼兰": {
+    "name": "黑楼兰",
+    "realm": null,
+    "path": null,
+    "description": "早已掌握上古战阵四通八达",
+    "firstChapterIndex": 177
+  },
+  "黎山仙子": {
+    "name": "黎山仙子",
+    "realm": null,
+    "path": null,
+    "description": "已死亡，其死亡导致方寸山折损在义天山大战中",
+    "firstChapterIndex": 177
+  },
+  "仙僵薄青": {
+    "name": "仙僵薄青",
+    "realm": null,
+    "path": "仙僵",
+    "description": "已死，身体为仙僵，催动剑道杀招击杀光鹿。",
+    "firstChapterIndex": 177
+  },
+  "秦百胜": {
+    "name": "秦百胜",
+    "realm": null,
+    "path": null,
+    "description": "与薄青对比，相同杀招效果云泥之别。",
+    "firstChapterIndex": 177
+  },
+  "监天塔主": {
+    "name": "监天塔主",
+    "realm": null,
+    "path": null,
+    "description": "天庭一方，言语反应，对影宗牺牲僵盟感到愤怒。",
+    "firstChapterIndex": 177
+  },
+  "七星子": {
+    "name": "七星子",
+    "realm": null,
+    "path": null,
+    "description": "影宗蛊仙，做出牺牲僵盟的决定。",
+    "firstChapterIndex": 177
+  },
+  "影无邪": {
+    "name": "影无邪",
+    "realm": "未知",
+    "path": "影宗",
+    "description": "掌握引魂入梦杀招，是最大威胁"
+  },
+  "魔尊幽魂": {
+    "name": "魔尊幽魂",
+    "realm": "不再是九转，但战斗力达龙公层次",
+    "path": "魂道（魂道方面没有下降很多）",
+    "description": "浑身笼罩漆黑浓雾，速度极快，实力极强，战斗经验极端丰富，被剥离了绝大多数境界但魂道境界未大幅下降"
+  },
+  "琅琊地灵": {
+    "name": "琅琊地灵",
+    "realm": null,
+    "path": null,
+    "description": "与方源换取天晶",
+    "firstChapterIndex": 199
+  },
+  "公孙良": {
+    "name": "公孙良",
+    "realm": null,
+    "path": null,
+    "description": "魔道蛊仙，外号‘不动如山’，藏身于明堂谷，加入逆组织，曾借出仙蛊给影无邪。",
+    "firstChapterIndex": 199
+  },
+  "苗君": {
+    "name": "苗君",
+    "realm": null,
+    "path": null,
+    "description": "钧天剑派的剑道蛊仙，加入逆组织，拒绝借仙蛊给影无邪。",
+    "firstChapterIndex": 199
+  },
+  "苗越": {
+    "name": "苗越",
+    "realm": null,
+    "path": null,
+    "description": "钧天剑派的剑道蛊仙，加入逆组织，与苗君商议拒绝借仙蛊。",
+    "firstChapterIndex": 199
+  },
+  "倪健": {
+    "name": "倪健",
+    "realm": null,
+    "path": null,
+    "description": "少年，十五六岁，身高五尺，浓眉大眼，目光炯炯有神，倪家族长之孙。",
+    "firstChapterIndex": 203
+  },
+  "倪坤": {
+    "name": "倪坤",
+    "realm": "五转蛊师",
+    "path": null,
+    "description": "倪家族长，少年的爷爷，擅长速度，能从树干跳跃数丈。",
+    "firstChapterIndex": 203
+  },
+  "戚灾": {
+    "name": "戚灾",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "戚家蛊仙，七爷爷，沉默寡言，阴冷，使用气道手段。",
+    "firstChapterIndex": 205
+  },
+  "戚荷": {
+    "name": "戚荷",
+    "realm": "六转蛊仙",
+    "path": null,
+    "description": "戚家新晋蛊仙，刚渡劫成仙，对蛊仙世界感到新奇。",
+    "firstChapterIndex": 205
+  },
+  "倪仁": {
+    "name": "倪仁",
+    "realm": "蛊师",
+    "path": null,
+    "description": "倪家蛊师，才华非凡，炼化仙蛊到后辈血脉中，挑选的仙蛊无须仙元催动，凡人可运用但代价高昂。",
+    "firstChapterIndex": 205
+  },
+  "当代泥相": {
+    "name": "当代泥相",
+    "realm": "凡人",
+    "path": null,
+    "description": "倪家当代体内产生仙蛊的人，体内第一只仙蛊为信道仙蛊'说是道非'，每答一个问题消耗五十载寿元。",
+    "firstChapterIndex": 205
+  },
+  "禁师陶铸": {
+    "name": "禁师陶铸",
+    "realm": "八转蛊仙",
+    "path": "禁道",
+    "description": "南疆蛊仙，已陨落，专修禁道，改造五界山脉。",
+    "firstChapterIndex": 211
+  },
+  "周礼": {
+    "name": "周礼",
+    "realm": "七转蛊仙",
+    "path": null,
+    "description": "与丁齐全激战，已被方源杀死",
+    "firstChapterIndex": 217
+  },
+  "汤诵": {
+    "name": "汤诵",
+    "realm": "七转蛊仙",
+    "path": null,
+    "description": "与丁齐全激战，已被方源杀死",
+    "firstChapterIndex": 217
+  },
+  "刘青玉": {
+    "name": "刘青玉",
+    "realm": "七转蛊仙",
+    "path": null,
+    "description": "斩杀血道魔仙的人，有压箱底手段（身化青绿长虹，需耗费道痕），擅长追踪",
+    "firstChapterIndex": 217
+  },
+  "康巴": {
+    "name": "康巴",
+    "realm": null,
+    "path": null,
+    "description": "身材肥壮的毛民，身份是奴隶商人，专门贩卖奴隶，生意做的不小，有一定的名头。",
+    "firstChapterIndex": 218
+  },
+  "黑毛民（押解者）": {
+    "name": "黑毛民（押解者）",
+    "realm": null,
+    "path": null,
+    "description": "体格强壮的黑毛民，押解方正的奴隶。",
+    "firstChapterIndex": 218
+  },
+  "女毛民（买家）": {
+    "name": "女毛民（买家）",
+    "realm": null,
+    "path": null,
+    "description": "最后出现要购买奴隶的女毛民。",
+    "firstChapterIndex": 218
+  },
+  "上任琅琊地灵": {
+    "name": "上任琅琊地灵",
+    "realm": null,
+    "path": null,
+    "description": "白毛地灵，关于遁空蛊的执念所化，将毛民蛊仙培养成炼道人才。",
+    "firstChapterIndex": 220
+  },
+  "毛民蛊仙": {
+    "name": "毛民蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "琅琊福地的蛊仙，其中两位已牺牲。",
+    "firstChapterIndex": 220
+  },
+  "铁冠鹰": {
+    "name": "铁冠鹰",
+    "realm": "荒兽",
+    "path": null,
+    "description": "三头铁冠鹰，袭击方源，后被方源全部击杀，第一头被剑痕索命洞穿，化为冰雪，第二头和第三头被飞剑仙蛊一箭双雕，第三头安然无恙继续攻击但最终被杀。",
+    "firstChapterIndex": 224
+  },
+  "雪怪": {
+    "name": "雪怪",
+    "realm": "荒兽（部分）",
+    "path": null,
+    "description": "包括荒兽级雪怪和小雪怪，在地面上咆哮，数目不断增加，小雪怪不断从雪堆冒出，荒兽级雪怪向上古级数靠拢。方源杀雪怪没有得到狂蛮真意。",
+    "firstChapterIndex": 224
+  },
+  "九宫鹤": {
+    "name": "九宫鹤",
+    "realm": "荒兽",
+    "path": null,
+    "description": "从高空漩涡中飞出，共九头，羽色素朴纯洁，体态飘逸雅致，鸣声超凡不俗。被方源一一斩杀，斩杀后得到真意灌体。",
+    "firstChapterIndex": 224
+  },
+  "楚度": {
+    "name": "楚度",
+    "realm": "北原",
+    "path": "力道",
+    "description": "霸仙，七转蛊仙"
+  },
+  "蛊师": {
+    "name": "蛊师",
+    "realm": null,
+    "path": null,
+    "description": "楚度的徒弟，正在升仙渡劫，面对飞霜跳雷劫。",
+    "firstChapterIndex": 225
+  },
+  "韩立": {
+    "name": "韩立",
+    "realm": null,
+    "path": null,
+    "description": "人族蛊师，修为低微，年轻，初入江湖，稚嫩。被羽民首领所救，后被老者救并传授真传。",
+    "firstChapterIndex": 228
+  },
+  "羽民首领": {
+    "name": "羽民首领",
+    "realm": "四转",
+    "path": null,
+    "description": "商队首领，四转蛊师，能用手掌发光治愈伤势，将韩立的伤势痊愈。",
+    "firstChapterIndex": 228
+  },
+  "老者": {
+    "name": "老者",
+    "realm": null,
+    "path": null,
+    "description": "未成仙时如韩立处境，因与田劲赌斗输了，临死前将一生真传给韩立。",
+    "firstChapterIndex": 228
+  },
+  "田劲": {
+    "name": "田劲",
+    "realm": null,
+    "path": null,
+    "description": "与老者赌斗的对象，老者输给了田劲。",
+    "firstChapterIndex": 228
+  },
+  "洪易": {
+    "name": "洪易",
+    "realm": null,
+    "path": null,
+    "description": "出现在剑断山谷的蛊师，对四转剑气蛊流露出羡慕之意。",
+    "firstChapterIndex": 228
+  },
+  "匪徒首领": {
+    "name": "匪徒首领",
+    "realm": "四转",
+    "path": null,
+    "description": "盗贼团伙的首领，四转蛊师，坐镇后方冷漠观察。",
+    "firstChapterIndex": 228
+  },
+  "刘家太上大长老": {
+    "name": "刘家太上大长老",
+    "realm": null,
+    "path": null,
+    "description": "曾与楚度一战。",
+    "firstChapterIndex": 230
+  },
+  "万象星君": {
+    "name": "万象星君",
+    "realm": null,
+    "path": "星道",
+    "description": "星道传承的源头。",
+    "firstChapterIndex": 233
+  },
+  "血海老祖": {
+    "name": "血海老祖",
+    "realm": null,
+    "path": "血道",
+    "description": "血道代表人物，创有真传。",
+    "firstChapterIndex": 233
+  },
+  "薄青": {
+    "name": "薄青",
+    "realm": null,
+    "path": "剑道",
+    "description": "剑道代表人物，方源偷了许多他的仙蛊。",
+    "firstChapterIndex": 233
+  },
+  "狂蛮魔尊": {
+    "name": "狂蛮魔尊",
+    "realm": null,
+    "path": "变化道",
+    "description": "提及的魔尊，拥有随意变化的绝世奥秘。",
+    "firstChapterIndex": 233
+  },
+  "方源假意": {
+    "name": "方源假意",
+    "realm": null,
+    "path": null,
+    "description": "方正脑海中的方源假意，不断刺激和指导方正炼蛊与比武。",
+    "firstChapterIndex": 234
+  },
+  "盗天魔尊": {
+    "name": "盗天魔尊",
+    "realm": null,
+    "path": "宇道",
+    "description": "开创出神不知鬼不觉杀招",
+    "firstChapterIndex": 237
+  },
+  "长毛老祖": {
+    "name": "长毛老祖",
+    "realm": "八转",
+    "path": "炼道",
+    "description": "炼道八转大能，古往炼道第一仙，死后遗留下炼道真意，生前至少炼成三十八只仙蛊。"
+  },
+  "三位中洲蛊仙": {
+    "name": "三位中洲蛊仙",
+    "realm": "七转",
+    "path": "中洲",
+    "description": "来自古魂门，负责探查超级塌方，其中一位为首的中洲蛊仙有仙道杀招可用于追踪。",
+    "firstChapterIndex": 240
+  },
+  "石奴": {
+    "name": "石奴",
+    "realm": null,
+    "path": null,
+    "description": "太白云生的石奴，劝影无邪疗伤。",
+    "firstChapterIndex": 240
+  },
+  "紫薇仙子": {
+    "name": "紫薇仙子",
+    "realm": null,
+    "path": "中洲",
+    "description": "面色惨白；回归中央大殿保护正元老人",
+    "firstChapterIndex": 240
+  },
+  "沙婆婆": {
+    "name": "沙婆婆",
+    "realm": null,
+    "path": "中洲",
+    "description": "利用蛊虫传讯紫薇仙子。",
+    "firstChapterIndex": 240
+  },
+  "毛六": {
+    "name": "毛六",
+    "realm": null,
+    "path": null,
+    "description": "毛民蛊仙，观察方源并打算汇报给影无邪",
+    "firstChapterIndex": 244
+  },
+  "砚石老人": {
+    "name": "砚石老人",
+    "realm": null,
+    "path": null,
+    "description": "研发纯梦求真体（第十一绝体）的人物。",
+    "firstChapterIndex": 244
+  },
+  "天意": {
+    "name": "天意",
+    "realm": null,
+    "path": null,
+    "description": "抽象存在，意图布局，曾影响方源重生和影宗大计，引发天道震怒。",
+    "firstChapterIndex": 245
+  },
+  "红莲魔尊": {
+    "name": "红莲魔尊",
+    "realm": null,
+    "path": null,
+    "description": "曾努力打坏宿命蛊，但无法破坏天意。",
+    "firstChapterIndex": 245
+  },
+  "雪胡老祖": {
+    "name": "雪胡老祖",
+    "realm": "八转",
+    "path": "北原",
+    "description": "八转蛊仙，大雪山福地的主人，炼制鸿运齐天仙蛊。"
+  },
+  "幽魂魔尊": {
+    "name": "幽魂魔尊",
+    "realm": null,
+    "path": null,
+    "description": "本体陷在超级梦境中，已死。",
+    "firstChapterIndex": 247
+  },
+  "毛十二": {
+    "name": "毛十二",
+    "realm": null,
+    "path": null,
+    "description": "想说话但没说出来，感到惭愧",
+    "firstChapterIndex": 250
+  },
+  "一言仙": {
+    "name": "一言仙",
+    "realm": null,
+    "path": null,
+    "description": "墨人城的先祖，付出惨重代价才和巨阳仙尊达成了协议。",
+    "firstChapterIndex": 251
+  },
+  "巨阳仙尊": {
+    "name": "巨阳仙尊",
+    "realm": "九转（仙尊）",
+    "path": "运道开创者",
+    "description": "被称为巨阳仙僵，救出气绝魔仙和毛里球"
+  },
+  "星宿仙尊": {
+    "name": "星宿仙尊",
+    "realm": null,
+    "path": null,
+    "description": "天意因星宿仙尊之前容易对付，之后变得狡诈。未直接出场。",
+    "firstChapterIndex": 256
+  },
+  "姜钰仙子": {
+    "name": "姜钰仙子",
+    "realm": null,
+    "path": null,
+    "description": "影宗成员。",
+    "firstChapterIndex": 256
+  },
+  "独角六翼天马": {
+    "name": "独角六翼天马",
+    "realm": null,
+    "path": null,
+    "description": "天意影响它攻击方源的事件中被提及。",
+    "firstChapterIndex": 256
+  },
+  "野生龙蜈": {
+    "name": "野生龙蜈",
+    "realm": null,
+    "path": null,
+    "description": "天意影响它攻击方源的事件中被提及。",
+    "firstChapterIndex": 256
+  },
+  "九华仙后": {
+    "name": "九华仙后",
+    "realm": null,
+    "path": null,
+    "description": "历史上的阵道大宗师，布阵风格霞光万道，与长毛老祖同时代",
+    "firstChapterIndex": 258
+  },
+  "威灵仰": {
+    "name": "威灵仰",
+    "realm": 8,
+    "path": "禁道",
+    "description": "天庭蛊仙，八转禁道蛊仙，曾用无上手段隔空封印春秋蝉。",
+    "firstChapterIndex": 264
+  },
+  "代号绿的蛊仙": {
+    "name": "代号绿的蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "影宗第一代的分魂之一，在北原地沟的超级蛊阵中研究出生死仙窍法，曾抛弃被天意充斥的仙材。",
+    "firstChapterIndex": 264
+  },
+  "雪民蛊仙·年长者": {
+    "name": "雪民蛊仙·年长者",
+    "realm": null,
+    "path": null,
+    "description": "雪民一族，身份是蛊仙，与年轻雪民蛊仙讨论方源渡劫之事",
+    "firstChapterIndex": 267
+  },
+  "雪民蛊仙·年轻者": {
+    "name": "雪民蛊仙·年轻者",
+    "realm": null,
+    "path": null,
+    "description": "雪民一族，身份是蛊仙，与年长雪民蛊仙讨论方源渡劫之事",
+    "firstChapterIndex": 267
+  },
+  "青玄子": {
+    "name": "青玄子",
+    "realm": "六转",
+    "path": null,
+    "description": "已度过一次天劫，被廿二平之斩杀，脑袋掉在地上，死不瞑目",
+    "firstChapterIndex": 275
+  },
+  "廿二平之": {
+    "name": "廿二平之",
+    "realm": null,
+    "path": null,
+    "description": "一剑斩杀青玄子，剑光气势惊天动地，后又斩杀一位魔道蛊仙，被刘转身称为廿二一族新一代剑子",
+    "firstChapterIndex": 275
+  },
+  "刘转身": {
+    "name": "刘转身",
+    "realm": null,
+    "path": null,
+    "description": "刘家蛊仙，对远处的天空说话",
+    "firstChapterIndex": 275
+  },
+  "廿二富": {
+    "name": "廿二富",
+    "realm": "七转",
+    "path": null,
+    "description": "形态如五六岁的胖男孩，老气横秋，称廿二平之得了剑圣真传后被太上大长老拘束十年",
+    "firstChapterIndex": 275
+  },
+  "廿二剑圣": {
+    "name": "廿二剑圣",
+    "realm": "八转",
+    "path": "曾主修光道后转修剑道",
+    "description": "廿二家的传奇蛊仙，历史地位如同黑家的黑凡，带领廿二家成为过北原正道的魁首，死后留下剑圣真传",
+    "firstChapterIndex": 275
+  },
+  "商心慈": {
+    "name": "商心慈",
+    "realm": "凡人",
+    "path": null,
+    "description": "商家族长，曾与黑煞哥哥（方源）有交往。",
+    "firstChapterIndex": 282
+  },
+  "商青青": {
+    "name": "商青青",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "商家蛊仙，负责调查方源与商家的交集，拥有仙道杀招。",
+    "firstChapterIndex": 282
+  },
+  "商贪墨": {
+    "name": "商贪墨",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "商家蛊仙，身材瘦削，一脸阴翳。",
+    "firstChapterIndex": 282
+  },
+  "蛊仙老者": {
+    "name": "蛊仙老者",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "主管布阵的蛊仙老者，负责调动仙元布置超级蛊阵。",
+    "firstChapterIndex": 282
+  },
+  "池曲由": {
+    "name": "池曲由",
+    "realm": "八转",
+    "path": null,
+    "description": "池家蛊仙，比武庸年长",
+    "firstChapterIndex": 282
+  },
+  "叶凡": {
+    "name": "叶凡",
+    "realm": null,
+    "path": null,
+    "description": "商心慈身边的人，自称外人，被小兰称为‘叶公子’。",
+    "firstChapterIndex": 284
+  },
+  "小兰": {
+    "name": "小兰",
+    "realm": null,
+    "path": null,
+    "description": "商心慈的下属，侍女身份。",
+    "firstChapterIndex": 284
+  },
+  "小蝶": {
+    "name": "小蝶",
+    "realm": null,
+    "path": null,
+    "description": "商心慈的下属，提起商心慈被‘上面’召见后变得魂不守舍。",
+    "firstChapterIndex": 284
+  },
+  "卫夫人": {
+    "name": "卫夫人",
+    "realm": null,
+    "path": null,
+    "description": "商心慈的下属，与周全对视，认可叶凡去找商心慈的提议。",
+    "firstChapterIndex": 284
+  },
+  "周全": {
+    "name": "周全",
+    "realm": null,
+    "path": null,
+    "description": "商心慈的下属，不动声色地与卫夫人对视，询问商心慈状态。",
+    "firstChapterIndex": 284
+  },
+  "黑凡": {
+    "name": "黑凡",
+    "realm": "八转",
+    "path": "宙道",
+    "description": "黑家先祖，八转宙道蛊仙，生前将太古九天碎片融入仙窍，留下上极天鹰死蛋和隐藏的血道传承。",
+    "firstChapterIndex": 288
+  },
+  "上极天鹰": {
+    "name": "上极天鹰",
+    "realm": "八转",
+    "path": "宇道",
+    "description": "太古荒兽，宇道，八转战力，寿命仅八十年，可自由往来太古九天或洞天之间，死前会产下带有记忆和道痕的鸟蛋。",
+    "firstChapterIndex": 288
+  },
+  "陈尺": {
+    "name": "陈尺",
+    "realm": null,
+    "path": null,
+    "description": "资格最老的蛊仙，居住在宫殿群落中，有子孙后辈。炼蛊受伤。",
+    "firstChapterIndex": 293
+  },
+  "陈乐": {
+    "name": "陈乐",
+    "realm": null,
+    "path": null,
+    "description": "女仙，双发髻，活泼俏丽，是陈尺的曾孙女。",
+    "firstChapterIndex": 293
+  },
+  "黑凡老祖": {
+    "name": "黑凡老祖",
+    "realm": null,
+    "path": null,
+    "description": "已故，设立了真传考验，一心为黑家着想。",
+    "firstChapterIndex": 293
+  },
+  "黄钟天灵": {
+    "name": "黄钟天灵",
+    "realm": null,
+    "path": null,
+    "description": "发出悠扬钟鸣的天灵，铭记着黑凡的旨意。",
+    "firstChapterIndex": 293
+  },
+  "陈立志": {
+    "name": "陈立志",
+    "realm": null,
+    "path": "奴道",
+    "description": "陈家蛊仙，担忧拖延太久会惹恼黑城。务实，提出要寿蛊。",
+    "firstChapterIndex": 294
+  },
+  "陈婉芸": {
+    "name": "陈婉芸",
+    "realm": null,
+    "path": null,
+    "description": "陈家蛊仙，认为黑凡真传应该留给后人，不满世代囚禁。",
+    "firstChapterIndex": 294
+  },
+  "郑驮": {
+    "name": "郑驮",
+    "realm": null,
+    "path": null,
+    "description": "被提及要对付的对象之一。",
+    "firstChapterIndex": 295
+  },
+  "冯军": {
+    "name": "冯军",
+    "realm": null,
+    "path": null,
+    "description": "黑凡洞天的蛊仙，被方源杀死，能屈能伸的聪明人。",
+    "firstChapterIndex": 299
+  },
+  "陈尺老仙": {
+    "name": "陈尺老仙",
+    "realm": null,
+    "path": null,
+    "description": "之前向方源索要好处的蛊仙，曾估计黑凡洞天中有三百年寿蛊。",
+    "firstChapterIndex": 299
+  },
+  "黑家后人": {
+    "name": "黑家后人",
+    "realm": null,
+    "path": null,
+    "description": "黑凡真传原本的继承者，但黑家已覆灭。",
+    "firstChapterIndex": 299
+  },
+  "天庭中的老不死": {
+    "name": "天庭中的老不死",
+    "realm": null,
+    "path": null,
+    "description": "泛指天庭中寿命短缺的蛊仙，沉眠苟活。",
+    "firstChapterIndex": 299
+  },
+  "冰忍仙人": {
+    "name": "冰忍仙人",
+    "realm": null,
+    "path": null,
+    "description": "独创八转仙材冰块，受黑凡邀请封印两只仙蛊。",
+    "firstChapterIndex": 300
+  },
+  "黑家罪仙": {
+    "name": "黑家罪仙",
+    "realm": null,
+    "path": null,
+    "description": "黑凡洞天中蛊师和凡人的血脉祖先",
+    "firstChapterIndex": 304
+  },
+  "鹰犬": {
+    "name": "鹰犬",
+    "realm": null,
+    "path": null,
+    "description": "狼身鹰首，背上生长一对鹰翼，头颅、脖颈、翅膀覆盖黑色羽毛，狼身和四肢灰色狼毫，浑身上下暗道道痕最多。通过侵染繁衍，毒液对犬类、鹰类猛兽产生影响。分为荒兽级、上古荒兽级、太古鹰犬（罕见）",
+    "firstChapterIndex": 307
+  },
+  "落星犬": {
+    "name": "落星犬",
+    "realm": null,
+    "path": null,
+    "description": "被方源塞入仙窍的鹰犬之一",
+    "firstChapterIndex": 307
+  },
+  "钻熊": {
+    "name": "钻熊",
+    "realm": null,
+    "path": null,
+    "description": "被上古鹰犬击倒，脚踩住",
+    "firstChapterIndex": 307
+  },
+  "金白虎": {
+    "name": "金白虎",
+    "realm": null,
+    "path": null,
+    "description": "被上古鹰犬扇飞",
+    "firstChapterIndex": 307
+  },
+  "板栗牦牛": {
+    "name": "板栗牦牛",
+    "realm": null,
+    "path": null,
+    "description": "被上古鹰犬啄瞎",
+    "firstChapterIndex": 307
+  },
+  "第三头上古鹰犬": {
+    "name": "第三头上古鹰犬",
+    "realm": null,
+    "path": null,
+    "description": "原本是一位变化道蛊仙，因变化次数太多或太久丧失理智记忆，沦为一头特殊的上古鹰犬，身上至少有两隻野生仙蛊（一防御、一速度），能催动仙道杀招。",
+    "firstChapterIndex": 308
+  },
+  "双枪蛊仙": {
+    "name": "双枪蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "异人蛊仙，被上极天鹰震慑，冲势戛然而止，斗志溃败。",
+    "firstChapterIndex": 313
+  },
+  "雪儿": {
+    "name": "雪儿",
+    "realm": "六转",
+    "path": null,
+    "description": "敌方蛊仙，率先确认上极天鹰为真，语气惊惶。",
+    "firstChapterIndex": 313
+  },
+  "七转蛊仙（之一）": {
+    "name": "七转蛊仙（之一）",
+    "realm": "七转",
+    "path": null,
+    "description": "敌方蛊仙，质问方源如何取信异人，后随灰云战傀消散。",
+    "firstChapterIndex": 313
+  },
+  "灰云龙兽": {
+    "name": "灰云龙兽",
+    "realm": null,
+    "path": null,
+    "description": "灰云战傀杀招空间内的龙形花架子，气息不假但难以发挥八转战力。",
+    "firstChapterIndex": 313
+  },
+  "冰卓": {
+    "name": "冰卓",
+    "realm": null,
+    "path": null,
+    "description": "雪人蛊仙，同辈男性",
+    "firstChapterIndex": 318
+  },
+  "韩玉": {
+    "name": "韩玉",
+    "realm": "六转蛊仙",
+    "path": null,
+    "description": "渡过一次天劫，在宝皇天出售滑土的蛊仙，情绪激动于滑土被全买。",
+    "firstChapterIndex": 319
+  },
+  "花蝶女仙": {
+    "name": "花蝶女仙",
+    "realm": "六转",
+    "path": "变化道",
+    "description": "受伤，中仙道杀招雷魄针，躺在男性蛊仙怀抱中",
+    "firstChapterIndex": 325
+  },
+  "庙明神": {
+    "name": "庙明神",
+    "realm": "七转",
+    "path": "宇道",
+    "description": "东海宇道强者，蜂将、花蝶女仙、鬼七爷的上司。希望找寻乱流海域的光阴支流。",
+    "firstChapterIndex": 325
+  },
+  "蜂将": {
+    "name": "蜂将",
+    "realm": "六转",
+    "path": null,
+    "description": "狼背蜂腰，一身战甲，伤痕累累但精悍。蛊仙，庙明神麾下。对花蝶女仙有隐藏情意。",
+    "firstChapterIndex": 325
+  },
+  "鬼七爷": {
+    "name": "鬼七爷",
+    "realm": "七转",
+    "path": null,
+    "description": "蛊仙，庙明神麾下。仅在提及中出现。",
+    "firstChapterIndex": 325
+  },
+  "丁齐": {
+    "name": "丁齐",
+    "realm": null,
+    "path": "血道",
+    "description": "血道魔仙，与周礼、汤诵激战，已被方源杀死",
+    "firstChapterIndex": 328
+  },
+  "丁言": {
+    "name": "丁言",
+    "realm": null,
+    "path": "血道",
+    "description": "血道魔仙，丁齐的弟弟，死在刘青玉手中",
+    "firstChapterIndex": 328
+  },
+  "力道仙僵": {
+    "name": "力道仙僵",
+    "realm": null,
+    "path": null,
+    "description": "被方源操纵的仙僵，携带仙元和道可道仙蛊，用于测试陷阱。",
+    "firstChapterIndex": 333
+  },
+  "蛊仙魂魄": {
+    "name": "蛊仙魂魄",
+    "realm": null,
+    "path": null,
+    "description": "被方源塞入仙僵肉身进行测试的魂魄，最终被消融。",
+    "firstChapterIndex": 333
+  },
+  "百足天君": {
+    "name": "百足天君",
+    "realm": "北原",
+    "path": null,
+    "description": "八转蛊仙，昂首阔步",
+    "firstChapterIndex": 334
+  },
+  "昊震": {
+    "name": "昊震",
+    "realm": null,
+    "path": null,
+    "description": "与楚度相识，藏于黑凡洞天地下，后与仇老五一同现身。",
+    "firstChapterIndex": 344
+  },
+  "仇老五": {
+    "name": "仇老五",
+    "realm": null,
+    "path": null,
+    "description": "与楚度相识，藏于黑凡洞天地下，后与昊震一同现身。",
+    "firstChapterIndex": 344
+  },
+  "百足卫": {
+    "name": "百足卫",
+    "realm": null,
+    "path": null,
+    "description": "百足天君栽培的族中后辈，已被杀。",
+    "firstChapterIndex": 344
+  },
+  "胖山": {
+    "name": "胖山",
+    "realm": null,
+    "path": null,
+    "description": "语调低缓，透露出一股充沛的自信。",
+    "firstChapterIndex": 346
+  },
+  "不是仙": {
+    "name": "不是仙",
+    "realm": null,
+    "path": null,
+    "description": "抚须不语，脸上微微而笑。",
+    "firstChapterIndex": 346
+  },
+  "疯魔三怪": {
+    "name": "疯魔三怪",
+    "realm": null,
+    "path": null,
+    "description": "与世隔绝，处于疯魔窟中，出手相帮需要代价。",
+    "firstChapterIndex": 346
+  },
+  "兽人": {
+    "name": "兽人",
+    "realm": null,
+    "path": null,
+    "description": "人祖在途中遭遇的兽人，拥有忠诚蛊和背叛蛊，并告诫人祖不要去‘乎’的地方。",
+    "firstChapterIndex": 347
+  },
+  "恐惧蛊": {
+    "name": "恐惧蛊",
+    "realm": null,
+    "path": null,
+    "description": "一只蛊虫，让人祖害怕一切。",
+    "firstChapterIndex": 347
+  },
+  "自己蛊": {
+    "name": "自己蛊",
+    "realm": null,
+    "path": null,
+    "description": "一只蛊虫，曾建议自己吃掉恐惧蛊。",
+    "firstChapterIndex": 347
+  },
+  "思想蛊": {
+    "name": "思想蛊",
+    "realm": null,
+    "path": null,
+    "description": "一只蛊虫，教人祖将恐惧藏在心底以获得勇气。",
+    "firstChapterIndex": 347
+  },
+  "勇气蛊": {
+    "name": "勇气蛊",
+    "realm": null,
+    "path": null,
+    "description": "一只蛊虫，信念蛊的朋友，后因毛民和失败蛊离开人祖，又因爱情蛊归来。",
+    "firstChapterIndex": 347
+  },
+  "爱情蛊": {
+    "name": "爱情蛊",
+    "realm": null,
+    "path": null,
+    "description": "一只仙蛊，以希望和恐惧为食，主动寻来人祖，助人祖唤来勇气蛊。",
+    "firstChapterIndex": 347
+  },
+  "忠诚蛊": {
+    "name": "忠诚蛊",
+    "realm": null,
+    "path": null,
+    "description": "一只蛊虫，兽人给出让选择的其中一只，可转变为背叛蛊。",
+    "firstChapterIndex": 347
+  },
+  "背叛蛊": {
+    "name": "背叛蛊",
+    "realm": null,
+    "path": null,
+    "description": "一只蛊虫，兽人给出让选择的其中一只，人祖最终选择了它。",
+    "firstChapterIndex": 347
+  },
+  "霸仙": {
+    "name": "霸仙",
+    "realm": null,
+    "path": null,
+    "description": "方源需将仙蛊和仙元带给的人。",
+    "firstChapterIndex": 347
+  },
+  "五行大法师": {
+    "name": "五行大法师",
+    "realm": "八转蛊仙",
+    "path": "北原散修",
+    "description": "被困在劫运坛中，对抗劫运坛的打击力量。求知欲极其旺盛，凡人时期多次伪装身份四处偷师。成为蛊仙后，为获取修行经验和指导，不惜为其他蛊仙做牛做马。北原五大八转存在之一。",
+    "firstChapterIndex": 352
+  },
+  "天极子": {
+    "name": "天极子",
+    "realm": null,
+    "path": "八极子中的首领",
+    "description": "在劫运坛中操纵运转，开口劝降五行大法师，并告知劫运坛的妙用和灾劫缘由。",
+    "firstChapterIndex": 352
+  },
+  "八极子": {
+    "name": "八极子",
+    "realm": null,
+    "path": null,
+    "description": "八位蛊仙，分别站立在劫运坛的九个角落（文本提到九个角落，但八个人），竭尽全力操纵劫运坛的运转。",
+    "firstChapterIndex": 352
+  },
+  "四荒仙人": {
+    "name": "四荒仙人",
+    "realm": null,
+    "path": null,
+    "description": "沉眠于长生天中。",
+    "firstChapterIndex": 352
+  },
+  "粉红地灵蛇": {
+    "name": "粉红地灵蛇",
+    "realm": "地灵",
+    "path": null,
+    "description": "韩东福地的地灵，粉红色，可操控石滩，对方源产生崇拜。",
+    "firstChapterIndex": 357
+  },
+  "凤仙太子": {
+    "name": "凤仙太子",
+    "realm": "八转蛊仙",
+    "path": "变化道",
+    "description": "建议派遣一人环绕气功果袭杀异人蛊仙",
+    "firstChapterIndex": 362
+  },
+  "乐瑶": {
+    "name": "乐瑶",
+    "realm": null,
+    "path": null,
+    "description": "凤仙太子的蛊仙侍女之一，身着黄衣，貌美如花，双眼水灵灵，樱桃小嘴。",
+    "firstChapterIndex": 362
+  },
+  "药皇": {
+    "name": "药皇",
+    "realm": "北原",
+    "path": "炼道",
+    "description": "大叫撤",
+    "firstChapterIndex": 362
+  },
+  "宫家蛊仙": {
+    "name": "宫家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "手持长生令求见凤仙太子，未具名。",
+    "firstChapterIndex": 362
+  },
+  "宫婉婷": {
+    "name": "宫婉婷",
+    "realm": "七转",
+    "path": null,
+    "description": "二八模样，身着锦绣宫装，裙摆拖地，一头青丝高高挽起，玉吊金簪琳琅满目，肌肤雪白，眉毛修长，目光精锐，胸脯高耸，体材丰满，雍容华贵，给人不可冒犯之感。凤仙太子的正妻。",
+    "firstChapterIndex": 365
+  },
+  "努尔鼓": {
+    "name": "努尔鼓",
+    "realm": "七转",
+    "path": "音道",
+    "description": "头小腹大，身材很不匀称，眼珠子外凸，四肢干瘦如柴，皮肤苍白，毫无血色可言。专修音道的蛊仙强者。",
+    "firstChapterIndex": 365
+  },
+  "努尔倩": {
+    "name": "努尔倩",
+    "realm": null,
+    "path": null,
+    "description": "女童外貌，是努尔鼓的姑奶奶，战力强大，有一记招牌仙道杀招，年龄大，经历丰富，十分可靠。",
+    "firstChapterIndex": 365
+  },
+  "药元婴": {
+    "name": "药元婴",
+    "realm": null,
+    "path": null,
+    "description": "药家蛊仙，性情温和，不擅打杀，擅于疗伤。",
+    "firstChapterIndex": 365
+  },
+  "宫迩": {
+    "name": "宫迩",
+    "realm": null,
+    "path": null,
+    "description": "宫家成员，曾在铁鹰福地一战吃亏，遭受惩罚，曾邀请众仙但无人买账。",
+    "firstChapterIndex": 365
+  },
+  "关丑": {
+    "name": "关丑",
+    "realm": null,
+    "path": null,
+    "description": "被提及，战力比肩努尔鼓。",
+    "firstChapterIndex": 365
+  },
+  "自在书生": {
+    "name": "自在书生",
+    "realm": null,
+    "path": null,
+    "description": "被提及，散修魔道，战力比肩努尔鼓。",
+    "firstChapterIndex": 365
+  },
+  "皮水寒": {
+    "name": "皮水寒",
+    "realm": null,
+    "path": null,
+    "description": "被提及，散修魔道，战力比肩努尔鼓。",
+    "firstChapterIndex": 365
+  },
+  "毛民蛊仙们": {
+    "name": "毛民蛊仙们",
+    "realm": null,
+    "path": null,
+    "description": "心情复杂",
+    "firstChapterIndex": 372
+  },
+  "百足家蛊仙": {
+    "name": "百足家蛊仙",
+    "realm": null,
+    "path": "纯正百足血脉",
+    "description": "百足天君背后，冷笑，被方源指派下场与耶律群星交手几十回合后败",
+    "firstChapterIndex": 375
+  },
+  "雪无痕": {
+    "name": "雪无痕",
+    "realm": null,
+    "path": null,
+    "description": "身边的蛊仙，目光灼灼，后瞪圆双眼，怀疑方源",
+    "firstChapterIndex": 375
+  },
+  "耶律群星": {
+    "name": "耶律群星",
+    "realm": null,
+    "path": "黄金血脉",
+    "description": "耶律家蛊仙，连败四人，被方源言语侮辱后要求休息半个时辰再战",
+    "firstChapterIndex": 375
+  },
+  "耶律小金": {
+    "name": "耶律小金",
+    "realm": null,
+    "path": null,
+    "description": "耶律家蛊仙，跑到金晓大殿殿门口迎接耶律群星，被方源气得嘴歪",
+    "firstChapterIndex": 375
+  },
+  "耶律恢弘": {
+    "name": "耶律恢弘",
+    "realm": null,
+    "path": null,
+    "description": "耶律家蛊仙，满脸肃穆，坐直上半身，要亲自领教方源",
+    "firstChapterIndex": 375
+  },
+  "原黑家太上长老，现在的百足家蛊仙": {
+    "name": "原黑家太上长老，现在的百足家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "被方源指派出战，与耶律群星交手几十回合后败，憋气对方源",
+    "firstChapterIndex": 375
+  },
+  "汪大仙": {
+    "name": "汪大仙",
+    "realm": null,
+    "path": null,
+    "description": "断言‘这一场，柳贯一败了’，咬着牙说上古剑蛟潜力不如吞天犬。",
+    "firstChapterIndex": 376
+  },
+  "众仙": {
+    "name": "众仙",
+    "realm": null,
+    "path": null,
+    "description": "屏住呼吸，举杯欢庆，认为耶律群星优势已定。",
+    "firstChapterIndex": 376
+  },
+  "正道蛊仙们": {
+    "name": "正道蛊仙们",
+    "realm": null,
+    "path": null,
+    "description": "在金晓大殿中举杯欢庆，氛围轻松。",
+    "firstChapterIndex": 376
+  },
+  "方源（柳贯一）": {
+    "name": "方源（柳贯一）",
+    "realm": null,
+    "path": "楚度一方",
+    "description": "楚门太上二长老，变化成上古剑蛟，使用剑遁仙蛊，杀死耶律群星，心思狡诈，善于伪装。",
+    "firstChapterIndex": 377
+  },
+  "廿二一方": {
+    "name": "廿二一方",
+    "realm": null,
+    "path": "正道一方",
+    "description": "关心家族之星廿二平之，提醒他遇到柳贯一应当避退。",
+    "firstChapterIndex": 377
+  },
+  "刘勇": {
+    "name": "刘勇",
+    "realm": "六转",
+    "path": "奴道",
+    "description": "黄金血脉，刘家的一位六转奴道蛊仙。他驾驭着六头荒兽骨甲犬，在骨葬场中行走寻找合适的骨头。被柳贯一杀死，魂魄被收取。",
+    "firstChapterIndex": 380
+  },
+  "柳贯一": {
+    "name": "柳贯一",
+    "realm": null,
+    "path": null,
+    "description": "楚门的太上二长老。实际上为方源的伪装身份。拥有上古剑蛟变，能与七转龙息仙蛊配合。袭击了骨葬场，杀死了刘勇。",
+    "firstChapterIndex": 380
+  },
+  "骨甲犬": {
+    "name": "骨甲犬",
+    "realm": "荒兽",
+    "path": null,
+    "description": "刘勇所豢养的六头荒兽骨甲犬，对主人忠义，被方源制服后收入至尊仙窍。",
+    "firstChapterIndex": 380
+  },
+  "白相天灵": {
+    "name": "白相天灵",
+    "realm": null,
+    "path": null,
+    "description": "白相洞天的地灵，小老头形象，要求白凝冰收服九转仙材。",
+    "firstChapterIndex": 384
+  },
+  "白兔姑娘": {
+    "name": "白兔姑娘",
+    "realm": null,
+    "path": null,
+    "description": "主持凡蛊屋的生意，语气中透露梦境生意的红火，后称为白兔仙子。",
+    "firstChapterIndex": 386
+  },
+  "乔家蛊仙": {
+    "name": "乔家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "正道蛊仙，领着女蛊仙（妙音仙子）进入蛊阵，语气讨好，乔家势力弱小，背后是武家。",
+    "firstChapterIndex": 386
+  },
+  "妙音仙子": {
+    "name": "妙音仙子",
+    "realm": null,
+    "path": null,
+    "description": "在第二次演练中伤势最重，方源治疗她",
+    "firstChapterIndex": 386
+  },
+  "蛊仙巴圈风": {
+    "name": "蛊仙巴圈风",
+    "realm": null,
+    "path": null,
+    "description": "巴家蛊仙，因乔家魔道生意气咻咻，认为武家霸道。",
+    "firstChapterIndex": 386
+  },
+  "树翁巴德": {
+    "name": "树翁巴德",
+    "realm": null,
+    "path": null,
+    "description": "在外作战，惊叹于人道杀招的力量",
+    "firstChapterIndex": 386
+  },
+  "武遗海": {
+    "name": "武遗海",
+    "realm": "东海",
+    "path": "变化道",
+    "description": "七转蛊仙，拥有薄名，变化道，可变化为角神龟等形态。由母亲派遣前往南疆。",
+    "firstChapterIndex": 388
+  },
+  "张叔": {
+    "name": "张叔",
+    "realm": null,
+    "path": "变化道",
+    "description": "七转蛊仙，武遗海母亲派遣的干将之一。使用金色圆盾防御杀招，后变化为金色剑齿虎。",
+    "firstChapterIndex": 388
+  },
+  "冷兄弟": {
+    "name": "冷兄弟",
+    "realm": null,
+    "path": "变化道",
+    "description": "七转蛊仙，姓冷，青年，武遗海母亲派遣的干将之一。变化为雷芒巨狼，使用雷道杀招。",
+    "firstChapterIndex": 388
+  },
+  "武独秀": {
+    "name": "武独秀",
+    "realm": null,
+    "path": null,
+    "description": "比武庸大一些的一代人物",
+    "firstChapterIndex": 388
+  },
+  "上古剑蛟": {
+    "name": "上古剑蛟",
+    "realm": null,
+    "path": null,
+    "description": "野生上古荒兽，身上有仙蛊气息，生活在白天或黑天，在瘴气界壁中进退自如，可喷吐剑光龙息。",
+    "firstChapterIndex": 388
+  },
+  "武庸": {
+    "name": "武庸",
+    "realm": "八转",
+    "path": null,
+    "description": "大叫撤",
+    "firstChapterIndex": 392
+  },
+  "乔家太上大长老": {
+    "name": "乔家太上大长老",
+    "realm": null,
+    "path": null,
+    "description": "乔家代表，与方源合作，有盟约，对武家有所图谋。",
+    "firstChapterIndex": 392
+  },
+  "武樵": {
+    "name": "武樵",
+    "realm": null,
+    "path": null,
+    "description": "武家太上三长老，主持血脉验证和认祖归宗仪式，使用了七转血道仙蛊血脉。",
+    "firstChapterIndex": 392
+  },
+  "赵怜云": {
+    "name": "赵怜云",
+    "realm": "未知",
+    "path": "中洲",
+    "description": "中洲蛊仙，与方源有仇。"
+  },
+  "马鸿运": {
+    "name": "马鸿运",
+    "realm": "未知",
+    "path": "未知",
+    "description": "被方源夹死。"
+  },
+  "武安": {
+    "name": "武安",
+    "realm": "六转",
+    "path": null,
+    "description": "武家蛊仙，对武遗海十分巴结，远出百里蹲守两天两夜迎接。",
+    "firstChapterIndex": 395
+  },
+  "武辽": {
+    "name": "武辽",
+    "realm": "六转",
+    "path": null,
+    "description": "武家蛊仙，狼背蜂腰，精悍勇猛，不卑不亢，骨子里有傲气。",
+    "firstChapterIndex": 395
+  },
+  "巴圈风": {
+    "name": "巴圈风",
+    "realm": null,
+    "path": null,
+    "description": "奄奄一息；是影宗内奸；被方源瞪视",
+    "firstChapterIndex": 395
+  },
+  "武遗海（方源）": {
+    "name": "武遗海（方源）",
+    "realm": null,
+    "path": null,
+    "description": "武家蛊仙，八转武独秀的私生子，从东海回归南疆，非常年轻。被白兔姑娘称为武遗海大人。",
+    "firstChapterIndex": 396
+  },
+  "武家七转蛊仙": {
+    "name": "武家七转蛊仙",
+    "realm": 7,
+    "path": null,
+    "description": "武家驻扎在南疆超级蛊阵的七转蛊仙，被方源排挤走。",
+    "firstChapterIndex": 398
+  },
+  "水尼": {
+    "name": "水尼",
+    "realm": null,
+    "path": "水道",
+    "description": "灵缘斋创派祖师，女仙，中古时代正式创建了水道。",
+    "firstChapterIndex": 398
+  },
+  "蛊师（师弟）": {
+    "name": "蛊师（师弟）",
+    "realm": null,
+    "path": null,
+    "description": "战仙宗蛊师，负责考核，给方源选择蛊虫。",
+    "firstChapterIndex": 399
+  },
+  "蛊师（师兄）": {
+    "name": "蛊师（师兄）",
+    "realm": null,
+    "path": null,
+    "description": "战仙宗蛊师，帮助方源作弊，给了灵涎蛊。",
+    "firstChapterIndex": 399
+  },
+  "少年": {
+    "name": "少年",
+    "realm": null,
+    "path": null,
+    "description": "参加战仙宗考核的少年，因方源得罪龙公子而敌视方源。",
+    "firstChapterIndex": 399
+  },
+  "龙公子": {
+    "name": "龙公子",
+    "realm": null,
+    "path": null,
+    "description": "被提及的人物，方源在梦境中得罪了他，抢其女人。",
+    "firstChapterIndex": 399
+  },
+  "太上大长老": {
+    "name": "太上大长老",
+    "realm": null,
+    "path": null,
+    "description": "灵缘斋的太上大长老，年迈苍老，有无上威仪。",
+    "firstChapterIndex": 401
+  },
+  "雪民": {
+    "name": "雪民",
+    "realm": null,
+    "path": null,
+    "description": "《人祖传》中的雪民，部落最强大者，拥有征服之心，在爱情之火实验中融化解体。",
+    "firstChapterIndex": 401
+  },
+  "炎煌雷泽": {
+    "name": "炎煌雷泽",
+    "realm": null,
+    "path": null,
+    "description": "人祖之子，从征服之心上的火焰中跳出。",
+    "firstChapterIndex": 401
+  },
+  "沐凌澜": {
+    "name": "沐凌澜",
+    "realm": "七转蛊仙",
+    "path": "水道",
+    "description": "身着丝绸蓝袍，长发披肩，身材不魁梧，有些柔弱。十根手指纤细修长。一次浩劫未渡过。中洲有名的水道蛊仙。",
+    "firstChapterIndex": 405
+  },
+  "施阁": {
+    "name": "施阁",
+    "realm": "七转蛊仙",
+    "path": null,
+    "description": "身着白袍，国字脸，眉毛粗重，鼻梁高耸，一身正气凛然。已度过二次浩劫。",
+    "firstChapterIndex": 405
+  },
+  "施正义": {
+    "name": "施正义",
+    "realm": "蛊仙（刚渡劫成就）",
+    "path": null,
+    "description": "少年郎，浓眉大眼，满目纯真，作农夫打扮。声音大。施阁之子。",
+    "firstChapterIndex": 405
+  },
+  "南荒仙人": {
+    "name": "南荒仙人",
+    "realm": "八转",
+    "path": null,
+    "description": "黄金血脉，寿命无多，即将由药皇接任其位，擅长运用镇运天宫和天地运真传。",
+    "firstChapterIndex": 415
+  },
+  "余艺冶子": {
+    "name": "余艺冶子",
+    "realm": null,
+    "path": null,
+    "description": "炼道蛊仙，因及时闭眼而避免失明，正在自我疗伤。",
+    "firstChapterIndex": 415
+  },
+  "不真子": {
+    "name": "不真子",
+    "realm": null,
+    "path": null,
+    "description": "风满楼中的蛊仙，指出陷入魂兽大军包围。",
+    "firstChapterIndex": 415
+  },
+  "影王": {
+    "name": "影王",
+    "realm": "北原",
+    "path": "虚道",
+    "description": "魔道蛊仙，身躯魁梧，满脸胡渣，一双眼睛没有眼白，全是慑人的黑色，背后披着一层皮质的黑色披风",
+    "firstChapterIndex": 427
+  },
+  "赵大牛": {
+    "name": "赵大牛",
+    "realm": "北原",
+    "path": "变化道",
+    "description": "第十二雪峰峰主，牛头人身巨人，修行变化道，使用气道杀招",
+    "firstChapterIndex": 427
+  },
+  "赵普": {
+    "name": "赵普",
+    "realm": "蛊仙",
+    "path": "血道",
+    "description": "第十雪峰峰主，血道魔仙，身着麻衣布鞋，头无发，面容普通，个头不高不矮，站立于大殿中央，露出森寒尖锐的牙齿，发出狞笑时带有魔性和杀戮的气息。",
+    "firstChapterIndex": 434
+  },
+  "夜叉龙帅": {
+    "name": "夜叉龙帅",
+    "realm": "七转仙僵",
+    "path": null,
+    "description": "疑似夜叉章鱼的主人，属于北原僵盟分部。",
+    "firstChapterIndex": 437
+  },
+  "大胡子蛊师": {
+    "name": "大胡子蛊师",
+    "realm": null,
+    "path": null,
+    "description": "方源梦中的角色，处于弥留之际，曾是蛊师。",
+    "firstChapterIndex": 437
+  },
+  "碧晨天": {
+    "name": "碧晨天",
+    "realm": "八转",
+    "path": "中洲",
+    "description": "中洲八转蛊仙，受伤，与雪胡老祖是敌人。",
+    "firstChapterIndex": 444
+  },
+  "紫山真君": {
+    "name": "紫山真君",
+    "realm": 8,
+    "path": "未知",
+    "description": "已灭亡的影宗成员"
+  },
+  "玄极子": {
+    "name": "玄极子",
+    "realm": null,
+    "path": null,
+    "description": "逆流河子阵牵引河流流向其所在方位。",
+    "firstChapterIndex": 444
+  },
+  "洪极子": {
+    "name": "洪极子",
+    "realm": null,
+    "path": null,
+    "description": "逆流河子阵牵引河流流向其所在方位。",
+    "firstChapterIndex": 444
+  },
+  "大虎": {
+    "name": "大虎",
+    "realm": null,
+    "path": null,
+    "description": "普通野兽，被方源打死。",
+    "firstChapterIndex": 444
+  },
+  "野龟": {
+    "name": "野龟",
+    "realm": null,
+    "path": null,
+    "description": "浮游的野龟，被碧晨天借助。",
+    "firstChapterIndex": 444
+  },
+  "狗尾续命貂毛里球": {
+    "name": "狗尾续命貂毛里球",
+    "realm": "不明",
+    "path": null,
+    "description": "用于称呼狗尾续命貂，看出赵怜云帮助马鸿运的细节",
+    "firstChapterIndex": 454
+  },
+  "狗尾续命貂（毛里球）": {
+    "name": "狗尾续命貂（毛里球）",
+    "realm": "八转",
+    "path": "兽",
+    "description": "八转存在，参与攻击逆流河。",
+    "firstChapterIndex": 460
+  },
+  "刘家蛊仙": {
+    "name": "刘家蛊仙",
+    "realm": "未知",
+    "path": "刘家",
+    "description": "被方源杀死。",
+    "firstChapterIndex": 460
+  },
+  "龙公": {
+    "name": "龙公",
+    "realm": "天庭",
+    "path": "气道、变化道（双绝）",
+    "description": "进入监天塔，催动命败杀招"
+  },
+  "童画": {
+    "name": "童画",
+    "realm": null,
+    "path": null,
+    "description": "蛊仙，拥有荒植光照菌，愿意用光照菌换取三头重楼水象。",
+    "firstChapterIndex": 470
+  },
+  "土头驮": {
+    "name": "土头驮",
+    "realm": null,
+    "path": null,
+    "description": "蛊仙，拥有一头上古荒兽王母蟾。",
+    "firstChapterIndex": 470
+  },
+  "巫马杨": {
+    "name": "巫马杨",
+    "realm": null,
+    "path": "暗道",
+    "description": "用六转宙道日蛊交换方源的骨刺仙蛊。",
+    "firstChapterIndex": 472
+  },
+  "群仙": {
+    "name": "群仙",
+    "realm": null,
+    "path": null,
+    "description": "参与交易会的其他蛊仙，对方源态度先不满后好奇。",
+    "firstChapterIndex": 472
+  },
+  "童画仙子": {
+    "name": "童画仙子",
+    "realm": null,
+    "path": null,
+    "description": "女仙，交易荒兽。最近刚渡过一劫。拥有私人海域彩霞海。交易会结束后可能会邀请在场蛊仙去彩霞海。",
+    "firstChapterIndex": 473
+  },
+  "妇人心仙蛊": {
+    "name": "妇人心仙蛊",
+    "realm": null,
+    "path": null,
+    "description": "六转仙蛊，方源打算交易但未能出手。",
+    "firstChapterIndex": 473
+  },
+  "悲风老人": {
+    "name": "悲风老人",
+    "realm": "八转",
+    "path": null,
+    "description": "风云府的蛊仙，风禅子的爷爷。八转修为，中洲十大古派中大名鼎鼎，若不出意外已成为天庭成员。看守藏龙窟，主持超绝蛊阵。",
+    "firstChapterIndex": 474
+  },
+  "风禅子": {
+    "name": "风禅子",
+    "realm": null,
+    "path": null,
+    "description": "年轻的蛊仙，风云府蛊仙，悲风老人的孙子。因贩卖仙材谋求私利，被惩罚到藏龙窟充当看守者。",
+    "firstChapterIndex": 474
+  },
+  "帝藏生": {
+    "name": "帝藏生",
+    "realm": null,
+    "path": null,
+    "description": "孽龙，身躯庞巨如山脉，冲在最前方；五域合一后变得更强大；能催动杀招，表面浮现紫金光辉，龙须飙射",
+    "firstChapterIndex": 474
+  },
+  "武雨伯": {
+    "name": "武雨伯",
+    "realm": "七转",
+    "path": "水道",
+    "description": "身材欣长，一身黑白作色的大氅，胡须柔顺垂至胸口，细长眼眸蕴藏神光，周身萦绕微微水汽，生性高傲，巅峰战力，专修水道",
+    "firstChapterIndex": 476
+  },
+  "炎荒仙人": {
+    "name": "炎荒仙人",
+    "realm": null,
+    "path": "火、土兼修",
+    "description": "中年模样，面容沧桑，相貌普通，投靠夏家，曾两次败于武雨伯",
+    "firstChapterIndex": 476
+  },
+  "夏擎苍": {
+    "name": "夏擎苍",
+    "realm": null,
+    "path": "智道",
+    "description": "身躯如山挺拔巍峨，面容古朴方正，发须皆白，络腮胡须刚硬如针，双眼绽射精芒，夏家蛊仙，智道蛊仙，颇有威名",
+    "firstChapterIndex": 476
+  },
+  "夏飞快": {
+    "name": "夏飞快",
+    "realm": "七转",
+    "path": null,
+    "description": "夏家蛊仙，性情急躁，善于决断，战力很强。修行了某个仙道杀招导致后遗症。",
+    "firstChapterIndex": 480
+  },
+  "夏琢磨": {
+    "name": "夏琢磨",
+    "realm": null,
+    "path": "智道",
+    "description": "夏家蛊仙，心思多变，喜好思考。童年经历使他会下意识反复琢磨重要事情。",
+    "firstChapterIndex": 480
+  },
+  "张开醉": {
+    "name": "张开醉",
+    "realm": "五转",
+    "path": null,
+    "description": "张三峰后人，白发苍苍，向三位蛊仙行礼时不卑不亢。",
+    "firstChapterIndex": 480
+  },
+  "张三峰": {
+    "name": "张三峰",
+    "realm": null,
+    "path": null,
+    "description": "其血脉后裔被夏家掌控，用于占大义",
+    "firstChapterIndex": 482
+  },
+  "武罚": {
+    "name": "武罚",
+    "realm": null,
+    "path": null,
+    "description": "武家人物，与武庸演了一场戏，点头同意方源将奖励换成龙鳞土。",
+    "firstChapterIndex": 486
+  },
+  "贩卖神鹿果的蛊仙": {
+    "name": "贩卖神鹿果的蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "在宝黄天中出售神鹿果的蛊仙，起初由意志与方源交流，后本体心神投入，最终与方源以一千两百五十块仙元石成交。",
+    "firstChapterIndex": 487
+  },
+  "驱山老怪": {
+    "name": "驱山老怪",
+    "realm": "七转",
+    "path": null,
+    "description": "姓秦名静升，外号驱山老怪。老者，披青灰石甲，头发有黑有白，乱糟糟如稻草，衣裳边角破烂，不修边幅。七转气息洋溢，气势迫人。年岁大，有两千多年，有寿蛊和独特延寿手段。战斗力极强，是散仙中的著名高手，接近树翁巴德、武雨伯层次。",
+    "firstChapterIndex": 488
+  },
+  "乔丝柳": {
+    "name": "乔丝柳",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "南疆当代的三大仙子之二，与妙音仙子相斗，处于僵持中",
+    "firstChapterIndex": 490
+  },
+  "罗木子": {
+    "name": "罗木子",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "乔丝柳的追求者，献独创九回香茶。",
+    "firstChapterIndex": 490
+  },
+  "轮飞": {
+    "name": "轮飞",
+    "realm": "蛊仙",
+    "path": "食道",
+    "description": "乔丝柳的追求者，主修食道的蛊仙，献两仪茶。",
+    "firstChapterIndex": 490
+  },
+  "天露仙子": {
+    "name": "天露仙子",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "蛊仙，乔丝柳的闺蜜，盛六的伴侣。",
+    "firstChapterIndex": 490
+  },
+  "盛六": {
+    "name": "盛六",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "蛊仙，天露仙子的伴侣，独创花中醉茶。",
+    "firstChapterIndex": 490
+  },
+  "方源（武遗海）": {
+    "name": "方源（武遗海）",
+    "realm": null,
+    "path": null,
+    "description": "武家蛊仙，被称作武遗海太上长老，武庸的亲弟弟",
+    "firstChapterIndex": 495
+  },
+  "武碑": {
+    "name": "武碑",
+    "realm": null,
+    "path": null,
+    "description": "武家蛊仙，与巴德切磋后受重伤",
+    "firstChapterIndex": 495
+  },
+  "巴德（树翁巴德）": {
+    "name": "巴德（树翁巴德）",
+    "realm": null,
+    "path": null,
+    "description": "巴家蛊仙首领，筹谋良久向武家发难",
+    "firstChapterIndex": 495
+  },
+  "图事成": {
+    "name": "图事成",
+    "realm": "中年蛊仙",
+    "path": "阵道",
+    "description": "父子关系中的父亲，教导儿子关于蛊师流派历史，并给儿子阵心蛊，要求他尝试建立蛊阵。",
+    "firstChapterIndex": 496
+  },
+  "方源（扮演的男孩）": {
+    "name": "方源（扮演的男孩）",
+    "realm": null,
+    "path": null,
+    "description": "刚成为蛊师的男孩，姓图（随父姓），在图事成的引导下学习阵道基础知识，并尝试建立蛊阵。",
+    "firstChapterIndex": 496
+  },
+  "山豹": {
+    "name": "山豹",
+    "realm": null,
+    "path": null,
+    "description": "一头普通猛兽，被关在小笼子中，干瘪肚皮，眼眸冒饥火，在梦境第二幕中用来考验方源。",
+    "firstChapterIndex": 498
+  },
+  "池伤": {
+    "name": "池伤",
+    "realm": "七转蛊仙",
+    "path": "阵道蛊仙",
+    "description": "池规同族；赞叹方源阵道造诣"
+  },
+  "池溜": {
+    "name": "池溜",
+    "realm": null,
+    "path": null,
+    "description": "池家的六转蛊仙，被池伤派遣送信道凡蛊。",
+    "firstChapterIndex": 501
+  },
+  "池规": {
+    "name": "池规",
+    "realm": null,
+    "path": null,
+    "description": "虚弱地传达需要方源；提议让武遗海（方源）进来；称赞方源阵道造诣",
+    "firstChapterIndex": 501
+  },
+  "罗家蛊仙": {
+    "name": "罗家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "罗家的一位蛊仙，宴请池伤，并表示罗家缺少阵道人才。",
+    "firstChapterIndex": 501
+  },
+  "池谤": {
+    "name": "池谤",
+    "realm": null,
+    "path": null,
+    "description": "池曲由之子，蛊仙，内定下一任太上大长老，言语轻佻调戏乔丝柳",
+    "firstChapterIndex": 504
+  },
+  "左夜灰": {
+    "name": "左夜灰",
+    "realm": "八转蛊仙巅峰气息，但似是而非，像太古荒兽",
+    "path": null,
+    "description": "似乎快要恢复过来，是目前战场上最为强大的存在",
+    "firstChapterIndex": 509
+  },
+  "猪头兽人": {
+    "name": "猪头兽人",
+    "realm": null,
+    "path": null,
+    "description": "两个猪头兽人，在梦境中一前一后抬着方源上山，后追杀方源",
+    "firstChapterIndex": 509
+  },
+  "猪头人身的蛊仙": {
+    "name": "猪头人身的蛊仙",
+    "realm": "七转蛊仙",
+    "path": null,
+    "description": "异人兽人蛊仙，出现在梦境山谷半空中，唤醒左夜灰",
+    "firstChapterIndex": 509
+  },
+  "蛇躯人头的蛊仙": {
+    "name": "蛇躯人头的蛊仙",
+    "realm": "七转蛊仙",
+    "path": null,
+    "description": "异人兽人蛊仙，出现在梦境山谷半空中，上半身是人，下半身是蛇",
+    "firstChapterIndex": 509
+  },
+  "武八重": {
+    "name": "武八重",
+    "realm": null,
+    "path": null,
+    "description": "武家太上二家老，召集太上家老商讨，意图统领全局。",
+    "firstChapterIndex": 516
+  },
+  "乔志材": {
+    "name": "乔志材",
+    "realm": null,
+    "path": null,
+    "description": "乔家太上大长老，与武庸、铁面神一同失踪，命牌蛊碎裂。",
+    "firstChapterIndex": 516
+  },
+  "铁面神": {
+    "name": "铁面神",
+    "realm": null,
+    "path": null,
+    "description": "向外透露武庸情报者",
+    "firstChapterIndex": 516
+  },
+  "武原句": {
+    "name": "武原句",
+    "realm": null,
+    "path": null,
+    "description": "已死，武庸等人追查其死因。",
+    "firstChapterIndex": 516
+  },
+  "戎豪": {
+    "name": "戎豪",
+    "realm": null,
+    "path": null,
+    "description": "已死，武庸等人追查其死因。",
+    "firstChapterIndex": 516
+  },
+  "柴有言": {
+    "name": "柴有言",
+    "realm": null,
+    "path": "信道",
+    "description": "柴家蛊仙中的重要人物，柴家太上大长老的心腹、得力干将，模样年轻，面容普通，并不起眼。",
+    "firstChapterIndex": 521
+  },
+  "柴家太上大长老": {
+    "name": "柴家太上大长老",
+    "realm": null,
+    "path": null,
+    "description": "柴家的太上大长老，对武遗海感兴趣。",
+    "firstChapterIndex": 521
+  },
+  "乔波": {
+    "name": "乔波",
+    "realm": null,
+    "path": null,
+    "description": "乔家成员，接引妙音仙子等人探索梦境，被白凝冰从背后击杀，化为冰雕。",
+    "firstChapterIndex": 522
+  },
+  "黑莬": {
+    "name": "黑莬",
+    "realm": null,
+    "path": null,
+    "description": "自称白兔姑娘的另一面，阴冷，施展杀招使武安融化。",
+    "firstChapterIndex": 522
+  },
+  "商乖离": {
+    "name": "商乖离",
+    "realm": null,
+    "path": null,
+    "description": "商家蛊仙，南疆正道一方，男性，使用白骨怪爪。",
+    "firstChapterIndex": 524
+  },
+  "柴火熊": {
+    "name": "柴火熊",
+    "realm": null,
+    "path": null,
+    "description": "柴家蛊仙，南疆正道一方，男性，肌肉通红，使用火焰攻击。",
+    "firstChapterIndex": 524
+  },
+  "黑菟": {
+    "name": "黑菟",
+    "realm": null,
+    "path": null,
+    "description": "第一次接触上古战阵四通八达",
+    "firstChapterIndex": 526
+  },
+  "巴德": {
+    "name": "巴德",
+    "realm": null,
+    "path": null,
+    "description": "传音给方源，说‘武遗海，你速速回来’",
+    "firstChapterIndex": 526
+  },
+  "卜卦龟": {
+    "name": "卜卦龟",
+    "realm": null,
+    "path": null,
+    "description": "方源变化成的太古荒兽，防御极为深厚，龟壳坚硬，后因刚背杀招产生变化。",
+    "firstChapterIndex": 526
+  },
+  "小龟壳念头": {
+    "name": "小龟壳念头",
+    "realm": null,
+    "path": null,
+    "description": "方源催动防备仙蛊后产生的防御手段，可旋转、增长规模，数量曾上涨到十万。",
+    "firstChapterIndex": 526
+  },
+  "夏家蛊仙": {
+    "name": "夏家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "两名夏家蛊仙被方源挪移出超级蛊阵（一为说话者，一为咆哮者）",
+    "firstChapterIndex": 530
+  },
+  "翼黑霆": {
+    "name": "翼黑霆",
+    "realm": "七转",
+    "path": null,
+    "description": "七转当中的一流强者，对付黑楼兰、白凝冰",
+    "firstChapterIndex": 537
+  },
+  "幽魂本体": {
+    "name": "幽魂本体",
+    "realm": null,
+    "path": null,
+    "description": "被天庭俘虏",
+    "firstChapterIndex": 555
+  },
+  "翠波仙子": {
+    "name": "翠波仙子",
+    "realm": "西漠女蛊仙",
+    "path": "七转修为",
+    "description": "表面是西漠蛊仙界，运用魂道手段，古怪",
+    "firstChapterIndex": 570
+  },
+  "两位天庭的八转蛊仙": {
+    "name": "两位天庭的八转蛊仙",
+    "realm": "天庭",
+    "path": "八转",
+    "description": "忽然出现阻止凤九歌和武庸的战斗，归还南疆正道的蛊虫，嘱咐凤九歌注意方源。",
+    "firstChapterIndex": 570
+  },
+  "千变老祖": {
+    "name": "千变老祖",
+    "realm": "八转",
+    "path": "变化道",
+    "description": "专修变化道的八转蛊仙，占据万像沙漠长达千年之久，渡第一次万劫，遭受宙道万劫的痛楚，被困在万像宫殿中被铁链束缚。",
+    "firstChapterIndex": 571
+  },
+  "红云女仙": {
+    "name": "红云女仙",
+    "realm": null,
+    "path": null,
+    "description": "千变老祖的妻妾之一，自称妾身，战力不足。奉千变老祖之命前去救翠波仙子，获赐八转仙蛊、千变老祖的意志和仙元。",
+    "firstChapterIndex": 572
+  },
+  "天庭蛊仙": {
+    "name": "天庭蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "天庭的蛊仙群体，尽皆惊诧",
+    "firstChapterIndex": 573
+  },
+  "大荔仙僵": {
+    "name": "大荔仙僵",
+    "realm": null,
+    "path": null,
+    "description": "幽魂本体的二代分魂，号称武斗天王，力道、智道同修，本身是大力真武体，创出斗战胜伏奴杀招。后被一位眉心绘有红莲印记的神秘蛊仙击败，被仙蛊屋惊鸿乱斗台镇压。",
+    "firstChapterIndex": 575
+  },
+  "红莲印记神秘蛊仙": {
+    "name": "红莲印记神秘蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "眉心绘有红莲印记，击败了大荔仙僵，并将其镇压于仙蛊屋惊鸿乱斗台。",
+    "firstChapterIndex": 575
+  },
+  "震源子": {
+    "name": "震源子",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "正道蛊仙，已故，留下了真传传承。",
+    "firstChapterIndex": 584
+  },
+  "阵灵": {
+    "name": "阵灵",
+    "realm": null,
+    "path": null,
+    "description": "震源子独创的阵灵仙蛊所显化，自称阵灵，不是震源子的意志。",
+    "firstChapterIndex": 584
+  },
+  "青爪鬼翼狮": {
+    "name": "青爪鬼翼狮",
+    "realm": null,
+    "path": null,
+    "description": "太古荒兽，被镇压在蛊阵之下。",
+    "firstChapterIndex": 584
+  },
+  "红云舞娘": {
+    "name": "红云舞娘",
+    "realm": "蛊仙",
+    "path": "云道",
+    "description": "主修云道，拥有搜魂手段，仙人修为，是千变老祖的伴侣。",
+    "firstChapterIndex": 587
+  },
+  "千变老祖的意志": {
+    "name": "千变老祖的意志",
+    "realm": "八转",
+    "path": null,
+    "description": "八转存在的意志，依附在红云舞娘身上，要求红云舞娘将真传贡献给本体。",
+    "firstChapterIndex": 587
+  },
+  "太古年猴": {
+    "name": "太古年猴",
+    "realm": null,
+    "path": null,
+    "description": "一头被诱惑的太古年兽，体型巨大，从光阴长河钻入方源的至尊仙窍。",
+    "firstChapterIndex": 601
+  },
+  "黄史上人": {
+    "name": "黄史上人",
+    "realm": "八转蛊仙",
+    "path": "宙道",
+    "description": "八转蛊仙，光头，在光阴长河中开战具备地利，拥有对抗岁月静好丝的手段，正追击方源",
+    "firstChapterIndex": 605
+  },
+  "阴织蛛": {
+    "name": "阴织蛛",
+    "realm": "太古荒兽",
+    "path": null,
+    "description": "一只庞巨的蜘蛛，通体苍白，体型如山脉，拥有水晶网巢，是光阴长河中最顶端的猎食者之一，速度缓慢",
+    "firstChapterIndex": 605
+  },
+  "幽魂意志": {
+    "name": "幽魂意志",
+    "realm": null,
+    "path": null,
+    "description": "操控石莲岛，提供刀剑杀招；宣称石莲岛由红莲魔尊亲手建造",
+    "firstChapterIndex": 607
+  },
+  "紫薇大人": {
+    "name": "紫薇大人",
+    "realm": null,
+    "path": null,
+    "description": "天庭人物，曾推算方源无法操纵光阴河流",
+    "firstChapterIndex": 607
+  },
+  "刀九郎": {
+    "name": "刀九郎",
+    "realm": "八转",
+    "path": "刀道",
+    "description": "西漠一域的翘楚，刀道传奇，杀招‘九九轮回刀锋’；若中洲十大派出身能进天庭",
+    "firstChapterIndex": 607
+  },
+  "习渊": {
+    "name": "习渊",
+    "realm": null,
+    "path": "剑道",
+    "description": "杀招‘剑葬渊’，与刀九郎交手",
+    "firstChapterIndex": 607
+  },
+  "白晴仙子": {
+    "name": "白晴仙子",
+    "realm": null,
+    "path": null,
+    "description": "凤金煌的母亲，灵缘斋太上长老之一。",
+    "firstChapterIndex": 615
+  },
+  "徐浩": {
+    "name": "徐浩",
+    "realm": null,
+    "path": null,
+    "description": "灵缘斋太上长老之一。",
+    "firstChapterIndex": 615
+  },
+  "李君影": {
+    "name": "李君影",
+    "realm": null,
+    "path": null,
+    "description": "灵缘斋太上长老之一。",
+    "firstChapterIndex": 615
+  },
+  "慕容青丝": {
+    "name": "慕容青丝",
+    "realm": null,
+    "path": null,
+    "description": "慕容家族的女蛊仙，与酝良有婚约关系，称酝良为'云郎'。",
+    "firstChapterIndex": 618
+  },
+  "酝良": {
+    "name": "酝良",
+    "realm": null,
+    "path": null,
+    "description": "前来慕容家提亲的人，被柳贯一杀害。",
+    "firstChapterIndex": 618
+  },
+  "慕容形胜": {
+    "name": "慕容形胜",
+    "realm": "六转",
+    "path": null,
+    "description": "慕容家族的蛊仙，性格愤怒，主张复仇。",
+    "firstChapterIndex": 618
+  },
+  "胖子意志": {
+    "name": "胖子意志",
+    "realm": null,
+    "path": null,
+    "description": "体型庞大的蛊仙意志，在宝黄天中售卖大量年蛊（十几万只），开价公道。",
+    "firstChapterIndex": 624
+  },
+  "谢宝树": {
+    "name": "谢宝树",
+    "realm": null,
+    "path": null,
+    "description": "年蛊原有的三位大卖家之一。",
+    "firstChapterIndex": 624
+  },
+  "荣欣": {
+    "name": "荣欣",
+    "realm": null,
+    "path": null,
+    "description": "年蛊原有的三位大卖家之一。",
+    "firstChapterIndex": 624
+  },
+  "王明月": {
+    "name": "王明月",
+    "realm": null,
+    "path": null,
+    "description": "年蛊原有的三位大卖家之一。",
+    "firstChapterIndex": 624
+  },
+  "石宗": {
+    "name": "石宗",
+    "realm": null,
+    "path": null,
+    "description": "石人一族的太上大长老，参与谈判。",
+    "firstChapterIndex": 632
+  },
+  "冰媛": {
+    "name": "冰媛",
+    "realm": null,
+    "path": null,
+    "description": "雪民一族的蛊仙，参与谈判，提出联姻计策，是雪儿的祖母。",
+    "firstChapterIndex": 632
+  },
+  "尤婵": {
+    "name": "尤婵",
+    "realm": 7,
+    "path": "水道",
+    "description": "水道蛊仙，散修，东海蛊仙界公认的六大仙子之一，交游广阔。",
+    "firstChapterIndex": 645
+  },
+  "华安": {
+    "name": "华安",
+    "realm": null,
+    "path": "智道",
+    "description": "东海智道三能之一，原为华家蛊仙，叛出华家后被南宫家接纳，依附南宫家。",
+    "firstChapterIndex": 645
+  },
+  "南宫家蛊仙": {
+    "name": "南宫家蛊仙",
+    "realm": 6,
+    "path": null,
+    "description": "南宫家的蛊仙，前来迎接尤婵。",
+    "firstChapterIndex": 645
+  },
+  "石忠": {
+    "name": "石忠",
+    "realm": "七转",
+    "path": "土道",
+    "description": "人族蛊仙，中年模样，目光沧桑，容貌普通，给人老实巴交的印象。姓石名忠，石家成员，因父亲叛变家族而遭受排挤，被太上大长老打发镇守万矿戈壁。专修土道，一直在秘密炼制财富蛊，目前已失败八十九次。",
+    "firstChapterIndex": 648
+  },
+  "方源的宙道六转蛊仙分身": {
+    "name": "方源的宙道六转蛊仙分身",
+    "realm": "六转",
+    "path": "宙道",
+    "description": "面容普通，气质极为出众，黑眸幽深，散发着沧桑气息，是方源的宙道分身。",
+    "firstChapterIndex": 658
+  },
+  "秦百合": {
+    "name": "秦百合",
+    "realm": "七转",
+    "path": "蛊仙",
+    "description": "白鹤海域主人，爱好女风，对青岳至诚的追求表示厌烦，以敷衍回信。"
+  },
+  "神秘蛊仙": {
+    "name": "神秘蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "来犯尤婵龙鱼海域的蛊仙，驱动一只小巧的金鳞上古荒兽（金龙鱼），搜刮龙鱼。",
+    "firstChapterIndex": 658
+  },
+  "青岳至诚": {
+    "name": "青岳至诚",
+    "realm": "七转",
+    "path": "蛊仙",
+    "description": "身着青衫，青年模样，高鼻宽面，双眼若星般明亮。东海超级势力青岳家的蛊仙，当今青岳太上大长老青岳安的嫡亲血裔。对秦百合有倾慕之心。",
+    "firstChapterIndex": 662
+  },
+  "青岳安": {
+    "name": "青岳安",
+    "realm": null,
+    "path": null,
+    "description": "青岳太上大长老，青岳至诚的嫡亲血裔之祖。",
+    "firstChapterIndex": 662
+  },
+  "尤婵意志": {
+    "name": "尤婵意志",
+    "realm": null,
+    "path": null,
+    "description": "在宝黄天中主持龙鱼生意的意志，不知道自己本体的遭遇。",
+    "firstChapterIndex": 662
+  },
+  "白兔": {
+    "name": "白兔",
+    "realm": null,
+    "path": null,
+    "description": "影宗蛊仙之一，从方源的至尊仙窍中出来，参与掌控仙道蛊阵。",
+    "firstChapterIndex": 665
+  },
+  "唐方明": {
+    "name": "唐方明",
+    "realm": null,
+    "path": null,
+    "description": "唐家的人物，原本操控仙道蛊阵遮护盗天梦境，后割舍部分权力交予影宗蛊仙。",
+    "firstChapterIndex": 665
+  },
+  "本杰孙": {
+    "name": "本杰孙",
+    "realm": null,
+    "path": null,
+    "description": "盗天魔尊的本名，在梦中方源化身成的一个小小少年，尚未开启蛊修旅程，丁等资质。",
+    "firstChapterIndex": 665
+  },
+  "少年盗天": {
+    "name": "少年盗天",
+    "realm": "一转",
+    "path": "盗天梦境",
+    "description": "身怀重伤，包裹纱布，因方源操纵而拥有偷袭蛊，参加小比并夺得头名。"
+  },
+  "沙枭": {
+    "name": "沙枭",
+    "realm": null,
+    "path": null,
+    "description": "面色阴沉的蛊师老者，满脸皱纹，头发全白，岁数很大，对羊皮地图有狂热等复杂情绪，绑了少年盗天并拷打。",
+    "firstChapterIndex": 667
+  },
+  "干尸": {
+    "name": "干尸",
+    "realm": null,
+    "path": null,
+    "description": "困死在井底的蛊师，生前转数不低、身份高贵，没有蛊虫留下，衣裳内衬缝有羊皮地图。",
+    "firstChapterIndex": 667
+  },
+  "第一场对手": {
+    "name": "第一场对手",
+    "realm": null,
+    "path": null,
+    "description": "被少年盗天偷袭的对手，从地上爬起来，愤怒，口吃，手指向错误方向。",
+    "firstChapterIndex": 671
+  },
+  "周围群众": {
+    "name": "周围群众",
+    "realm": null,
+    "path": null,
+    "description": "在场围观的人，纷纷谴责少年盗天卑鄙、无耻，两次战斗后都喧嚷愤怒。",
+    "firstChapterIndex": 671
+  },
+  "家老孙子": {
+    "name": "家老孙子",
+    "realm": "二转",
+    "path": null,
+    "description": "少年盗天在擂台上的对手，谨慎警惕，使用防护蛊虫，但被偷袭蛊击败昏死。",
+    "firstChapterIndex": 675
+  },
+  "部族族长": {
+    "name": "部族族长",
+    "realm": "不明",
+    "path": null,
+    "description": "提及偷袭蛊是极品蛊虫，计划大规模装备以增强部族实力。",
+    "firstChapterIndex": 675
+  },
+  "主持大局的蛊师": {
+    "name": "主持大局的蛊师",
+    "realm": "不明",
+    "path": null,
+    "description": "拥有侦查蛊虫，探明少年盗天重伤属实。",
+    "firstChapterIndex": 675
+  },
+  "败军老鬼": {
+    "name": "败军老鬼",
+    "realm": "七转（已近八转）",
+    "path": null,
+    "description": "一身灰白袍子，尖鼻细眼，山羊胡，端坐在一头牛形上古魂兽的背上。眼眸中闪烁着阴沉得意的光。散修。",
+    "firstChapterIndex": 678
+  },
+  "房棱": {
+    "name": "房棱",
+    "realm": "六转",
+    "path": null,
+    "description": "国字脸，年纪稍长，闷声不吭。房家蛊仙，太上大长老的嫡亲重孙。",
+    "firstChapterIndex": 678
+  },
+  "房云": {
+    "name": "房云",
+    "realm": "六转",
+    "path": null,
+    "description": "眉眼朗俊，性子跳脱。房家蛊仙，太上二长老的养子。拥有脱逃招数“云中身”。",
+    "firstChapterIndex": 678
+  },
+  "三转追兵": {
+    "name": "三转追兵",
+    "realm": "三转蛊师",
+    "path": null,
+    "description": "精修水道，部族守卫，擒获方源。",
+    "firstChapterIndex": 684
+  },
+  "守卫1": {
+    "name": "守卫1",
+    "realm": null,
+    "path": null,
+    "description": "发现洞穴出事，怒吼要动手，被同伴拦住。",
+    "firstChapterIndex": 684
+  },
+  "守卫2": {
+    "name": "守卫2",
+    "realm": null,
+    "path": null,
+    "description": "苦劝同伴修补防护，拦阻其动手。",
+    "firstChapterIndex": 684
+  },
+  "房睇长": {
+    "name": "房睇长",
+    "realm": "八转（智道大宗师）",
+    "path": null,
+    "description": "分身参悟了偷道仙蛊屋",
+    "firstChapterIndex": 695
+  },
+  "房化生": {
+    "name": "房化生",
+    "realm": "七转",
+    "path": null,
+    "description": "房家太上三长老，西漠赫赫有名的蛊仙强者。",
+    "firstChapterIndex": 695
+  },
+  "房安蕾": {
+    "name": "房安蕾",
+    "realm": "未知（受伤昏迷）",
+    "path": null,
+    "description": "房家蛊仙，被房沉带回房家大本营修养。",
+    "firstChapterIndex": 695
+  },
+  "房沉": {
+    "name": "房沉",
+    "realm": "未知",
+    "path": null,
+    "description": "房家蛊仙，负责带房安蕾回大本营。",
+    "firstChapterIndex": 695
+  },
+  "方源（算不尽）": {
+    "name": "方源（算不尽）",
+    "realm": "未知（可抗八转战力）",
+    "path": null,
+    "description": "智道修为不俗，战力可抗八转，对房睇长有杀机。",
+    "firstChapterIndex": 695
+  },
+  "两位七转援军": {
+    "name": "两位七转援军",
+    "realm": "七转",
+    "path": null,
+    "description": "房家援军，其中一位替代房安蕾执掌落英馆。",
+    "firstChapterIndex": 695
+  },
+  "一位六转援军": {
+    "name": "一位六转援军",
+    "realm": "六转",
+    "path": null,
+    "description": "房家援军。",
+    "firstChapterIndex": 695
+  },
+  "房家蛊仙": {
+    "name": "房家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "无名房家蛊仙，看到方源要求先得七转仙蛊时怒喝出声。",
+    "firstChapterIndex": 698
+  },
+  "陈衣": {
+    "name": "陈衣",
+    "realm": null,
+    "description": "天莲派太上大长老，能施展因果神树、万生春雷等仙道杀招，影响豆神宫",
+    "firstChapterIndex": 700
+  },
+  "青仇": {
+    "name": "青仇",
+    "realm": "八转",
+    "path": "太古传奇荒兽",
+    "description": "青金巨人，举起巨盾挡下气柱，被一路轰进书山，巨盾毁去，胸膛被轰出大洞，死后被神帝城吸纳。"
+  },
+  "鹰姬": {
+    "name": "鹰姬",
+    "realm": null,
+    "description": "被陈衣收入豆神宫中的两人之一",
+    "firstChapterIndex": 700
+  },
+  "房功": {
+    "name": "房功",
+    "realm": "八转",
+    "path": "力道",
+    "description": "房家太上大长老，伪装成青年七转蛊仙偷袭陈衣，一拳打碎其防护并将之击飞",
+    "firstChapterIndex": 701
+  },
+  "何辜": {
+    "name": "何辜",
+    "realm": null,
+    "path": null,
+    "description": "散修女仙，从方源处购得情报",
+    "firstChapterIndex": 704
+  },
+  "侯耀": {
+    "name": "侯耀",
+    "realm": "六转蛊仙",
+    "path": null,
+    "description": "六转蛊仙，烟罗暖玉田势力一方。",
+    "firstChapterIndex": 708
+  },
+  "陆畏因": {
+    "name": "陆畏因",
+    "realm": "神秘蛊仙",
+    "path": null,
+    "description": "飞扑到毓秀仙子面前拼命阻拦；后来躲闪",
+    "firstChapterIndex": 708
+  },
+  "翼渔": {
+    "name": "翼渔",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "翼家蛊仙之一，放出上古水怪。",
+    "firstChapterIndex": 708
+  },
+  "翼南门": {
+    "name": "翼南门",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "翼家蛊仙之一，放出上古水怪。",
+    "firstChapterIndex": 708
+  },
+  "翼家蛊仙": {
+    "name": "翼家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "两位翼家蛊仙，被迫现身，隐藏在湖泊中。",
+    "firstChapterIndex": 712
+  },
+  "卫德馨": {
+    "name": "卫德馨",
+    "realm": null,
+    "path": null,
+    "description": "商心慈身边的人，劝说商心慈当断则断。",
+    "firstChapterIndex": 712
+  },
+  "凡人蛊师": {
+    "name": "凡人蛊师",
+    "realm": null,
+    "path": null,
+    "description": "在场凡人蛊师，因陆畏因挡在前面而燃起斗志。",
+    "firstChapterIndex": 712
+  },
+  "中洲蛊仙": {
+    "name": "中洲蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "中洲十大古派中的七转强者，被银色巨人击杀",
+    "firstChapterIndex": 716
+  },
+  "绣娘": {
+    "name": "绣娘",
+    "realm": null,
+    "path": null,
+    "description": "方源的恋人，有丙等蛊师资质",
+    "firstChapterIndex": 716
+  },
+  "老妇人": {
+    "name": "老妇人",
+    "realm": null,
+    "path": null,
+    "description": "方源的娘亲，一病不起",
+    "firstChapterIndex": 716
+  },
+  "绣娘的双亲": {
+    "name": "绣娘的双亲",
+    "realm": null,
+    "path": null,
+    "description": "都是蛊师，看不起凡人方源",
+    "firstChapterIndex": 716
+  },
+  "舒家": {
+    "name": "舒家",
+    "realm": null,
+    "path": null,
+    "description": "一个家族，家大人多，是方源娶绣娘的阻碍之一",
+    "firstChapterIndex": 716
+  },
+  "白毛地灵": {
+    "name": "白毛地灵",
+    "realm": null,
+    "path": null,
+    "description": "琅琊福地的上一任地灵，不擅长争斗（间接提及）",
+    "firstChapterIndex": 716
+  },
+  "雷鬼真君（井斓）": {
+    "name": "雷鬼真君（井斓）",
+    "realm": null,
+    "path": null,
+    "description": "从仙墓中苏醒的蛊仙，少女模样，身着漆黑铠甲，铠甲有雷光闪烁，胸前有深蓝色巨鬼头像，头盔酷似鬼怪。主修雷道和魂道，两流派不互斥的手段是其独创。曾在幽魂魔尊时代活跃，是天庭对抗幽魂魔尊的得力干将，曾给幽魂带来麻烦。尊号为雷鬼真君。",
+    "firstChapterIndex": 727
+  },
+  "井斓": {
+    "name": "井斓",
+    "realm": "八转",
+    "path": "雷道、魂道",
+    "description": "天庭中人，雷鬼真君，身着漆黑狰狞铠甲，身高一丈有余，能化身电光，雷道迅猛、魂道凝甲。",
+    "firstChapterIndex": 729
+  },
+  "回风子": {
+    "name": "回风子",
+    "realm": null,
+    "path": null,
+    "description": "北原中在速度方面与方源能一较高下的七转蛊仙之一。",
+    "firstChapterIndex": 730
+  },
+  "雷鬼真君井斓": {
+    "name": "雷鬼真君井斓",
+    "realm": "八转",
+    "path": null,
+    "description": "天庭的老前辈八转蛊仙，被方源击败，胸骨被售卖，心高气傲，后恢复冷静。",
+    "firstChapterIndex": 733
+  },
+  "蒙屠": {
+    "name": "蒙屠",
+    "realm": null,
+    "path": "刀道",
+    "description": "在秋刀原参悟刀道，企图成为刀道大宗师；可影响秋刀原地道痕，形成近乎于仙道战场杀招的环境；使用刀道虚影进行攻击。",
+    "firstChapterIndex": 738
+  },
+  "蒙自在": {
+    "name": "蒙自在",
+    "realm": "七转蛊仙",
+    "path": null,
+    "description": "相貌粗犷，身形魁梧，蒙家蛊仙，称蒙屠为族兄，主动请缨支援蒙屠，后因蒙屠战死而悲痛，决定独自追凶。",
+    "firstChapterIndex": 740
+  },
+  "蒙召": {
+    "name": "蒙召",
+    "realm": "六转蛊仙",
+    "path": null,
+    "description": "青年蛊仙，称蒙自在为叔父，为蒙自在栽培的后辈。",
+    "firstChapterIndex": 740
+  },
+  "蒙家太上二长老": {
+    "name": "蒙家太上二长老",
+    "realm": null,
+    "path": null,
+    "description": "走出仙蛊屋问鼎院，一脸沉重，勘察战场。",
+    "firstChapterIndex": 740
+  },
+  "睡姑": {
+    "name": "睡姑",
+    "realm": "七转",
+    "path": "音道",
+    "description": "七转散修，专修音道，掌控太古荒兽刺神猬，在蒙家与慕容家之间保持中立。",
+    "firstChapterIndex": 741
+  },
+  "张继": {
+    "name": "张继",
+    "realm": null,
+    "path": null,
+    "description": "黑天寺的蛊仙，在宝黄天出售透明火焰浮生火。",
+    "firstChapterIndex": 743
+  },
+  "雷鬼真君": {
+    "name": "雷鬼真君",
+    "realm": "八转",
+    "path": null,
+    "description": "天庭蛊仙，恨极方源，因为方源将她的三根肋骨挂在宝黄天上贩卖并持续演绎影像，直接扑向方源悍然动手。",
+    "firstChapterIndex": 747
+  },
+  "琅琊地灵（黑毛）": {
+    "name": "琅琊地灵（黑毛）",
+    "realm": null,
+    "path": null,
+    "description": "大笑宣称琅琊派不好欺侮；浑身虚幻，处于涣散边缘；被紫薇仙子杀死，身躯爆炸成碎片。",
+    "firstChapterIndex": 756
+  },
+  "琅琊地灵（白毛）": {
+    "name": "琅琊地灵（白毛）",
+    "realm": null,
+    "path": null,
+    "description": "白胡子白眉毛，前任白毛琅琊地灵；在黑毛地灵死后浮现。",
+    "firstChapterIndex": 756
+  },
+  "纯梦求真体": {
+    "name": "纯梦求真体",
+    "realm": null,
+    "path": null,
+    "description": "两位，被方源安置在至尊仙窍小绿天中。",
+    "firstChapterIndex": 760
+  },
+  "雪民族长": {
+    "name": "雪民族长",
+    "realm": null,
+    "path": null,
+    "description": "雪民首领，带领族老商议迁徙方向。",
+    "firstChapterIndex": 760
+  },
+  "南疆蛊仙": {
+    "name": "南疆蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "在仙蛊屋内纷纷嚎叫，受到人道杀招影响",
+    "firstChapterIndex": 760
+  },
+  "蒙逼": {
+    "name": "蒙逼",
+    "realm": null,
+    "path": null,
+    "description": "中洲蒙家大人，因使用水文蛊过度导致严重腹泻、骨瘦如柴。",
+    "firstChapterIndex": 769
+  },
+  "柏廉": {
+    "name": "柏廉",
+    "realm": "四转",
+    "path": "宙道",
+    "description": "梦境主角，一位老者，被蒙家蛊师强行请去医治蒙逼。",
+    "firstChapterIndex": 769
+  },
+  "厉薪": {
+    "name": "厉薪",
+    "realm": "七转蛊仙",
+    "path": null,
+    "description": "与方源梦境中的身份敌对，使用暗红色火焰杀招，被方源用光阴飞刃斩杀",
+    "firstChapterIndex": 771
+  },
+  "夏槎": {
+    "name": "夏槎",
+    "realm": "八转",
+    "path": "宙道",
+    "description": "南疆八转宙道蛊仙，参与追捕方源，首次包围时出言冷笑。"
+  },
+  "刘浩": {
+    "name": "刘浩",
+    "realm": null,
+    "path": null,
+    "description": "武家客卿，实际身份为中洲蛊仙，紫薇仙子秘密派遣的内间。",
+    "firstChapterIndex": 772
+  },
+  "铁家代表": {
+    "name": "铁家代表",
+    "realm": null,
+    "path": null,
+    "description": "认出陆畏因的南疆蛊仙。",
+    "firstChapterIndex": 772
+  },
+  "方源（宙道分身）": {
+    "name": "方源（宙道分身）",
+    "realm": null,
+    "path": null,
+    "description": "方源的分身，一直在智慧蛊面前推算仙道杀招，试验了光阴飞刃杀招。",
+    "firstChapterIndex": 773
+  },
+  "商家方面": {
+    "name": "商家方面",
+    "realm": null,
+    "path": null,
+    "description": "南疆超级家族之一，表示无法拿出三千两八部玉。",
+    "firstChapterIndex": 784
+  },
+  "巴家蛊仙": {
+    "name": "巴家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "惊怒交加，愤怒无奈，被方源勒索七宝水。",
+    "firstChapterIndex": 784
+  },
+  "夏家太上大长老夏槎": {
+    "name": "夏家太上大长老夏槎",
+    "realm": null,
+    "path": null,
+    "description": "夏家太上大长老，亲自出动领袖群雄。",
+    "firstChapterIndex": 784
+  },
+  "武家刘浩": {
+    "name": "武家刘浩",
+    "realm": null,
+    "path": null,
+    "description": "武家蛊仙，拥有克制方源定仙游的手段，可能来自天庭。",
+    "firstChapterIndex": 784
+  },
+  "羊枯": {
+    "name": "羊枯",
+    "realm": null,
+    "path": null,
+    "description": "南疆蛊仙，被纯梦求真体从梦境中拖拽出，有三只魂道仙蛊。",
+    "firstChapterIndex": 784
+  },
+  "天难老怪": {
+    "name": "天难老怪",
+    "realm": null,
+    "path": null,
+    "description": "远古时代炼道无上大宗师。",
+    "firstChapterIndex": 784
+  },
+  "空绝老仙": {
+    "name": "空绝老仙",
+    "realm": null,
+    "path": null,
+    "description": "上古时代炼道无上大宗师。",
+    "firstChapterIndex": 784
+  },
+  "方源宙道分身": {
+    "name": "方源宙道分身",
+    "realm": "六转",
+    "path": "宙道",
+    "description": "方源的宙道分身，修为六转，参与年华池建造，但无力承担纯化七宝水等关键步骤。",
+    "firstChapterIndex": 786
+  },
+  "商家蛊仙": {
+    "name": "商家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "南疆正道推举的代表，与方源谈判，要求方源先归还仙蛊以换取修行资源。",
+    "firstChapterIndex": 786
+  },
+  "影宗群仙": {
+    "name": "影宗群仙",
+    "realm": null,
+    "path": null,
+    "description": "方源召集的群仙群体，未具体命名",
+    "firstChapterIndex": 786
+  },
+  "南疆正道": {
+    "name": "南疆正道",
+    "realm": null,
+    "path": null,
+    "description": "南疆各方势力，联合起来对抗方源勒索，统一阵线逼方源就范。",
+    "firstChapterIndex": 786
+  },
+  "若离仙子": {
+    "name": "若离仙子",
+    "realm": null,
+    "path": "智道",
+    "description": "人族女仙，肤若白雪，一身黄衣，弯弯的柳眉下，一双烟雾笼罩的美眸，专修智道",
+    "firstChapterIndex": 792
+  },
+  "土基": {
+    "name": "土基",
+    "realm": "八转蛊仙",
+    "path": "律道",
+    "description": "石人蛊仙，自称土基，专修律道，深爱若离仙子",
+    "firstChapterIndex": 792
+  },
+  "狂蛮": {
+    "name": "狂蛮",
+    "realm": null,
+    "path": null,
+    "description": "婴孩，被预言为未来的蛊尊，将导致若离仙子死亡",
+    "firstChapterIndex": 792
+  },
+  "巴桃": {
+    "name": "巴桃",
+    "realm": "六转",
+    "path": null,
+    "description": "女仙，参与建设烽火台，祖父被方源俘虏。",
+    "firstChapterIndex": 795
+  },
+  "铁义": {
+    "name": "铁义",
+    "realm": "六转",
+    "path": null,
+    "description": "青年模样，来自铁家，铁区中之子，主要负责搭建烽火台。",
+    "firstChapterIndex": 795
+  },
+  "铁家太上大长老": {
+    "name": "铁家太上大长老",
+    "realm": null,
+    "path": null,
+    "description": "在秘议中发言，指出烽火台对方源威胁大。",
+    "firstChapterIndex": 795
+  },
+  "商家太上大长老": {
+    "name": "商家太上大长老",
+    "realm": null,
+    "path": null,
+    "description": "在秘议中发言，认为烽火台成本低廉可任由破坏。",
+    "firstChapterIndex": 795
+  },
+  "陶铸意志": {
+    "name": "陶铸意志",
+    "realm": null,
+    "path": null,
+    "description": "原本布下传承的一股意志，感到孤苦无奈，灰溜溜缩回光柱。",
+    "firstChapterIndex": 800
+  },
+  "君神光": {
+    "name": "君神光",
+    "realm": "八转",
+    "path": null,
+    "description": "宛若流星，四下电射，洞穿战场",
+    "firstChapterIndex": 800
+  },
+  "商无界": {
+    "name": "商无界",
+    "realm": "八转",
+    "path": null,
+    "description": "南疆蛊仙。",
+    "firstChapterIndex": 800
+  },
+  "威猛老者": {
+    "name": "威猛老者",
+    "realm": null,
+    "path": "炎道",
+    "description": "八转蛊仙，催动炎龙杀招、阳莽背火衣。自称从人祖传太日阳莽的火焰长发中获得灵感。",
+    "firstChapterIndex": 805
+  },
+  "宙道分身": {
+    "name": "宙道分身",
+    "realm": null,
+    "path": null,
+    "description": "方源的宙道分身。",
+    "firstChapterIndex": 805
+  },
+  "中洲���仙（七转）": {
+    "name": "中洲���仙（七转）",
+    "realm": "七转",
+    "path": null,
+    "description": "操纵宙道大阵的蛊仙，其中一人被方源用落魄印击杀。",
+    "firstChapterIndex": 806
+  },
+  "戚发": {
+    "name": "戚发",
+    "realm": null,
+    "path": null,
+    "description": "戚家蛊仙之一，声音干涩沙哑，身躯颤抖，曾开口稳定人心，被方源评价有些谋算。",
+    "firstChapterIndex": 811
+  },
+  "戚进": {
+    "name": "戚进",
+    "realm": null,
+    "path": null,
+    "description": "戚家蛊仙之一，曾因门楼未倒而欢呼。",
+    "firstChapterIndex": 811
+  },
+  "巡天五相": {
+    "name": "巡天五相",
+    "realm": null,
+    "path": null,
+    "description": "气相、白相、血相、泥相、吃相，曾领袖南疆蛊仙界，联手创建了门楼。",
+    "firstChapterIndex": 811
+  },
+  "戚家蛊仙": {
+    "name": "戚家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "青茅山的蛊仙，曾试图逃离方源但被提及已逃掉。",
+    "firstChapterIndex": 815
+  },
+  "戚家奴隶蛊仙": {
+    "name": "戚家奴隶蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "三位奴隶蛊仙，属于方源一方。",
+    "firstChapterIndex": 819
+  },
+  "任修平": {
+    "name": "任修平",
+    "realm": "七转巅峰",
+    "path": "奴道",
+    "description": "蛊仙，奴役冰毒海星。老奸巨猾，与九月仙子关系隐秘。",
+    "firstChapterIndex": 822
+  },
+  "苏晨": {
+    "name": "苏晨",
+    "realm": null,
+    "path": null,
+    "description": "超级势力苏家成员，擅长治疗，在东海远近闻名，为人和善。",
+    "firstChapterIndex": 822
+  },
+  "九月仙子": {
+    "name": "九月仙子",
+    "realm": null,
+    "path": null,
+    "description": "散修，性情清冷，与任修平关系隐秘。",
+    "firstChapterIndex": 822
+  },
+  "楚瀛": {
+    "name": "楚瀛",
+    "realm": "七转",
+    "path": "变化道",
+    "description": "蛊仙，与任修平有仇，跟脚隐秘。",
+    "firstChapterIndex": 822
+  },
+  "老村长": {
+    "name": "老村长",
+    "realm": "三转蛊师",
+    "path": null,
+    "description": "小渔村的村长，白发苍苍，满脸皱纹，是村中最厉害的采油蛊师，被方源搜魂。",
+    "firstChapterIndex": 827
+  },
+  "谢晗沫": {
+    "name": "谢晗沫",
+    "realm": null,
+    "path": null,
+    "description": "方源前世的一生至爱，姓谢名晗沫。",
+    "firstChapterIndex": 827
+  },
+  "老蛊师": {
+    "name": "老蛊师",
+    "realm": null,
+    "path": null,
+    "description": "方源前世记忆中的采油老蛊师，膝下无子，曾传授方源采油手段并故意保留，意图让方源成为上门女婿。",
+    "firstChapterIndex": 827
+  },
+  "沫儿": {
+    "name": "沫儿",
+    "realm": null,
+    "path": null,
+    "description": "被从黑油中救出的女性鲛人，方源见到她后喊出'沫儿'。",
+    "firstChapterIndex": 829
+  },
+  "鲛人小姑娘": {
+    "name": "鲛人小姑娘",
+    "realm": "鲛人",
+    "path": null,
+    "description": "蓝色鱼鳞，被方源救下，处于昏迷中。",
+    "firstChapterIndex": 830
+  },
+  "两个鲛人随从": {
+    "name": "两个鲛人随从",
+    "realm": "鲛人",
+    "path": null,
+    "description": "一蓝一红（从人影颜色推断），对方源有敌意，随同圣女谢晗沫。",
+    "firstChapterIndex": 830
+  },
+  "中年蛊师": {
+    "name": "中年蛊师",
+    "realm": "人族",
+    "path": null,
+    "description": "小渔村蛊师，男性。",
+    "firstChapterIndex": 830
+  },
+  "蓝鳞": {
+    "name": "蓝鳞",
+    "realm": null,
+    "path": null,
+    "description": "谢晗沫的侍卫之一。",
+    "firstChapterIndex": 832
+  },
+  "红鳞": {
+    "name": "红鳞",
+    "realm": null,
+    "path": null,
+    "description": "谢晗沫的侍卫之一。",
+    "firstChapterIndex": 832
+  },
+  "鲁达": {
+    "name": "鲁达",
+    "realm": "四转",
+    "path": null,
+    "description": "鲛人蛊师，在海市中嚣张挑衅，与方源赌石。",
+    "firstChapterIndex": 832
+  },
+  "乐土仙尊": {
+    "name": "乐土仙尊",
+    "realm": null,
+    "path": null,
+    "description": "留下乐土真传的仙尊，行事风格平和、善意、光明、温暖。",
+    "firstChapterIndex": 832
+  },
+  "夏琳": {
+    "name": "夏琳",
+    "realm": "二转蛊师",
+    "path": null,
+    "description": "鲛人姑娘，数月前唯一的亲人爷爷去世，为海葬赊借元石，后冒险采集黑油，获方源相救并被给予采油蛊。此刻在金玉屋中因还债纠纷与店家争吵。",
+    "firstChapterIndex": 833
+  },
+  "伤疤鲛人": {
+    "name": "伤疤鲛人",
+    "realm": "三转蛊师",
+    "path": null,
+    "description": "鲛人，身材如熊，脸上有一道长长的伤疤，浑身煞气，是金玉屋的员工，与夏琳争吵并被她主动攻击。",
+    "firstChapterIndex": 833
+  },
+  "黄鳞鲛人": {
+    "name": "黄鳞鲛人",
+    "realm": null,
+    "path": null,
+    "description": "金玉屋的主人，大腹便便，黄鳞，表面和气，意图得到夏琳的采油蛊。",
+    "firstChapterIndex": 833
+  },
+  "解石蛊师": {
+    "name": "解石蛊师",
+    "realm": null,
+    "path": null,
+    "description": "金玉屋配备的解石蛊师，被黄鳞鲛人收买，后为夏琳解石，但被夏琳指挥。",
+    "firstChapterIndex": 834
+  },
+  "蓝鳞侍卫": {
+    "name": "蓝鳞侍卫",
+    "realm": null,
+    "path": null,
+    "description": "谢晗沫的侍卫之一，曾对方源翻白眼。",
+    "firstChapterIndex": 835
+  },
+  "红鳞侍卫": {
+    "name": "红鳞侍卫",
+    "realm": null,
+    "path": null,
+    "description": "谢晗沫的侍卫之一，与蓝鳞侍卫一起陪同圣女。",
+    "firstChapterIndex": 835
+  },
+  "赤鳞侍卫": {
+    "name": "赤鳞侍卫",
+    "realm": null,
+    "path": null,
+    "description": "鲛人侍卫，对秋霜非处子一事表示高兴",
+    "firstChapterIndex": 839
+  },
+  "秋霜": {
+    "name": "秋霜",
+    "realm": null,
+    "path": null,
+    "description": "寒潮族长支持的圣女候选人，因非处子之身被处死",
+    "firstChapterIndex": 839
+  },
+  "寒潮族长": {
+    "name": "寒潮族长",
+    "realm": null,
+    "path": null,
+    "description": "秋霜背后的支持者，与步素莲是盟友，对谢晗沫怀恨在心",
+    "firstChapterIndex": 839
+  },
+  "步素莲": {
+    "name": "步素莲",
+    "realm": null,
+    "path": null,
+    "description": "鲛女贵妇，与寒潮族长对话的盟友",
+    "firstChapterIndex": 839
+  },
+  "冬蕾": {
+    "name": "冬蕾",
+    "realm": null,
+    "path": null,
+    "description": "秋霜的跟随者，顶替秋霜参加海神祭",
+    "firstChapterIndex": 839
+  },
+  "大族老": {
+    "name": "大族老",
+    "realm": null,
+    "path": null,
+    "description": "鲛人圣庭高层，以公正、律己、宽容著称，支持谢晗沫，提供情报",
+    "firstChapterIndex": 839
+  },
+  "阿青": {
+    "name": "阿青",
+    "realm": null,
+    "path": null,
+    "description": "神话中的鲛女，向海神祈祷并唱了两首歌后劳累去世",
+    "firstChapterIndex": 839
+  },
+  "阿雅": {
+    "name": "阿雅",
+    "realm": null,
+    "path": null,
+    "description": "阿青的妹妹，接替姐姐唱完第三首歌，挽救小渔村",
+    "firstChapterIndex": 839
+  },
+  "赤鳞": {
+    "name": "赤鳞",
+    "realm": null,
+    "path": null,
+    "description": "谢晗沫的侍卫之一，怒吼要揭露寒潮族长的诡计，被方源反驳",
+    "firstChapterIndex": 840
+  },
+  "其他族老": {
+    "name": "其他族老",
+    "realm": null,
+    "path": null,
+    "description": "族老们，有的沉默，有的想开口",
+    "firstChapterIndex": 841
+  },
+  "赵露": {
+    "name": "赵露",
+    "realm": null,
+    "path": null,
+    "description": "海神祭中与苏怡竞争的另一方，其跟随者名扬大海",
+    "firstChapterIndex": 843
+  },
+  "容嬷嬷": {
+    "name": "容嬷嬷",
+    "realm": null,
+    "path": null,
+    "description": "苏怡身边的一位嬷嬷，建议抛弃夏琳",
+    "firstChapterIndex": 843
+  },
+  "苏怡": {
+    "name": "苏怡",
+    "realm": "白鳞鲛人",
+    "path": null,
+    "description": "竞争圣女之位的鲛人大小姐，手中端着杯盏",
+    "firstChapterIndex": 843
+  },
+  "另一位嬷嬷": {
+    "name": "另一位嬷嬷",
+    "realm": null,
+    "path": null,
+    "description": "苏怡身边的另一位嬷嬷，附议抛弃夏琳",
+    "firstChapterIndex": 843
+  },
+  "监察使": {
+    "name": "监察使",
+    "realm": null,
+    "path": null,
+    "description": "圣城监察使，负责拘捕夏琳并审问",
+    "firstChapterIndex": 843
+  },
+  "客栈老板": {
+    "name": "客栈老板",
+    "realm": null,
+    "path": null,
+    "description": "客栈老板，因舆情要求夏琳离开",
+    "firstChapterIndex": 844
+  },
+  "六位鲛人蛊师": {
+    "name": "六位鲛人蛊师",
+    "realm": "二转蛊师",
+    "path": null,
+    "description": "六名男性，其中一位是头儿，袭击夏琳后被方源制服",
+    "firstChapterIndex": 844
+  },
+  "枫叶城主": {
+    "name": "枫叶城主",
+    "realm": "五转蛊师",
+    "path": null,
+    "description": "本名洪铸，国字脸，不威自怒，五十多岁，方圆数千里战力第一，位高权重，富有领袖魅力，受人拥戴。深爱结发妻子，膝下无子，九个月前得知妻子怀孕。",
+    "firstChapterIndex": 849
+  },
+  "城主夫人": {
+    "name": "城主夫人",
+    "realm": null,
+    "path": null,
+    "description": "枫叶城主的结发妻子，生产时遭遇困难，最终生下男孩。",
+    "firstChapterIndex": 849
+  },
+  "三位产婆": {
+    "name": "三位产婆",
+    "realm": null,
+    "path": null,
+    "description": "两位修为三转，一位修为四转，远近闻名。",
+    "firstChapterIndex": 849
+  },
+  "眉公": {
+    "name": "眉公",
+    "realm": "八转蛊仙",
+    "path": null,
+    "description": "老年模样，慈眉善目，一双眉毛像两根小巧的深褐树根，从眉头延伸出去垂至胸前。天庭三公之一。为抵抗灾劫受伤，将陷入长久沉眠。",
+    "firstChapterIndex": 849
+  },
+  "铜公": {
+    "name": "铜公",
+    "realm": "八转蛊仙",
+    "path": null,
+    "description": "中年男子，体格雄壮至极，��脸肌肤好似黄铜，散发着冰冷的金属光泽。天庭三公之一。为抵抗灾劫受伤，将陷入长久沉眠。",
+    "firstChapterIndex": 849
+  },
+  "洪亭": {
+    "name": "洪亭",
+    "realm": "五转修为，后成为宙道蛊仙",
+    "path": "宙道",
+    "description": "龙公徒弟，铸成大错"
+  },
+  "洪铸": {
+    "name": "洪铸",
+    "realm": null,
+    "path": null,
+    "description": "枫叶城城主，洪亭之父。",
+    "firstChapterIndex": 850
+  },
+  "薛屠刀": {
+    "name": "薛屠刀",
+    "realm": null,
+    "path": null,
+    "description": "恶人，屠村，五转修为。",
+    "firstChapterIndex": 850
+  },
+  "赵三思": {
+    "name": "赵三思",
+    "realm": null,
+    "path": null,
+    "description": "著名的剑修大师。",
+    "firstChapterIndex": 850
+  },
+  "金雀": {
+    "name": "金雀",
+    "realm": null,
+    "path": null,
+    "description": "一群灵雀，浑身金光烁烁，飞至城主府上空自爆成金色光点。",
+    "firstChapterIndex": 850
+  },
+  "老城主": {
+    "name": "老城主",
+    "realm": null,
+    "path": null,
+    "description": "一位凡人城主，与洪亭父亲有交情，曾跪求洪亭除魔。",
+    "firstChapterIndex": 851
+  },
+  "魔头蛊仙": {
+    "name": "魔头蛊仙",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "扬言屠戮城池的魔头，被洪亭在时机到来后除掉。",
+    "firstChapterIndex": 851
+  },
+  "牛头蛮魔": {
+    "name": "牛头蛮魔",
+    "realm": "蛊仙（魔仙）",
+    "path": null,
+    "description": "牛头魔仙，抓住洪亭父母，拥有寿蛊，要求洪亭归还寿蛊。",
+    "firstChapterIndex": 851
+  },
+  "柳淑仙": {
+    "name": "柳淑仙",
+    "realm": null,
+    "path": null,
+    "description": "刚逝去的人，洪亭想复活的对象之一",
+    "firstChapterIndex": 852
+  },
+  "乐土": {
+    "name": "乐土",
+    "realm": "九转",
+    "path": null,
+    "description": "已成就仙尊，寻到石莲岛借悔蛊，称红莲为前辈",
+    "firstChapterIndex": 852
+  },
+  "红莲真意": {
+    "name": "红莲真意",
+    "realm": null,
+    "path": null,
+    "description": "红莲魔尊留下的真意形象，出现在石莲岛与乐土对话，后对方源说等待了他一百多万年",
+    "firstChapterIndex": 852
+  },
+  "天庭蛊仙（若干）": {
+    "name": "天庭蛊仙（若干）",
+    "realm": null,
+    "path": null,
+    "description": "劝解龙公与洪亭争吵的蛊仙",
+    "firstChapterIndex": 852
+  },
+  "弓无花": {
+    "name": "弓无花",
+    "realm": null,
+    "path": null,
+    "description": "西漠弓家二小姐，一箭射杀上古荒兽。",
+    "firstChapterIndex": 856
+  },
+  "巨鹰勇士": {
+    "name": "巨鹰勇士",
+    "realm": null,
+    "path": null,
+    "description": "与银白巨鹰合体的蛊仙，拥有战技银白幻影，被方源杀死。",
+    "firstChapterIndex": 861
+  },
+  "冰塞川": {
+    "name": "冰塞川",
+    "realm": "八转",
+    "path": "宙道",
+    "description": "操纵劫运坛，对方向传音"
+  },
+  "上旬子": {
+    "name": "上旬子",
+    "realm": null,
+    "path": null,
+    "description": "天庭成员，向凤九歌汇报已困住红莲岛。",
+    "firstChapterIndex": 867
+  },
+  "星野望": {
+    "name": "星野望",
+    "realm": "八转",
+    "path": null,
+    "description": "天庭蛊仙，浑身绽射星芒，参与光阴长河战场。",
+    "firstChapterIndex": 870
+  },
+  "东海八转蛊仙（群体）": {
+    "name": "东海八转蛊仙（群体）",
+    "realm": "八转",
+    "path": null,
+    "description": "包括正道、魔道、散修，联合对抗龙公，各有底蕴和压箱底手段。",
+    "firstChapterIndex": 870
+  },
+  "张平": {
+    "name": "张平",
+    "realm": "二转蛊师",
+    "path": null,
+    "description": "少年，刚刚晋升成二转蛊师，来自西漠，参加中洲炼蛊大会。拥有炼道天赋。",
+    "firstChapterIndex": 872
+  },
+  "张全": {
+    "name": "张全",
+    "realm": "三转蛊师",
+    "path": null,
+    "description": "三转蛊师，张平的父亲，来自西漠。",
+    "firstChapterIndex": 872
+  },
+  "洪亭（红莲仙尊）": {
+    "name": "洪亭（红莲仙尊）",
+    "realm": null,
+    "path": null,
+    "description": "红莲仙尊，龙公的徒弟。设计了春秋蝉仙蛊，想要复活他们并改变宿命。从《人祖传》获得启发，依靠爱情蛊改变宿命。被龙公认为大逆不道，将堕入魔道。",
+    "firstChapterIndex": 872
+  },
+  "灵蝶谷蛊仙": {
+    "name": "灵蝶谷蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "来自灵蝶谷的蛊仙，救下了张全张平等一群西漠蛊师。",
+    "firstChapterIndex": 872
+  },
+  "罗生": {
+    "name": "罗生",
+    "realm": null,
+    "path": "炼道",
+    "description": "炼道大师，在上一届炼蛊大会中因意外落败，本次卷土重来。",
+    "firstChapterIndex": 873
+  },
+  "青年男子": {
+    "name": "青年男子",
+    "realm": null,
+    "path": null,
+    "description": "在上一届炼蛊大会中大放异彩的蛊师。",
+    "firstChapterIndex": 873
+  },
+  "明眸少女": {
+    "name": "明眸少女",
+    "realm": null,
+    "path": null,
+    "description": "近十年来崛起的闪亮天才。",
+    "firstChapterIndex": 873
+  },
+  "周雄信": {
+    "name": "周雄信",
+    "realm": "天庭",
+    "path": null,
+    "description": "催促唤醒仙墓中的仙友",
+    "firstChapterIndex": 873
+  },
+  "中洲八转蛊仙（未具名）": {
+    "name": "中洲八转蛊仙（未具名）",
+    "realm": null,
+    "path": null,
+    "description": "扑向方源的中洲八转蛊仙。",
+    "firstChapterIndex": 873
+  },
+  "四位八转蛊仙（包括周雄信）": {
+    "name": "四位八转蛊仙（包括周雄信）",
+    "realm": null,
+    "path": null,
+    "description": "围剿方源的四位八转蛊仙。",
+    "firstChapterIndex": 873
+  },
+  "正元老人": {
+    "name": "正元老人",
+    "realm": "七转",
+    "path": null,
+    "description": "需要被保护，在中央大殿",
+    "firstChapterIndex": 876
+  },
+  "厉煌": {
+    "name": "厉煌",
+    "realm": null,
+    "path": null,
+    "description": "驻守维护炼蛊大会",
+    "firstChapterIndex": 876
+  },
+  "吴发": {
+    "name": "吴发",
+    "realm": "七转",
+    "path": null,
+    "description": "风云府太上长老，开创法身门",
+    "firstChapterIndex": 876
+  },
+  "中洲三位八转": {
+    "name": "中洲三位八转",
+    "realm": "八转",
+    "path": null,
+    "description": "受伤撤退，具体姓名未提",
+    "firstChapterIndex": 876
+  },
+  "张阴": {
+    "name": "张阴",
+    "realm": null,
+    "path": null,
+    "description": "蛊仙；被龙公隐藏，未暴露",
+    "firstChapterIndex": 905
+  },
+  "东海蛊仙": {
+    "name": "东海蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "东海地区的蛊仙；龙公担心留不下他们",
+    "firstChapterIndex": 905
+  },
+  "清夜": {
+    "name": "清夜",
+    "realm": null,
+    "path": null,
+    "description": "蛊仙；即将到达不败福地战场",
+    "firstChapterIndex": 905
+  },
+  "元始仙尊": {
+    "name": "元始仙尊",
+    "realm": null,
+    "description": "其气道杀招元始气墙被龙公作为诱饵。",
+    "firstChapterIndex": 913
+  },
+  "年轻的人族蛊仙": {
+    "name": "年轻的人族蛊仙",
+    "realm": null,
+    "description": "一位年轻的人族蛊仙，曾勉强笑着对元始仙尊说话。",
+    "firstChapterIndex": 913
+  },
+  "人族蛊仙中的某位老者": {
+    "name": "人族蛊仙中的某位老者",
+    "realm": null,
+    "description": "一位人族蛊仙老者，语气沉重地询问元始仙尊是否要舍弃家族、组建师门。",
+    "firstChapterIndex": 913
+  },
+  "人族蛊仙们": {
+    "name": "人族蛊仙们",
+    "realm": null,
+    "description": "在场的人族蛊仙群体，对元始仙尊的提议有沉默、震惊、响应等不同反应。",
+    "firstChapterIndex": 913
+  },
+  "天庭成员": {
+    "name": "天庭成员",
+    "realm": null,
+    "description": "仙墓中苏醒的天庭成员，对天庭被侵犯表示愤怒，称天庭为人族的圣地、人道的天堂、人族的正统。",
+    "firstChapterIndex": 913
+  },
+  "糜蓝光": {
+    "name": "糜蓝光",
+    "realm": "七转",
+    "path": "信道",
+    "description": "中洲蛊仙，原为风云府雷道蛊仙，天庭下宗成员，后违背门规被废去修为逐出，重修信道成为七转蛊仙。",
+    "firstChapterIndex": 919
+  },
+  "大藏仙人": {
+    "name": "大藏仙人",
+    "realm": "七转",
+    "path": "信道",
+    "description": "东海蛊仙，专修信道。",
+    "firstChapterIndex": 919
+  },
+  "剑一生": {
+    "name": "剑一生",
+    "realm": "七转",
+    "path": "剑道",
+    "description": "中洲本地蛊仙，最初六转人物，实际已提升至七转。散仙，擅长剑遁杀招。",
+    "firstChapterIndex": 919
+  },
+  "石狮诚": {
+    "name": "石狮诚",
+    "realm": "六转",
+    "path": "石人蛊仙",
+    "description": "石人蛊仙，曾与方源一战，拥有仙道战场杀招灰云石傀，担任石人一族的第一首脑。",
+    "firstChapterIndex": 949
+  },
+  "方源本体": {
+    "name": "方源本体",
+    "realm": "八转",
+    "path": null,
+    "description": "盘坐在南疆某处无名山谷瀑布顶的松树枝丫间，闭目沉思。",
+    "firstChapterIndex": 950
+  },
+  "方源分身": {
+    "name": "方源分身",
+    "realm": "八转",
+    "path": "宙道",
+    "description": "在至尊仙窍内，沐浴智慧光晕，与本体一齐推算。",
+    "firstChapterIndex": 950
+  },
+  "西漠魂道蛊仙": {
+    "name": "西漠魂道蛊仙",
+    "realm": null,
+    "path": "魂道",
+    "description": "身着黑袍，头顶阴云，周身有灰白色冤魂纠缠。杀招诡谲阴狠，带哭泣声。",
+    "firstChapterIndex": 954
+  },
+  "算不尽": {
+    "name": "算不尽",
+    "realm": null,
+    "path": null,
+    "description": "方源的伪装身份。",
+    "firstChapterIndex": 955
+  },
+  "郑山川": {
+    "name": "郑山川",
+    "realm": null,
+    "path": null,
+    "description": "运气宛若七彩虹光。",
+    "firstChapterIndex": 958
+  },
+  "商虎杖": {
+    "name": "商虎杖",
+    "realm": null,
+    "path": null,
+    "description": "商家蛊仙，在包围现场大笑并拍陆畏因马屁。",
+    "firstChapterIndex": 959
+  },
+  "铁区中": {
+    "name": "铁区中",
+    "realm": null,
+    "path": null,
+    "description": "南疆蛊仙，在包围现场喊话报仇。",
+    "firstChapterIndex": 959
+  },
+  "巴十八": {
+    "name": "巴十八",
+    "realm": "八转",
+    "path": null,
+    "description": "南疆八转蛊仙，伪装修为和面容参与追缴，传音安抚刘浩。",
+    "firstChapterIndex": 959
+  },
+  "陶铸（意志）": {
+    "name": "陶铸（意志）",
+    "realm": "八转（生前）",
+    "path": null,
+    "description": "已故蛊仙残留的意志，生前钻研五域界壁奥妙；留下五界传承；被方源拿捏束缚，充满苦涩，最终妥协。",
+    "firstChapterIndex": 962
+  },
+  "南疆群仙": {
+    "name": "南疆群仙",
+    "realm": null,
+    "path": null,
+    "description": "被方源俘虏的南疆群仙。",
+    "firstChapterIndex": 962
+  },
+  "天庭": {
+    "name": "天庭",
+    "realm": null,
+    "path": null,
+    "description": "方源计划进犯的目标，被提及吸引了注意力。",
+    "firstChapterIndex": 962
+  },
+  "乔家": {
+    "name": "乔家",
+    "realm": null,
+    "path": null,
+    "description": "曾钻研五色山脉传承多年的势力，武庸依靠其积累成功摧毁五色山脉。",
+    "firstChapterIndex": 962
+  },
+  "南疆正道蛊仙": {
+    "name": "南疆正道蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "回忆中打压陶铸，警告他停止研究五域界壁，并收走了他的研究成果。",
+    "firstChapterIndex": 962
+  },
+  "女仙（姚家太上大长老的掌上明珠）": {
+    "name": "女仙（姚家太上大长老的掌上明珠）",
+    "realm": null,
+    "path": null,
+    "description": "陶铸的爱人，因陶铸沉迷研究而离开他，曾请求陶铸入赘姚家并放弃研究。",
+    "firstChapterIndex": 962
+  },
+  "万良翰": {
+    "name": "万良翰",
+    "realm": null,
+    "path": "智道",
+    "description": "万家智道蛊仙，额头肿大，容貌丑陋，设下陷阱引诱算不尽。",
+    "firstChapterIndex": 975
+  },
+  "万逍": {
+    "name": "万逍",
+    "realm": "七转",
+    "path": null,
+    "description": "万家蛊仙，身材高瘦，披青袍，周围旋风缭绕。",
+    "firstChapterIndex": 975
+  },
+  "万豪光": {
+    "name": "万豪光",
+    "realm": "七转",
+    "path": null,
+    "description": "万家蛊仙，不见面貌，浑身罩光甲，散发巨大热量。",
+    "firstChapterIndex": 975
+  },
+  "裂神老人": {
+    "name": "裂神老人",
+    "realm": "七转",
+    "path": "智道",
+    "description": "原本是万家智道蛊仙，因修行差错变得疯癫痴狂，曾屠戮正道蛊仙，后消失无踪。",
+    "firstChapterIndex": 975
+  },
+  "幽魂": {
+    "name": "幽魂",
+    "realm": "八转",
+    "path": "魂道",
+    "description": "魔尊，在义天山大战中脚踩大地，不能飞行。",
+    "firstChapterIndex": 980
+  },
+  "雪胡老祖夫人": {
+    "name": "雪胡老祖夫人",
+    "realm": null,
+    "path": null,
+    "description": "劝说雪胡老祖接受资助。",
+    "firstChapterIndex": 980
+  },
+  "异人蛊仙": {
+    "name": "异人蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "在万年斗飞车中，称呼方源为“宗主大人”，语气兴奋。",
+    "firstChapterIndex": 981
+  },
+  "四旬子": {
+    "name": "四旬子",
+    "realm": "七转",
+    "path": null,
+    "description": "中洲四位宙道蛊仙，站在今古亭中。包括上旬子（大兄）、中旬子、下旬子、旬果子。",
+    "firstChapterIndex": 981
+  },
+  "中旬子": {
+    "name": "中旬子",
+    "realm": "七转",
+    "path": null,
+    "description": "四旬子之一，连忙叫用那一招。",
+    "firstChapterIndex": 981
+  },
+  "下旬子": {
+    "name": "下旬子",
+    "realm": "七转",
+    "path": null,
+    "description": "四旬子之一，安慰旬果子。",
+    "firstChapterIndex": 981
+  },
+  "旬果子": {
+    "name": "旬果子",
+    "realm": "七转",
+    "path": null,
+    "description": "四旬子之一，面露骇然之色，惊叫。",
+    "firstChapterIndex": 981
+  },
+  "顾六如": {
+    "name": "顾六如",
+    "realm": "八转",
+    "path": "宙道",
+    "description": "天庭一方的宙道八转大能",
+    "firstChapterIndex": 988
+  },
+  "中洲女仙": {
+    "name": "中洲女仙",
+    "realm": null,
+    "path": null,
+    "description": "被方源用春剪杀死的天庭蛊仙",
+    "firstChapterIndex": 988
+  },
+  "七转蛊仙（建议者）": {
+    "name": "七转蛊仙（建议者）",
+    "realm": "七转",
+    "path": null,
+    "description": "在三秋黄鹤台中建议擒贼先擒王的蛊仙",
+    "firstChapterIndex": 988
+  },
+  "七转蛊仙（提问者）": {
+    "name": "七转蛊仙（提问者）",
+    "realm": "七转",
+    "path": null,
+    "description": "质疑斩首战术可行性的蛊仙",
+    "firstChapterIndex": 988
+  },
+  "龙人分身": {
+    "name": "龙人分身",
+    "realm": null,
+    "path": null,
+    "description": "方源的龙人分身，伸出手掌，面前悬空站着一头幼鹿。",
+    "firstChapterIndex": 992
+  },
+  "幼鹿": {
+    "name": "幼鹿",
+    "realm": null,
+    "path": null,
+    "description": "气海天灵，形如幼鹿，浑身雪白，双眼泛着金黄色光，右后侧有深可见骨的恐怖伤痕，延伸到腹部之下，残留浓郁道痕。",
+    "firstChapterIndex": 992
+  },
+  "气相当年": {
+    "name": "气相当年",
+    "realm": null,
+    "path": null,
+    "description": "执念结合了气海洞天的天地伟力，形成气海天灵。",
+    "firstChapterIndex": 992
+  },
+  "兽灾仙人": {
+    "name": "兽灾仙人",
+    "realm": null,
+    "path": null,
+    "description": "撑过第一场万劫时去世，遗留兽灾洞��。",
+    "firstChapterIndex": 992
+  },
+  "气相": {
+    "name": "气相",
+    "realm": null,
+    "path": null,
+    "description": "开创了无量气海杀招，并通过汲取各类气息储藏在仙窍中，使杀招具有成长性。",
+    "firstChapterIndex": 992
+  },
+  "五相": {
+    "name": "五相",
+    "realm": null,
+    "path": null,
+    "description": "并称，纵横两天，名震五域，风头一时无两。",
+    "firstChapterIndex": 992
+  },
+  "樊西流": {
+    "name": "樊西流",
+    "realm": null,
+    "path": null,
+    "description": "交给方正剿杀或俘虏金山牛的任务。",
+    "firstChapterIndex": 994
+  },
+  "梦道分身": {
+    "name": "梦道分身",
+    "realm": null,
+    "path": null,
+    "description": "方源的分身，气运象征为粉色雾气，需晋升六转后才能与宙道分身气运媲美。",
+    "firstChapterIndex": 999
+  },
+  "南疆各大家族": {
+    "name": "南疆各大家族",
+    "realm": null,
+    "path": null,
+    "description": "与方源互换仙蛊。",
+    "firstChapterIndex": 999
+  },
+  "战部渡": {
+    "name": "战部渡",
+    "realm": "一转",
+    "path": null,
+    "description": "不闪不避，任凭星尘射中；宛若狂龙猛虎；一脚飞踢明皓仙子；冲上书山之巅；被星光罩住送到山脚；再次冲锋；硬顶明皓仙子攻击",
+    "firstChapterIndex": 1000
+  },
+  "小箭尾雕": {
+    "name": "小箭尾雕",
+    "realm": "荒兽",
+    "path": null,
+    "description": "从天上掉落的荒兽蛋中孵化，第一眼看到战部渡并认其为至亲。",
+    "firstChapterIndex": 1000
+  },
+  "龙人分身（吴帅）": {
+    "name": "龙人分身（吴帅）",
+    "realm": null,
+    "path": null,
+    "description": "龙人少年，拥有奴道天赋，是龙人蛊仙的儿子，正在探索梦境，不能失败。",
+    "firstChapterIndex": 1004
+  },
+  "龙人蛊仙（父亲）": {
+    "name": "龙人蛊仙（父亲）",
+    "realm": null,
+    "path": null,
+    "description": "酷似龙公的龙人蛊仙，吴帅的父亲，门派太上长老，外貌严肃，管教严厉。",
+    "firstChapterIndex": 1004
+  },
+  "张双": {
+    "name": "张双",
+    "realm": null,
+    "path": null,
+    "description": "被吴帅赢过的对手，是某太上长老的嫡亲血脉。",
+    "firstChapterIndex": 1004
+  },
+  "陈副": {
+    "name": "陈副",
+    "realm": null,
+    "path": null,
+    "description": "被吴帅赢过的对手，是某太上长老的嫡亲血脉。",
+    "firstChapterIndex": 1004
+  },
+  "龙人少年们": {
+    "name": "龙人少年们",
+    "realm": null,
+    "path": null,
+    "description": "与吴帅同龄的龙人，噤若寒蝉，对吴帅流露出同情、愧疚、庆幸之色。",
+    "firstChapterIndex": 1004
+  },
+  "泰琴": {
+    "name": "泰琴",
+    "realm": null,
+    "path": null,
+    "description": "与方源对决的蛊师，采取防守战术，建造蚁巢并操蚁。在比试中一度劣势，后来借助酸雨和王蚁挽回局面。",
+    "firstChapterIndex": 1006
+  },
+  "绿蚁居士": {
+    "name": "绿蚁居士",
+    "realm": null,
+    "path": null,
+    "description": "发明了操蚁戏的奴道传承者，以操蚁比试作为择徒内容。",
+    "firstChapterIndex": 1006
+  },
+  "吴帅": {
+    "name": "吴帅",
+    "realm": "八转",
+    "path": "土道",
+    "description": "对联盟蛊仙下令突袭气功果"
+  },
+  "气海老祖（方源假扮）": {
+    "name": "气海老祖（方源假扮）",
+    "realm": "八转",
+    "path": "气道",
+    "description": "白袍老者，大袖飘飘，一大把白胡子垂至脚面，面容肃穆，气度浩荡，身边云气飘飘。实为方源假扮。",
+    "firstChapterIndex": 1010
+  },
+  "方源（本体）": {
+    "name": "方源（本体）",
+    "realm": null,
+    "path": null,
+    "description": "假扮气海老祖，冷笑说话，被龙公称为'方源魔头'，从未来重生。",
+    "firstChapterIndex": 1010
+  },
+  "黄维": {
+    "name": "黄维",
+    "realm": null,
+    "path": null,
+    "description": "龙人蛊仙，与吴帅结拜，称呼吴帅为兄长",
+    "firstChapterIndex": 1012
+  },
+  "文秀": {
+    "name": "文秀",
+    "realm": "八转",
+    "path": "信道",
+    "description": "一代奇女子，信道大能，已逝，散修出身，掌握非议峰",
+    "firstChapterIndex": 1012
+  },
+  "范极": {
+    "name": "范极",
+    "realm": null,
+    "path": null,
+    "description": "与吴帅夫人书九灵有私情，昏迷在现场，炼化非议峰勉强",
+    "firstChapterIndex": 1012
+  },
+  "书九灵": {
+    "name": "书九灵",
+    "realm": null,
+    "path": null,
+    "description": "吴帅夫人，与范极有私情",
+    "firstChapterIndex": 1012
+  },
+  "沈从声": {
+    "name": "沈从声",
+    "realm": "八转",
+    "path": null,
+    "description": "大叫撤",
+    "firstChapterIndex": 1012
+  },
+  "气海老祖": {
+    "name": "气海老祖",
+    "realm": "八转",
+    "path": null,
+    "description": "一直和毓秀仙子交手；挥出虚影诱骗毓秀仙子；头顶现出天地秘境乎地；施展仙道杀招乎昂",
+    "firstChapterIndex": 1012
+  },
+  "松涛子": {
+    "name": "松涛子",
+    "realm": "七转",
+    "path": null,
+    "description": "风云府顶尖七转蛊仙，中洲七转蛊仙中的前三，拥有成名杀招绿天松涛，被吴帅用龙庭碾死。",
+    "firstChapterIndex": 1017
+  },
+  "书道阁主": {
+    "name": "书道阁主",
+    "realm": "八转",
+    "path": null,
+    "description": "八转蛊仙，书道阁主，吴帅的泰水（岳母）。",
+    "firstChapterIndex": 1017
+  },
+  "古凉": {
+    "name": "古凉",
+    "realm": null,
+    "path": null,
+    "description": "东海蛊仙，全程观战吴帅与松涛子的大战，在庆功晚宴上敬酒。",
+    "firstChapterIndex": 1017
+  },
+  "风云府使者": {
+    "name": "风云府使者",
+    "realm": "六转",
+    "path": null,
+    "description": "风云府派出的不出名六转蛊仙，参加庆功晚宴。",
+    "firstChapterIndex": 1017
+  },
+  "龙灵": {
+    "name": "龙灵",
+    "realm": null,
+    "path": null,
+    "description": "吴帅与泰琴的儿子，一双大眼，灵动非凡。",
+    "firstChapterIndex": 1021
+  },
+  "七少爷": {
+    "name": "七少爷",
+    "realm": null,
+    "path": null,
+    "description": "吴帅的七哥，平素最得龙公喜爱，反对吴帅的实验。",
+    "firstChapterIndex": 1021
+  },
+  "易酒仙姑": {
+    "name": "易酒仙姑",
+    "realm": null,
+    "path": null,
+    "description": "被吴帅奴役。",
+    "firstChapterIndex": 1021
+  },
+  "红莲": {
+    "name": "红莲",
+    "realm": null,
+    "path": null,
+    "description": "龙公的徒弟，与龙公矛盾激化。",
+    "firstChapterIndex": 1021
+  },
+  "肥臀鸟": {
+    "name": "肥臀鸟",
+    "realm": null,
+    "path": null,
+    "description": "一种鸟，头有鸡冠，浑身杂毛，身躯肥硕，臀部极其巨大，叫声咕噜咕噜。",
+    "firstChapterIndex": 1029
+  },
+  "肥臀鸟王": {
+    "name": "肥臀鸟王",
+    "realm": null,
+    "path": null,
+    "description": "体格庞大，是寻常肥臀鸟的两倍，统领鸟群。",
+    "firstChapterIndex": 1029
+  },
+  "山崖城主": {
+    "name": "山崖城主",
+    "realm": null,
+    "path": null,
+    "description": "老者，花白胡须，收战部渡为徒弟，是山崖城的城主。",
+    "firstChapterIndex": 1029
+  },
+  "中年美妇": {
+    "name": "中年美妇",
+    "realm": null,
+    "path": null,
+    "description": "山崖城主的儿媳妇，曾有一个夭折的儿子，将战部渡认作干儿子。",
+    "firstChapterIndex": 1029
+  },
+  "中年男子": {
+    "name": "中年男子",
+    "realm": null,
+    "path": null,
+    "description": "只有上半身，齐腰而断，脸色健康，精神矍铄，是山崖城主的儿子、中年美妇的丈夫，称战部渡为干儿子。",
+    "firstChapterIndex": 1029
+  },
+  "被救的战兽使": {
+    "name": "被救的战兽使",
+    "realm": null,
+    "path": null,
+    "description": "山崖城守卫，曾看不起战部渡，后被战部渡救下。",
+    "firstChapterIndex": 1029
+  },
+  "山崖城防卫头领": {
+    "name": "山崖城防卫头领",
+    "realm": null,
+    "path": null,
+    "description": "山崖城防卫的首领，率先飞空迎战肥臀鸟群。",
+    "firstChapterIndex": 1029
+  },
+  "麒麟天灵": {
+    "name": "麒麟天灵",
+    "realm": null,
+    "path": null,
+    "description": "兽灾洞天的天灵，形如麒麟，兽灾仙人的执念所化。",
+    "firstChapterIndex": 1030
+  },
+  "战兽王": {
+    "name": "战兽王",
+    "realm": null,
+    "path": null,
+    "description": "战兽公会会长，身材枯瘦的老人。",
+    "firstChapterIndex": 1030
+  },
+  "琅琊白毛地灵": {
+    "name": "琅琊白毛地灵",
+    "realm": null,
+    "path": null,
+    "description": "巅峰级炼道造诣，主持长毛炼道大阵，炼制木道仙蛊。",
+    "firstChapterIndex": 1034
+  },
+  "毛八": {
+    "name": "毛八",
+    "realm": null,
+    "path": null,
+    "description": "毛民蛊仙，负责用炼道杀招拔取残风、净化仙蛊雏形。",
+    "firstChapterIndex": 1034
+  },
+  "大梦仙尊": {
+    "name": "大梦仙尊",
+    "realm": null,
+    "path": null,
+    "description": "三尊说预言中被称为尊者中的最强者，可能达到全知��",
+    "firstChapterIndex": 1034
+  },
+  "秘谋人": {
+    "name": "秘谋人",
+    "realm": "七转",
+    "path": "智道",
+    "description": "疯魔三怪之首，智道蛊仙，隐居疯魔窟数百年；探索第七层最远的人；对方源产生嫉妒、仇恨、愤怒、辛酸、悲凉等复杂情绪。",
+    "firstChapterIndex": 1040
+  },
+  "尊者": {
+    "name": "尊者",
+    "realm": "八转以上（尊者修为）",
+    "path": null,
+    "description": "被秘谋人认为只有尊者才能走出第七层进入第八层；提及‘那几位尊者来过这里’。",
+    "firstChapterIndex": 1040
+  },
+  "无极魔尊": {
+    "name": "无极魔尊",
+    "realm": null,
+    "path": null,
+    "description": "被提及，其推演受盗天真传空间妨碍",
+    "firstChapterIndex": 1042
+  },
+  "苏琪涵": {
+    "name": "苏琪涵",
+    "realm": null,
+    "path": null,
+    "description": "当朝尚书之女，身姿窈窕，清秀纯美，温文尔雅，书香气质，满腹诗论，通晓史籍，受伤，被下春药",
+    "firstChapterIndex": 1046
+  },
+  "丫鬟": {
+    "name": "丫鬟",
+    "realm": null,
+    "path": null,
+    "description": "苏琪涵的贴身丫鬟，忠心，为保护小姐牺牲自己，催动禁术必死",
+    "firstChapterIndex": 1046
+  },
+  "鲨匪": {
+    "name": "鲨匪",
+    "realm": null,
+    "path": null,
+    "description": "满脸横肉，虎背熊腰，浑身皮肤青黑如鲨鱼皮，有鲨皮蛊效用，之前败给苏琪涵",
+    "firstChapterIndex": 1046
+  },
+  "药魔": {
+    "name": "药魔",
+    "realm": null,
+    "path": null,
+    "description": "看似老者但实际二十多岁，专修毒道，遭受反噬，里外老迈腐朽，与苏琪涵有仇（因苏琪涵的表哥）",
+    "firstChapterIndex": 1046
+  },
+  "李小白": {
+    "name": "李小白",
+    "realm": null,
+    "path": null,
+    "description": "方源的分身，老师是姜先生，有才情，但不如本体，表示愿意放弃才子选拔",
+    "firstChapterIndex": 1046
+  },
+  "姜先生": {
+    "name": "姜先生",
+    "realm": null,
+    "path": null,
+    "description": "李小白的老师，曾为十大才子之一，未被征召为官，开私塾，劝李小白放弃选拔",
+    "firstChapterIndex": 1046
+  },
+  "古文帝": {
+    "name": "古文帝",
+    "realm": null,
+    "path": null,
+    "description": "已故，七岁作诗，才华卓绝，打造朝廷，开创十大才子选拔，将洞天纳入统治",
+    "firstChapterIndex": 1046
+  },
+  "当朝皇帝": {
+    "name": "当朝皇帝",
+    "realm": null,
+    "path": null,
+    "description": "蛊仙，华文洞天朝廷的皇帝",
+    "firstChapterIndex": 1046
+  },
+  "太太太上皇": {
+    "name": "太太太上皇",
+    "realm": "八转",
+    "path": null,
+    "description": "八转蛊仙，当今镇守华文洞天",
+    "firstChapterIndex": 1046
+  },
+  "申大才子": {
+    "name": "申大才子",
+    "realm": "五转巅峰",
+    "path": null,
+    "description": "每届十大才子之一，政治思想不高，未成仙",
+    "firstChapterIndex": 1046
+  },
+  "青岚仙妃": {
+    "name": "青岚仙妃",
+    "realm": "七转",
+    "path": null,
+    "description": "千变老祖的二房，主持万里变通阵",
+    "firstChapterIndex": 1048
+  },
+  "夜煞女": {
+    "name": "夜煞女",
+    "realm": null,
+    "path": null,
+    "description": "千变老祖的大房",
+    "firstChapterIndex": 1048
+  },
+  "小渡": {
+    "name": "小渡",
+    "realm": null,
+    "path": null,
+    "description": "年轻人，年轻有力的声音和胳膊，巨鹰勇士的救命恩人，山崖城主的徒弟，最年轻的战兽勇士，方源的分身，胸口有伤，飞行变化为箭尾雕。",
+    "firstChapterIndex": 1054
+  },
+  "太古荒鹰": {
+    "name": "太古荒鹰",
+    "realm": null,
+    "path": null,
+    "description": "击伤巨鹰勇士的猛兽，本体特异栽培，专门克制巨鹰勇士，盘旋在空中捕杀勇士。",
+    "firstChapterIndex": 1054
+  },
+  "初代战兽王": {
+    "name": "初代战兽王",
+    "realm": null,
+    "path": null,
+    "description": "传说中的人物，在祭坛里封印了自己的一部分力量。",
+    "firstChapterIndex": 1054
+  },
+  "汤琼": {
+    "name": "汤琼",
+    "realm": null,
+    "path": null,
+    "description": "黄鳞鲛人女仙，鲛人王庭中的当权长老，代表鲛人王庭的一部分意志，温婉可人，微笑时显现出酒窝。",
+    "firstChapterIndex": 1055
+  },
+  "苏伦": {
+    "name": "苏伦",
+    "realm": null,
+    "path": null,
+    "description": "来自东海超级势力苏家，隶属正道。",
+    "firstChapterIndex": 1061
+  },
+  "溺水翁": {
+    "name": "溺水翁",
+    "realm": null,
+    "path": null,
+    "description": "魔仙，专修水道，杀人无算，被东海五家超级势力联合通缉，胆大心细。",
+    "firstChapterIndex": 1061
+  },
+  "沈潭": {
+    "name": "沈潭",
+    "realm": null,
+    "path": null,
+    "description": "沈家蛊仙，向沈从声解释禁斗规则",
+    "firstChapterIndex": 1066
+  },
+  "鬼老七": {
+    "name": "鬼老七",
+    "realm": null,
+    "path": null,
+    "description": "庙明神一方，曾质疑云梯木的判断",
+    "firstChapterIndex": 1066
+  },
+  "曾落子": {
+    "name": "曾落子",
+    "realm": null,
+    "path": null,
+    "description": "庙明神一方，曾被沈从声一招杀死",
+    "firstChapterIndex": 1066
+  },
+  "沈笑": {
+    "name": "沈笑",
+    "realm": null,
+    "path": null,
+    "description": "沈家蛊仙，受沈从声示意接近方源询问秘密。对方源称赞中型任务。",
+    "firstChapterIndex": 1071
+  },
+  "夏兆": {
+    "name": "夏兆",
+    "realm": "七转蛊仙",
+    "path": "土道",
+    "description": "夏家太上二长老，由夏槎栽培，现与夏沉渊达成共识架空夏槎。",
+    "firstChapterIndex": 1073
+  },
+  "夏沉渊": {
+    "name": "夏沉渊",
+    "realm": "七转蛊仙",
+    "path": "土道",
+    "description": "夏家太上三长老，由夏槎栽培，与夏兆共同架空夏槎。",
+    "firstChapterIndex": 1073
+  },
+  "郑央": {
+    "name": "郑央",
+    "realm": "八转",
+    "path": "光道",
+    "description": "女仙，委顿在地，脸色苍白，气息微弱且怪异，催动光道治疗杀招，身上有浓郁暗道道痕达到九转仙材程度，形成道痕光晕，暗道道痕还在变化中，脖子上长出了喉结，与吴帅为挚爱。",
+    "firstChapterIndex": 1074
+  },
+  "众蛊师": {
+    "name": "众蛊师",
+    "realm": null,
+    "path": null,
+    "description": "多位蛊师汇聚于金玉屋，包括领头的几位三转蛊师，质疑夏琳，后因仙迹被震慑，表示依附。",
+    "firstChapterIndex": 1075
+  },
+  "沈伤": {
+    "name": "沈伤",
+    "realm": "八转",
+    "path": null,
+    "description": "被方源称赞不负期望",
+    "firstChapterIndex": 1085
+  },
+  "两头太古年兽": {
+    "name": "两头太古年兽",
+    "realm": null,
+    "path": null,
+    "description": "被方源消灭，尸骨无存",
+    "firstChapterIndex": 1085
+  },
+  "雪民五转女蛊师": {
+    "name": "雪民五转女蛊师",
+    "realm": "五转",
+    "path": null,
+    "description": "雪民，女蛊师，跪地恭敬，接受雪儿命令。",
+    "firstChapterIndex": 1095
+  },
+  "墨坦桑": {
+    "name": "墨坦桑",
+    "realm": null,
+    "path": null,
+    "description": "墨人城城主，墨人，带领墨人队伍到达目的地。",
+    "firstChapterIndex": 1095
+  },
+  "战兽王老者": {
+    "name": "战兽王老者",
+    "realm": "八转",
+    "path": null,
+    "description": "修为八转，见识狭隘，离开星罗城远绕，被战部渡称为战兽王爷爷。",
+    "firstChapterIndex": 1095
+  },
+  "秦鼎菱": {
+    "name": "秦鼎菱",
+    "realm": null,
+    "path": null,
+    "description": "天庭人物，眉头紧锁，迅速判断趋势，下令出战",
+    "firstChapterIndex": 1095
+  },
+  "墨人蛊仙": {
+    "name": "墨人蛊仙",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "冷漠地扫视一眼后迅速离开，是方源的麾下，负责阻击参赛者。",
+    "firstChapterIndex": 1096
+  },
+  "钢奔勇士": {
+    "name": "钢奔勇士",
+    "realm": "七转",
+    "path": null,
+    "description": "兽灾洞天蛊仙，变作巨人牛头人身",
+    "firstChapterIndex": 1097
+  },
+  "霜蝶勇士": {
+    "name": "霜蝶勇士",
+    "realm": "七转",
+    "path": null,
+    "description": "兽灾洞天蛊仙，变作蝶衣小人，寒气四溢",
+    "firstChapterIndex": 1097
+  },
+  "南联诸仙": {
+    "name": "南联诸仙",
+    "realm": null,
+    "path": null,
+    "description": "跟随武庸的蛊仙群体",
+    "firstChapterIndex": 1097
+  },
+  "石敢当": {
+    "name": "石敢当",
+    "realm": null,
+    "path": null,
+    "description": "西漠土道蛊仙，捣毁地气石林",
+    "firstChapterIndex": 1097
+  },
+  "忘道人": {
+    "name": "忘道人",
+    "realm": null,
+    "path": null,
+    "description": "盗取灵浒泉泉水",
+    "firstChapterIndex": 1097
+  },
+  "杨峰": {
+    "name": "杨峰",
+    "realm": null,
+    "path": null,
+    "description": "古魂门强者，镇守灵浒泉",
+    "firstChapterIndex": 1097
+  },
+  "萧虎痴": {
+    "name": "萧虎痴",
+    "realm": null,
+    "path": null,
+    "description": "联手劫掠后分赃不均",
+    "firstChapterIndex": 1097
+  },
+  "萧十让": {
+    "name": "萧十让",
+    "realm": null,
+    "path": null,
+    "description": "联手劫掠后分赃不均",
+    "firstChapterIndex": 1097
+  },
+  "郑青": {
+    "name": "郑青",
+    "realm": null,
+    "path": null,
+    "description": "南疆隐仙，暴露身份但被礼送出去",
+    "firstChapterIndex": 1097
+  },
+  "赵山河": {
+    "name": "赵山河",
+    "realm": null,
+    "path": null,
+    "description": "与玉珠子施展杀招坐吃山空",
+    "firstChapterIndex": 1102
+  },
+  "玉珠子": {
+    "name": "玉珠子",
+    "realm": null,
+    "path": null,
+    "description": "与赵山河施展杀招坐吃山空",
+    "firstChapterIndex": 1102
+  },
+  "张飞熊": {
+    "name": "张飞熊",
+    "realm": null,
+    "path": null,
+    "description": "天庭变化道大能，已阵亡",
+    "firstChapterIndex": 1102
+  },
+  "肉鞭仙": {
+    "name": "肉鞭仙",
+    "realm": null,
+    "path": null,
+    "description": "天庭变化道大能，已阵亡",
+    "firstChapterIndex": 1102
+  },
+  "秦松": {
+    "name": "秦松",
+    "realm": "天庭",
+    "path": null,
+    "description": "虚弱状态",
+    "firstChapterIndex": 1102
+  },
+  "牛魔": {
+    "name": "牛魔",
+    "realm": null,
+    "path": null,
+    "description": "目瞪口呆，认为方源原本只是七转",
+    "firstChapterIndex": 1102
+  },
+  "花子": {
+    "name": "花子",
+    "realm": null,
+    "path": null,
+    "description": "目瞪口呆，认为方源原本只是七转",
+    "firstChapterIndex": 1102
+  },
+  "毛里球": {
+    "name": "毛里球",
+    "realm": null,
+    "path": null,
+    "description": "缩小后投入巨阳仙僵怀抱，学狗叫",
+    "firstChapterIndex": 1102
+  },
+  "苍玄子": {
+    "name": "苍玄子",
+    "realm": null,
+    "path": "宇道",
+    "description": "女仙，主修宇道，与方源首次作战，战斗技法生疏，底蕴深厚",
+    "firstChapterIndex": 1115
+  },
+  "元莲意志": {
+    "name": "元莲意志",
+    "realm": null,
+    "path": null,
+    "description": "沈伤潜伏未被其发觉，房睇长在豆神宫的权限不如元莲意志。",
+    "firstChapterIndex": 1126
+  },
+  "袁琼都": {
+    "name": "袁琼都",
+    "realm": "蛊仙",
+    "path": "炼道",
+    "description": "修复宿命蛊成功",
+    "firstChapterIndex": 1131
+  },
+  "师姐": {
+    "name": "师姐",
+    "realm": null,
+    "path": "木道",
+    "description": "少女，袁琼都的师姐，师父的女儿。温婉，双眼水灵灵带着笑意，发现父亲书房里的传承线索并与师弟分享。",
+    "firstChapterIndex": 1131
+  },
+  "师父": {
+    "name": "师父",
+    "realm": "蛊仙",
+    "path": "水道",
+    "description": "袁琼都的师父，师姐的父亲。年轻时曾喜欢炎道，但因师门水道传承需要继承人而放弃，立下炎道传承。",
+    "firstChapterIndex": 1131
+  },
+  "师伯": {
+    "name": "师伯",
+    "realm": null,
+    "path": null,
+    "description": "矮胖身材，圆脸，和蔼可亲。与师父一同出现在山洞中，曾见证师父立下传承。",
+    "firstChapterIndex": 1131
+  },
+  "车尾": {
+    "name": "车尾",
+    "realm": null,
+    "path": null,
+    "description": "宛若极光射出，直奔地面气功果，施展凌厉杀招，重伤一位八转异人蛊仙，当场杀死另一位",
+    "firstChapterIndex": 1131
+  },
+  "从严": {
+    "name": "从严",
+    "realm": null,
+    "path": null,
+    "description": "自称体内仅剩仙元能催动招牌手段，打算牺牲自己汲取车尾身上的伤势以救车尾。",
+    "firstChapterIndex": 1131
+  },
+  "自由蛊": {
+    "name": "自由蛊",
+    "realm": null,
+    "path": null,
+    "description": "主动飞向人祖，被其抓住。厌恶人祖，因被其思想蛊吸引而飞来。声称不会为人祖效力，并警告人祖会被压趴。",
+    "firstChapterIndex": 1134
+  },
+  "责任蛊": {
+    "name": "责任蛊",
+    "realm": null,
+    "path": null,
+    "description": "在自由蛊的冷笑后飞过来，压在人祖的肩头，使其被压得几乎直不起腰。",
+    "firstChapterIndex": 1134
+  },
+  "宿命蛊": {
+    "name": "宿命蛊",
+    "realm": null,
+    "path": null,
+    "description": "其蛛丝缠绕人祖全身，越收越紧，勒出血痕，甚至勒在骨头上。",
+    "firstChapterIndex": 1134
+  },
+  "星宿意志": {
+    "name": "星宿意志",
+    "realm": null,
+    "path": null,
+    "description": "出现在回忆中与狂蛮魔尊对话的天庭意志（星宿虚影），曾谈及宿命蛊。",
+    "firstChapterIndex": 1136
+  },
+  "狂蛮意志": {
+    "name": "狂蛮意志",
+    "realm": null,
+    "path": null,
+    "description": "存在于披风中的意志，自称风格像自己，但觉得欠缺点什么。",
+    "firstChapterIndex": 1138
+  },
+  "若离": {
+    "name": "若离",
+    "realm": null,
+    "path": null,
+    "description": "人族女仙，智道蛊仙，预言自己会被狂蛮魔尊杀死。",
+    "firstChapterIndex": 1138
+  },
+  "陶铸": {
+    "name": "陶铸",
+    "realm": null,
+    "path": null,
+    "description": "南疆蛊仙，研究五域界壁。",
+    "firstChapterIndex": 1138
+  },
+  "巨阳大人": {
+    "name": "巨阳大人",
+    "realm": null,
+    "path": null,
+    "description": "开创运道，冰塞川继承其意志。",
+    "firstChapterIndex": 1138
+  },
+  "孩童": {
+    "name": "孩童",
+    "realm": null,
+    "path": null,
+    "description": "西漠小村庄的孩童，崇拜元莲仙尊，请求复活娘亲，后愤怒指责元莲。",
+    "firstChapterIndex": 1139
+  },
+  "野樵子": {
+    "name": "野樵子",
+    "realm": null,
+    "path": null,
+    "description": "与旋空童子联手出击",
+    "firstChapterIndex": 1139
+  },
+  "旋空童子": {
+    "name": "旋空童子",
+    "realm": null,
+    "path": null,
+    "description": "与野樵子联手出击",
+    "firstChapterIndex": 1139
+  },
+  "红莲（洪亭）": {
+    "name": "红莲（洪亭）",
+    "realm": null,
+    "path": null,
+    "description": "天庭蛊仙，经历了无数次重生，心态从哀痛逐渐变得麻木、冷静、精于算计，最终亲手杀死柳淑仙，决心毁灭宿命蛊。",
+    "firstChapterIndex": 1144
+  },
+  "彭达": {
+    "name": "彭达",
+    "realm": null,
+    "path": null,
+    "description": "穿越者，原世界是程序员，灵魂穿越到异界土著身体。皮肤被晒成棕色，手脚粗糙，关节粗大，体魄强健且年轻。在原来世界是孤儿，无父无母，无爱人。异世界身份为二转蛊师，失忆。",
+    "firstChapterIndex": 1147
+  },
+  "莫利": {
+    "name": "莫利",
+    "realm": "凡人",
+    "path": "蛊师",
+    "description": "杀死彭达并夺走盗天真传的凡人蛊师，誓言向青仇报仇。"
+  },
+  "带领彭达的蛊师": {
+    "name": "带领彭达的蛊师",
+    "realm": null,
+    "path": null,
+    "description": "蛊师，为彭达安排骆驼，吩咐彭达干活。未提及名字。",
+    "firstChapterIndex": 1147
+  },
+  "肥娘子": {
+    "name": "肥娘子",
+    "realm": "蛊仙",
+    "path": "土道",
+    "description": "西漠超级势力莫家成员，身材肥硕，膀大腰圆，宛若水缸，以胖为美，公开自称肥娘子，原本姓名被掩盖。拥有两只六转仙蛊，仙窍原为万里黄沙，有沙田六千多亩，生产光沙和冷暖流沙，因宿命一战承受五根天道道痕，仙窍地貌改变。拥有信道蛊虫，土道传承稀疏平常。",
+    "firstChapterIndex": 1153
+  },
+  "华松": {
+    "name": "华松",
+    "realm": null,
+    "path": null,
+    "description": "蛊仙，伪装成蛊师，对安崇介绍茶楼和诗会细节，曾多次来此茶楼，可传音，使用侦查蛊虫观察才气。",
+    "firstChapterIndex": 1156
+  },
+  "安崇": {
+    "name": "安崇",
+    "realm": null,
+    "path": null,
+    "description": "蛊仙，伪装成蛊师，被华松称为‘尊使’，使用五转侦查蛊虫观察才气，品尝状元茶后赞叹有人道韵味。",
+    "firstChapterIndex": 1156
+  },
+  "壮汉": {
+    "name": "壮汉",
+    "realm": null,
+    "path": null,
+    "description": "带着金色面具，浑身金光，创作铁马金戈风格的诗词",
+    "firstChapterIndex": 1157
+  },
+  "老翁": {
+    "name": "老翁",
+    "realm": null,
+    "path": null,
+    "description": "头戴斗笠，手拄拐杖，青气缭绕周身，在第一场比试中出现",
+    "firstChapterIndex": 1157
+  },
+  "女子": {
+    "name": "女子",
+    "realm": null,
+    "path": null,
+    "description": "身姿曼妙，粉裙，面带薄纱，创作诗词后有光蝶飞舞，向李小白点头微笑",
+    "firstChapterIndex": 1157
+  },
+  "冰晶仙王": {
+    "name": "冰晶仙王",
+    "realm": "八转",
+    "path": "雪民蛊仙",
+    "description": "来自黑天的冰晶洞天，国字脸，身材魁梧，皮肤雪白，眼眸和头发都是冰蓝之色，八转气息缭绕全身。",
+    "firstChapterIndex": 1159
+  },
+  "连可心": {
+    "name": "连可心",
+    "realm": null,
+    "path": null,
+    "description": "鲛人女仙，东海鲛人势力三位掌权者之一。",
+    "firstChapterIndex": 1159
+  },
+  "鱼姿": {
+    "name": "鱼姿",
+    "realm": null,
+    "path": null,
+    "description": "鲛人女仙，东海鲛人势力三位掌权者之一。",
+    "firstChapterIndex": 1159
+  },
+  "谢凝思": {
+    "name": "谢凝思",
+    "realm": null,
+    "path": null,
+    "description": "鲛人女仙，东海鲛人势力三位掌权者之一。",
+    "firstChapterIndex": 1159
+  },
+  "老医师": {
+    "name": "老医师",
+    "realm": null,
+    "path": null,
+    "description": "梦境中的医馆主人，使用‘把脉’手段诊断病情。",
+    "firstChapterIndex": 1160
+  },
+  "青年": {
+    "name": "青年",
+    "realm": null,
+    "path": null,
+    "description": "梦境中的患者，专修虚道的蛊师，因擂台对手而肾虚。",
+    "firstChapterIndex": 1160
+  },
+  "古族族长": {
+    "name": "古族族长",
+    "realm": null,
+    "path": null,
+    "description": "古族族长，通过信道凡蛊传信给吴帅。",
+    "firstChapterIndex": 1160
+  },
+  "金毛仙王": {
+    "name": "金毛仙王",
+    "realm": "八转",
+    "path": null,
+    "description": "毛民，浑身浓厚毛发金光璀璨，首次参与会晤。",
+    "firstChapterIndex": 1161
+  },
+  "疾云天仙": {
+    "name": "疾云天仙",
+    "realm": "八转",
+    "path": null,
+    "description": "羽民，容貌俊美的青年模样，首次参与会晤。",
+    "firstChapterIndex": 1161
+  },
+  "大智仙母": {
+    "name": "大智仙母",
+    "realm": "八转",
+    "path": null,
+    "description": "墨人种族，老妪模样，首次参与会晤。",
+    "firstChapterIndex": 1161
+  },
+  "青森大圣": {
+    "name": "青森大圣",
+    "realm": "八转",
+    "path": null,
+    "description": "小人，浑身上下笼罩一团青绿光晕，首次参与会晤。",
+    "firstChapterIndex": 1161
+  },
+  "夜天狼君": {
+    "name": "夜天狼君",
+    "realm": "八转",
+    "path": null,
+    "description": "人族蛊仙。",
+    "firstChapterIndex": 1161
+  },
+  "寒灰仙姑": {
+    "name": "寒灰仙姑",
+    "realm": "八转",
+    "path": null,
+    "description": "人族蛊仙，努力拉拢人手。",
+    "firstChapterIndex": 1161
+  },
+  "贯天神君": {
+    "name": "贯天神君",
+    "realm": "八转",
+    "path": "光道",
+    "description": "人族蛊仙，专修光道。",
+    "firstChapterIndex": 1161
+  },
+  "沉槐子": {
+    "name": "沉槐子",
+    "realm": "八转",
+    "path": "木道",
+    "description": "人族蛊仙，修行木道。",
+    "firstChapterIndex": 1161
+  },
+  "彩石仙妃": {
+    "name": "彩石仙妃",
+    "realm": "八转",
+    "path": "土道",
+    "description": "人族女仙，修行土道。",
+    "firstChapterIndex": 1161
+  },
+  "孽龙帝藏生": {
+    "name": "孽龙帝藏生",
+    "realm": null,
+    "path": null,
+    "description": "孽龙，庞巨身躯，被吴帅拥有。",
+    "firstChapterIndex": 1161
+  },
+  "鲛人三仙": {
+    "name": "鲛人三仙",
+    "realm": null,
+    "path": null,
+    "description": "未具体命名，脸色阴沉。",
+    "firstChapterIndex": 1161
+  },
+  "夏正清": {
+    "name": "夏正清",
+    "realm": "七转",
+    "path": null,
+    "description": "夏家蛊仙，镇守照影海域",
+    "firstChapterIndex": 1162
+  },
+  "夏瑞之": {
+    "name": "夏瑞之",
+    "realm": "七转",
+    "path": null,
+    "description": "夏家太上大长老，面沉如水，严防死守直到人海补全",
+    "firstChapterIndex": 1162
+  },
+  "夏英": {
+    "name": "夏英",
+    "realm": null,
+    "path": null,
+    "description": "女仙，驾驭金星塔主动断后，掩护其他夏家蛊仙撤离",
+    "firstChapterIndex": 1162
+  },
+  "两天蛊仙": {
+    "name": "两天蛊仙",
+    "realm": "八转",
+    "path": null,
+    "description": "群体，来自两天洞天，隐居已久，缺乏竞争磨砺。",
+    "firstChapterIndex": 1164
+  },
+  "天庭秦鼎菱": {
+    "name": "天庭秦鼎菱",
+    "realm": null,
+    "path": null,
+    "description": "天庭人物，秘密联络夜天狼君，指挥内应行动",
+    "firstChapterIndex": 1167
+  },
+  "武姬娘娘": {
+    "name": "武姬娘娘",
+    "realm": null,
+    "path": null,
+    "description": "武家蛊仙种子，已在义天山折损后被复活",
+    "firstChapterIndex": 1167
+  },
+  "罗然": {
+    "name": "罗然",
+    "realm": null,
+    "path": null,
+    "description": "罗家大将，名传南疆，拥有七转巅峰的战力",
+    "firstChapterIndex": 1167
+  },
+  "罗浩泽": {
+    "name": "罗浩泽",
+    "realm": null,
+    "path": null,
+    "description": "罗家蛊仙，与罗然、罗木子一同探索气绝洞天",
+    "firstChapterIndex": 1167
+  },
+  "冰晶仙王的父亲": {
+    "name": "冰晶仙王的父亲",
+    "realm": "蛊仙",
+    "path": null,
+    "description": "教导冰晶仙王关于雪民一族的传统，曾建议少年冰晶寻找雪民族群庇护。",
+    "firstChapterIndex": 1174
+  },
+  "少年冰晶": {
+    "name": "少年冰晶",
+    "realm": null,
+    "path": null,
+    "description": "冰晶仙王的少年时期，在暴雪冰原进行成年礼试炼，后被雪民族群接纳。",
+    "firstChapterIndex": 1174
+  },
+  "罗足": {
+    "name": "罗足",
+    "realm": null,
+    "path": null,
+    "description": "罗家蛊仙，面容愁苦，罗家太上大家老",
+    "firstChapterIndex": 1177
+  },
+  "萧荷尖": {
+    "name": "萧荷尖",
+    "realm": null,
+    "path": null,
+    "description": "小人蛊仙，实力高超，与冰晶仙王同一档次，探索气绝洞天，欲加入两天联盟",
+    "firstChapterIndex": 1177
+  },
+  "冰晶仙王（冰雪仙王）": {
+    "name": "冰晶仙王（冰雪仙王）",
+    "realm": null,
+    "path": null,
+    "description": "两天联盟副盟主，以镇仙棺杀招击退天庭仙蛊屋诛魔榜",
+    "firstChapterIndex": 1177
+  },
+  "青辉子": {
+    "name": "青辉子",
+    "realm": "七转蛊仙",
+    "path": "光道",
+    "description": "东海七转蛊仙，擅长栽种流光果，是宝黄天中三位贩卖流光果的主要蛊仙之一。",
+    "firstChapterIndex": 1182
+  },
+  "气绝魔仙": {
+    "name": "气绝魔仙",
+    "realm": null,
+    "path": "气道",
+    "description": "与七煞元君交战正酣，回首惊呼",
+    "firstChapterIndex": 1182
+  },
+  "华语老仙": {
+    "name": "华语老仙",
+    "realm": null,
+    "path": null,
+    "description": "华文洞天之主，擅长情报，使用仙道杀招冷言冷语、快人快语、恶语相向。",
+    "firstChapterIndex": 1189
+  },
+  "陈大江": {
+    "name": "陈大江",
+    "realm": null,
+    "path": null,
+    "description": "天庭投放到神帝城壁画世界中的蛊仙种子。",
+    "firstChapterIndex": 1191
+  },
+  "孙瑶": {
+    "name": "孙瑶",
+    "realm": null,
+    "path": null,
+    "description": "天庭投放到神帝城壁画世界中的蛊仙种子。",
+    "firstChapterIndex": 1191
+  },
+  "汤如气": {
+    "name": "汤如气",
+    "realm": null,
+    "path": null,
+    "description": "天庭投放到神帝城壁画世界中的蛊仙种子。",
+    "firstChapterIndex": 1191
+  },
+  "应生机": {
+    "name": "应生机",
+    "realm": null,
+    "path": null,
+    "description": "天庭投放到神帝城壁画世界中的蛊仙种子。",
+    "firstChapterIndex": 1191
+  },
+  "魏无伤": {
+    "name": "魏无伤",
+    "realm": null,
+    "path": null,
+    "description": "天庭投放到神帝城壁画世界中的蛊仙种子。",
+    "firstChapterIndex": 1191
+  },
+  "赵淑野": {
+    "name": "赵淑野",
+    "realm": null,
+    "path": null,
+    "description": "天庭投放到神帝城壁画世界中的蛊仙种子。",
+    "firstChapterIndex": 1191
+  },
+  "萧七星": {
+    "name": "萧七星",
+    "realm": null,
+    "path": null,
+    "description": "天庭投放到神帝城壁画世界中的蛊仙种子，混入军营成为小军官。",
+    "firstChapterIndex": 1191
+  },
+  "莫利的妻子": {
+    "name": "莫利的妻子",
+    "realm": null,
+    "path": null,
+    "description": "已死亡，被莫利从废墟中挖出。",
+    "firstChapterIndex": 1195
+  },
+  "两位蛊仙": {
+    "name": "两位蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "高空出现的蛊仙，属于莫家，正在追捕袭击沙狼城的巨兽。",
+    "firstChapterIndex": 1195
+  },
+  "赤心行者": {
+    "name": "赤心行者",
+    "realm": "八转",
+    "path": "天庭蛊仙",
+    "description": "天庭蛊仙，施展战场杀招和临时自创手段，以血日印记封印青仇。",
+    "firstChapterIndex": 1199
+  },
+  "九灵仙姑": {
+    "name": "九灵仙姑",
+    "realm": "八转",
+    "path": "天庭蛊仙、变化道大能",
+    "description": "天庭变化道大能，传音请战，被要求继续强炼仇恨蛊",
+    "firstChapterIndex": 1199
+  },
+  "万金妙华": {
+    "name": "万金妙华",
+    "realm": null,
+    "path": null,
+    "description": "人祖之女，炎煌雷泽的妹妹，曾拥有财富蛊（已不在）。",
+    "firstChapterIndex": 1202
+  },
+  "雷电蛊": {
+    "name": "雷电蛊",
+    "realm": null,
+    "path": null,
+    "description": "雷电森林的源头，被困在太古蓝天，愤怒时发出雷电，后与炎煌雷泽、万金妙华合作。",
+    "firstChapterIndex": 1202
+  },
+  "仇恨蛊": {
+    "name": "仇恨蛊",
+    "realm": null,
+    "path": null,
+    "description": "外形与爱情蛊相似，钻进炎煌雷泽心中作窝，啃噬心脏转化为仇恨之心，杀不死且越杀越大。",
+    "firstChapterIndex": 1202
+  },
+  "强蛊": {
+    "name": "强蛊",
+    "realm": null,
+    "path": null,
+    "description": "铁甲深厚，话音铿锵，追逐弱蛊，声称弱肉强食是天经地义；因打不过人祖而飞走。",
+    "firstChapterIndex": 1218
+  },
+  "弱蛊": {
+    "name": "弱蛊",
+    "realm": null,
+    "path": null,
+    "description": "白嫩细小，被强蛊追逐，向人祖求救。",
+    "firstChapterIndex": 1218
+  },
+  "青家太上大长老": {
+    "name": "青家太上大长老",
+    "realm": null,
+    "path": null,
+    "description": "八转蛊仙，决定亲自出马对付冥幽",
+    "firstChapterIndex": 1222
+  },
+  "青家太上二长老": {
+    "name": "青家太上二长老",
+    "realm": null,
+    "path": null,
+    "description": "七转修为，拥有太古荒兽青爪鬼翼狮，开创仙招‘青口’，去取冥幽性命",
+    "firstChapterIndex": 1222
+  },
+  "冥幽": {
+    "name": "冥幽",
+    "realm": null,
+    "path": null,
+    "description": "魔尊幽魂的旧名，年轻时遭遇青爪鬼翼狮惨败，被咬断腿臂并吞入腹中",
+    "firstChapterIndex": 1222
+  },
+  "黑天寺太上大长老": {
+    "name": "黑天寺太上大长老",
+    "realm": null,
+    "path": null,
+    "description": "黑天寺的首领，决定继续埋伏。",
+    "firstChapterIndex": 1226
+  },
+  "秦大人": {
+    "name": "秦大人",
+    "realm": null,
+    "path": null,
+    "description": "天庭人物，下令黑天寺仙众伺机而动。",
+    "firstChapterIndex": 1226
+  },
+  "气海": {
+    "name": "气海",
+    "realm": null,
+    "path": null,
+    "description": "与方源、幽魂一起消失的人物",
+    "firstChapterIndex": 1229
+  },
+  "气绝": {
+    "name": "气绝",
+    "realm": null,
+    "path": null,
+    "description": "与方源、幽魂一起消失的人物",
+    "firstChapterIndex": 1229
+  },
+  "白相": {
+    "name": "白相",
+    "realm": null,
+    "path": null,
+    "description": "历史人物，其气海规模被提及，对比方源的气柱规模令其叹为观止。",
+    "firstChapterIndex": 1234
+  },
+  "毒蝎娘子": {
+    "name": "毒蝎娘子",
+    "realm": null,
+    "path": null,
+    "description": "大梦仙尊种子，手中拥有入梦游仙蛊。",
+    "firstChapterIndex": 1272
+  },
+  "纯梦分身": {
+    "name": "纯梦分身",
+    "realm": null,
+    "path": null,
+    "description": "方源的分身，第十一绝体纯梦求真体，碎窍升仙，拥有浑厚人气，投放本命蛊梦蝶凡蛊（五转），升炼成功后拥有梦甲仙蛊（七转）、梦蝶仙蛊（六转），需时刻调和三气。",
+    "firstChapterIndex": 1274
+  },
+  "陈淫道": {
+    "name": "陈淫道",
+    "realm": null,
+    "path": null,
+    "description": "四大淫贼之一，被称为老大。",
+    "firstChapterIndex": 1277
+  },
+  "施暴": {
+    "name": "施暴",
+    "realm": null,
+    "path": null,
+    "description": "四大淫贼之一，身材雄壮，性情急躁。",
+    "firstChapterIndex": 1277
+  },
+  "郁八光": {
+    "name": "郁八光",
+    "realm": null,
+    "path": null,
+    "description": "四大淫贼之一，身材修长，勾怪功夫见涨。",
+    "firstChapterIndex": 1277
+  },
+  "樊春耀": {
+    "name": "樊春耀",
+    "realm": null,
+    "path": null,
+    "description": "四大淫贼之一，比较肥硕。",
+    "firstChapterIndex": 1277
+  },
+  "王小二": {
+    "name": "王小二",
+    "realm": null,
+    "path": null,
+    "description": "不明身份，被陈淫道等人称为“小兄弟”，被拖下水。身上亮起道道银光丝线。",
+    "firstChapterIndex": 1277
+  },
+  "灵缘斋的女蛊师": {
+    "name": "灵缘斋的女蛊师",
+    "realm": null,
+    "path": null,
+    "description": "被俘虏的女蛊师之一，来自灵缘斋。",
+    "firstChapterIndex": 1277
+  },
+  "秦娟": {
+    "name": "秦娟",
+    "realm": "五转",
+    "path": null,
+    "description": "灵缘斋的女蛊师，接下了诛杀四大淫贼的门派任务",
+    "firstChapterIndex": 1278
+  },
+  "梦求真": {
+    "name": "梦求真",
+    "realm": "六转",
+    "path": "梦道",
+    "description": "漆面人组织三号成员，正在探索梦境，拥有梦蝶仙蛊、梦甲仙蛊、造梦仙蛊，梦道大师境界。"
+  },
+  "诡心老人": {
+    "name": "诡心老人",
+    "realm": null,
+    "path": "智道、变化道",
+    "description": "漆面人组织的首脑，声音尖锐刺耳，脸色涂满油彩，给人一种诡异阴冷的感觉。",
+    "firstChapterIndex": 1279
+  },
+  "武珍珠": {
+    "name": "武珍珠",
+    "realm": "六转蛊仙",
+    "path": null,
+    "description": "武家蛊仙，神情焦急，主持死海钓命阵",
+    "firstChapterIndex": 1280
+  },
+  "武姬": {
+    "name": "武姬",
+    "realm": null,
+    "path": null,
+    "description": "武家族长，蛊师，曾死亡后经死海钓命阵复活（本月第五次），面色苍白虚弱",
+    "firstChapterIndex": 1280
+  },
+  "武展评": {
+    "name": "武展评",
+    "realm": null,
+    "path": null,
+    "description": "武家传功太上长老，蛊仙",
+    "firstChapterIndex": 1280
+  },
+  "孔日天": {
+    "name": "孔日天",
+    "realm": null,
+    "path": null,
+    "description": "被武姬夺去升天真传内容",
+    "firstChapterIndex": 1280
+  },
+  "孔升天": {
+    "name": "孔升天",
+    "realm": null,
+    "path": null,
+    "description": "留下升天真传的蛊仙，拥有气遁仙蛊",
+    "firstChapterIndex": 1280
+  },
+  "孔升天意志": {
+    "name": "孔升天意志",
+    "realm": null,
+    "path": "魔道",
+    "description": "魔道蛊仙的残存意志，原身为蛊仙。自称能治绝大多数伤势，但对四大淫贼的伤无能为力，只能暂时压制。施展杀招遮掩气息，送众人逃脱。不打算深究王小二的底细。",
+    "firstChapterIndex": 1283
+  },
+  "四大淫贼（含陈淫道）": {
+    "name": "四大淫贼（含陈淫道）",
+    "realm": "凡人",
+    "path": null,
+    "description": "中洲四大淫贼，均为凡人。因王小二而苦不堪言，身上有爱情蛊所致的伤势。陈淫道代表发言。",
+    "firstChapterIndex": 1283
+  },
+  "武家蛊仙": {
+    "name": "武家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "武家蛊仙，发现乎地并经确认后心中狂喜，立即联络武庸。",
+    "firstChapterIndex": 1283
+  },
+  "灵缘仙子": {
+    "name": "灵缘仙子",
+    "realm": null,
+    "path": null,
+    "description": "灵缘斋当代仙子（提及未出场），疑似对四大淫贼出手，使用了爱情蛊。",
+    "firstChapterIndex": 1283
+  },
+  "可信鸿": {
+    "name": "可信鸿",
+    "realm": null,
+    "path": null,
+    "description": "菇人蛊仙，陆畏因携带菇人乐土投靠方源后成为方源麾下，奉命与武庸交易升天真传。",
+    "firstChapterIndex": 1285
+  },
+  "房家诸仙": {
+    "name": "房家诸仙",
+    "realm": null,
+    "path": null,
+    "description": "包括房云、房棱等，对方源条件有疑虑，后附和方源。",
+    "firstChapterIndex": 1286
+  },
+  "宋家蛊仙": {
+    "name": "宋家蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "宋家内部成员，讨论天难真传。",
+    "firstChapterIndex": 1286
+  },
+  "火原洞主": {
+    "name": "火原洞主",
+    "realm": "八转",
+    "path": null,
+    "description": "火原洞天主人，正气盟成员。擅长炎道。身上有蚁灾，已被压制。忧虑火原洞天灾情。",
+    "firstChapterIndex": 1290
+  },
+  "鲁桐兰": {
+    "name": "鲁桐兰",
+    "realm": "荒极子",
+    "path": null,
+    "description": "中年美妇，蓝凤族长，专修炎道，拥有蓝凤图腾",
+    "firstChapterIndex": 1296
+  },
+  "巨阳仙僵": {
+    "name": "巨阳仙僵",
+    "realm": null,
+    "path": null,
+    "description": "说话者，指出盗天真传空间妨碍无极魔尊推演，并提及天庭丰雅的情况",
+    "firstChapterIndex": 1296
+  },
+  "孙名录": {
+    "name": "孙名录",
+    "realm": "玄极子",
+    "path": null,
+    "description": "专修阵道",
+    "firstChapterIndex": 1296
+  },
+  "贪食太魔蛙": {
+    "name": "贪食太魔蛙",
+    "realm": null,
+    "path": null,
+    "description": "太古传奇，身上蕴含食道道痕",
+    "firstChapterIndex": 1296
+  },
+  "焦火": {
+    "name": "焦火",
+    "realm": null,
+    "path": null,
+    "description": "八极子之一，与鲁桐兰暗中联系。",
+    "firstChapterIndex": 1299
+  },
+  "黄钟族长": {
+    "name": "黄钟族长",
+    "realm": null,
+    "path": null,
+    "description": "黄钟部族的族长，拥有金钟图腾",
+    "firstChapterIndex": 1301
+  },
+  "七转蛊仙": {
+    "name": "七转蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "是一位七转蛊仙，拥有雨鹰图腾、雷鱼图腾，并能将残破的图腾组并为雷雨鱼鹰图腾",
+    "firstChapterIndex": 1301
+  },
+  "大力真武": {
+    "name": "大力真武",
+    "realm": null,
+    "path": null,
+    "description": "人祖的第七子，由人祖在困境中产出，性格好强，喜欢走上坡路，得到多只蛊虫。",
+    "firstChapterIndex": 1302
+  },
+  "能力蛊": {
+    "name": "能力蛊",
+    "realm": null,
+    "path": null,
+    "description": "大力真武身上产生的蛊虫，能够击败困境，后被丢进灾祸中变得更强。最终成为八转仙蛊。",
+    "firstChapterIndex": 1302
+  },
+  "努力蛊": {
+    "name": "努力蛊",
+    "realm": null,
+    "path": null,
+    "description": "无形的蛊虫，被大力真武在上坡路上拾得。",
+    "firstChapterIndex": 1302
+  },
+  "谦虚蛊": {
+    "name": "谦虚蛊",
+    "realm": null,
+    "path": null,
+    "description": "主动跟随大力真武的蛊虫。",
+    "firstChapterIndex": 1302
+  },
+  "原谅蛊": {
+    "name": "原谅蛊",
+    "realm": null,
+    "path": null,
+    "description": "主动跟随大力真武的蛊虫。",
+    "firstChapterIndex": 1302
+  },
+  "权力蛊": {
+    "name": "权力蛊",
+    "realm": null,
+    "path": null,
+    "description": "大力真武走上坡路后得到的蛊虫。",
+    "firstChapterIndex": 1302
+  },
+  "定力蛊": {
+    "name": "定力蛊",
+    "realm": null,
+    "path": null,
+    "description": "大力真武走上坡路后得到的蛊虫，最终成为八转仙蛊。",
+    "firstChapterIndex": 1302
+  },
+  "战部渡分身": {
+    "name": "战部渡分身",
+    "realm": null,
+    "path": null,
+    "description": "方源的分身，被安排到万兽混彩天中，取得了定力蛊和能力蛊。",
+    "firstChapterIndex": 1302
+  },
+  "商睚眦": {
+    "name": "商睚眦",
+    "realm": null,
+    "path": null,
+    "description": "暗中议论，表示不屑，掩饰内心的不安。",
+    "firstChapterIndex": 1308
+  },
+  "商囚牛": {
+    "name": "商囚牛",
+    "realm": null,
+    "path": null,
+    "description": "死而复生，死亡的经历是他宝贵的财富，能够理智冷静地看待事情；认为商心慈能力强、仁善，得到父亲看重。",
+    "firstChapterIndex": 1308
+  },
+  "商一帆": {
+    "name": "商一帆",
+    "realm": null,
+    "path": null,
+    "description": "冷笑质问商囚牛“谁登上族长之位，谁就会被家族栽培成仙”。",
+    "firstChapterIndex": 1308
+  },
+  "卫神经": {
+    "name": "卫神经",
+    "realm": null,
+    "path": null,
+    "description": "卫德馨的弟弟，号称假大师，作假一流，名传南疆；投靠武家；曾与商心慈在日月天坑联手追杀魔头孔日天。",
+    "firstChapterIndex": 1308
+  },
+  "武家蛊师": {
+    "name": "武家蛊师",
+    "realm": null,
+    "path": null,
+    "description": "为卫神经传递信笺，被小蝶怀疑。",
+    "firstChapterIndex": 1308
+  },
+  "神秘老者": {
+    "name": "神秘老者",
+    "realm": null,
+    "path": null,
+    "description": "蜗居在商量山多年的神秘人物，实力强大，无法公开露面。自称走投无路的可怜人，帮助商心慈。",
+    "firstChapterIndex": 1309
+  },
+  "风天语": {
+    "name": "风天语",
+    "realm": "五转（秘而不宣，以四转修为示人）",
+    "path": null,
+    "description": "炼道大师，出身正道，曾是山寨少族长，家族败落后沦为散修。在三转修为时炼制出过五转蛊虫（存活半天）。",
+    "firstChapterIndex": 1309
+  },
+  "商螭吻": {
+    "name": "商螭吻",
+    "realm": null,
+    "path": null,
+    "description": "商燕飞的儿女，被策反",
+    "firstChapterIndex": 1310
+  },
+  "商燕飞": {
+    "name": "商燕飞",
+    "realm": null,
+    "path": null,
+    "description": "商睚眦等人的父亲",
+    "firstChapterIndex": 1310
+  },
+  "令狐虚": {
+    "name": "令狐虚",
+    "realm": "七转",
+    "path": "偷道",
+    "description": "西漠魔道蛊仙，专修偷道，近来修为上涨到了七转",
+    "firstChapterIndex": 1315
+  },
+  "房东西": {
+    "name": "房东西",
+    "realm": null,
+    "path": null,
+    "description": "房家蛊仙，拥有仙窍，与方源合作，魂核被令狐虚偷走",
+    "firstChapterIndex": 1315
+  },
+  "石抗": {
+    "name": "石抗",
+    "realm": null,
+    "path": null,
+    "description": "石家蛊仙，闭关数年，破关而出，在沙包福地中故意挨打，试图成为福地之主",
+    "firstChapterIndex": 1315
+  },
+  "猪头地灵": {
+    "name": "猪头地灵",
+    "realm": null,
+    "path": null,
+    "description": "沙包福地的地灵，认主条件为‘最能挨揍的人’，看好王小二",
+    "firstChapterIndex": 1315
+  },
+  "柴夫": {
+    "name": "柴夫",
+    "realm": "八转",
+    "description": "老朽不堪的蛊仙，一脸灰败之色。以散修之身修行到八转。",
+    "firstChapterIndex": 1323
+  },
+  "柴可卿": {
+    "name": "柴可卿",
+    "realm": null,
+    "description": "柴家蛊仙，曾当场怒喝：方源该死！",
+    "firstChapterIndex": 1323
+  },
+  "柴干": {
+    "name": "柴干",
+    "realm": "七转",
+    "description": "柴家太上大长老。",
+    "firstChapterIndex": 1323
+  },
+  "方焕": {
+    "name": "方焕",
+    "realm": null,
+    "path": "土道、炎道",
+    "description": "男仙，自称熔岩魔君。专修土道，兼修炎道，经营火怪生意。从土丘中重生，后被白凝冰杀死并搜魂。",
+    "firstChapterIndex": 1326
+  },
+  "几位蛊仙": {
+    "name": "几位蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "搬移铜印山，其中一位是石人蛊仙，其他蛊仙负责检查，共同完成任务。",
+    "firstChapterIndex": 1327
+  },
+  "石人蛊仙": {
+    "name": "石人蛊仙",
+    "realm": null,
+    "path": "土道",
+    "description": "负责催动土道杀招，产生山根，仙元消耗较大。",
+    "firstChapterIndex": 1327
+  },
+  "何春秋": {
+    "name": "何春秋",
+    "realm": null,
+    "path": null,
+    "description": "为武家升炼扇风蛊成功，从四元方悔血炼池中飞出。",
+    "firstChapterIndex": 1327
+  },
+  "凡人少女（芳土）": {
+    "name": "凡人少女（芳土）",
+    "realm": null,
+    "path": null,
+    "description": "凡人少女，剥开荆棘发现梦求真，采摘蘑菇。后被称为芳土丫头、小芳妹子、芳土姑娘，在土家寨卖蘑菇。",
+    "firstChapterIndex": 1329
+  },
+  "黄小米": {
+    "name": "黄小米",
+    "realm": null,
+    "path": null,
+    "description": "菇人，包裹严实，实力较弱，跟随梦求真进入土家寨，与光头青年争吵打斗。",
+    "firstChapterIndex": 1329
+  },
+  "光头青年（青兽）": {
+    "name": "光头青年（青兽）",
+    "realm": null,
+    "path": null,
+    "description": "光头，头顶纹有青色野兽头颅图案，诨号青兽，调戏芳土，与黄小米发生争执并打斗。",
+    "firstChapterIndex": 1329
+  },
+  "中年大叔": {
+    "name": "中年大叔",
+    "realm": null,
+    "path": null,
+    "description": "土家寨集市中的商贩，招呼芳土占摊位，提醒芳土躲开光头青年。",
+    "firstChapterIndex": 1329
+  },
+  "光头青年": {
+    "name": "光头青年",
+    "realm": null,
+    "path": null,
+    "description": "土家寨人族青年，芳土的邻居，称梦求真为小芳妹子。",
+    "firstChapterIndex": 1330
+  },
+  "光头青年的母亲": {
+    "name": "光头青年的母亲",
+    "realm": null,
+    "path": null,
+    "description": "实际是菇人黄婉，隐姓埋名，领养了光头青年，在第四幕中梦求真扮演此人。",
+    "firstChapterIndex": 1330
+  },
+  "芳土": {
+    "name": "芳土",
+    "realm": null,
+    "path": null,
+    "description": "梦求真在第三幕扮演的凡人身份，被光头青年称为小芳妹子。",
+    "firstChapterIndex": 1330
+  },
+  "两位家老": {
+    "name": "两位家老",
+    "realm": "四转",
+    "path": null,
+    "description": "土家寨的家老，容貌相似，��似双胞胎，战斗默契。",
+    "firstChapterIndex": 1330
+  },
+  "黄婉": {
+    "name": "黄婉",
+    "realm": null,
+    "path": null,
+    "description": "菇人前代巫女，大医师，被部族逐出，隐藏身份为光头青年的母亲。",
+    "firstChapterIndex": 1330
+  },
+  "土家寨主": {
+    "name": "土家寨主",
+    "realm": null,
+    "path": null,
+    "description": "土家寨的寨主，乐土的父亲，无子嗣，视乐土为唯一儿子。",
+    "firstChapterIndex": 1334
+  },
+  "吴魈": {
+    "name": "吴魈",
+    "realm": null,
+    "path": null,
+    "description": "南疆赫赫有名的大医师，专修魂道，南疆六大医师之一，被土家寨主请来对黄婉进行搜魂。",
+    "firstChapterIndex": 1334
+  },
+  "青蒿子": {
+    "name": "青蒿子",
+    "realm": "八转",
+    "path": null,
+    "description": "青莲蛊仙，有竹尾，之前击杀过黄土蛊仙，未拥有过八转仙蛊",
+    "firstChapterIndex": 1342
+  },
+  "木叉郎": {
+    "name": "木叉郎",
+    "realm": "八转",
+    "path": null,
+    "description": "青莲蛊仙，擅长治疗杀招，让青蒿子状态回升",
+    "firstChapterIndex": 1342
+  },
+  "林中老菌": {
+    "name": "林中老菌",
+    "realm": "八转",
+    "path": null,
+    "description": "青莲蛊仙，战斗失败后大叫撤退",
+    "firstChapterIndex": 1342
+  },
+  "天庭、长生天": {
+    "name": "天庭、长生天",
+    "realm": null,
+    "path": null,
+    "description": "势力，增兵主动挑衅，乐于见到方源与无极魔尊手段两败俱伤",
+    "firstChapterIndex": 1342
+  },
+  "墨人长者": {
+    "name": "墨人长者",
+    "realm": null,
+    "path": null,
+    "description": "书山脚下墨人村中的长者，向人祖解释原因并指点墨文的使用",
+    "firstChapterIndex": 1346
+  },
+  "墨人": {
+    "name": "墨人",
+    "realm": null,
+    "path": null,
+    "description": "生活在书山脚下村庄中的居民，依靠墨文在乾坤晶壁中生存",
+    "firstChapterIndex": 1346
+  },
+  "毓秀仙子": {
+    "name": "毓秀仙子",
+    "realm": null,
+    "path": null,
+    "description": "与气海老祖交手；识破气海老祖的假身；被陆畏因阻拦；挡在气海老祖和书山之间",
+    "firstChapterIndex": 1349
+  },
+  "白沧水": {
+    "name": "白沧水",
+    "realm": null,
+    "path": null,
+    "description": "操纵一座八转仙蛊屋冲上去阻挡气柱，仙蛊屋崩解后被星宿棋盘光柱带走。",
+    "firstChapterIndex": 1349
+  },
+  "石猴": {
+    "name": "石猴",
+    "realm": null,
+    "path": null,
+    "description": "从陨石中飞出，天生地养；天赋悟性超过车尾；注定成为无极魔尊的祭品。",
+    "firstChapterIndex": 1349
+  },
+  "吴广": {
+    "name": "吴广",
+    "realm": "七转",
+    "path": "木道",
+    "description": "北原蛊仙，号称木像君，姓吴名广，袒露胸膛，身材匀称，肌肉结实，面容普通，鼻翼坚挺，紧抿双唇，给人坚毅不拔的印象，散仙。",
+    "firstChapterIndex": 1353
+  },
+  "陈诚": {
+    "name": "陈诚",
+    "realm": null,
+    "path": null,
+    "description": "蛊仙，被黑楼兰击败后成为其奴仆，认识吴广。",
+    "firstChapterIndex": 1353
+  },
+  "殷无缺": {
+    "name": "殷无缺",
+    "realm": null,
+    "path": null,
+    "description": "吴广的好友，关系匪浅，熟络，位于月半丘陵。",
+    "firstChapterIndex": 1353
+  },
+  "柴家": {
+    "name": "柴家",
+    "realm": null,
+    "path": null,
+    "description": "南疆蛊仙家族，从夏家学习领悟，仿造人海秘境研究出了人山秘境。",
+    "firstChapterIndex": 1354
+  },
+  "聂狂风": {
+    "name": "聂狂风",
+    "realm": null,
+    "path": null,
+    "description": "化为红褐色魔风，杀死青森大圣和沉槐子，后被方源瞥视后恐惧逃遁",
+    "firstChapterIndex": 1360
+  },
+  "步天空": {
+    "name": "步天空",
+    "realm": null,
+    "path": null,
+    "description": "石猴，杀死四大八转蛊仙，被方源挥手杀死",
+    "firstChapterIndex": 1360
+  },
+  "刘长": {
+    "name": "刘长",
+    "realm": "七转",
+    "path": "光道",
+    "description": "男仙，白袍，身材颀长，鞋拔子脸，眼睛小如黄豆，北原正道有名强者",
+    "firstChapterIndex": 1377
+  },
+  "刘萝": {
+    "name": "刘萝",
+    "realm": null,
+    "path": null,
+    "description": "女仙，刘长的妹妹，刘家蛊仙",
+    "firstChapterIndex": 1377
+  },
+  "刘家蛊仙长者": {
+    "name": "刘家蛊仙长者",
+    "realm": null,
+    "path": null,
+    "description": "刘家的蛊仙长者，未指名",
+    "firstChapterIndex": 1377
+  },
+  "单于雄": {
+    "name": "单于雄",
+    "realm": null,
+    "path": null,
+    "description": "北原黄金部族蛊仙，单于家",
+    "firstChapterIndex": 1377
+  },
+  "宫痛快": {
+    "name": "宫痛快",
+    "realm": null,
+    "path": null,
+    "description": "北原黄金部族蛊仙，宫家",
+    "firstChapterIndex": 1377
+  },
+  "鸡年兽": {
+    "name": "鸡年兽",
+    "realm": null,
+    "path": null,
+    "description": "七转战力，被方源喂年蛊后跳入光阴长河",
+    "firstChapterIndex": 310
+  },
+  "上古鹰犬": {
+    "name": "上古鹰犬",
+    "realm": null,
+    "path": null,
+    "description": "被方源打跑",
+    "firstChapterIndex": 310
+  },
+  "仙们": {
+    "name": "仙们",
+    "realm": null,
+    "path": null,
+    "description": "群体，脸上有无奈、尴尬、不情愿等表情",
+    "firstChapterIndex": 310
+  },
+  "男性蛊仙": {
+    "name": "男性蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "抱着花蝶女仙，不愿独自离开",
+    "firstChapterIndex": 467
+  },
+  "葛温": {
+    "name": "葛温",
+    "realm": "七转",
+    "path": "雷道",
+    "description": "蓝袍加身，皮肤干瘪粗硬如树皮，眼中赤光，牙齿尖锐，神情狰狞。雷道宗师，因施展仙道杀招失败反噬转变成仙僵。拥有两只仙蛊。在东海有薄名。",
+    "firstChapterIndex": 467
+  },
+  "铁心剑": {
+    "name": "铁心剑",
+    "realm": "七转",
+    "path": null,
+    "description": "七转当中的一流强者，对付黑楼兰、白凝冰",
+    "firstChapterIndex": 529
+  },
+  "百八十奴": {
+    "name": "百八十奴",
+    "realm": null,
+    "path": "奴道",
+    "description": "东海蛊仙，奴隶出生，奴道鬼才，以下御上",
+    "firstChapterIndex": 547
+  },
+  "苏白曼": {
+    "name": "苏白曼",
+    "realm": null,
+    "path": null,
+    "description": "鲨魔爱妻，化为至尊仙胎蛊材",
+    "firstChapterIndex": 547
+  },
+  "影宗": {
+    "name": "影宗",
+    "realm": null,
+    "path": null,
+    "description": "底蕴深厚，在东海僵盟总部算计鲨魔",
+    "firstChapterIndex": 547
+  },
+  "布真": {
+    "name": "布真",
+    "realm": null,
+    "path": null,
+    "description": "无详细信息",
+    "firstChapterIndex": 547
+  },
+  "第一位蛊仙": {
+    "name": "第一位蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "拥有混天鹰（荒兽、上古荒兽），询问方源仙蛊如何卖",
+    "firstChapterIndex": 547
+  },
+  "妙音": {
+    "name": "妙音",
+    "realm": null,
+    "path": null,
+    "description": "第一次接触上古战阵四通八达",
+    "firstChapterIndex": 554
+  },
+  "碧玉歌士": {
+    "name": "碧玉歌士",
+    "realm": null,
+    "path": null,
+    "description": "被万蛟淹没，倒下无数玉石蛟龙。",
+    "firstChapterIndex": 595
+  },
+  "天地歌士": {
+    "name": "天地歌士",
+    "realm": null,
+    "path": null,
+    "description": "攻势堂皇，被一头剑蛟吞下。",
+    "firstChapterIndex": 595
+  },
+  "俯首歌士": {
+    "name": "俯首歌士",
+    "realm": null,
+    "path": null,
+    "description": "支撑最久，能策反一些上古剑蛟分身，但难挡大局。",
+    "firstChapterIndex": 595
+  },
+  "离歌曲士": {
+    "name": "离歌曲士",
+    "realm": null,
+    "path": null,
+    "description": "分离上古剑蛟分身冲刺，但到处是分身，最终折损于万蛟群。",
+    "firstChapterIndex": 595
+  },
+  "廿二农夫": {
+    "name": "廿二农夫",
+    "realm": "北原",
+    "path": null,
+    "description": "老农模样，裤腿卷起，手脚沾泥，腰背佝偻，脸上有着深深皱纹；周身有一道淡黄光晕守护",
+    "firstChapterIndex": 1103
+  },
+  "耶律寇": {
+    "name": "耶律寇",
+    "realm": null,
+    "path": null,
+    "description": "皮肤黝黑，目光如隼",
+    "firstChapterIndex": 1103
+  },
+  "女仙": {
+    "name": "女仙",
+    "realm": null,
+    "path": null,
+    "description": "娇媚",
+    "firstChapterIndex": 1103
+  },
+  "万紫红": {
+    "name": "万紫红",
+    "realm": null,
+    "path": null,
+    "description": "",
+    "firstChapterIndex": 1103
+  },
+  "努尔暴雄": {
+    "name": "努尔暴雄",
+    "realm": null,
+    "path": null,
+    "description": "",
+    "firstChapterIndex": 1103
+  },
+  "袁贲": {
+    "name": "袁贲",
+    "realm": null,
+    "path": null,
+    "description": "身着白骨重铠，被肉鞭仙抽打，节节败退",
+    "firstChapterIndex": 1103
+  },
+  "煞狴": {
+    "name": "煞狴",
+    "realm": null,
+    "path": null,
+    "description": "一头太古传奇，名为煞狴九十五；参战拦截北原诸仙",
+    "firstChapterIndex": 1110
+  },
+  "青玉鹤": {
+    "name": "青玉鹤",
+    "realm": null,
+    "path": null,
+    "description": "一头太古传奇，名为阮丹；参战拦截北原诸仙",
+    "firstChapterIndex": 1110
+  },
+  "北原诸仙": {
+    "name": "北原诸仙",
+    "realm": null,
+    "path": null,
+    "description": "被前有古人杀招召唤而来；分散出击",
+    "firstChapterIndex": 1110
+  },
+  "翼浩方": {
+    "name": "翼浩方",
+    "realm": null,
+    "path": null,
+    "description": "变化道大能，惊疑天庭的人道杀招为何帮助己方",
+    "firstChapterIndex": 1127
+  },
+  "魂球": {
+    "name": "魂球",
+    "realm": null,
+    "path": null,
+    "description": "狂笑，说了话",
+    "firstChapterIndex": 1127
+  },
+  "玄极子孙名录": {
+    "name": "玄极子孙名录",
+    "realm": null,
+    "path": null,
+    "description": "北原蛊仙，坑害过雪胡老祖",
+    "firstChapterIndex": 1127
+  },
+  "煞狴九十五": {
+    "name": "煞狴九十五",
+    "realm": null,
+    "path": null,
+    "description": "太古传奇荒兽，被秦鼎菱喝令出战，与帝藏生厮杀，几个回合后败退",
+    "firstChapterIndex": 1208
+  },
+  "阮丹": {
+    "name": "阮丹",
+    "realm": null,
+    "path": null,
+    "description": "太古传奇荒兽，发出鹤鸣，被秦鼎菱喝令出战，与帝藏生厮杀，几个回合后败退",
+    "firstChapterIndex": 1208
+  },
+  "明皓仙子": {
+    "name": "明皓仙子",
+    "realm": null,
+    "path": null,
+    "description": "身躯摇晃，迅速站立；没有受伤；小脚丫一蹬地，飞射而起；手掌一撒，数十颗星尘飞舞；再次飞扑接近战部渡；被踢飞；再次扑向战部渡；心中紧张",
+    "firstChapterIndex": 1363
+  },
+  "天庭丰雅": {
+    "name": "天庭丰雅",
+    "realm": null,
+    "path": null,
+    "description": "被提及，为智道最强者，已触摸到第九层的另一核心元境",
+    "firstChapterIndex": 1363
+  },
+  "丰雅仙子": {
+    "name": "丰雅仙子",
+    "realm": null,
+    "path": null,
+    "description": "原本全力收取元境，现在却要一心两用，操纵星宿棋盘",
+    "firstChapterIndex": 1370
+  },
+  "七煞元君": {
+    "name": "七煞元君",
+    "realm": null,
+    "path": null,
+    "description": "与气绝魔仙交战正酣，回首惊呼",
+    "firstChapterIndex": 1370
+  },
+  "蛊仙": {
+    "name": "蛊仙",
+    "realm": null,
+    "path": null,
+    "description": "有蛊仙动手，但星宿棋盘杀招一直在生效",
+    "firstChapterIndex": 1370
+  }
+}

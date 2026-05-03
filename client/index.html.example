@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 酒馆故事游戏</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    header {
+      background: white;
+      border-radius: 16px;
+      padding: 30px;
+      margin-bottom: 20px;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    header h1 {
+      color: #333;
+      font-size: 28px;
+    }
+
+    .refresh-btn {
+      padding: 10px 20px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .refresh-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+    }
+
+    .refresh-btn:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+
+    .character-card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .character-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+
+    .character-header h2 {
+      color: #667eea;
+      font-size: 20px;
+    }
+
+    .version-info {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 4px 12px;
+      background: #d4edda;
+      border-radius: 4px;
+      font-size: 12px;
+      color: #155724;
+    }
+
+    .version-info.outdated {
+      background: #fff3cd;
+      color: #856404;
+    }
+
+    .version-info .warning {
+      margin-left: 4px;
+    }
+
+    .character-description {
+      color: #666;
+      line-height: 1.6;
+    }
+
+    /* 版本刷新提示条 */
+    .version-banner {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 16px 24px;
+      border-radius: 12px;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+      z-index: 1000;
+      max-width: 400px;
+      display: none;
+      animation: slideIn 0.3s ease;
+    }
+
+    @keyframes slideIn {
+      from {
+        transform: translateX(100%);
+        opacity: 0;
+      }
+      to {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }
+
+    .version-banner.show {
+      display: block;
+    }
+
+    .banner-content {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .banner-icon {
+      font-size: 24px;
+    }
+
+    .banner-title {
+      font-weight: 600;
+      font-size: 16px;
+      margin-bottom: 4px;
+    }
+
+    .banner-subtitle {
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    .banner-actions {
+      display: flex;
+      gap: 8px;
+    }
+
+    .banner-btn {
+      flex: 1;
+      padding: 8px 16px;
+      border: none;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .banner-btn-primary {
+      background: white;
+      color: #667eea;
+    }
+
+    .banner-btn-secondary {
+      background: transparent;
+      color: white;
+      border: 1px solid white;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>AI 酒馆故事游戏</h1>
+      <button id="refreshBtn" class="refresh-btn">🔄 刷新角色卡</button>
+    </header>
+
+    <main id="characterList">
+      <!-- 角色卡将通过 JavaScript 动态加载 -->
+    </main>
+  </div>
+
+  <!-- 版本刷新提示条 -->
+  <div id="versionBanner" class="version-banner">
+    <div class="banner-content">
+      <div class="banner-icon">🔄</div>
+      <div>
+        <div class="banner-title">角色卡已更新</div>
+        <div class="banner-subtitle" id="bannerSubtitle">发现 0 个角色卡有新版本</div>
+      </div>
+    </div>
+    <div class="banner-actions">
+      <button id="bannerRefreshBtn" class="banner-btn banner-btn-primary">立即刷新</button>
+      <button id="bannerDismissBtn" class="banner-btn banner-btn-secondary">稍后</button>
+    </div>
+  </div>
+
+  <!-- 引入版本管理器 -->
+  <script src="src/versionManager-native.js"></script>
+
+  <script>
+    // 获取版本管理器实例
+    const versionManager = getVersionManager();
+
+    // 角色卡列表
+    const characters = [
+      { id: '角色卡_赵怜云', name: '赵怜云', description: '' },
+      { id: '角色卡_方源', name: '方源', description: '' }
+    ];
+
+    // DOM 元素
+    const characterList = document.getElementById('characterList');
+    const refreshBtn = document.getElementById('refreshBtn');
+    const versionBanner = document.getElementById('versionBanner');
+    const bannerSubtitle = document.getElementById('bannerSubtitle');
+    const bannerRefreshBtn = document.getElementById('bannerRefreshBtn');
+    const bannerDismissBtn = document.getElementById('bannerDismissBtn');
+
+    // 加载角色卡数据
+    async function loadCharacters() {
+      for (const character of characters) {
+        try {
+          const data = await versionManager.getCharacter(character.id);
+          character.description = data.description;
+          renderCharacter(character);
+        } catch (error) {
+          console.error(`加载角色卡 ${character.id} 失败:`, error);
+          character.description = '加载失败';
+          renderCharacter(character);
+        }
+      }
+    }
+
+    // 渲染角色卡
+    function renderCharacter(character) {
+      const localVersion = versionManager.getLocalVersion(character.id);
+      const remoteVersion = versionManager.getRemoteVersion(character.id);
+      const isOutdated = remoteVersion && (!localVersion || localVersion < remoteVersion);
+
+      const card = document.createElement('div');
+      card.className = 'character-card';
+      card.id = `card-${character.id}`;
+      
+      card.innerHTML = `
+        <div class="character-header">
+          <h2>${character.name}</h2>
+          <div class="version-info ${isOutdated ? 'outdated' : ''}">
+            版本: ${localVersion || '未知'}
+            ${isOutdated ? `<span>→</span><span>${remoteVersion}</span><span class="warning">⚠️</span>` : ''}
+          </div>
+        </div>
+        <p class="character-description">${character.description}</p>
+      `;
+
+      // 检查是否已存在，如果存在则更新，否则添加
+      const existingCard = document.getElementById(`card-${character.id}`);
+      if (existingCard) {
+        existingCard.replaceWith(card);
+      } else {
+        characterList.appendChild(card);
+      }
+    }
+
+    // 更新所有角色卡的版本信息显示
+    function updateAllVersionInfo() {
+      for (const character of characters) {
+        renderCharacter(character);
+      }
+    }
+
+    // 处理版本变化
+    function handleVersionChange(characterId, oldVersion, newVersion) {
+      console.log(`${characterId} 版本变化: ${oldVersion} -> ${newVersion}`);
+      
+      // 显示提示条
+      const changes = versionManager.remoteVersions.size;
+      bannerSubtitle.textContent = `发现 ${changes} 个角色卡有新版本`;
+      versionBanner.classList.add('show');
+    }
+
+    // 刷新按钮点击事件
+    refreshBtn.addEventListener('click', async () => {
+      refreshBtn.disabled = true;
+      refreshBtn.textContent = '⏳ 刷新中...';
+      
+      try {
+        await versionManager.refreshAll();
+        await loadCharacters();
+        updateAllVersionInfo();
+        versionBanner.classList.remove('show');
+      } catch (error) {
+        console.error('刷新失败:', error);
+        alert('刷新失败，请重试');
+      } finally {
+        refreshBtn.disabled = false;
+        refreshBtn.textContent = '🔄 刷新角色卡';
+      }
+    });
+
+    // 提示条刷新按钮点击事件
+    bannerRefreshBtn.addEventListener('click', async () => {
+      bannerRefreshBtn.disabled = true;
+      bannerRefreshBtn.textContent = '刷新中...';
+      
+      try {
+        await versionManager.refreshAll();
+        await loadCharacters();
+        updateAllVersionInfo();
+        versionBanner.classList.remove('show');
+      } catch (error) {
+        console.error('刷新失败:', error);
+        alert('刷新失败，请重试');
+      } finally {
+        bannerRefreshBtn.disabled = false;
+        bannerRefreshBtn.textContent = '立即刷新';
+      }
+    });
+
+    // 提示条稍后按钮点击事件
+    bannerDismissBtn.addEventListener('click', () => {
+      versionBanner.classList.remove('show');
+    });
+
+    // 页面加载完成后初始化
+    window.addEventListener('DOMContentLoaded', async () => {
+      // 加载角色卡数据
+      await loadCharacters();
+      
+      // 启动定期检查（每 30 秒）
+      versionManager.startPeriodicCheck(30000);
+      
+      // 监听所有版本变化
+      versionManager.onVersionChange('*', handleVersionChange);
+    });
+
+    // 页面卸载时清理
+    window.addEventListener('beforeunload', () => {
+      versionManager.stopPeriodicCheck();
+      versionManager.offVersionChange('*', handleVersionChange);
+    });
+  </script>
+</body>
+</html>

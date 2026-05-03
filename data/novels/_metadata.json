@@ -1,0 +1,345 @@
+{
+  "gu_zhen_ren___gu_zhen_ren": {
+    "id": "gu_zhen_ren___gu_zhen_ren",
+    "name": "Gu Zhen Ren - Gu Zhen Ren",
+    "filePath": "D:\\learn\\InkSoul 墨魂\\蛊真人\\Gu Zhen Ren - Gu Zhen Ren.txt",
+    "fileSize": 14409866,
+    "createdAt": "2026-05-02T15:24:53.561Z",
+    "extracted": true,
+    "lastExtraction": "2026-05-02T15:28:10.982Z",
+    "powerSystem": {
+      "type": "蛊师等级",
+      "description": "蛊师通过炼化蛊虫提升实力，等级从一转至九转，每转对应不同的战力与能力。",
+      "levels": [
+        {
+          "name": "一转蛊师",
+          "rank": 1,
+          "description": "基础蛊师，初步掌握蛊虫运用。"
+        },
+        {
+          "name": "二转蛊师",
+          "rank": 2,
+          "description": "进阶蛊师，能炼化更多蛊虫。"
+        },
+        {
+          "name": "三转蛊师",
+          "rank": 3,
+          "description": "中阶蛊师，具备一定战力，如标题提及晋升三转。"
+        },
+        {
+          "name": "四转蛊师",
+          "rank": 4,
+          "description": "高阶蛊师，实力进一步增强。"
+        },
+        {
+          "name": "五转蛊师",
+          "rank": 5,
+          "description": "精英蛊师，可参与五转激战。"
+        },
+        {
+          "name": "六转蛊师",
+          "rank": 6,
+          "description": "强者蛊师，开始接触仙蛊。"
+        },
+        {
+          "name": "七转蛊师",
+          "rank": 7,
+          "description": "顶尖蛊师，拥有仙蛊力量。"
+        },
+        {
+          "name": "八转蛊师",
+          "rank": 8,
+          "description": "传奇蛊师，如八转慧剑蛊。"
+        },
+        {
+          "name": "九转蛊师",
+          "rank": 9,
+          "description": "至高蛊师，传说巅峰。"
+        }
+      ],
+      "rules": [
+        "蛊师需炼蛊提升境界",
+        "蛊虫有天资、本命之分",
+        "等级越高寿命越长，实力越强"
+      ]
+    },
+    "writingStyle": {
+      "name": "深沉魔性叙事",
+      "description": "文字风格冷峻理性，注重描写阴谋、牺牲、孤独与魔性抉择，主角行事果决，不拘传统道德。",
+      "characteristics": [
+        "主角魔性自私",
+        "情节充满算计与反转",
+        "环境描写阴冷黑暗",
+        "对话简洁有力"
+      ],
+      "tone": "黑暗、理性、深沉",
+      "narrative": "第三人称有限视角，偶尔插入主角内心独白"
+    },
+    "worldview": {
+      "name": "蛊世界",
+      "description": "以蛊虫为核心力量的修仙世界，存在正道与魔道之分，拥有天庭等组织，各地区如东海、北原、白骨山等。",
+      "keyElements": [
+        "蛊虫",
+        "蛊师",
+        "仙蛊",
+        "春秋蝉（时间道）",
+        "天庭",
+        "魔道",
+        "正道"
+      ],
+      "regions": [
+        {
+          "id": "donghai",
+          "name": "东海",
+          "description": "东部海域，多有仙蛊传承与海族势力。"
+        },
+        {
+          "id": "beiyuan",
+          "name": "北原",
+          "description": "北部草原，游牧族群与兽潮频繁。"
+        },
+        {
+          "id": "baigushan",
+          "name": "白骨山",
+          "description": "险地，有白骨传承与强大魔道蛊师。"
+        },
+        {
+          "id": "yitian",
+          "name": "义天山",
+          "description": "重要战场，多次发生激战。"
+        },
+        {
+          "id": "luopo",
+          "name": "落魄谷",
+          "description": "神秘山谷，藏有盗天真传。"
+        }
+      ],
+      "distanceRules": [],
+      "plausibilityRules": [
+        "角色在不同地点之间移动需要合理的时间和理由",
+        "低境界角色难以跨越极远距离",
+        "没有特殊手段不能快速移动",
+        "角色相遇需要合理的地理位置和时间安排"
+      ]
+    },
+    "detailRules": {
+      "name": "蛊虫与修炼规则",
+      "description": "蛊虫分为凡蛊与仙蛊，蛊师通过炼化蛊虫获得能力，等级突破需渡劫或特殊机缘。",
+      "categories": [
+        {
+          "name": "蛊虫分类",
+          "rules": [
+            "凡蛊常见，仙蛊稀有",
+            "蛊虫有转数限制",
+            "本命蛊与普通蛊区别"
+          ]
+        },
+        {
+          "name": "修炼提升",
+          "rules": [
+            "炼蛊可提升实力",
+            "渡劫是升转关键",
+            "杀招是战斗技巧"
+          ]
+        },
+        {
+          "name": "流派划分",
+          "rules": [
+            "变化道、智道、风道、火道等",
+            "各有侧重"
+          ]
+        }
+      ]
+    },
+    "canonProtagonist": [
+      {
+        "name": "天意",
+        "description": "抽象存在，意图布局，曾影响方源重生和影宗大计，引发天道震怒。",
+        "role": "主角",
+        "keyTraits": []
+      }
+    ],
+    "forbiddenConcepts": {
+      "name": "蛊界禁止概念",
+      "description": "蛊界特有的世界观设定，禁止使用传统仙侠小说的通用术语",
+      "currency": {
+        "primary": "元石",
+        "forbidden": [
+          {
+            "term": "铜钱",
+            "reason": "蛊界使用元石作为货币，不是铜钱",
+            "alternative": "元石"
+          },
+          {
+            "term": "银两",
+            "reason": "蛊界使用元石作为货币，不是银两",
+            "alternative": "元石"
+          },
+          {
+            "term": "金币",
+            "reason": "蛊界使用元石作为货币，不是金币",
+            "alternative": "元石"
+          },
+          {
+            "term": "灵石",
+            "reason": "蛊界使用元石作为货币，不是灵石",
+            "alternative": "元石"
+          }
+        ]
+      },
+      "cultivation": {
+        "primary": "空窍",
+        "forbidden": [
+          {
+            "term": "丹田",
+            "reason": "蛊界使用空窍储存蛊虫和道痕，不是丹田",
+            "alternative": "空窍"
+          }
+        ]
+      },
+      "energy": {
+        "primary": "真气、元气、天地二气",
+        "forbidden": [
+          {
+            "term": "灵气",
+            "reason": "蛊界使用真气、元气、天地二气，不是灵气",
+            "alternative": "真气、元气、天地二气"
+          }
+        ]
+      },
+      "realm": {
+        "primary": "一转至九转蛊师",
+        "forbidden": [
+          {
+            "term": "筑基",
+            "reason": "蛊界使用一转至九转等级，不是筑基",
+            "alternative": "一转"
+          },
+          {
+            "term": "金丹",
+            "reason": "蛊界使用一转至九转等级，不是金丹",
+            "alternative": "四转"
+          },
+          {
+            "term": "元婴",
+            "reason": "蛊界使用一转至九转等级，不是元婴",
+            "alternative": "七转"
+          },
+          {
+            "term": "化神",
+            "reason": "蛊界使用一转至九转等级，不是化神",
+            "alternative": "仙尊、魔尊"
+          }
+        ]
+      },
+      "concepts": [
+        {
+          "term": "经脉",
+          "reason": "蛊界使用道痕、血肉，不是经脉",
+          "alternative": "道痕、血肉"
+        },
+        {
+          "term": "洞府",
+          "reason": "蛊界使用蛊窟、洞天，不是洞府",
+          "alternative": "蛊窟、洞天"
+        },
+        {
+          "term": "法宝",
+          "reason": "蛊界使用蛊虫、蛊具，不是法宝",
+          "alternative": "蛊虫、蛊具"
+        },
+        {
+          "term": "符箓",
+          "reason": "蛊界使用符蛊、信蛊，不是符箓",
+          "alternative": "符蛊、信蛊"
+        },
+        {
+          "term": "灵根",
+          "reason": "蛊界使用天赋蛊、资质蛊，不是灵根",
+          "alternative": "天赋蛊、资质蛊"
+        },
+        {
+          "term": "宗门",
+          "reason": "蛊界使用门派、势力，不是宗门",
+          "alternative": "门派、势力"
+        },
+        {
+          "term": "渡劫",
+          "reason": "蛊界使用天劫、雷劫，不是渡劫",
+          "alternative": "天劫、雷劫"
+        },
+        {
+          "term": "神识",
+          "reason": "蛊界使用感知、神念，不是神识",
+          "alternative": "感知、神念"
+        }
+      ],
+      "rules": [
+        "严格遵循蛊界世界观设定，不得引入传统仙侠小说的概念",
+        "蛊虫储存在空窍中，不是丹田",
+        "道痕刻印在空窍中，不是经脉",
+        "使用蛊界特有的术语（如元石、真气、空窍等）"
+      ]
+    }
+  },
+  "_template": {
+    "name": "通用配置模板",
+    "description": "为新小说添加配置时参考此模板",
+    "forbiddenConcepts": {
+      "name": "小说禁止概念",
+      "description": "该小说特有的世界观设定，禁止使用其他小说的通用术语",
+      "currency": {
+        "primary": "灵石",
+        "forbidden": [
+          {
+            "term": "铜钱",
+            "reason": "修仙小说中使用灵石作为货币，不是铜钱",
+            "alternative": "灵石"
+          },
+          {
+            "term": "银两",
+            "reason": "修仙小说中使用灵石作为货币，不是银两",
+            "alternative": "灵石"
+          },
+          {
+            "term": "金币",
+            "reason": "修仙小说中使用灵石作为货币，不是金币",
+            "alternative": "灵石"
+          }
+        ]
+      },
+      "cultivation": {
+        "primary": "丹田",
+        "forbidden": []
+      },
+      "energy": {
+        "primary": "灵气",
+        "forbidden": []
+      },
+      "realm": {
+        "primary": "筑基、金丹、元婴...",
+        "forbidden": []
+      },
+      "concepts": [],
+      "rules": [
+        "严格遵循原著设定，不得引入其他小说的概念"
+      ]
+    },
+    "characterValidationRules": {
+      "name": "角色验证规则",
+      "description": "验证角色设定是否符合小说世界观",
+      "originalCharacter": {
+        "forbiddenBackgroundPatterns": [],
+        "requiredElements": [],
+        "forbiddenActions": [],
+        "description": "原创角色验证规则"
+      },
+      "canonCharacter": {
+        "forbiddenBackgroundPatterns": [],
+        "requiredElements": [],
+        "forbiddenActions": [],
+        "description": "原著角色验证规则"
+      }
+    }
+  }
+}

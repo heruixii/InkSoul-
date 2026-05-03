@@ -1,0 +1,317 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --tavern-glow: 232, 168, 92;
+    --tavern-ink: 232, 212, 178;
+    --wood-dark: 28, 18, 12;
+    --wood-mid: 58, 38, 24;
+    --wood-light: 92, 62, 38;
+    --lamp-glow: 232, 168, 92;
+    --ember-warm: 196, 124, 58;
+  }
+
+  html {
+    background:
+      radial-gradient(circle at 12% 18%, rgba(232, 168, 92, 0.18), transparent 28%),
+      radial-gradient(circle at 88% 82%, rgba(196, 124, 58, 0.10), transparent 32%),
+      linear-gradient(180deg, #1a110b 0%, #14100a 100%);
+    min-height: 100%;
+  }
+
+  body {
+    @apply antialiased;
+    background:
+      /* warm lamp halo upper-left */
+      radial-gradient(ellipse 600px 400px at 8% 12%, rgba(232, 168, 92, 0.16), transparent 60%),
+      /* fireplace glow lower-right */
+      radial-gradient(ellipse 700px 500px at 92% 88%, rgba(184, 96, 42, 0.12), transparent 65%),
+      /* faint center warmth */
+      radial-gradient(ellipse 900px 700px at 50% 50%, rgba(120, 78, 44, 0.08), transparent 70%),
+      /* deep wood base */
+      linear-gradient(180deg, #1d1209 0%, #261810 40%, #1a1009 100%);
+    min-height: 100vh;
+    background-attachment: fixed;
+    font-family: "Noto Serif SC", "Source Han Serif SC", "STSong", Georgia, serif;
+    font-feature-settings: "liga" 1, "calt" 1;
+    color: rgb(var(--tavern-ink));
+  }
+
+  #root {
+    min-height: 100vh;
+  }
+
+  /* subtle wood-grain noise overlay across whole app */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+    background-image:
+      repeating-linear-gradient(90deg, rgba(0,0,0,0.04) 0 1px, transparent 1px 3px),
+      repeating-linear-gradient(180deg, rgba(255,200,140,0.015) 0 2px, transparent 2px 6px);
+    mix-blend-mode: overlay;
+    opacity: 0.55;
+  }
+}
+
+@layer components {
+  .app-shell {
+    @apply relative overflow-hidden rounded-[24px] border border-amber-900/40;
+    background:
+      /* lamp glow leaking from corner */
+      radial-gradient(ellipse 380px 300px at 6% 4%, rgba(232, 168, 92, 0.14), transparent 60%),
+      /* deep wood gradient */
+      linear-gradient(180deg, rgba(46, 30, 20, 0.55), rgba(28, 18, 12, 0.62)),
+      /* wood plank texture */
+      repeating-linear-gradient(90deg,
+        rgba(58, 38, 24, 0.12) 0 120px,
+        rgba(38, 25, 16, 0.18) 120px 122px,
+        rgba(58, 38, 24, 0.12) 122px 240px);
+    box-shadow:
+      0 30px 90px rgba(0, 0, 0, 0.55),
+      inset 0 1px 0 rgba(232, 168, 92, 0.12),
+      inset 0 -1px 0 rgba(0, 0, 0, 0.45);
+  }
+
+  .page-fade-in {
+    animation: tavernFadeIn 0.34s ease-out;
+  }
+
+  .global-watermark span {
+    position: absolute;
+    transform: rotate(-18deg);
+    transform-origin: center;
+    font-size: clamp(10px, 0.95vw, 13px);
+    letter-spacing: 0.08em;
+    color: rgba(232, 168, 92, 0.10);
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+    white-space: nowrap;
+    user-select: none;
+  }
+
+  .btn-primary {
+    @apply px-4 py-2 rounded-lg border disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 active:scale-[0.99];
+    color: #fdecc8;
+    border-color: rgba(120, 78, 40, 0.6);
+    background: linear-gradient(180deg, #6b4220 0%, #4d2d14 60%, #3a1f0d 100%);
+    box-shadow:
+      0 6px 16px rgba(0, 0, 0, 0.45),
+      inset 0 1px 0 rgba(232, 168, 92, 0.22),
+      inset 0 -1px 0 rgba(0, 0, 0, 0.35);
+    text-shadow: 0 1px 2px rgba(0,0,0,0.4);
+  }
+
+  .btn-primary:hover {
+    background: linear-gradient(180deg, #7a4d27 0%, #5a3619 60%, #432411 100%);
+    box-shadow:
+      0 8px 20px rgba(0, 0, 0, 0.5),
+      inset 0 1px 0 rgba(232, 168, 92, 0.32),
+      0 0 24px rgba(232, 168, 92, 0.18);
+  }
+  
+  .btn-secondary {
+    @apply px-4 py-2 rounded-lg border transition-all duration-300 active:scale-[0.99];
+    color: #e8d4b2;
+    background: linear-gradient(180deg, rgba(58, 38, 24, 0.55), rgba(38, 25, 16, 0.65));
+    border-color: rgba(120, 78, 40, 0.45);
+    box-shadow: inset 0 1px 0 rgba(232, 168, 92, 0.10), 0 4px 10px rgba(0,0,0,0.35);
+  }
+
+  .btn-secondary:hover {
+    background: linear-gradient(180deg, rgba(72, 48, 30, 0.65), rgba(48, 32, 20, 0.70));
+    border-color: rgba(232, 168, 92, 0.45);
+    color: #fbe6c2;
+  }
+  
+  .input-field {
+    @apply w-full px-3 py-2.5 border rounded-lg focus:outline-none transition-all duration-200;
+    color: #f0dcb6;
+    background: linear-gradient(180deg, rgba(28, 18, 12, 0.7), rgba(38, 25, 16, 0.65));
+    border-color: rgba(120, 78, 40, 0.45);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.45);
+  }
+
+  .input-field::placeholder {
+    color: rgba(232, 212, 178, 0.35);
+  }
+
+  .input-field:focus {
+    border-color: rgba(232, 168, 92, 0.55);
+    box-shadow:
+      inset 0 1px 3px rgba(0, 0, 0, 0.45),
+      0 0 0 2px rgba(232, 168, 92, 0.18),
+      0 0 18px rgba(232, 168, 92, 0.10);
+  }
+  
+  .card {
+    @apply rounded-xl border p-4;
+    color: #ebd4ad;
+    background:
+      linear-gradient(180deg, rgba(58, 38, 24, 0.78), rgba(38, 25, 16, 0.85));
+    border-color: rgba(120, 78, 40, 0.40);
+    box-shadow:
+      0 12px 32px rgba(0, 0, 0, 0.45),
+      inset 0 1px 0 rgba(232, 168, 92, 0.10),
+      inset 0 -1px 0 rgba(0, 0, 0, 0.30);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .card::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: radial-gradient(ellipse at top left, rgba(232, 168, 92, 0.06), transparent 60%);
+    opacity: 0.8;
+  }
+  
+  .message-bubble {
+    @apply max-w-[80%] px-4 py-3 rounded-2xl shadow-md;
+    animation: tavernFadeIn 0.22s ease-out;
+  }
+  
+  .message-user {
+    @apply message-bubble rounded-br-md;
+    color: #fbe6c2;
+    background: linear-gradient(180deg, #6b4220 0%, #432411 100%);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(232, 168, 92, 0.18);
+  }
+  
+  .message-assistant {
+    @apply message-bubble rounded-bl-md;
+    color: #ead4ad;
+    background: linear-gradient(180deg, rgba(48, 32, 20, 0.88), rgba(34, 22, 14, 0.92));
+    border: 1px solid rgba(120, 78, 40, 0.35);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.40), inset 0 1px 0 rgba(232, 168, 92, 0.08);
+  }
+
+  .wood-panel {
+    background:
+      linear-gradient(180deg, rgba(46, 30, 20, 0.96), rgba(26, 16, 10, 0.96)),
+      repeating-linear-gradient(90deg,
+        rgba(232, 168, 92, 0.04) 0 80px,
+        rgba(0, 0, 0, 0.10) 80px 82px,
+        rgba(232, 168, 92, 0.03) 82px 160px);
+    box-shadow: inset 0 1px 0 rgba(232, 168, 92, 0.10), inset -1px 0 0 rgba(0,0,0,0.40);
+  }
+
+  /* 落地灯光晕 - 装饰元素 */
+  .lamp-glow {
+    position: absolute;
+    pointer-events: none;
+    width: 280px;
+    height: 320px;
+    background: radial-gradient(ellipse at center top,
+      rgba(255, 200, 120, 0.22) 0%,
+      rgba(232, 168, 92, 0.12) 30%,
+      transparent 70%);
+    filter: blur(12px);
+  }
+
+  /* 书架轮廓 */
+  .bookshelf-silhouette {
+    position: absolute;
+    pointer-events: none;
+    opacity: 0.18;
+    background:
+      /* 书脊 */
+      linear-gradient(90deg,
+        #4a2a14 0 4%, #5e3520 4% 7%, #3a2010 7% 11%, #6b3d22 11% 14%,
+        #4a2a14 14% 18%, #5e3520 18% 21%, #3a2010 21% 25%, #6b3d22 25% 28%,
+        #4a2a14 28% 32%, #5e3520 32% 35%, #3a2010 35% 39%, #6b3d22 39% 42%,
+        #4a2a14 42% 46%, #5e3520 46% 49%, #3a2010 49% 53%, #6b3d22 53% 56%,
+        #4a2a14 56% 60%, #5e3520 60% 63%, #3a2010 63% 67%, #6b3d22 67% 70%,
+        #4a2a14 70% 74%, #5e3520 74% 77%, #3a2010 77% 81%, #6b3d22 81% 84%,
+        #4a2a14 84% 88%, #5e3520 88% 91%, #3a2010 91% 95%, #6b3d22 95% 100%);
+    border-top: 4px solid rgba(38, 24, 14, 0.8);
+    border-bottom: 4px solid rgba(38, 24, 14, 0.8);
+  }
+
+  .tavern-glow {
+    box-shadow: 0 0 0 1px rgba(232, 168, 92, 0.10), 0 12px 28px rgba(0, 0, 0, 0.45), 0 0 32px rgba(232, 168, 92, 0.10);
+  }
+
+  .prose {
+    color: #ead4ad;
+  }
+
+  .prose :where(p, li, blockquote, strong, em, code) {
+    color: inherit;
+  }
+
+  .prose code {
+    background: rgba(232, 168, 92, 0.10);
+    border: 1px solid rgba(232, 168, 92, 0.18);
+    border-radius: 0.4rem;
+    padding: 0.1rem 0.35rem;
+    color: #fbe6c2;
+  }
+
+  /* 暖色文字辅助 */
+  .text-warm { color: #ead4ad; }
+  .text-warm-soft { color: rgba(232, 212, 178, 0.7); }
+  .text-warm-dim { color: rgba(232, 212, 178, 0.5); }
+  .text-ember { color: #e8a85c; }
+}
+
+@keyframes tavernFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(28, 18, 12, 0.6);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(120, 78, 40, 0.6);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(232, 168, 92, 0.55);
+}
+
+@media (max-width: 1024px) {
+  .card {
+    @apply rounded-xl p-3;
+  }
+
+  .btn-primary,
+  .btn-secondary {
+    @apply px-3 py-2;
+  }
+}
+
+@media (max-width: 768px) {
+  .input-field {
+    @apply text-sm px-3 py-2;
+  }
+
+  .message-bubble {
+    @apply max-w-[92%] px-3 py-2.5;
+  }
+}
+
+/* 文本域自动调整 */
+textarea {
+  resize: none;
+}

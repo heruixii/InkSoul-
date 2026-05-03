@@ -1,0 +1,29 @@
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 敏感数据文件
+server/data/tavern.json.bak
+# server/data/tavern.json - 允许提交（但需要清理API密钥）
+server/data/*.json.bak
+
+# 日志文件
+logs/
+*.log
+
+# 依赖目录
+node_modules/
+server/node_modules/
+admin-panel/node_modules/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+
+# 备份文件
+*.bak

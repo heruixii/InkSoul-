@@ -1,0 +1,41 @@
+{
+  "_comment": "配置文件说明：可通过环境变量覆盖部分配置",
+  "_environment_variables": {
+    "DIAGNOSIS_CRON": "cron 表达式，默认 '0 3 * * *'（每天凌晨3点）",
+    "DIAGNOSIS_AUTO_FIX": "true 或 false，默认 false（覆盖 autoFix 字段）",
+    "FORBIDDEN_WORDS_PATH": "自定义关键词配置文件路径，默认 config/forbidden-words.json"
+  },
+  "keywords": [
+    "九转尊者",
+    "九转仙尊",
+    "九转蛊尊",
+    "天庭之主",
+    "十大尊者",
+    "方源是魔道蛊仙",
+    "方源是魔尊",
+    "赵怜云是九转尊者",
+    "赵怜云是九转仙尊"
+  ],
+  "corrections": {
+    "九转尊者": "蛊仙",
+    "九转仙尊": "当代仙子",
+    "九转蛊尊": "蛊仙",
+    "天庭之主": "天庭成员",
+    "十大尊者": "尊者",
+    "方源是魔道蛊仙": "方源是中洲蛊仙",
+    "方源是魔尊": "方源是蛊仙",
+    "赵怜云是九转尊者": "赵怜云是蛊仙",
+    "赵怜云是九转仙尊": "赵怜云是当代仙子"
+  },
+  "scanPaths": [
+    "../characters",
+    "../worldbook"
+  ],
+  "excludePatterns": [
+    "temp_epub",
+    "node_modules",
+    ".git"
+  ],
+  "autoFix": true,
+  "alertOnNewErrors": true
+}

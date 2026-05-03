@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>故事框架监控面板</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: #f5f5f5;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+
+    .stat-card {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .stat-card h3 {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+
+    .stat-card .value {
+      font-size: 32px;
+      font-weight: bold;
+      color: #333;
+    }
+
+    .stat-card.error .value {
+      color: #f44336;
+    }
+
+    .stat-card.warning .value {
+      color: #ff9800;
+    }
+
+    .stat-card.success .value {
+      color: #4caf50;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .tab {
+      padding: 10px 20px;
+      background: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.2s;
+    }
+
+    .tab:hover {
+      background: #e0e0e0;
+    }
+
+    .tab.active {
+      background: #2196f3;
+      color: white;
+    }
+
+    .tab-content {
+      display: none;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .tab-content.active {
+      display: block;
+    }
+
+    .log-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .log-table th,
+    .log-table td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid #e0e0e0;
+    }
+
+    .log-table th {
+      background: #f5f5f5;
+      font-weight: 600;
+      color: #333;
+    }
+
+    .log-table tr:hover {
+      background: #f9f9f9;
+    }
+
+    .level-badge {
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    .level-debug {
+      background: #e3f2fd;
+      color: #1976d2;
+    }
+
+    .level-info {
+      background: #e8f5e9;
+      color: #388e3c;
+    }
+
+    .level-warn {
+      background: #fff3e0;
+      color: #f57c00;
+    }
+
+    .level-error {
+      background: #ffebee;
+      color: #d32f2f;
+    }
+
+    .actions {
+      margin-bottom: 20px;
+    }
+
+    .btn {
+      padding: 8px 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: #2196f3;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #1976d2;
+    }
+
+    .btn-danger {
+      background: #f44336;
+      color: white;
+    }
+
+    .btn-danger:hover {
+      background: #d32f2f;
+    }
+
+    .select {
+      padding: 8px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+
+    .log-entry {
+      padding: 15px;
+      border-bottom: 1px solid #e0e0e0;
+      font-family: monospace;
+      font-size: 12px;
+    }
+
+    .log-entry:last-child {
+      border-bottom: none;
+    }
+
+    .log-entry .timestamp {
+      color: #666;
+      margin-right: 10px;
+    }
+
+    .log-entry .category {
+      color: #2196f3;
+      margin-right: 10px;
+    }
+
+    .violation-card {
+      background: #ffebee;
+      padding: 15px;
+      border-radius: 4px;
+      margin-bottom: 10px;
+      border-left: 4px solid #f44336;
+    }
+
+    .violation-card h4 {
+      color: #d32f2f;
+      margin-bottom: 10px;
+    }
+
+    .violation-card p {
+      margin: 5px 0;
+      color: #333;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 40px;
+      color: #666;
+    }
+
+    #consistency-results {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎭 故事框架监控面板</h1>
+
+    <!-- 统计卡片 -->
+    <div class="stats">
+      <div class="stat-card">
+        <h3>今日日志条目</h3>
+        <div class="value" id="today-logs">0</div>
+      </div>
+      <div class="stat-card">
+        <h3>违规次数</h3>
+        <div class="value error" id="violations">0</div>
+      </div>
+      <div class="stat-card">
+        <h3>AI 生成次数</h3>
+        <div class="value" id="ai-generations">0</div>
+      </div>
+      <div class="stat-card">
+        <h3>平均延迟 (ms)</h3>
+        <div class="value" id="avg-latency">0</div>
+      </div>
+    </div>
+
+    <!-- 标签页 -->
+    <div class="tabs">
+      <button class="tab active" onclick="showTab('logs')">日志查看</button>
+      <button class="tab" onclick="showTab('violations')">违规检测</button>
+      <button class="tab" onclick="showTab('sessions')">会话管理</button>
+    </div>
+
+    <!-- 日志查看 -->
+    <div id="tab-logs" class="tab-content active">
+      <div class="actions">
+        <select class="select" id="log-date" onchange="loadLogs()">
+          <option value="">选择日期</option>
+        </select>
+        <select class="select" id="log-level" onchange="filterLogs()">
+          <option value="all">所有级别</option>
+          <option value="debug">Debug</option>
+          <option value="info">Info</option>
+          <option value="warn">Warn</option>
+          <option value="error">Error</option>
+        </select>
+        <button class="btn btn-primary" onclick="loadLogs()">刷新</button>
+      </div>
+      <div id="logs-container">
+        <div class="empty-state">选择日期后加载日志</div>
+      </div>
+    </div>
+
+    <!-- 违规检测 -->
+    <div id="tab-violations" class="tab-content">
+      <div class="actions">
+        <button class="btn btn-primary" onclick="runConsistencyCheck()">运行一致性检测</button>
+        <button class="btn btn-primary" onclick="runAutoFix()" style="background: #ff9800;">检查并自动修复锚点</button>
+      </div>
+      <div id="consistency-results">
+        <div class="empty-state">点击按钮运行检测</div>
+      </div>
+      
+      <h3 style="margin-top: 30px;">最近自动添加的锚点</h3>
+      <div id="autofix-history">
+        <div class="empty-state">加载中...</div>
+      </div>
+    </div>
+
+    <!-- 会话管理 -->
+    <div id="tab-sessions" class="tab-content">
+      <div class="actions">
+        <button class="btn btn-primary" onclick="loadSessions()">刷新会话列表</button>
+      </div>
+      <div id="sessions-container">
+        <div class="empty-state">加载会话列表</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // 显示标签页
+    function showTab(tabName) {
+      document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+      
+      event.target.classList.add('active');
+      document.getElementById(`tab-${tabName}`).classList.add('active');
+    }
+
+    // 加载日期列表
+    async function loadDates() {
+      try {
+        const response = await fetch('/api/admin/log-dates');
+        const dates = await response.json();
+        
+        const select = document.getElementById('log-date');
+        select.innerHTML = '<option value="">选择日期</option>';
+        
+        dates.forEach(date => {
+          const option = document.createElement('option');
+          option.value = date;
+          option.textContent = date;
+          select.appendChild(option);
+        });
+        
+        // 默认选择今天
+        const today = new Date().toISOString().split('T')[0];
+        if (dates.includes(today)) {
+          select.value = today;
+          loadLogs();
+        }
+      } catch (error) {
+        console.error('加载日期失败:', error);
+      }
+    }
+
+    // 加载日志
+    async function loadLogs() {
+      const date = document.getElementById('log-date').value;
+      if (!date) return;
+      
+      try {
+        const response = await fetch(`/api/admin/logs?date=${date}`);
+        const logs = await response.json();
+        
+        displayLogs(logs);
+        updateStats(logs);
+      } catch (error) {
+        console.error('加载日志失败:', error);
+        document.getElementById('logs-container').innerHTML = '<div class="empty-state">加载失败</div>';
+      }
+    }
+
+    // 显示日志
+    function displayLogs(logs) {
+      const container = document.getElementById('logs-container');
+      const level = document.getElementById('log-level').value;
+      
+      const filteredLogs = level === 'all' 
+        ? logs 
+        : logs.filter(log => log.level === level);
+      
+      if (filteredLogs.length === 0) {
+        container.innerHTML = '<div class="empty-state">无日志</div>';
+        return;
+      }
+      
+      container.innerHTML = filteredLogs.map(log => `
+        <div class="log-entry">
+          <span class="timestamp">${log.timestamp}</span>
+          <span class="level-badge level-${log.level}">${log.level.toUpperCase()}</span>
+          <span class="category">[${log.category}]</span>
+          <span>${JSON.stringify(log)}</span>
+        </div>
+      `).join('');
+    }
+
+    // 过滤日志
+    function filterLogs() {
+      const date = document.getElementById('log-date').value;
+      if (!date) return;
+      loadLogs();
+    }
+
+    // 更新统计
+    function updateStats(logs) {
+      const todayLogs = logs.length;
+      const aiGenerations = logs.filter(log => log.category === 'AI_GENERATION').length;
+      const violations = logs.filter(log => log.category === 'VIOLATION').length;
+      
+      const latencies = logs
+        .filter(log => log.category === 'AI_GENERATION' && log.latency)
+        .map(log => log.latency);
+      
+      const avgLatency = latencies.length > 0 
+        ? Math.round(latencies.reduce((a, b) => a + b, 0) / latencies.length)
+        : 0;
+      
+      document.getElementById('today-logs').textContent = todayLogs;
+      document.getElementById('violations').textContent = violations;
+      document.getElementById('ai-generations').textContent = aiGenerations;
+      document.getElementById('avg-latency').textContent = avgLatency;
+    }
+
+    // 运行一致性检测
+    async function runConsistencyCheck() {
+      const container = document.getElementById('consistency-results');
+      container.innerHTML = '<div class="empty-state">检测中...</div>';
+      
+      try {
+        const response = await fetch('/api/story-framework/consistency-check', {
+          method: 'POST'
+        });
+        const result = await response.json();
+        
+        if (result.totalViolations === 0) {
+          container.innerHTML = '<div class="empty-state">✓ 未检测到违规</div>';
+        } else {
+          container.innerHTML = result.violations.map(violation => `
+            <div class="violation-card">
+              <h4>违规检测</h4>
+              <p><strong>会话:</strong> ${violation.sessionId}</p>
+              <p><strong>时间:</strong> ${violation.timestamp}</p>
+              ${violation.violations.map(v => `
+                <p><strong>锚点:</strong> ${v.anchor}</p>
+                <p><strong>原因:</strong> ${v.reason}</p>
+                <p><strong>内容片段:</strong> ${v.contentSnippet}</p>
+              `).join('')}
+            </div>
+          `).join('');
+        }
+      } catch (error) {
+        console.error('一致性检测失败:', error);
+        container.innerHTML = '<div class="empty-state">检测失败</div>';
+      }
+    }
+
+    // 运行自动修复
+    async function runAutoFix() {
+      const container = document.getElementById('consistency-results');
+      container.innerHTML = '<div class="empty-state">检测并自动修复中...</div>';
+      
+      try {
+        const response = await fetch('/api/story-framework/consistency-check', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ autoFix: true })
+        });
+        const result = await response.json();
+        
+        let message = '';
+        if (result.totalViolations === 0) {
+          message = '✓ 未检测到违规，无需修复';
+        } else if (result.addedAnchors > 0) {
+          message = `✓ 检测到 ${result.totalViolations} 条违规，已自动添加 ${result.addedAnchors} 个新锚点`;
+        } else {
+          message = `✓ 检测到 ${result.totalViolations} 条违规，但所有锚点已存在，无需添加`;
+        }
+        
+        container.innerHTML = `<div class="empty-state">${message}</div>`;
+        
+        // 刷新自动修复历史
+        loadAutoFixHistory();
+      } catch (error) {
+        console.error('自动修复失败:', error);
+        container.innerHTML = '<div class="empty-state">自动修复失败</div>';
+      }
+    }
+
+    // 加载自动修复历史
+    async function loadAutoFixHistory() {
+      const container = document.getElementById('autofix-history');
+      
+      try {
+        const response = await fetch('/api/story-framework/autofix-history?count=10');
+        const history = await response.json();
+        
+        if (history.length === 0) {
+          container.innerHTML = '<div class="empty-state">暂无自动修复记录</div>';
+          return;
+        }
+        
+        container.innerHTML = history.map(entry => `
+          <div class="violation-card" style="border-left-color: #4caf50; background: #e8f5e9;">
+            <h4 style="color: #388e3c;">${new Date(entry.timestamp).toLocaleString()}</h4>
+            <p><strong>添加数量:</strong> ${entry.addedCount}</p>
+            ${entry.anchors.map(anchor => `
+              <p><strong>锚点:</strong> ${anchor.fact}</p>
+              <p><strong>事件:</strong> ${anchor.event}</p>
+            `).join('')}
+          </div>
+        `).join('');
+      } catch (error) {
+        console.error('加载自动修复历史失败:', error);
+        container.innerHTML = '<div class="empty-state">加载失败</div>';
+      }
+    }
+
+    // 加载会话列表
+    async function loadSessions() {
+      const container = document.getElementById('sessions-container');
+      container.innerHTML = '<div class="empty-state">加载中...</div>';
+      
+      try {
+        const response = await fetch('/api/story-framework/sessions');
+        const sessions = await response.json();
+        
+        if (sessions.length === 0) {
+          container.innerHTML = '<div class="empty-state">无会话</div>';
+          return;
+        }
+        
+        container.innerHTML = `
+          <table class="log-table">
+            <thead>
+              <tr>
+                <th>会话ID</th>
+                <th>主角</th>
+                <th>当前章节</th>
+                <th>创建时间</th>
+                <th>操作</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${sessions.map(session => `
+                <tr>
+                  <td>${session.sessionId}</td>
+                  <td>${session.protagonist?.name || '未知'}</td>
+                  <td>${session.currentChapterIndex}</td>
+                  <td>${new Date(session.createdAt).toLocaleString()}</td>
+                  <td>
+                    <button class="btn btn-danger" onclick="deleteSession('${session.sessionId}')">删除</button>
+                  </td>
+                </tr>
+              `).join('')}
+            </tbody>
+          </table>
+        `;
+      } catch (error) {
+        console.error('加载会话失败:', error);
+        container.innerHTML = '<div class="empty-state">加载失败</div>';
+      }
+    }
+
+    // 删除会话
+    async function deleteSession(sessionId) {
+      if (!confirm('确定删除此会话？')) return;
+      
+      try {
+        await fetch(`/api/story-framework/sessions/${sessionId}`, {
+          method: 'DELETE'
+        });
+        loadSessions();
+      } catch (error) {
+        console.error('删除会话失败:', error);
+        alert('删除失败');
+      }
+    }
+
+    // 页面加载时初始化
+    window.onload = function() {
+      loadDates();
+      loadSessions();
+      loadAutoFixHistory();
+    };
+  </script>
+</body>
+</html>

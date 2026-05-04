@@ -1,6 +1,9 @@
 # GitHub 发布指南
 
-## 最新版本: v1.1.1
+## 最新版本: v1.1.2
+
+### v1.1.2 更新内容
+- **修复 GitHub Actions**：添加 `contents: write` 权限，替换弃用的 `create-release@v1` 为 `softprops/action-gh-release@v2`
 
 ### v1.1.1 更新内容
 - **深度去专有化**：修复遗漏的蛊真人专有提示词（extract-novel-characters system prompt）

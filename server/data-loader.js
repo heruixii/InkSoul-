@@ -127,7 +127,7 @@ async function loadAllData(options = {}) {
     console.log('✓ 从进度文件加载角色数据');
     data.characters = progress.allCharacters;
     data.events = progress.allEvents || [];
-    data.relationships = progress.allRelationships || [];
+    data.relationships = normalizeRelationships(progress.allRelationships || []);
     data.worldbook = progress.allWorldbook || {};
   } else {
     // 如果进度文件不存在，尝试从独立文件加载
@@ -148,7 +148,7 @@ async function loadAllData(options = {}) {
     const relData = await loadJSON(paths.relationshipsFile, options);
     if (relData && relData.relationships) {
       console.log('✓ 加载关系数据');
-      data.relationships = relData.relationships;
+      data.relationships = normalizeRelationships(relData.relationships);
     }
   }
   
@@ -221,7 +221,7 @@ function loadAllDataSync() {
     console.log('✓ 从进度文件加载角色数据');
     data.characters = progress.allCharacters;
     data.events = progress.allEvents || [];
-    data.relationships = progress.allRelationships || [];
+    data.relationships = normalizeRelationships(progress.allRelationships || []);
     data.worldbook = progress.allWorldbook || {};
   } else {
     const charCache = loadJSONSync(paths.characterCacheFile);
@@ -239,7 +239,7 @@ function loadAllDataSync() {
     const relData = loadJSONSync(paths.relationshipsFile);
     if (relData && relData.relationships) {
       console.log('✓ 加载关系数据');
-      data.relationships = relData.relationships;
+      data.relationships = normalizeRelationships(relData.relationships);
     }
   }
   
@@ -311,6 +311,19 @@ function getEventsByCharacter(data, characterName) {
   return data.events.filter(event => 
     event.characters && event.characters.includes(characterName)
   );
+}
+
+/**
+ * 标准化关系字段名：将 character1/character2 映射为 source/target
+ * 兼容提取脚本产出的旧格式
+ */
+function normalizeRelationships(relationships) {
+  if (!Array.isArray(relationships)) return [];
+  return relationships.map(rel => ({
+    ...rel,
+    source: rel.source || rel.character1,
+    target: rel.target || rel.character2
+  }));
 }
 
 /**

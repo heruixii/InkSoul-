@@ -5785,8 +5785,36 @@ app.post('/api/admin/extract-novel', (req, res) => {
 
     const { spawn } = require('child_process');
     const path = require('path');
+    const fs = require('fs');
     
-    extractionProcess = spawn('node', [path.join(__dirname, 'enrich-story-from-novel.js')], {
+    // 读取激活的小说信息
+    const activeFilePath = path.join(__dirname, '../data/novels/_active.json');
+    const metadataPath = path.join(__dirname, '../data/novels/_metadata.json');
+    
+    if (!fs.existsSync(activeFilePath)) {
+      return res.status(400).json({ success: false, message: '未设置激活的小说，请先上传小说文件' });
+    }
+    
+    const activeData = JSON.parse(fs.readFileSync(activeFilePath, 'utf8'));
+    const activeNovelId = activeData.activeNovelId;
+    
+    if (!activeNovelId) {
+      return res.status(400).json({ success: false, message: '未选择小说' });
+    }
+    
+    let novelFilePath = null;
+    if (fs.existsSync(metadataPath)) {
+      const metadata = JSON.parse(fs.readFileSync(metadataPath, 'utf8'));
+      if (metadata[activeNovelId] && metadata[activeNovelId].filePath) {
+        novelFilePath = metadata[activeNovelId].filePath;
+      }
+    }
+    
+    if (!novelFilePath) {
+      return res.status(400).json({ success: false, message: '未找到小说文件路径，请重新上传小说' });
+    }
+    
+    extractionProcess = spawn('node', [path.join(__dirname, 'enrich-story-from-novel.js'), novelFilePath, activeNovelId], {
       env: { ...process.env, RETRY_FAILED: 'false' },
       stdio: ['pipe', 'pipe', 'pipe']
     });
@@ -5812,8 +5840,36 @@ app.post('/api/admin/retry-failed', (req, res) => {
 
     const { spawn } = require('child_process');
     const path = require('path');
+    const fs = require('fs');
     
-    extractionProcess = spawn('node', [path.join(__dirname, 'enrich-story-from-novel.js')], {
+    // 读取激活的小说信息
+    const activeFilePath = path.join(__dirname, '../data/novels/_active.json');
+    const metadataPath = path.join(__dirname, '../data/novels/_metadata.json');
+    
+    if (!fs.existsSync(activeFilePath)) {
+      return res.status(400).json({ success: false, message: '未设置激活的小说' });
+    }
+    
+    const activeData = JSON.parse(fs.readFileSync(activeFilePath, 'utf8'));
+    const activeNovelId = activeData.activeNovelId;
+    
+    if (!activeNovelId) {
+      return res.status(400).json({ success: false, message: '未选择小说' });
+    }
+    
+    let novelFilePath = null;
+    if (fs.existsSync(metadataPath)) {
+      const metadata = JSON.parse(fs.readFileSync(metadataPath, 'utf8'));
+      if (metadata[activeNovelId] && metadata[activeNovelId].filePath) {
+        novelFilePath = metadata[activeNovelId].filePath;
+      }
+    }
+    
+    if (!novelFilePath) {
+      return res.status(400).json({ success: false, message: '未找到小说文件路径' });
+    }
+    
+    extractionProcess = spawn('node', [path.join(__dirname, 'enrich-story-from-novel.js'), novelFilePath, activeNovelId], {
       env: { ...process.env, RETRY_FAILED: 'true' },
       stdio: ['pipe', 'pipe', 'pipe']
     });

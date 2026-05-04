@@ -1,6 +1,10 @@
 # GitHub 发布指南
 
-## 最新版本: v1.1.2
+## 最新版本: v1.1.3
+
+### v1.1.3 更新内容
+- **修复提取 API**：Web UI 触发提取时正确传递小说路径和 ID 参数
+- **修复关系查询**：标准化 `character1/character2` → `source/target` 字段名，解决关系数据查询始终为空的问题
 
 ### v1.1.2 更新内容
 - **修复 GitHub Actions**：添加 `contents: write` 权限，替换弃用的 `create-release@v1` 为 `softprops/action-gh-release@v2`

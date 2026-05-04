@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '../data/novels');
-const NOVEL_ID = 'gu_zhen_ren';
+const NOVEL_ID = process.argv[2] || 'gu_zhen_ren';
 const CHARACTER_CACHE_FILE = path.join(DATA_DIR, NOVEL_ID, 'character_attributes_cache.json');
 const NPC_DIR = path.join(DATA_DIR, NOVEL_ID, 'characters', 'npc');
 

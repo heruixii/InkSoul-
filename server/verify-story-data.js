@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Configuration
-const NOVEL_FILE = path.join(__dirname, '../Gu Zhen Ren - Gu Zhen Ren.txt');
+const NOVEL_FILE = process.argv[2] ? path.resolve(process.argv[2]) : null;
 const STORY_FRAMEWORK_FILE = path.join(__dirname, '../data/story_framework.json');
 const TIMELINE_FILE = path.join(__dirname, '../data/timeline.json');
 const CANON_ANCHORS_FILE = path.join(__dirname, '../data/canon_anchors.json');

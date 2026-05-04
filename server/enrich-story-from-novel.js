@@ -11,7 +11,13 @@ const https = require('https');
 // Configuration
 // Accept novel file path and novel ID as command line arguments
 // Usage: node enrich-story-from-novel.js <novel_file_path> [novel_id]
-const NOVEL_FILE = process.argv[2] ? path.resolve(process.argv[2]) : path.join(__dirname, '../Gu Zhen Ren - Gu Zhen Ren.txt');
+const NOVEL_FILE = process.argv[2] ? path.resolve(process.argv[2]) : null;
+
+if (!NOVEL_FILE) {
+  console.error('错误: 请提供小说文件路径');
+  console.error('用法: node enrich-story-from-novel.js <novel_file_path> [novel_id]');
+  process.exit(1);
+}
 
 // Generate novel ID from filename if not provided
 const NOVEL_ID = process.argv[3] || path.basename(NOVEL_FILE, path.extname(NOVEL_FILE)).toLowerCase().replace(/[^a-z0-9_]/g, '_');

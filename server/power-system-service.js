@@ -748,7 +748,7 @@ class PowerSystemService {
   detectCultivationTerms(novelTerms, data, novelType) {
     // 常见修行术语列表
     const commonCultivations = [
-      '丹田', '空窍', '气海', '识海', '紫府', '金丹', '元婴', '化神', '洞府', '窍穴'
+      '丹田', '气海', '识海', '紫府', '金丹', '元婴', '化神', '洞府', '窍穴', '经脉'
     ];
     
     // 在小说术语中查找修行术语
@@ -762,14 +762,14 @@ class PowerSystemService {
         return {
           primary: '丹田',
           forbidden: [
-            { term: '空窍', reason: '传统仙侠使用丹田，不是空窍', alternative: '丹田' }
+            { term: '气海', reason: '传统仙侠使用丹田，不是气海', alternative: '丹田' }
           ]
         };
       } else if (novelType === 'xuanhuan') {
         return {
           primary: '丹田',
           forbidden: [
-            { term: '空窍', reason: '玄幻小说使用丹田，不是空窍', alternative: '丹田' }
+            { term: '气海', reason: '玄幻小说使用丹田，不是气海', alternative: '丹田' }
           ]
         };
       }
@@ -914,20 +914,6 @@ class PowerSystemService {
     const primaryRealm = Object.entries(realmFrequency)
       .sort((a, b) => b[1] - a[1])[0][0];
     
-    // 检测是否是转数体系（如一转、二转等）
-    const isRotationSystem = ['一转', '二转', '三转', '四转', '五转', '六转', '七转', '八转', '九转'].includes(primaryRealm);
-    if (isRotationSystem) {
-      return {
-        primary: '一转至九转',
-        forbidden: [
-          { term: '筑基', reason: '本小说使用转数体系，不是筑基', alternative: '一转' },
-          { term: '金丹', reason: '本小说使用转数体系，不是金丹', alternative: '四转' },
-          { term: '元婴', reason: '本小说使用转数体系，不是元婴', alternative: '七转' },
-          { term: '化神', reason: '本小说使用转数体系，不是化神', alternative: '仙尊、魔尊' }
-        ]
-      };
-    }
-    
     // 其他境界术语作为禁止使用的术语
     const forbiddenRealms = commonRealms.filter(
       realm => realm !== primaryRealm
@@ -949,7 +935,7 @@ class PowerSystemService {
   detectCurrencyTerms(novelTerms, data) {
     // 常见货币术语列表
     const commonCurrencies = [
-      '元石', '灵石', '金币', '银币', '铜钱', '银两', '铜板', '灵币', '仙石', '魔石'
+      '灵石', '元石', '金币', '银币', '铜钱', '银两', '铜板', '灵币', '仙石', '魔石'
     ];
     
     // 在小说术语中查找货币术语
@@ -1002,17 +988,43 @@ class PowerSystemService {
       xianxia: 0,
       xuanhuan: 0,
       qihuan: 0,
-      urban: 0
+      urban: 0,
+      sciFi: 0,
+      wuxia: 0,
+      historical: 0,
+      supernatural: 0
     };
     
-    // 仙侠特征词
-    const xianxiaKeywords = ['蛊', '蛊师', '转境', '空窍', '道痕', '元气', '元石', '仙元石', '炼化', '蛊虫'];
-    // 玄幻特征词
-    const xuanhuanKeywords = ['斗气', '异火', '功法', '武技', '斗皇', '斗宗', '斗尊', '斗圣'];
-    // 奇幻特征词
-    const qihuanKeywords = ['魔法', '魔力', '法术', '法师', '战士', '骑士', '精灵', '矮人'];
+    // 仙侠特征词（通用修仙术语，不限于特定作品）
+    const xianxiaKeywords = ['修仙', '修真', '灵气', '筑基', '金丹', '元婴', '化神', '飞升', '渡劫',
+      '灵石', '灵根', '洞府', '宗门', '炼丹', '炼器', '御剑', '法术', '仙道', '长生',
+      '元气', '真元', '法力', '道法', '天劫', '雷劫', '仙缘', '修炼'];
+    // 玄幻特征词（东方幻想，独立世界观）
+    const xuanhuanKeywords = ['斗气', '异火', '功法', '武技', '斗皇', '斗宗', '斗尊', '斗圣',
+      '魂力', '魂环', '武魂', '血脉', '天赋', '觉醒', '领域', '位面', '神格', '主神',
+      '魔力', '魔法师', '龙骑士', '剑圣', '法神'];
+    // 奇幻特征词（西方幻想）
+    const qihuanKeywords = ['魔法', '法师', '战士', '骑士', '精灵', '矮人', '兽人', '龙族',
+      '牧师', '盗贼', '猎人', '术士', '德鲁伊', '圣骑士', '死灵法师', '公会', '冒险者',
+      '地下城', '魔王', '勇者', '剑与魔法'];
     // 都市特征词
-    const urbanKeywords = ['系统', '任务', '奖励', '积分', '商城', '抽奖', '都市', '现代'];
+    const urbanKeywords = ['系统', '任务', '奖励', '积分', '商城', '抽奖', '都市', '现代',
+      '公司', '学校', '手机', '电脑', '网络', '直播', '总裁', '校花', '重生', '穿越',
+      '金手指', '异能', '超能力', '都市传说'];
+    // 科幻特征词
+    const sciFiKeywords = ['机甲', '星际', '宇宙', '飞船', '基因', '克隆', '人工智能', 'AI',
+      '虚拟现实', 'VR', '纳米', '量子', '虫洞', '外星', '文明', '末世', '末日', '进化',
+      '变异', '辐射', '机器人', '赛博'];
+    // 武侠特征词
+    const wuxiaKeywords = ['内力', '真气', '武功', '招式', '江湖', '门派', '武林', '侠客',
+      '轻功', '暗器', '点穴', '掌法', '剑法', '刀法', '拳法', '少林', '武当', '峨眉',
+      '丐帮', '魔教', '正派', '邪派'];
+    // 历史特征词
+    const historicalKeywords = ['皇帝', '朝廷', '官员', '科举', '将军', '士兵', '战争', '朝代',
+      '太子', '王爷', '公主', '太监', '宫女', '银两', '铜钱', '商贾', '农耕', '边关'];
+    // 灵异特征词
+    const supernaturalKeywords = ['鬼', '僵尸', '道士', '符咒', '阴阳', '风水', '驱魔', '灵异',
+      '冥婚', '诅咒', '怨灵', '阴气', '阳气', '捉鬼', '赶尸', '茅山', '通灵'];
     
     // 从事件中统计特征词
     if (data.events && Array.isArray(data.events)) {
@@ -1034,6 +1046,22 @@ class PowerSystemService {
           
           urbanKeywords.forEach(keyword => {
             if (text.includes(keyword)) typeScores.urban++;
+          });
+          
+          sciFiKeywords.forEach(keyword => {
+            if (text.includes(keyword)) typeScores.sciFi++;
+          });
+          
+          wuxiaKeywords.forEach(keyword => {
+            if (text.includes(keyword)) typeScores.wuxia++;
+          });
+          
+          historicalKeywords.forEach(keyword => {
+            if (text.includes(keyword)) typeScores.historical++;
+          });
+          
+          supernaturalKeywords.forEach(keyword => {
+            if (text.includes(keyword)) typeScores.supernatural++;
           });
         }
       });
@@ -1351,22 +1379,22 @@ class PowerSystemService {
         name: '仙侠小说术语库',
         type: 'xianxia',
         commonTerms: [
-          { term: '丹田', reason: '传统仙侠术语', alternative: '窍穴、空窍、气海' },
-          { term: '经脉', reason: '传统仙侠术语', alternative: '道痕、血肉、经络' },
-          { term: '灵气', reason: '传统仙侠术语', alternative: '元气、天地二气、真气' },
-          { term: '灵石', reason: '传统仙侠术语', alternative: '元石、仙元石、灵晶' },
-          { term: '筑基', reason: '传统仙侠术语', alternative: '一转、初阶、入门' },
-          { term: '金丹', reason: '传统仙侠术语', alternative: '四转、中阶、核心' },
-          { term: '元婴', reason: '传统仙侠术语', alternative: '七转、高阶、灵魂' },
-          { term: '化神', reason: '传统仙侠术语', alternative: '仙尊、魔尊、神境' },
-          { term: '飞升', reason: '传统仙侠术语', alternative: '升仙、成仙、飞升' },
-          { term: '洞府', reason: '传统仙侠术语', alternative: '蛊窟、洞天、居所' },
-          { term: '法宝', reason: '传统仙侠术语', alternative: '蛊虫、蛊具、宝物' },
-          { term: '符箓', reason: '传统仙侠术语', alternative: '符蛊、信蛊、符咒' },
-          { term: '灵根', reason: '传统仙侠术语', alternative: '天赋蛊、资质蛊、天赋' },
+          { term: '丹田', reason: '传统仙侠术语', alternative: '气海、紫府、识海、窍穴' },
+          { term: '经脉', reason: '传统仙侠术语', alternative: '经络、血脉、灵脉' },
+          { term: '灵气', reason: '传统仙侠术语', alternative: '元气、天地灵气、仙灵之气' },
+          { term: '灵石', reason: '传统仙侠术语', alternative: '灵晶、仙石、灵玉' },
+          { term: '筑基', reason: '传统仙侠术语', alternative: '入门、初阶、奠基' },
+          { term: '金丹', reason: '传统仙侠术语', alternative: '中阶、核心、大成' },
+          { term: '元婴', reason: '传统仙侠术语', alternative: '高阶、化婴、元神' },
+          { term: '化神', reason: '传统仙侠术语', alternative: '巅峰、化境、神境' },
+          { term: '飞升', reason: '传统仙侠术语', alternative: '升仙、成仙、登仙' },
+          { term: '洞府', reason: '传统仙侠术语', alternative: '居所、修炼之地、仙府' },
+          { term: '法宝', reason: '传统仙侠术语', alternative: '灵器、仙器、宝物' },
+          { term: '符箓', reason: '传统仙侠术语', alternative: '灵符、符咒、法符' },
+          { term: '灵根', reason: '传统仙侠术语', alternative: '天赋、资质、根骨' },
           { term: '宗门', reason: '传统仙侠术语', alternative: '门派、势力、组织' },
-          { term: '渡劫', reason: '传统仙侠术语', alternative: '天劫、雷劫、考验' },
-          { term: '神识', reason: '传统仙侠术语', alternative: '感知、神念、意识' }
+          { term: '渡劫', reason: '传统仙侠术语', alternative: '天劫、雷劫、劫难' },
+          { term: '神识', reason: '传统仙侠术语', alternative: '感知、神念、灵识' }
         ]
       },
       xuanhuan: {
@@ -2390,12 +2418,12 @@ class PowerSystemService {
     
     // 物品类型关键词
     const itemKeywords = {
-      '蛊虫': ['蛊', '蛊虫'],
-      '法宝': ['法宝', '宝物', '灵宝'],
+      '法宝': ['法宝', '宝物', '灵宝', '仙器', '神器'],
       '武器': ['剑', '刀', '枪', '戟', '斧', '钺', '钩', '叉', '鞭', '锏', '锤'],
       '丹药': ['丹', '药', '丸'],
       '符箓': ['符', '箓'],
-      '元石': ['元石', '仙元石']
+      '货币': ['灵石', '元石', '金币', '银两', '铜钱'],
+      '材料': ['矿石', '草药', '灵草', '仙草']
     };
     
     if (data.events && Array.isArray(data.events)) {
@@ -3849,6 +3877,48 @@ ${constraints.rules.map(rule => `- ${rule}`).join('\n')}`;
           '主角拥有的法宝数量和品质必须符合其境界',
           '战斗必须考虑实力差距，主角应避免与远超自己的敌人正面冲突',
           '实力提升需要合理的剧情铺垫（如奇遇、修炼、炼丹等）'
+        ]
+      },
+      xuanhuan: {
+        type: 'xuanhuan',
+        name: '斗气等级',
+        levels: [
+          { name: '斗者', power: 1, description: '初入修炼，只能对付普通人' },
+          { name: '斗师', power: 2, description: '斗气凝练，可轻易击败斗者' },
+          { name: '大斗师', power: 3, description: '斗气外放，可轻易击败斗师' },
+          { name: '斗灵', power: 4, description: '斗气化形，可轻易击败大斗师' },
+          { name: '斗王', power: 5, description: '斗气化翼，可轻易击败斗灵' },
+          { name: '斗皇', power: 6, description: '皇者威压，可轻易击败斗王' },
+          { name: '斗宗', power: 7, description: '宗师之境，可轻易击败斗皇' },
+          { name: '斗尊', power: 8, description: '尊者之威，可轻易击败斗宗' },
+          { name: '斗圣', power: 9, description: '圣者降临，可轻易击败斗尊' },
+          { name: '斗帝', power: 10, description: '帝者无敌，可轻易击败斗圣' }
+        ],
+        rules: [
+          '主角只能击败实力相近或略低的敌人',
+          '禁止让主角做出超出其等级能力的壮举',
+          '战斗必须考虑实力差距',
+          '等级提升需要合理的剧情铺垫（如奇遇、战斗、丹药等）'
+        ]
+      },
+      qihuan: {
+        type: 'qihuan',
+        name: '魔法等级',
+        levels: [
+          { name: '见习魔法师', power: 1, description: '初学魔法，只能释放基础法术' },
+          { name: '初级魔法师', power: 2, description: '掌握初级魔法，可轻易击败见习' },
+          { name: '中级魔法师', power: 3, description: '掌握中级魔法，可轻易击败初级' },
+          { name: '高级魔法师', power: 4, description: '掌握高级魔法，可轻易击败中级' },
+          { name: '大魔法师', power: 5, description: '魔法大成，可轻易击败高级' },
+          { name: '魔导师', power: 6, description: '魔法导师，可轻易击败大魔法师' },
+          { name: '大魔导师', power: 7, description: '顶尖魔导，可轻易击败魔导师' },
+          { name: '法神', power: 8, description: '法神之境，可轻易击败大魔导师' }
+        ],
+        rules: [
+          '主角只能击败实力相近或略低的敌人',
+          '禁止让主角做出超出其等级能力的壮举',
+          '战斗必须考虑实力差距',
+          '等级提升需要合理的剧情铺垫（如学习魔法、获得传承等）'
         ]
       },
       generic: {

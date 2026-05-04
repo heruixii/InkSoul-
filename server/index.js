@@ -3902,9 +3902,9 @@ async function generateNextEventCore(storyId, { currentPhase, previousChoice, co
   console.log('[AI Generate] Protagonist relationships:', relationshipsPrompt);
 
   // 获取小说ID和原著主角
-  const novelId = story.metadata?.novel_id || 'gu_zhen_ren';
+  const novelId = story.metadata?.novel_id || '';
   const canonProtagonists = powerSystemService.getCanonProtagonists(novelId);
-  const canonProtagonistList = canonProtagonists.length > 0 ? canonProtagonists : ['方源']; // 默认方源
+  const canonProtagonistList = canonProtagonists.length > 0 ? canonProtagonists : [];
 
   // 一致性分析：调用所有一致性分析方法
   console.log('[AI Generate] Running consistency analysis...');

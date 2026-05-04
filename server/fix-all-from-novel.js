@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 
 // 配置
-const NOVEL_FILE = path.join(__dirname, '../Gu Zhen Ren - Gu Zhen Ren.txt');
+const NOVEL_FILE = process.argv[2] ? path.resolve(process.argv[2]) : null;
 const CHARACTERS_DIR = path.join(__dirname, '../characters');
 const WORLDBOOK_DIR = path.join(__dirname, '../worldbook');
 const LOG_FILE = path.join(__dirname, '../logs/intelligent-fix.log');

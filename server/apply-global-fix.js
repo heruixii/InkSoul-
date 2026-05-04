@@ -8,7 +8,7 @@ const path = require('path');
 const { globalReplaceInCard, triggerHotReload } = require('./character-corrector');
 
 // 配置
-const NOVEL_FILE = path.join(__dirname, '../Gu Zhen Ren - Gu Zhen Ren.txt');
+const NOVEL_FILE = process.argv[2] ? path.resolve(process.argv[2]) : null;
 const CHARACTERS_DIR = path.join(__dirname, '../characters');
 const WORLDBOOK_DIR = path.join(__dirname, '../worldbook');
 const LOG_FILE = path.join(__dirname, '../logs/global-fix.log');
@@ -264,11 +264,11 @@ async function applyGlobalFix(options = {}) {
 
   // 读取小说文件
   let novelContent = '';
-  if (fs.existsSync(NOVEL_FILE)) {
+  if (NOVEL_FILE && fs.existsSync(NOVEL_FILE)) {
     novelContent = fs.readFileSync(NOVEL_FILE, 'utf-8');
     writeLog(`已读取小说文件: ${NOVEL_FILE} (${novelContent.length} 字符)`);
   } else {
-    writeLog(`警告: 小说文件不存在: ${NOVEL_FILE}`);
+    writeLog(`警告: 小说文件不存在或未指定: ${NOVEL_FILE || '(未指定)'}`);
   }
 
   // 获取修正规则

@@ -13,7 +13,7 @@ const path = require('path');
 const https = require('https');
 
 // 配置
-const NOVEL_FILE_PATH = path.join(__dirname, '../Gu Zhen Ren - Gu Zhen Ren.txt');
+const NOVEL_FILE_PATH = process.argv[2] ? path.resolve(process.argv[2]) : null;
 const CHARACTERS_DIR = path.join(__dirname, '../characters');
 const WORLDBOOK_DIR = path.join(__dirname, '../worldbook');
 const REPORT_OUTPUT_PATH = path.join(__dirname, '../correction-report.json');
@@ -147,7 +147,7 @@ async function extractCharacterSettingsWithDeepSeek(novelContent, characterNames
 请根据以下小说内容，提取角色的真实设定。对于每个角色，提取以下信息：
 - 姓名
 - 身份/职位
-- 境界（尊者等级、蛊师等级）
+- 境界（修炼等级、实力层次）
 - 所属势力
 - 重要经历
 - 人际关系
@@ -904,7 +904,7 @@ function fuzzyMatchName(name, novelContent) {
  */
 function extractRelatedCharacters(description, novelContent) {
   const characters = [];
-  const characterNames = ['方源', '古月药姬', '赵怜云', '马鸿运', '凤金煌']; // 示例
+  const characterNames = []; // 从角色缓存动态加载
   
   for (const name of characterNames) {
     if (description.includes(name) || novelContent.includes(name)) {

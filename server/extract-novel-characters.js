@@ -9,7 +9,7 @@ const path = require('path');
 const https = require('https');
 
 // 配置
-const NOVEL_FILE = path.join(__dirname, '../Gu Zhen Ren - Gu Zhen Ren.txt');
+const NOVEL_FILE = process.argv[2] ? path.resolve(process.argv[2]) : null;
 const CHARACTERS_DIR = path.join(__dirname, '../characters');
 const CACHE_FILE = path.join(__dirname, '../data/character_attributes_cache.json');
 const LOG_FILE = path.join(__dirname, '../logs/extract-novel-characters.log');

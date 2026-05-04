@@ -233,11 +233,11 @@ class AIContentGenerator {
     const characterBlock = this._buildCharacterBlock(characterStates);
     const chapterBlock = this._buildChapterBlock(currentChapter);
     
-    return `《蛊真人》同人 RPG 对话生成系统
+    return `${framework.name || '同人'} RPG 对话生成系统
 
 【主角设定】
 姓名：${protagonist.name}
-类型：${protagonist.type}（原创角色，与《凡人修仙传》无关）
+类型：${protagonist.type}（原创角色）
 描述：${protagonist.description}
 初始位置：${protagonist.startingLocation}
 初始境界：${protagonist.startingRealm}
@@ -260,11 +260,11 @@ ${playerInfluence === 'low' ? '低：仅旁观、收集情报、与NPC交易、�
   '高：可深度介入，但必须遵守不可改变的原著事实'}
 
 【生成规则】
-1. 韩立是原创主角，不是《凡人修仙传》角色，没有任何修仙传承
-2. 韩立的互动限于：旁观、收集情报、与NPC交易、轻度介入（不改变结果）
-3. 必须遵守原著锚点，不能改变关键事实（如不能杀死方源、不能改变古月药姬孙女的死亡）
-4. 对话应符合《蛊真人》世界观和角色性格
-5. 保持对话自然流畅，符合角色身份和情境`;
+1. ${protagonist.name}是原创主角，不是原著中的已有角色
+2. 互动限于：旁观、收集情报、与NPC交易、轻度介入（不改变结果）
+3. 必须遵守原著锚点，不能改变关键事实
+4. 对话应符合原著世界观和角色性格
+5. 保持对话自然流畅，符合角色身份和情境`
   }
   
   /**
@@ -289,11 +289,11 @@ ${playerInfluence === 'low' ? '低：仅旁观、收集情报、与NPC交易、�
       ? `\n【下一原著锚点】${nextAnchor.chapter ? `[${nextAnchor.chapter}] ` : ''}${nextAnchor.event}`
       : '';
     
-    return `《蛊真人》同人 RPG 剧情生成系统
+    return `${framework.name || '同人'} RPG 剧情生成系统
 
 【主角设定】
 姓名：${protagonist.name}
-类型：${protagonist.type}（原创角色，与《凡人修仙传》无关）
+类型：${protagonist.type}（原创角色）
 描述：${protagonist.description}
 互动方式：${protagonist.interactionMode}
 
@@ -314,7 +314,7 @@ ${playerInfluence === 'low' ? '低：仅旁观、收集情报、与NPC交易、�
   '高：可深度介入，但必须遵守不可改变的原著事实'}
 
 【生成铁律】
-1. **忠实原著**：方源、古月一族、青茅山等剧情走向必须与原著一致
+1. **忠实原著**：原著主要角色的剧情走向必须与原著一致
 2. **优先推进【下一原著锚点】**：如果给出了下一锚点，新事件应朝那个方向推进
 3. **玩家是参与者不是改写者**：玩家的选择决定他自己的去向，但不改变原著主线大事件
 4. **承接【刚刚发生】**：新事件必须延续上一事件的时空、人物、情绪
@@ -324,7 +324,7 @@ ${playerInfluence === 'low' ? '低：仅旁观、收集情报、与NPC交易、�
 
 【输出 JSON】
 {"title":"10-20字具体标题","description":"60-110字承接前文+引出新冲突","choices":[{"title":"具体行动","description":"20-30字暗示后果"}]}
-（2-6个选择，仅JSON无其他）`;
+（2-6个选择，仅JSON无其他）`
   }
   
   /**

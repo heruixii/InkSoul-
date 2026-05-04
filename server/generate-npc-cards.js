@@ -37,8 +37,10 @@ function main() {
   for (const char of characters) {
     if (!char.name) continue;
     
-    // 跳过主角（通常主角有特殊处理）
-    if (char.name === '方源' || char.name === '古月方源') {
+    // 跳过主角（由命令行参数 --skip-protagonist 指定主角名）
+    const skipProtagonist = process.argv.find(a => a.startsWith('--skip-protagonist='));
+    const skipName = skipProtagonist ? skipProtagonist.split('=')[1] : null;
+    if (skipName && char.name === skipName) {
       continue;
     }
     

@@ -3494,7 +3494,7 @@ async function maybeUpdateStorySummary(storyId) {
       return `${tag}${t}${d ? '：' + d : ''}${c}`;
     }).join('\n');
     const oldSummary = story.summary ? `\n\n【上次摘要（可继承+更新）】\n${story.summary.slice(0, 600)}` : '';
-    const prompt = `你是《蛊真人》同人 RPG 故事的旁白助手。把下列剧情历史浓缩成一段流畅的『前情提要』叙事——保留人物互动、关键决定、情绪走向、伏笔，删去冗余细节。仅输出 1-2 段、共 220-380 字的中文叙述、不要列表/标题/引号。${oldSummary}\n\n剧情历史：\n${lines}`;
+    const prompt = `你是同人 RPG 故事的旁白助手。把下列剧情历史浓缩成一段流畅的『前情提要』叙事——保留人物互动、关键决定、情绪走向、伏笔，删去冗余细节。仅输出 1-2 段、共 220-380 字的中文叙述、不要列表/标题/引号。${oldSummary}\n\n剧情历史：\n${lines}`;
     const t0 = Date.now();
     const summary = await callAuxLlm(
       [
@@ -4160,7 +4160,7 @@ async function generateNextEventCore(storyId, { currentPhase, previousChoice, co
   const avoidMainChars = phase.avoidMainCharacters === true;
   const isTransition = phase.isTransition === true;
   const phaseInstruction = avoidMainChars || isTransition
-    ? `\n【阶段特殊要求】本阶段为${isTransition ? '过渡阶段' : '初期阶段'}，请避免让主角过早接触原著主要角色（如方源、古月方正等）。应让主角先了解现状、收集情报、与普通NPC互动、建立基础。不要直接引入主要角色或重大事件。`
+    ? `\n【阶段特殊要求】本阶段为${isTransition ? '过渡阶段' : '初期阶段'}，请避免让主角过早接触原著主要角色${canonProtagonistList.length > 0 ? `（如${canonProtagonistList.slice(0, 3).join('、')}等）` : ''}。应让主角先了解现状、收集情报、与普通NPC互动、建立基础。不要直接引入主要角色或重大事件。`
     : '';
 
   // 读取玩家影响与互动方式（两者含义不同）
@@ -4198,7 +4198,7 @@ ${relationshipsPrompt}
 
 【重要】必须严格遵循主角的起始位置（${protagonistLocation}）、背景（${protagonistBackground}）和家世（${protagonistFamily}）设定。所有剧情必须基于用户填写的主角档案生成，不得使用预设的主角设定。地点转换必须合理，符合原著地理设定。如果主角家世是"无亲无故"，则不得出现任何亲属关系或家族背景。
 
-【物品状态一致性】必须严格保持主角物品状态的一致性。如果【主角当前物品】中列出了主角拥有的蛊虫或物品，新事件中不得随意更改或添加未提及的物品。如需获得新物品，必须通过剧情中的合理途径（如购买、战斗获取、他人赠送等）。
+【物品状态一致性】必须严格保持主角物品状态的一致性。如果【主角当前物品】中列出了主角拥有的物品，新事件中不得随意更改或添加未提及的物品。如需获得新物品，必须通过剧情中的合理途径（如购买、战斗获取、他人赠送等）。
 
 【剧情独立性】${!canonProtagonistList.includes(protagonistName) ? `主角是原创角色，不得重复${canonProtagonistList.join('、')}的剧情路径（如重生、夺舍、穿越等）。剧情应围绕主角自身的经历展开，避免直接套用${canonProtagonistList.join('、')}的经典剧情。主角可以旁观${canonProtagonistList.join('、')}的事件，但不能替代${canonProtagonistList.join('、')}成为事件的主角。` : ''}
 
@@ -6936,18 +6936,16 @@ app.post('/api/novels/:novelId/generate-character-ranking', async (req, res) => 
     const characterScores = characters.map(char => {
       let score = 0;
       
-      // 根据境界加分
+      // 根据境界加分（通用：检测境界关键词）
       if (char.realm && typeof char.realm === 'string') {
-        if (char.realm.includes('仙')) score += 100;
-        else if (char.realm.includes('九转')) score += 90;
-        else if (char.realm.includes('八转')) score += 80;
-        else if (char.realm.includes('七转')) score += 70;
-        else if (char.realm.includes('六转')) score += 60;
-        else if (char.realm.includes('五转')) score += 50;
-        else if (char.realm.includes('四转')) score += 40;
-        else if (char.realm.includes('三转')) score += 30;
-        else if (char.realm.includes('二转')) score += 20;
-        else if (char.realm.includes('一转')) score += 10;
+        const realm = char.realm;
+        // 检测高阶关键词
+        if (realm.includes('仙') || realm.includes('神') || realm.includes('圣') || realm.includes('帝') || realm.includes('尊')) score += 100;
+        else if (realm.includes('王') || realm.includes('皇') || realm.includes('宗') || realm.includes('祖')) score += 80;
+        else if (realm.includes('灵') || realm.includes('天') || realm.includes('地') || realm.includes('玄')) score += 60;
+        else if (realm.includes('元') || realm.includes('真') || realm.includes('道')) score += 40;
+        else if (realm.includes('凡') || realm.includes('初') || realm.includes('入') || realm.includes('基')) score += 20;
+        else score += 30; // 有境界但未匹配到关键词，给基础分
       }
       
       // 根据描述长度加分
@@ -6966,11 +6964,8 @@ app.post('/api/novels/:novelId/generate-character-ranking', async (req, res) => 
         score += relationships[char.name].length * 3;
       }
       
-      // 特殊角色加分
-      const specialCharacters = ['方源', '古月方源', '方正', '古月方正'];
-      if (specialCharacters.includes(char.name)) {
-        score += 200;
-      }
+      // 特殊角色加分（由外部配置决定，不再硬编码特定角色）
+      // 可通过 novel config 中的 protagonistNames 字段配置
       
       return {
         name: char.name,

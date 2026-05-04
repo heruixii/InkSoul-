@@ -218,7 +218,7 @@ class LongTermMemoryManager {
    * 基于关键词：选择、死亡、结盟、背叛、突破等
    */
   _evaluateImportance(text) {
-    const highImportanceKeywords = ['死亡', '身亡', '结盟', '背叛', '突破', '晋升', '决战', '传承', '蛊虫', '杀戮'];
+    const highImportanceKeywords = ['死亡', '身亡', '结盟', '背叛', '突破', '晋升', '决战', '传承', '杀戮'];
     const mediumImportanceKeywords = ['选择', '决定', '承诺', '誓言', '交易', '相遇', '离别', '战斗'];
     const lowImportanceKeywords = ['对话', '交谈', '观察', '移动', '休息', '行走'];
     

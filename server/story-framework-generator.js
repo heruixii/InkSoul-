@@ -4,7 +4,7 @@
  *
  * 主角设定说明：
  * - 主角是原创角色，与原著完全无关
- * - 普通修行者，初始境界一转，没有特殊天赋
+ * - 普通修行者，初始境界为入门阶段，没有特殊天赋
  * - 互动方式：旁观、收集情报、与NPC交易、轻度介入（不改变结果）
  * - 必须遵守原著锚点，不能改变关键事实
  */
@@ -37,8 +37,8 @@ class StoryFrameworkGenerator {
   /**
    * 生成故事框架
    * @param {Object} options - 生成参数
-   * @param {string} options.protagonist - 主角名称（默认：东方长凡）
-   * @param {string} options.startingPoint - 起点事件描述（如：方源重生）
+   * @param {string} options.protagonist - 主角名称（默认：主角）
+   * @param {string} options.startingPoint - 起点事件描述（如：故事起点）
    * @param {Array<string>} options.focusCharacters - 重点关注的角色列表
    * @param {number} options.maxChapters - 生成多少章节
    * @param {boolean} options.branches - 是否包含分支选项
@@ -49,7 +49,7 @@ class StoryFrameworkGenerator {
    */
   generate(options = {}) {
     const {
-      protagonist = '东方长凡',
+      protagonist = '主角',
       startingPoint = 1,
       maxChapters = 20,
       focusCharacters = [],
@@ -661,13 +661,13 @@ class StoryFrameworkGenerator {
       family: '无依无靠',
 
       // 起始状态
-      startingRealm: '二转初阶',
+      startingRealm: '入门阶段',
       startingLocation: '故事起点',
 
       // 实力设定
       cultivationPath: '修行',
       specialAbilities: '依靠观察和智慧',
-      combatStrength: '二转初阶，战力普通',
+      combatStrength: '入门阶段，战力普通',
 
       // 性格特征
       personality: '冷静，心思缜密，沉着',

@@ -42,12 +42,12 @@ function extractCharacterSettingsFromNovel(novelContent, characterName) {
     aliases: []
   };
 
-  // 提取称号（如"方源"、"蛊真人"、"尊者"等）
+  // 提取称号（通用模式）
   const titlePatterns = [
     new RegExp(`${characterName}([，、。\\s]*是[\\s\\u4e00-\\u9fa5]+尊者)`, 'g'),
     new RegExp(`${characterName}([，、。\\s]*是[\\s\\u4e00-\\u9fa5]+仙尊)`, 'g'),
     new RegExp(`${characterName}([，、。\\s]*是[\\s\\u4e00-\\u9fa5]+仙子)`, 'g'),
-    new RegExp(`${characterName}([，、。\\s]*是[\\s\\u4e00-\\u9fa5]+蛊仙)`, 'g'),
+    new RegExp(`${characterName}([，、。\\s]*是[\\s\\u4e00-\\u9fa5]+仙)`, 'g'),
   ];
 
   for (const pattern of titlePatterns) {
@@ -57,11 +57,11 @@ function extractCharacterSettingsFromNovel(novelContent, characterName) {
     }
   }
 
-  // 提取境界（如"六转"、"七转"、"八转"、"蛊仙"等）
+  // 提取境界（通用模式）
   const realmPatterns = [
-    new RegExp(`${characterName}[，、。\\s]*是[\\s\\u4e00-\\u9fa5]*([一二三四五六七八九十]转[\\u4e00-\\u9fa5]*)`, 'g'),
-    new RegExp(`${characterName}[，、。\\s]*修为[\\s\\u4e00-\\u9fa5]*([一二三四五六七八九十]转[\\u4e00-\\u9fa5]*)`, 'g'),
-    new RegExp(`${characterName}[，、。\\s]*境界[\\s\\u4e00-\\u9fa5]*([一二三四五六七八九十]转[\\u4e00-\\u9fa5]*)`, 'g'),
+    new RegExp(`${characterName}[，、。\\s]*是[\\s\\u4e00-\\u9fa5]*([\\u4e00-\\u9fa5]+境界[\\u4e00-\\u9fa5]*)`, 'g'),
+    new RegExp(`${characterName}[，、。\\s]*修为[\\s\\u4e00-\\u9fa5]*([\\u4e00-\\u9fa5]+[境界期级阶])`, 'g'),
+    new RegExp(`${characterName}[，、。\\s]*境界[\\s\\u4e00-\\u9fa5]*([\\u4e00-\\u9fa5]+[境界期级阶])`, 'g'),
   ];
 
   for (const pattern of realmPatterns) {
@@ -148,25 +148,10 @@ function extractWorldbookSettingsFromNovel(novelContent, worldbookName) {
 
 /**
  * 预定义的错误修正规则
- * 基于小说《蛊真人》的设定
+ * 可通过命令行参数或配置文件覆盖
  */
 const CORRECTION_RULES = {
-  // 境界修正
-  '九转尊者': '蛊仙',
-  '九转仙尊': '当代仙子',
-  '九转蛊尊': '蛊仙',
-  
-  // 方源相关
-  '方源是魔道蛊仙': '方源是中洲蛊仙',
-  '方源是魔尊': '方源是蛊仙',
-  
-  // 赵怜云相关
-  '赵怜云是九转尊者': '赵怜云是蛊仙',
-  '赵怜云是九转仙尊': '赵怜云是当代仙子',
-  
-  // 其他常见错误
-  '天庭之主': '天庭成员',
-  '十大尊者': '尊者',
+  // 由外部配置决定，不再硬编码特定小说的修正规则
 };
 
 /**

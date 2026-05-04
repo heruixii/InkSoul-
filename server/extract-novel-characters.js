@@ -136,7 +136,7 @@ function callDeepSeekAPI(prompt) {
       messages: [
         {
           role: 'system',
-          content: '你是一位《蛊真人》小说的设定专家，擅长从文本中提取角色属性。只提取文本中明确提及的属性，不要编造任何信息。'
+          content: '你是一位小说设定分析专家，擅长从文本中提取角色属性。只提取文本中明确提及的属性，不要编造任何信息。'
         },
         {
           role: 'user',
@@ -197,7 +197,7 @@ async function extractAttributesWithLLM(characterName, contexts) {
   const selectedContexts = contexts.slice(0, 5);
   const contextText = selectedContexts.map((c, i) => `片段 ${i + 1}:\n${c.context}`).join('\n\n');
   
-  const prompt = `你是《蛊真人》小说的设定专家。请根据以下文本片段，提取角色"${characterName}"的规范属性。
+  const prompt = `你是小说设定分析专家。请根据以下文本片段，提取角色"${characterName}"的规范属性。
 
 文本片段：
 ${contextText}
@@ -208,11 +208,11 @@ ${contextText}
 3. 不要根据上下文猜测或推断，只提取直接表述的信息
 
 请提取以下属性：
-1. realm: 境界（如：一转、二转、...、八转、蛊仙、仙尊、魔尊等）
-2. path: 道途（如：智道、力道、运道、气道、魂道、音道、木道、水道、火道、土道、金道等）
-3. title: 称号（如：蛊真人、霸仙、当代仙子、天庭仙尊等）
-4. location: 地点/势力（如：中洲、北原、南疆、西漠、天庭、灵缘斋、大雪山等）
-5. tags: 标签数组（如：["蛊仙", "智道", "中洲"]等，最多5个）
+1. realm: 境界/实力等级（如小说中出现的修炼境界、等级等）
+2. path: 修炼路线/职业/专长（如小说中出现的道途、职业、技能方向等）
+3. title: 称号/身份（如小说中出现的尊称、职位、头衔等）
+4. location: 所在地点/所属势力（如小说中出现的地名、组织名等）
+5. tags: 标签数组（如["修仙者", "剑修", "青云门"]等，最多5个，使用小说中的术语）
 
 请以 JSON 格式返回，不要包含任何其他文字：
 {

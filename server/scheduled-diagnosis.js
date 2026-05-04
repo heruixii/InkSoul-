@@ -48,11 +48,8 @@ function loadConfig() {
   } catch (error) {
     console.error('加载配置文件失败:', error);
     const defaultConfig = {
-      keywords: ['九转尊者', '九转仙尊'],
-      corrections: {
-        '九转尊者': '蛊仙',
-        '九转仙尊': '当代仙子'
-      },
+      keywords: [],
+      corrections: {},
       autoFix: process.env.DIAGNOSIS_AUTO_FIX === 'true' || false,
       alertOnNewErrors: true
     };

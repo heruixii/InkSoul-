@@ -1,6 +1,15 @@
 # GitHub 发布指南
 
-## 最新版本: v1.1.0
+## 最新版本: v1.1.1
+
+### v1.1.1 更新内容
+- **深度去专有化**：修复遗漏的蛊真人专有提示词（extract-novel-characters system prompt）
+- **角色排名通用化**：移除转数体系评分，改为通用境界关键词检测
+- **默认值清理**：story-framework-generator 移除东方长凡/二转初阶等硬编码默认值
+- **工具脚本去专有**：character-corrector、apply-global-fix、fix-all-from-novel 清空硬编码修正规则
+- **关键词通用化**：long-term-memory 移除蛊虫关键词，scheduled-diagnosis 清空默认配置
+- **NPC生成修复**：generate-npc-cards 移除方源硬编码跳过，改为命令行参数
+- **角色同步通用化**：sync-characters-with-novel 移除硬编码角色别名表
 
 ### v1.1.0 更新内容
 - **多小说通用性增强**：类型检测从4种扩展到8种（仙侠/玄幻/奇幻/都市/科幻/武侠/历史/灵异）

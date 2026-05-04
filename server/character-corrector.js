@@ -772,23 +772,8 @@ function correctSingleCharacter(filePath) {
     
     let corrected = false;
     
-    // 修正 description 中的九转尊者
-    if (card.description) {
-      if (card.description.includes('九转尊者') || card.description.includes('九转仙尊')) {
-        card.description = card.description.replace(/九转尊者/g, '蛊仙');
-        card.description = card.description.replace(/九转仙尊/g, '仙子');
-        corrected = true;
-      }
-    }
-    
-    // 修正 tags 中的九转尊者
-    if (card.tags) {
-      const index = card.tags.indexOf('九转尊者');
-      if (index > -1) {
-        card.tags[index] = '蛊仙';
-        corrected = true;
-      }
-    }
+    // 修正 description 中的特定术语（由外部配置决定，不再硬编码）
+    // 可通过 novel config 中的 correctionRules 字段配置
     
     if (corrected) {
       card.version = (card.version || 1) + 1;

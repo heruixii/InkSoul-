@@ -53,8 +53,7 @@ function loadCharacterAttributesCache() {
 
 /**
  * 角色规范属性映射
- * 基于小说《蛊真人》的设定
- * 优先使用缓存，如果没有则使用硬编码的默认值
+ * 优先使用缓存，如果没有则使用默认值
  */
 let CHARACTER_CANONICAL_ATTRIBUTES = {};
 
@@ -88,7 +87,7 @@ function initializeCharacterAttributes() {
     // 根据提取的属性生成修正规则
     if (attrs.realm && attrs.path) {
       // 如果有境界和道途，可以生成对应的修正规则
-      CHARACTER_CANONICAL_ATTRIBUTES[characterName].corrections[`${attrs.path}蛊仙`] = `${attrs.realm}蛊仙`;
+      CHARACTER_CANONICAL_ATTRIBUTES[characterName].corrections[`${attrs.path}${attrs.realm}`] = attrs.realm;
     }
   }
   
@@ -100,20 +99,14 @@ function initializeCharacterAttributes() {
  * 将错误的境界表述转换为规范表述
  */
 const REALM_CORRECTIONS = {
-  '九转尊者': '蛊仙',
-  '九转仙尊': '蛊仙',
-  '九转蛊尊': '蛊仙',
-  '运道蛊仙': '力道蛊仙',  // 楚度特例
-  '智多星': '智道蛊仙'
+  // 由外部配置决定，不再硬编码特定小说的修正规则
 };
 
 /**
  * 势力修正规则
  */
 const FORCE_CORRECTIONS = {
-  '天庭之主': '天庭成员',
-  '十大尊者': '尊者',
-  '中洲魔道': '中洲蛊仙'
+  // 由外部配置决定，不再硬编码特定小说的修正规则
 };
 
 /**
@@ -161,7 +154,7 @@ function intelligentFixCharacter(filePath, canonicalAttrs, dryRun = false) {
       }
       
       // 移除规范标签中不存在的标签（除非是通用标签）
-      const commonTags = ['蛊仙', '八转', '六转', '五转', '四转', '三转', '二转', '一转'];
+      const commonTags = []; // 由外部配置决定
       for (const tag of originalTags) {
         if (!canonicalAttrs.tags.includes(tag) && !commonTags.includes(tag)) {
           const index = newTags.indexOf(tag);

@@ -93,18 +93,8 @@ function namesMatch(cardName, cacheName) {
     return true;
   }
   
-  // Check for common aliases
-  const aliases = {
-    '方源': ['古月方源'],
-    '楚度': ['楚度'],
-    '商心慈': ['商心慈'],
-    '白凝冰': ['白凝冰'],
-    '马鸿运': ['马鸿运'],
-    '赵怜云': ['赵怜云'],
-    '武庸': ['武庸'],
-    '龙公': ['龙公'],
-    '影无邪': ['影无邪']
-  };
+  // Check for common aliases (loaded from novel config)
+  const aliases = {}; // 由小说配置文件决定
   
   for (const [key, aliasList] of Object.entries(aliases)) {
     if (normalizedCard === normalizeName(key) && aliasList.includes(cacheName)) {

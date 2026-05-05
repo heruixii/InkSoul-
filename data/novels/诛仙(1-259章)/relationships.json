@@ -1,0 +1,7132 @@
+{
+  "relationships": [
+    {
+      "character1": "青云子",
+      "character2": "十个弟子",
+      "type": "师徒",
+      "chapterIndex": 1
+    },
+    {
+      "character1": "无方子",
+      "character2": "青叶道人",
+      "type": "师徒（掌门与关门弟子）",
+      "chapterIndex": 1
+    },
+    {
+      "character1": "无方子",
+      "character2": "青叶",
+      "type": "师徒",
+      "chapterIndex": 1
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "张小凡",
+      "type": "朋友，林惊羽拉张小凡手，其他孩子以林惊羽为首",
+      "chapterIndex": 2
+    },
+    {
+      "character1": "老僧",
+      "character2": "黑气中的人",
+      "type": "对峙",
+      "chapterIndex": 2
+    },
+    {
+      "character1": "老僧",
+      "character2": "林惊羽",
+      "type": "救助",
+      "chapterIndex": 2
+    },
+    {
+      "character1": "老僧",
+      "character2": "黑气中人",
+      "type": "敌对",
+      "chapterIndex": 2
+    },
+    {
+      "character1": "黑衣人",
+      "character2": "普智",
+      "type": "敌对",
+      "chapterIndex": 3
+    },
+    {
+      "character1": "普智",
+      "character2": "张小凡",
+      "type": "救助（将张小凡夹着放下）",
+      "chapterIndex": 3
+    },
+    {
+      "character1": "普智",
+      "character2": "林惊羽",
+      "type": "救助（将林惊羽夹着放下）",
+      "chapterIndex": 3
+    },
+    {
+      "character1": "普智",
+      "character2": "道玄真人",
+      "type": "修行对比，普智认为道玄真人修行远胜于己",
+      "chapterIndex": 3
+    },
+    {
+      "character1": "普智",
+      "character2": "普智的三个师兄",
+      "type": "同门，但普智认为他们放不开门户之见",
+      "chapterIndex": 3
+    },
+    {
+      "character1": "普智",
+      "character2": "邪人",
+      "type": "敌对，普智反挫重创邪人",
+      "chapterIndex": 3
+    },
+    {
+      "character1": "张小凡",
+      "character2": "林惊羽",
+      "type": "玩伴",
+      "chapterIndex": 4
+    },
+    {
+      "character1": "张小凡",
+      "character2": "王二叔",
+      "type": "村民关系",
+      "chapterIndex": 5
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "王二叔",
+      "type": "村民关系",
+      "chapterIndex": 5
+    },
+    {
+      "character1": "常箭",
+      "character2": "张小凡",
+      "type": "带领者与被带领者",
+      "chapterIndex": 5
+    },
+    {
+      "character1": "常箭",
+      "character2": "林惊羽",
+      "type": "带领者与被带领者",
+      "chapterIndex": 5
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "张小凡",
+      "type": "同伴（林惊羽比张小凡大一岁）",
+      "chapterIndex": 5
+    },
+    {
+      "character1": "王二叔",
+      "character2": "张小凡",
+      "type": "王二叔端详张小凡并恐惧称鬼",
+      "chapterIndex": 5
+    },
+    {
+      "character1": "张小凡",
+      "character2": "林惊羽",
+      "type": "年龄相仿的孩童",
+      "chapterIndex": 5
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "道玄真人",
+      "type": "回答问题的后辈",
+      "chapterIndex": 5
+    },
+    {
+      "character1": "张小凡",
+      "character2": "道玄真人",
+      "type": "尊称其为神仙爷爷",
+      "chapterIndex": 5
+    },
+    {
+      "character1": "张小凡",
+      "character2": "宋大仁",
+      "type": "师兄弟",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "田不易",
+      "character2": "宋大仁",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "田不易",
+      "character2": "田灵儿",
+      "type": "父女",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "田不易",
+      "character2": "吴大义",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "田不易",
+      "character2": "郑大礼",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "田不易",
+      "character2": "何大���",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "田不易",
+      "character2": "吕大信",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "田不易",
+      "character2": "杜必书",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "吴大义",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "郑大礼",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "何大智",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "吕大信",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "杜必书",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "杜必书",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "杜必书",
+      "character2": "苏茹",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "杜必书",
+      "character2": "宋大仁",
+      "type": "师兄弟",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "张小凡",
+      "character2": "苏茹",
+      "type": "师徒",
+      "chapterIndex": 6
+    },
+    {
+      "character1": "田不易",
+      "character2": "田不易的妻子",
+      "type": "夫妻",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "田不易",
+      "character2": "田不易的女儿",
+      "type": "父女",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "杜必书",
+      "type": "师兄弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "杜必书",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "田不易",
+      "character2": "宋大仁",
+      "type": "师徒",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "田不易",
+      "character2": "杜必书",
+      "type": "师徒",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师徒",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "张小凡",
+      "character2": "杜必书",
+      "type": "师兄弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "张小凡",
+      "character2": "吕大信",
+      "type": "师兄弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "张小凡",
+      "character2": "何大智",
+      "type": "师兄弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "张小凡",
+      "character2": "吴大义",
+      "type": "师兄弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "张小凡",
+      "character2": "宋大仁",
+      "type": "师兄弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "田不易",
+      "character2": "师娘",
+      "type": "夫妻",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "田不易",
+      "character2": "小师妹",
+      "type": "父女",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "杜必书",
+      "character2": "张小凡",
+      "type": "六师兄-师弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "郑大礼",
+      "character2": "张小凡",
+      "type": "同门师兄弟",
+      "chapterIndex": 7
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "师姐弟",
+      "chapterIndex": 8
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐弟",
+      "chapterIndex": 8
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "张小凡",
+      "type": "师徒",
+      "chapterIndex": 9
+    },
+    {
+      "character1": "田不易",
+      "character2": "田灵儿",
+      "type": "父女",
+      "chapterIndex": 9
+    },
+    {
+      "character1": "苏茹",
+      "character2": "田灵儿",
+      "type": "母女",
+      "chapterIndex": 9
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 9
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "小师妹",
+      "type": "疼爱",
+      "chapterIndex": 9
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 9
+    },
+    {
+      "character1": "张小凡",
+      "character2": "普智",
+      "type": "师徒",
+      "chapterIndex": 10
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师徒",
+      "chapterIndex": 10
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师父与弟子",
+      "chapterIndex": 10
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "张小凡",
+      "type": "师兄与师弟",
+      "chapterIndex": 10
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐与师弟",
+      "chapterIndex": 10
+    },
+    {
+      "character1": "普智",
+      "character2": "张小凡",
+      "type": "传授者与受教者",
+      "chapterIndex": 10
+    },
+    {
+      "character1": "张小凡",
+      "character2": "师姐",
+      "type": "师姐弟",
+      "chapterIndex": 11
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐弟",
+      "chapterIndex": 11
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "未明确，张小凡为她放下野果",
+      "chapterIndex": 12
+    },
+    {
+      "character1": "黑心老人",
+      "character2": "噬血珠",
+      "type": "曾经拥有并炼成法宝",
+      "chapterIndex": 12
+    },
+    {
+      "character1": "普智",
+      "character2": "张小凡",
+      "type": "恩人与受恩者（张小凡念及普智恩情）",
+      "chapterIndex": 12
+    },
+    {
+      "character1": "神秘黑衣人",
+      "character2": "普智",
+      "type": "敌对（黑衣人重创普智，对噬血珠志在必得）",
+      "chapterIndex": 12
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "师姐弟",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "张小凡",
+      "character2": "宋大仁",
+      "type": "师兄弟（大师兄）",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "苏茹",
+      "character2": "张小凡",
+      "type": "师娘与弟子",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "田不易",
+      "character2": "杜必书",
+      "type": "师父与弟子",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "杜必书",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "杜必书",
+      "character2": "吕大信",
+      "type": "师兄弟",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "杜必书",
+      "character2": "苏茹",
+      "type": "师兄弟/同门",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "杜必书",
+      "character2": "田灵儿",
+      "type": "同门",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "杜必书",
+      "character2": "张小凡",
+      "type": "同门",
+      "chapterIndex": 13
+    },
+    {
+      "character1": "苍松真人",
+      "character2": "齐昊",
+      "type": "师徒",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "苍松真人",
+      "character2": "林惊羽",
+      "type": "师徒",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "田不易",
+      "character2": "齐昊",
+      "type": "师叔侄",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "田不易",
+      "character2": "林惊羽",
+      "type": "师叔侄",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "苏茹",
+      "character2": "齐昊",
+      "type": "师叔侄",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "苏茹",
+      "character2": "林惊羽",
+      "type": "师叔侄",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "齐昊",
+      "character2": "苍松",
+      "type": "师徒",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "齐昊",
+      "character2": "苏茹",
+      "type": "师叔侄",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "齐昊",
+      "character2": "田不易",
+      "type": "师叔侄",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "张小凡",
+      "type": "老友旧识",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "齐昊",
+      "character2": "林惊羽",
+      "type": "师兄弟（师兄）",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田不易",
+      "type": "师父与弟子",
+      "chapterIndex": 14
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "齐昊",
+      "type": "同门师兄弟（苍松道人门下）",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "张小凡",
+      "type": "好友",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "齐昊",
+      "character2": "林惊羽",
+      "type": "师兄师弟",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "齐昊",
+      "type": "师徒",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "林惊羽",
+      "type": "师徒",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师徒",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "田不易",
+      "character2": "林惊羽",
+      "type": "师徒",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "张小凡",
+      "character2": "林惊羽",
+      "type": "同门师兄（张小凡称林惊羽为林师兄）",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "田不易",
+      "character2": "田灵儿",
+      "type": "父女",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "齐昊",
+      "character2": "林惊羽",
+      "type": "师兄弟（齐昊称林惊羽为师弟）",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "田不易",
+      "character2": "齐昊",
+      "type": "师叔侄（齐昊称田不易为师叔）",
+      "chapterIndex": 15
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "苏茹",
+      "type": "母女",
+      "chapterIndex": 16
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐弟",
+      "chapterIndex": 16
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿父亲",
+      "type": "被打者与打人者",
+      "chapterIndex": 16
+    },
+    {
+      "character1": "大黄",
+      "character2": "小灰",
+      "type": "玩耍伙伴",
+      "chapterIndex": 16
+    },
+    {
+      "character1": "小灰",
+      "character2": "田灵儿",
+      "type": "记恨",
+      "chapterIndex": 16
+    },
+    {
+      "character1": "张小凡",
+      "character2": "师父",
+      "type": "师徒",
+      "chapterIndex": 16
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "师父",
+      "type": "父女",
+      "chapterIndex": 16
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "师姐弟",
+      "chapterIndex": 16
+    },
+    {
+      "character1": "张小凡",
+      "character2": "大黄",
+      "type": "争斗（被偷肉骨头）",
+      "chapterIndex": 17
+    },
+    {
+      "character1": "张小凡",
+      "character2": "小灰",
+      "type": "争斗（被偷肉骨头）",
+      "chapterIndex": 17
+    },
+    {
+      "character1": "大黄",
+      "character2": "小灰",
+      "type": "合作（偷肉骨头）",
+      "chapterIndex": 17
+    },
+    {
+      "character1": "田不易",
+      "character2": "大黄",
+      "type": "主人与宠物",
+      "chapterIndex": 17
+    },
+    {
+      "character1": "张小凡",
+      "character2": "宋大仁",
+      "type": "师兄弟（大师兄传授法诀）",
+      "chapterIndex": 17
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "同门（私下给法诀）",
+      "chapterIndex": 17
+    },
+    {
+      "character1": "张小凡",
+      "character2": "杜必书",
+      "type": "最要好",
+      "chapterIndex": 17
+    },
+    {
+      "character1": "张小凡",
+      "character2": "齐昊",
+      "type": "比较对象",
+      "chapterIndex": 17
+    },
+    {
+      "character1": "张小凡",
+      "character2": "普智和尚",
+      "type": "曾相遇",
+      "chapterIndex": 17
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "宋大仁",
+      "type": "师兄妹",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "何大智",
+      "type": "师兄妹",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "何大智",
+      "type": "师兄弟",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "田灵儿",
+      "type": "师兄妹",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "吴大义",
+      "type": "师兄弟",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "郑大礼",
+      "type": "师兄弟",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "杜必书",
+      "type": "师兄弟",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "同门师兄妹，曾被众人认为眉来眼去",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "亲近的同门师姐弟",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "可能心怀鬼胎（暗恋）",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "师娘（母亲）",
+      "type": "母女",
+      "chapterIndex": 18
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "相识且有明显好感",
+      "chapterIndex": 19
+    },
+    {
+      "character1": "何大智",
+      "character2": "文敏",
+      "type": "相识，六十年未见",
+      "chapterIndex": 19
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "暧昧",
+      "chapterIndex": 19
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "单恋",
+      "chapterIndex": 19
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "文敏",
+      "type": "相识",
+      "chapterIndex": 19
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "水麒麟",
+      "type": "掌门与灵尊",
+      "chapterIndex": 20
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "青云门弟子",
+      "type": "掌门与弟子",
+      "chapterIndex": 20
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐弟",
+      "chapterIndex": 21
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 21
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "田不易",
+      "type": "父女",
+      "chapterIndex": 21
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "苏茹",
+      "type": "母女",
+      "chapterIndex": 21
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "青云众弟子",
+      "type": "掌门与弟子",
+      "chapterIndex": 21
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "田灵儿",
+      "type": "同门（大竹峰师兄妹）",
+      "chapterIndex": 23
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "大竹峰其他男弟子",
+      "type": "同门师兄弟",
+      "chapterIndex": 23
+    },
+    {
+      "character1": "大黄",
+      "character2": "田不易",
+      "type": "主人与宠物",
+      "chapterIndex": 23
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "师姐弟",
+      "chapterIndex": 23
+    },
+    {
+      "character1": "张小凡",
+      "character2": "猴子小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 24
+    },
+    {
+      "character1": "曾书书",
+      "character2": "张小凡",
+      "type": "同门师兄弟（分属风回峰与大竹峰）",
+      "chapterIndex": 24
+    },
+    {
+      "character1": "张小凡",
+      "character2": "曾书书",
+      "type": "师兄弟",
+      "chapterIndex": 24
+    },
+    {
+      "character1": "张小凡",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 24
+    },
+    {
+      "character1": "小灰",
+      "character2": "大黄",
+      "type": "互动",
+      "chapterIndex": 24
+    },
+    {
+      "character1": "张小凡",
+      "character2": "曾书书",
+      "type": "师兄弟（曾书书称张师弟，张小凡称曾师兄）",
+      "chapterIndex": 25
+    },
+    {
+      "character1": "小灰",
+      "character2": "曾书书",
+      "type": "讨厌（小灰对曾书书做鬼脸）",
+      "chapterIndex": 25
+    },
+    {
+      "character1": "小灰",
+      "character2": "大黄",
+      "type": "小灰骑在大黄背上",
+      "chapterIndex": 25
+    },
+    {
+      "character1": "曾书书",
+      "character2": "张小凡",
+      "type": "师兄弟",
+      "chapterIndex": 25
+    },
+    {
+      "character1": "曾书书",
+      "character2": "张小凡",
+      "type": "师兄弟（曾书书为师兄）",
+      "chapterIndex": 26
+    },
+    {
+      "character1": "曾书书",
+      "character2": "张小凡",
+      "type": "朋友",
+      "chapterIndex": 27
+    },
+    {
+      "character1": "张小凡",
+      "character2": "曾书书",
+      "type": "朋友",
+      "chapterIndex": 27
+    },
+    {
+      "character1": "张小凡",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 27
+    },
+    {
+      "character1": "曾书书",
+      "character2": "高个汉子",
+      "type": "同门",
+      "chapterIndex": 27
+    },
+    {
+      "character1": "张小凡",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 28
+    },
+    {
+      "character1": "张小凡",
+      "character2": "大黄",
+      "type": "主人与宠物",
+      "chapterIndex": 28
+    },
+    {
+      "character1": "张小凡",
+      "character2": "曾书书",
+      "type": "朋友",
+      "chapterIndex": 28
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "师姐弟",
+      "chapterIndex": 28
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "田灵儿",
+      "type": "对手（明日比试）",
+      "chapterIndex": 28
+    },
+    {
+      "character1": "曾书书",
+      "character2": "小灰",
+      "type": "互动",
+      "chapterIndex": 28
+    },
+    {
+      "character1": "张小凡",
+      "character2": "师姐",
+      "type": "暗恋",
+      "chapterIndex": 28
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 29
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师徒",
+      "chapterIndex": 29
+    },
+    {
+      "character1": "田不易",
+      "character2": "杜必书",
+      "type": "师徒",
+      "chapterIndex": 29
+    },
+    {
+      "character1": "田不易",
+      "character2": "道玄真人",
+      "type": "师兄弟",
+      "chapterIndex": 29
+    },
+    {
+      "character1": "田不易",
+      "character2": "陆雪琪",
+      "type": "怀有敌意（因陆雪琪打败其女儿）",
+      "chapterIndex": 30
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "师姐弟",
+      "chapterIndex": 31
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐弟",
+      "chapterIndex": 31
+    },
+    {
+      "character1": "齐昊",
+      "character2": "田灵儿",
+      "type": "两情相悦",
+      "chapterIndex": 31
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "田灵儿爹",
+      "type": "父女",
+      "chapterIndex": 31
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "田灵儿娘",
+      "type": "母女",
+      "chapterIndex": 31
+    },
+    {
+      "character1": "文敏",
+      "character2": "水月师叔",
+      "type": "师叔侄",
+      "chapterIndex": 31
+    },
+    {
+      "character1": "水月师叔",
+      "character2": "田灵儿娘",
+      "type": "师叔告知",
+      "chapterIndex": 31
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "水月",
+      "type": "师徒",
+      "chapterIndex": 32
+    },
+    {
+      "character1": "张小凡",
+      "character2": "小灰",
+      "type": "主人与宠物（小灰为张小凡的猴子，张小凡称小灰为‘主人’受伤）",
+      "chapterIndex": 33
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师父与徒弟（田不易是张小凡的师父，张小凡要行大礼，田不易称张小凡为‘老七’）",
+      "chapterIndex": 33
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师徒",
+      "chapterIndex": 33
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐弟",
+      "chapterIndex": 33
+    },
+    {
+      "character1": "普智",
+      "character2": "张小凡",
+      "type": "传授口诀",
+      "chapterIndex": 33
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "苍松道人",
+      "type": "师兄弟",
+      "chapterIndex": 34
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "齐昊",
+      "type": "师父与弟子",
+      "chapterIndex": 34
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "齐昊",
+      "type": "掌门与弟子",
+      "chapterIndex": 34
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "齐昊",
+      "type": "师兄与师弟",
+      "chapterIndex": 34
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "张小凡",
+      "type": "同门",
+      "chapterIndex": 34
+    },
+    {
+      "character1": "曾书书",
+      "character2": "张小凡",
+      "type": "同门",
+      "chapterIndex": 34
+    },
+    {
+      "character1": "齐昊",
+      "character2": "道玄真人",
+      "type": "掌门师伯与师侄",
+      "chapterIndex": 34
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 34
+    },
+    {
+      "character1": "曾书书",
+      "character2": "张小凡",
+      "type": "朋友",
+      "chapterIndex": 34
+    },
+    {
+      "character1": "张小凡",
+      "character2": "绿衣少女",
+      "type": "曾在晚饭时争论寐鱼",
+      "chapterIndex": 36
+    },
+    {
+      "character1": "张小凡",
+      "character2": "绿衣少女",
+      "type": "初次相遇互动",
+      "chapterIndex": 36
+    },
+    {
+      "character1": "张小凡",
+      "character2": "齐昊",
+      "type": "同门",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "张小凡",
+      "character2": "曾书书",
+      "type": "同门",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "张小凡",
+      "character2": "陆雪琪",
+      "type": "同门",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "齐昊",
+      "character2": "曾书书",
+      "type": "同门",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "齐昊",
+      "character2": "陆雪琪",
+      "type": "同门",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "曾书书",
+      "character2": "陆雪琪",
+      "type": "同门",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "法相",
+      "character2": "法善",
+      "type": "师兄弟",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "李洵",
+      "character2": "燕虹",
+      "type": "同门",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "齐昊",
+      "character2": "法相",
+      "type": "初次相识",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "齐昊",
+      "character2": "曾书书",
+      "type": "同门（青云门）",
+      "chapterIndex": 37
+    },
+    {
+      "character1": "法相",
+      "character2": "李洵",
+      "type": "李洵称法相为‘法相师兄’，对法相客气",
+      "chapterIndex": 38
+    },
+    {
+      "character1": "法相",
+      "character2": "普泓上人",
+      "type": "师徒",
+      "chapterIndex": 38
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "高个男子",
+      "type": "同伴",
+      "chapterIndex": 39
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "高个",
+      "type": "同伙（均为魔教妖人）",
+      "chapterIndex": 39
+    },
+    {
+      "character1": "张小凡",
+      "character2": "陆雪琪",
+      "type": "同门伙伴",
+      "chapterIndex": 39
+    },
+    {
+      "character1": "张小凡",
+      "character2": "齐昊",
+      "type": "师兄",
+      "chapterIndex": 40
+    },
+    {
+      "character1": "张小凡",
+      "character2": "曾书书",
+      "type": "师兄",
+      "chapterIndex": 40
+    },
+    {
+      "character1": "张小凡",
+      "character2": "大汉",
+      "type": "敌对（战斗）",
+      "chapterIndex": 40
+    },
+    {
+      "character1": "林锋",
+      "character2": "年老大",
+      "type": "同门竞争",
+      "chapterIndex": 40
+    },
+    {
+      "character1": "林锋",
+      "character2": "美貌少妇",
+      "type": "未知",
+      "chapterIndex": 40
+    },
+    {
+      "character1": "年老大",
+      "character2": "美貌少妇",
+      "type": "同伴",
+      "chapterIndex": 40
+    },
+    {
+      "character1": "张小凡",
+      "character2": "陆雪琪",
+      "type": "救助关系",
+      "chapterIndex": 41
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "张小凡",
+      "type": "保护者",
+      "chapterIndex": 42
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "张小凡",
+      "type": "被保护者与保护者",
+      "chapterIndex": 42
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "张小凡",
+      "type": "同伴",
+      "chapterIndex": 42
+    },
+    {
+      "character1": "少女",
+      "character2": "张小凡",
+      "type": "认识",
+      "chapterIndex": 43
+    },
+    {
+      "character1": "张小凡",
+      "character2": "陆雪琪",
+      "type": "同伴（张小凡保护陆雪琪）",
+      "chapterIndex": 43
+    },
+    {
+      "character1": "张小凡",
+      "character2": "少女",
+      "type": "敌对（正邪对立）",
+      "chapterIndex": 43
+    },
+    {
+      "character1": "张小凡",
+      "character2": "陆雪琪",
+      "type": "同伴",
+      "chapterIndex": 43
+    },
+    {
+      "character1": "张小凡",
+      "character2": "绿衣少女",
+      "type": "敌对（张小凡认为她是魔教妖人，奸险诡诈）",
+      "chapterIndex": 43
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "张小凡",
+      "type": "同伴",
+      "chapterIndex": 44
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "蒙面女子",
+      "type": "同伴",
+      "chapterIndex": 44
+    },
+    {
+      "character1": "黑水玄蛇",
+      "character2": "陆雪琪",
+      "type": "敌对",
+      "chapterIndex": 44
+    },
+    {
+      "character1": "黑水玄蛇",
+      "character2": "张小凡",
+      "type": "敌对",
+      "chapterIndex": 44
+    },
+    {
+      "character1": "黑水玄蛇",
+      "character2": "碧瑶",
+      "type": "敌对",
+      "chapterIndex": 44
+    },
+    {
+      "character1": "黑水玄蛇",
+      "character2": "蒙面女子",
+      "type": "敌对",
+      "chapterIndex": 44
+    },
+    {
+      "character1": "张小凡",
+      "character2": "陆雪琪",
+      "type": "同伴",
+      "chapterIndex": 44
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "帮助（正魔相遇）",
+      "chapterIndex": 45
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "斗气互动",
+      "chapterIndex": 46
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "不和睦",
+      "chapterIndex": 46
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "同行",
+      "chapterIndex": 47
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "对话与对峙",
+      "chapterIndex": 48
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "黑心老人",
+      "type": "派系不同",
+      "chapterIndex": 48
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "金铃夫人",
+      "type": "同情与叹息",
+      "chapterIndex": 49
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "对话互动",
+      "chapterIndex": 49
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "分食干粮",
+      "chapterIndex": 50
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "碧瑶对张小凡有温柔之意（眼神、语气）",
+      "chapterIndex": 50
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "张小凡对碧瑶感到害怕、震惊，认为她是魔教中人",
+      "chapterIndex": 50
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "碧瑶紧紧抓着张小凡，躺在他怀里；张小凡不忍离开",
+      "chapterIndex": 51
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "相识",
+      "chapterIndex": 51
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "相识的同伴",
+      "chapterIndex": 51
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "碧瑶的父亲",
+      "type": "父女（碧瑶认为父亲恨她）",
+      "chapterIndex": 51
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "正邪对立（朋友但道不同）",
+      "chapterIndex": 52
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "曾生死与共，后因立场对立而告别，张小凡自觉有亏欠，碧瑶威胁取他首级",
+      "chapterIndex": 52
+    },
+    {
+      "character1": "张小凡",
+      "character2": "万人往",
+      "type": "对话关系",
+      "chapterIndex": 53
+    },
+    {
+      "character1": "老先生",
+      "character2": "小女孩",
+      "type": "祖孙",
+      "chapterIndex": 54
+    },
+    {
+      "character1": "老头",
+      "character2": "孙女",
+      "type": "祖孙",
+      "chapterIndex": 54
+    },
+    {
+      "character1": "张小凡",
+      "character2": "老人",
+      "type": "客户与相士",
+      "chapterIndex": 54
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "共历生死（死灵渊滴血洞）",
+      "chapterIndex": 55
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 55
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "相识（曾于死灵渊下相遇）",
+      "chapterIndex": 55
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 56
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "爷孙",
+      "chapterIndex": 56
+    },
+    {
+      "character1": "张小凡",
+      "character2": "三尾妖狐",
+      "type": "敌对",
+      "chapterIndex": 56
+    },
+    {
+      "character1": "石头",
+      "character2": "妖魅",
+      "type": "敌对",
+      "chapterIndex": 56
+    },
+    {
+      "character1": "石头",
+      "character2": "张小凡",
+      "type": "同伴",
+      "chapterIndex": 56
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "同行者",
+      "chapterIndex": 56
+    },
+    {
+      "character1": "石头",
+      "character2": "三尾妖狐",
+      "type": "敌对",
+      "chapterIndex": 57
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "互动",
+      "chapterIndex": 57
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "目光相接",
+      "chapterIndex": 58
+    },
+    {
+      "character1": "石头",
+      "character2": "碧瑶",
+      "type": "未明确",
+      "chapterIndex": 58
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "爷孙",
+      "chapterIndex": 58
+    },
+    {
+      "character1": "李洵",
+      "character2": "燕虹",
+      "type": "师兄妹",
+      "chapterIndex": 59
+    },
+    {
+      "character1": "李洵",
+      "character2": "燕虹",
+      "type": "同门师兄妹",
+      "chapterIndex": 59
+    },
+    {
+      "character1": "上官师叔",
+      "character2": "李洵",
+      "type": "师门前辈与后辈",
+      "chapterIndex": 59
+    },
+    {
+      "character1": "上官师叔",
+      "character2": "六尾魔狐",
+      "type": "敌对",
+      "chapterIndex": 59
+    },
+    {
+      "character1": "焚香谷",
+      "character2": "妖狐",
+      "type": "敌对",
+      "chapterIndex": 59
+    },
+    {
+      "character1": "张小凡",
+      "character2": "六尾白狐",
+      "type": "敌对/对峙",
+      "chapterIndex": 61
+    },
+    {
+      "character1": "张小凡",
+      "character2": "六尾白狐",
+      "type": "对立（降妖伏魔）",
+      "chapterIndex": 61
+    },
+    {
+      "character1": "六尾白狐",
+      "character2": "三尾妖狐",
+      "type": "同伴",
+      "chapterIndex": 61
+    },
+    {
+      "character1": "白狐",
+      "character2": "张小凡",
+      "type": "赠予者与受赠者",
+      "chapterIndex": 62
+    },
+    {
+      "character1": "李洵",
+      "character2": "燕虹",
+      "type": "同伴",
+      "chapterIndex": 62
+    },
+    {
+      "character1": "张小凡",
+      "character2": "李洵",
+      "type": "师兄师弟",
+      "chapterIndex": 62
+    },
+    {
+      "character1": "张小凡",
+      "character2": "燕虹",
+      "type": "师兄妹",
+      "chapterIndex": 62
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "同行",
+      "chapterIndex": 62
+    },
+    {
+      "character1": "张小凡",
+      "character2": "陆师姐",
+      "type": "同门",
+      "chapterIndex": 62
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "同行关系",
+      "chapterIndex": 63
+    },
+    {
+      "character1": "张小凡",
+      "character2": "石头",
+      "type": "同行关系",
+      "chapterIndex": 63
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "石头",
+      "type": "同行关系",
+      "chapterIndex": 63
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "冷言冷语",
+      "chapterIndex": 63
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "石头",
+      "type": "冷言冷语",
+      "chapterIndex": 63
+    },
+    {
+      "character1": "石头",
+      "character2": "张小凡",
+      "type": "同情",
+      "chapterIndex": 63
+    },
+    {
+      "character1": "张小凡",
+      "character2": "石头",
+      "type": "同伴",
+      "chapterIndex": 63
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "相识，张小凡担心其身份暴露",
+      "chapterIndex": 63
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "互动",
+      "chapterIndex": 64
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "相识",
+      "chapterIndex": 64
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "幽姨",
+      "type": "称呼",
+      "chapterIndex": 64
+    },
+    {
+      "character1": "张小凡",
+      "character2": "石头",
+      "type": "同伴",
+      "chapterIndex": 64
+    },
+    {
+      "character1": "张小凡",
+      "character2": "师姐",
+      "type": "师姐弟",
+      "chapterIndex": 66
+    },
+    {
+      "character1": "张小凡",
+      "character2": "宋大仁",
+      "type": "师兄弟",
+      "chapterIndex": 66
+    },
+    {
+      "character1": "张小凡",
+      "character2": "杜必书",
+      "type": "师兄弟",
+      "chapterIndex": 66
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐弟",
+      "chapterIndex": 67
+    },
+    {
+      "character1": "年老大",
+      "character2": "野狗道人",
+      "type": "同属炼血堂一系",
+      "chapterIndex": 67
+    },
+    {
+      "character1": "田不易",
+      "character2": "田灵儿",
+      "type": "父女",
+      "chapterIndex": 67
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "田不易",
+      "type": "父女",
+      "chapterIndex": 68
+    },
+    {
+      "character1": "张小凡",
+      "character2": "宋大仁",
+      "type": "师兄弟",
+      "chapterIndex": 68
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 68
+    },
+    {
+      "character1": "张小凡",
+      "character2": "陆雪琪",
+      "type": "救命恩人（张小凡曾救陆雪琪）",
+      "chapterIndex": 68
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "相识（碧瑶称呼张小凡为‘傻小子’并笑盈盈）",
+      "chapterIndex": 68
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师徒",
+      "chapterIndex": 69
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐弟",
+      "chapterIndex": 69
+    },
+    {
+      "character1": "张小凡",
+      "character2": "灵儿",
+      "type": "喜欢",
+      "chapterIndex": 69
+    },
+    {
+      "character1": "灵儿",
+      "character2": "齐昊",
+      "type": "相互喜欢",
+      "chapterIndex": 69
+    },
+    {
+      "character1": "灵儿",
+      "character2": "张小凡",
+      "type": "姐弟般的情感（灵儿把张小凡当弟弟）",
+      "chapterIndex": 69
+    },
+    {
+      "character1": "田不易",
+      "character2": "田灵儿",
+      "type": "父女",
+      "chapterIndex": 69
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 69
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "同门",
+      "chapterIndex": 69
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "田灵儿",
+      "type": "师兄妹（宋大仁称田灵儿为小师妹）",
+      "chapterIndex": 70
+    },
+    {
+      "character1": "苏茹",
+      "character2": "田灵儿",
+      "type": "母女",
+      "chapterIndex": 70
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "张小凡",
+      "type": "师兄弟（宋大仁叫张小凡小师弟）",
+      "chapterIndex": 70
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "鬼王",
+      "type": "父女",
+      "chapterIndex": 71
+    },
+    {
+      "character1": "小周",
+      "character2": "炼血堂",
+      "type": "成员",
+      "chapterIndex": 71
+    },
+    {
+      "character1": "年老大",
+      "character2": "炼血堂",
+      "type": "成员",
+      "chapterIndex": 71
+    },
+    {
+      "character1": "小周",
+      "character2": "碧瑶",
+      "type": "挑拨离间",
+      "chapterIndex": 71
+    },
+    {
+      "character1": "其他魔教众人",
+      "character2": "鬼王宗",
+      "type": "警惕与敌意",
+      "chapterIndex": 71
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "担心",
+      "chapterIndex": 71
+    },
+    {
+      "character1": "年老大",
+      "character2": "小周",
+      "type": "相识/同伴（年老大拉住小周并低声说话）",
+      "chapterIndex": 71
+    },
+    {
+      "character1": "张小凡",
+      "character2": "小周",
+      "type": "同门",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "同门师姐弟",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "小周",
+      "character2": "田灵儿",
+      "type": "同门",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "鬼王",
+      "character2": "张小凡",
+      "type": "敌对（正道心腹大患）",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "鬼王",
+      "character2": "小周",
+      "type": "敌对",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "师姐弟",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "小周",
+      "character2": "张小凡",
+      "type": "同门",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "鬼王",
+      "character2": "碧瑶",
+      "type": "父女",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "鬼王",
+      "character2": "张小凡",
+      "type": "暧昧关系（鬼王称张小兄）",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "患难见真情，共历生死",
+      "chapterIndex": 72
+    },
+    {
+      "character1": "鬼王",
+      "character2": "碧瑶",
+      "type": "父女",
+      "chapterIndex": 75
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "互有情意（单方面）",
+      "chapterIndex": 75
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "师姐弟",
+      "chapterIndex": 75
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "小周",
+      "type": "斗法对手",
+      "chapterIndex": 75
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "暧昧（谣言）",
+      "chapterIndex": 75
+    },
+    {
+      "character1": "田不易",
+      "character2": "苍松道人",
+      "type": "同门师兄弟（平辈）",
+      "chapterIndex": 75
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "田不易",
+      "type": "师叔侄关系",
+      "chapterIndex": 75
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "苍松道人",
+      "type": "师叔侄关系",
+      "chapterIndex": 75
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "掌门师兄",
+      "type": "师徒关系（未具名）",
+      "chapterIndex": 75
+    },
+    {
+      "character1": "田不易",
+      "character2": "萧逸才",
+      "type": "师叔师侄",
+      "chapterIndex": 76
+    },
+    {
+      "character1": "田不易",
+      "character2": "张师弟",
+      "type": "师徒",
+      "chapterIndex": 76
+    },
+    {
+      "character1": "苍松师叔",
+      "character2": "青云",
+      "type": "掌管刑罚",
+      "chapterIndex": 76
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 76
+    },
+    {
+      "character1": "田不易",
+      "character2": "萧逸才",
+      "type": "师叔-师侄",
+      "chapterIndex": 76
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼王的女儿",
+      "type": "父女",
+      "chapterIndex": 76
+    },
+    {
+      "character1": "吸血老妖",
+      "character2": "姜老三",
+      "type": "师徒",
+      "chapterIndex": 77
+    },
+    {
+      "character1": "吸血老妖",
+      "character2": "野狗道人",
+      "type": "吸血老妖认为野狗连累其徒弟丧命，威胁要杀野狗",
+      "chapterIndex": 77
+    },
+    {
+      "character1": "年老大",
+      "character2": "吸血老妖",
+      "type": "年老大等人见吸血老妖面色阴沉，脚底抹油跑了",
+      "chapterIndex": 77
+    },
+    {
+      "character1": "刘镐",
+      "character2": "吸血老妖",
+      "type": "同上年老大",
+      "chapterIndex": 77
+    },
+    {
+      "character1": "吸血老妖",
+      "character2": "野狗道人",
+      "type": "吸血老妖拎着并扔出野狗道人",
+      "chapterIndex": 77
+    },
+    {
+      "character1": "吸血老妖",
+      "character2": "张小凡",
+      "type": "怀疑张小凡使用吸血妖法杀死姜老三",
+      "chapterIndex": 77
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 78
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师徒",
+      "chapterIndex": 78
+    },
+    {
+      "character1": "苏茹",
+      "character2": "张小凡",
+      "type": "师娘与师侄",
+      "chapterIndex": 78
+    },
+    {
+      "character1": "苏茹",
+      "character2": "张小凡",
+      "type": "师娘与弟子",
+      "chapterIndex": 78
+    },
+    {
+      "character1": "吸血老妖",
+      "character2": "端木老祖",
+      "type": "有交情",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "百毒子",
+      "character2": "苍松",
+      "type": "仇恨（当年一剑之仇）",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "万剑一",
+      "character2": "端木老祖",
+      "type": "憎恨（端木老祖称万剑一为狗贼）",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "万剑一",
+      "character2": "百毒子",
+      "type": "憎恨",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "万剑一",
+      "character2": "吸血老妖",
+      "type": "憎恨",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "万剑一",
+      "character2": "鬼王",
+      "type": "微妙（听闻死讯身子一震）",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "万剑一",
+      "character2": "白面书生",
+      "type": "微妙（听闻死讯身子一震）",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "田不易",
+      "character2": "万剑��",
+      "type": "同门（称万师兄）",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "苏茹",
+      "character2": "百毒子",
+      "type": "如雷贯耳（恶名）",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "苏茹",
+      "character2": "端木老祖",
+      "type": "如雷贯耳（恶名）",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "宋大仁",
+      "type": "师兄妹（田灵儿称宋大仁为大师兄）",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田灵儿",
+      "type": "师姐弟（张小凡称田灵儿为师姐）",
+      "chapterIndex": 79
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "同门（大竹峰弟子）",
+      "chapterIndex": 80
+    },
+    {
+      "character1": "苏茹",
+      "character2": "田灵儿",
+      "type": "母女",
+      "chapterIndex": 80
+    },
+    {
+      "character1": "苏茹",
+      "character2": "田灵儿",
+      "type": "同属大竹峰",
+      "chapterIndex": 80
+    },
+    {
+      "character1": "苏茹",
+      "character2": "宋大仁",
+      "type": "同属大竹峰",
+      "chapterIndex": 80
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻关��（从文本“她心中颇是担心，但看田不易”推断，但未明确说明，故不纳入）",
+      "chapterIndex": 80
+    },
+    {
+      "character1": "鬼王",
+      "character2": "青龙",
+      "type": "魔教同伙",
+      "chapterIndex": 80
+    },
+    {
+      "character1": "何大智",
+      "character2": "杜必书",
+      "type": "同门师兄弟",
+      "chapterIndex": 81
+    },
+    {
+      "character1": "何大智",
+      "character2": "宋大仁",
+      "type": "同门师兄弟",
+      "chapterIndex": 81
+    },
+    {
+      "character1": "何大智",
+      "character2": "张小凡",
+      "type": "同门师兄弟",
+      "chapterIndex": 81
+    },
+    {
+      "character1": "何大智",
+      "character2": "田灵儿",
+      "type": "同门师兄弟",
+      "chapterIndex": 81
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "张小凡",
+      "type": "怨恨",
+      "chapterIndex": 81
+    },
+    {
+      "character1": "年老大",
+      "character2": "野狗道人",
+      "type": "恼火",
+      "chapterIndex": 81
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "何大智",
+      "type": "师兄弟",
+      "chapterIndex": 81
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "宋大仁",
+      "type": "师门关系（田灵儿称宋大仁为大师兄）",
+      "chapterIndex": 82
+    },
+    {
+      "character1": "杜必书",
+      "character2": "宋大仁",
+      "type": "同门",
+      "chapterIndex": 82
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "宋大仁",
+      "type": "同门",
+      "chapterIndex": 82
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "宋大仁",
+      "type": "同门",
+      "chapterIndex": 82
+    },
+    {
+      "character1": "田不易",
+      "character2": "田灵儿",
+      "type": "父女",
+      "chapterIndex": 83
+    },
+    {
+      "character1": "鬼王",
+      "character2": "田灵儿",
+      "type": "敌对",
+      "chapterIndex": 83
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "百毒子",
+      "type": "敌对",
+      "chapterIndex": 83
+    },
+    {
+      "character1": "田不易",
+      "character2": "端木老祖",
+      "type": "敌对",
+      "chapterIndex": 83
+    },
+    {
+      "character1": "苏茹",
+      "character2": "吸血老妖",
+      "type": "敌对",
+      "chapterIndex": 83
+    },
+    {
+      "character1": "苏茹",
+      "character2": "林锋",
+      "type": "敌对",
+      "chapterIndex": 83
+    },
+    {
+      "character1": "百毒子",
+      "character2": "端木老祖",
+      "type": "同教",
+      "chapterIndex": 83
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "张小凡",
+      "type": "师姐弟",
+      "chapterIndex": 83
+    },
+    {
+      "character1": "张小凡",
+      "character2": "林惊羽",
+      "type": "儿时玩伴",
+      "chapterIndex": 84
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "张小凡",
+      "type": "信任（‘我相信你’）",
+      "chapterIndex": 84
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "张小凡",
+      "type": "大师兄与师弟（从小疼他爱他）",
+      "chapterIndex": 84
+    },
+    {
+      "character1": "张小凡",
+      "character2": "宋大仁",
+      "type": "师兄弟",
+      "chapterIndex": 85
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 85
+    },
+    {
+      "character1": "田不易",
+      "character2": "田灵儿",
+      "type": "父女",
+      "chapterIndex": 85
+    },
+    {
+      "character1": "苏茹",
+      "character2": "田灵儿",
+      "type": "母女",
+      "chapterIndex": 85
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "为情所苦，关心对方",
+      "chapterIndex": 85
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "鬼王宗宗主",
+      "type": "父女",
+      "chapterIndex": 85
+    },
+    {
+      "character1": "幽姬",
+      "character2": "碧瑶",
+      "type": "相识，交谈",
+      "chapterIndex": 85
+    },
+    {
+      "character1": "幽姬",
+      "character2": "鬼王宗宗主",
+      "type": "下属或同门",
+      "chapterIndex": 85
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师徒关系未明确提及，但田不易是唯一前来看望者",
+      "chapterIndex": 86
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "张小凡",
+      "type": "师兄弟关系，大师兄送饭",
+      "chapterIndex": 86
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师徒",
+      "chapterIndex": 86
+    },
+    {
+      "character1": "田不易",
+      "character2": "大黄",
+      "type": "主人与宠物",
+      "chapterIndex": 86
+    },
+    {
+      "character1": "小灰",
+      "character2": "张小凡",
+      "type": "宠物与主人（小灰睡在张小凡床上）",
+      "chapterIndex": 86
+    },
+    {
+      "character1": "田不易",
+      "character2": "张小凡",
+      "type": "师父徒弟",
+      "chapterIndex": 86
+    },
+    {
+      "character1": "张小凡",
+      "character2": "师姐",
+      "type": "单恋",
+      "chapterIndex": 87
+    },
+    {
+      "character1": "师姐",
+      "character2": "齐昊",
+      "type": "单恋（师姐喜欢齐昊）",
+      "chapterIndex": 87
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "张小凡",
+      "type": "深厚情感（愿意牺牲自己）",
+      "chapterIndex": 87
+    },
+    {
+      "character1": "凡",
+      "character2": "碧瑶",
+      "type": "朋友",
+      "chapterIndex": 87
+    },
+    {
+      "character1": "凡",
+      "character2": "师父",
+      "type": "师徒",
+      "chapterIndex": 87
+    },
+    {
+      "character1": "凡",
+      "character2": "师娘",
+      "type": "抚养关系",
+      "chapterIndex": 87
+    },
+    {
+      "character1": "碧瑶",
+      "character2": "碧瑶的爹",
+      "type": "父女",
+      "chapterIndex": 87
+    },
+    {
+      "character1": "张小凡",
+      "character2": "碧瑶",
+      "type": "互动中隐含暧昧关系（脸红、紧张等）",
+      "chapterIndex": 87
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "田灵儿",
+      "type": "对望",
+      "chapterIndex": 88
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "田不易",
+      "type": "师弟/门下关系（走到田不易身后站着）",
+      "chapterIndex": 88
+    },
+    {
+      "character1": "普泓神僧",
+      "character2": "道玄真人",
+      "type": "并列",
+      "chapterIndex": 88
+    },
+    {
+      "character1": "普泓神僧",
+      "character2": "焚香谷谷主",
+      "type": "并列",
+      "chapterIndex": 88
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "焚香谷谷主",
+      "type": "并列",
+      "chapterIndex": 88
+    },
+    {
+      "character1": "水月",
+      "character2": "陆雪琪",
+      "type": "师徒",
+      "chapterIndex": 89
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "苍松道人",
+      "type": "师兄弟",
+      "chapterIndex": 89
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普泓神僧",
+      "type": "师兄弟",
+      "chapterIndex": 89
+    },
+    {
+      "character1": "道玄",
+      "character2": "张小凡",
+      "type": "收留",
+      "chapterIndex": 89
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 89
+    },
+    {
+      "character1": "毒神",
+      "character2": "道玄真人",
+      "type": "敌对（百年前毒神败于道玄）",
+      "chapterIndex": 90
+    },
+    {
+      "character1": "鬼王",
+      "character2": "玉阳子",
+      "type": "同为魔教",
+      "chapterIndex": 90
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普泓",
+      "type": "同为正道",
+      "chapterIndex": 90
+    },
+    {
+      "character1": "普泓",
+      "character2": "偷袭者",
+      "type": "被攻击",
+      "chapterIndex": 90
+    },
+    {
+      "character1": "假上官策",
+      "character2": "林惊羽",
+      "type": "敌对",
+      "chapterIndex": 91
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "张小凡",
+      "type": "同门关怀",
+      "chapterIndex": 91
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "林惊羽",
+      "type": "苍松道人给了林惊羽某物，林惊羽不曾辜负其苦心",
+      "chapterIndex": 91
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "张小凡",
+      "type": "兄弟般亲密",
+      "chapterIndex": 92
+    },
+    {
+      "character1": "张小凡",
+      "character2": "陆雪琪",
+      "type": "关系微妙",
+      "chapterIndex": 92
+    },
+    {
+      "character1": "道玄",
+      "character2": "田不易",
+      "type": "师兄弟（掌门师兄）",
+      "chapterIndex": 93
+    },
+    {
+      "character1": "道玄",
+      "character2": "苍松道人",
+      "type": "背叛关系",
+      "chapterIndex": 93
+    },
+    {
+      "character1": "水月大师",
+      "character2": "普泓大师",
+      "type": "护送",
+      "chapterIndex": 93
+    },
+    {
+      "character1": "张小凡",
+      "character2": "王二叔",
+      "type": "关系匪浅",
+      "chapterIndex": 93
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "王二叔",
+      "type": "关系匪浅",
+      "chapterIndex": 93
+    },
+    {
+      "character1": "法相",
+      "character2": "普智",
+      "type": "师叔侄（三师叔）",
+      "chapterIndex": 94
+    },
+    {
+      "character1": "法相",
+      "character2": "普智",
+      "type": "师叔侄",
+      "chapterIndex": 94
+    },
+    {
+      "character1": "法相",
+      "character2": "普智道兄",
+      "type": "师侄关系",
+      "chapterIndex": 94
+    },
+    {
+      "character1": "普智道兄",
+      "character2": "张小凡",
+      "type": "传法授珠关系",
+      "chapterIndex": 94
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普智道兄",
+      "type": "同道关系",
+      "chapterIndex": 94
+    },
+    {
+      "character1": "年龄较大的老者",
+      "character2": "年轻人",
+      "type": "同行商旅同伴",
+      "chapterIndex": 95
+    },
+    {
+      "character1": "年龄较大的老者",
+      "character2": "何老板",
+      "type": "熟客关系（时常往来）",
+      "chapterIndex": 95
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼王",
+      "type": "上下级",
+      "chapterIndex": 96
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "炼血堂众人",
+      "type": "敌对",
+      "chapterIndex": 96
+    },
+    {
+      "character1": "年老大",
+      "character2": "炼血堂",
+      "type": "首领",
+      "chapterIndex": 96
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "炼血堂",
+      "type": "敌对",
+      "chapterIndex": 96
+    },
+    {
+      "character1": "年老大",
+      "character2": "野狗道人",
+      "type": "炼血堂老大与成员",
+      "chapterIndex": 96
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "黑心祖师",
+      "type": "立誓对象",
+      "chapterIndex": 96
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "野狗",
+      "type": "鬼厉让野狗跟随自己",
+      "chapterIndex": 97
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "萧逸才",
+      "type": "师徒",
+      "chapterIndex": 97
+    },
+    {
+      "character1": "张小凡",
+      "character2": "大黄",
+      "type": "主人与宠物",
+      "chapterIndex": 98
+    },
+    {
+      "character1": "张小凡",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 98
+    },
+    {
+      "character1": "杜必书",
+      "character2": "大黄",
+      "type": "照顾与被照顾",
+      "chapterIndex": 98
+    },
+    {
+      "character1": "杜必书",
+      "character2": "小灰",
+      "type": "照顾与被照顾",
+      "chapterIndex": 98
+    },
+    {
+      "character1": "大黄",
+      "character2": "小灰",
+      "type": "伙伴关系，小灰骑在大黄背上",
+      "chapterIndex": 98
+    },
+    {
+      "character1": "小灰",
+      "character2": "大黄",
+      "type": "同伴",
+      "chapterIndex": 98
+    },
+    {
+      "character1": "小灰",
+      "character2": "",
+      "type": "亲密",
+      "chapterIndex": 98
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼厉",
+      "type": "师徒/传授关系",
+      "chapterIndex": 99
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼厉",
+      "type": "对话者",
+      "chapterIndex": 99
+    },
+    {
+      "character1": "秦无炎",
+      "character2": "鬼厉",
+      "type": "朋友",
+      "chapterIndex": 100
+    },
+    {
+      "character1": "小环",
+      "character2": "周一仙",
+      "type": "同伴",
+      "chapterIndex": 100
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "秦无炎",
+      "type": "对峙",
+      "chapterIndex": 100
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "文敏",
+      "type": "同门师姐妹",
+      "chapterIndex": 101
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "青云门弟子",
+      "type": "领袖",
+      "chapterIndex": 101
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "曾书书",
+      "type": "师兄弟",
+      "chapterIndex": 101
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 101
+    },
+    {
+      "character1": "小环",
+      "character2": "周一仙",
+      "type": "祖孙",
+      "chapterIndex": 101
+    },
+    {
+      "character1": "小环",
+      "character2": "金瓶儿",
+      "type": "朋友/被宠爱者",
+      "chapterIndex": 101
+    },
+    {
+      "character1": "小环",
+      "character2": "猴子小灰",
+      "type": "抱在一起",
+      "chapterIndex": 102
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "小环",
+      "type": "观察并想嘲笑",
+      "chapterIndex": 102
+    },
+    {
+      "character1": "小环",
+      "character2": "野狗道人",
+      "type": "小环认为他是好人，野狗否认并反感",
+      "chapterIndex": 102
+    },
+    {
+      "character1": "周一仙",
+      "character2": "野狗道人",
+      "type": "周一仙嘲笑野狗道人",
+      "chapterIndex": 102
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "野狗道人",
+      "type": "对话关系，鬼厉质疑野狗道人行为",
+      "chapterIndex": 103
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "野狗道人",
+      "type": "相识且互动，鬼厉对野狗有意外评价，野狗对鬼厉有警惕",
+      "chapterIndex": 103
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "长生堂门人",
+      "type": "敌对",
+      "chapterIndex": 104
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "青云门人",
+      "type": "接应",
+      "chapterIndex": 104
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "文敏",
+      "type": "师姐弟（文敏为师姐，林惊羽称其师姐）",
+      "chapterIndex": 104
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "神秘老人",
+      "type": "师徒",
+      "chapterIndex": 104
+    },
+    {
+      "character1": "文敏",
+      "character2": "陆雪琪",
+      "type": "同门或同伴（文敏走到陆雪琪身旁）",
+      "chapterIndex": 104
+    },
+    {
+      "character1": "玉阳子",
+      "character2": "孟骥",
+      "type": "门主-弟子",
+      "chapterIndex": 105
+    },
+    {
+      "character1": "玉阳子",
+      "character2": "长生堂弟子",
+      "type": "门主-教众",
+      "chapterIndex": 105
+    },
+    {
+      "character1": "孟骥",
+      "character2": "玉阳子",
+      "type": "下属与门主",
+      "chapterIndex": 105
+    },
+    {
+      "character1": "孟骥",
+      "character2": "玉阳子",
+      "type": "门人与门主",
+      "chapterIndex": 105
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "燕回",
+      "type": "上下级（副宗主与下属）",
+      "chapterIndex": 106
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 106
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "杀生和尚",
+      "type": "上级与下属（需约束的关系）",
+      "chapterIndex": 106
+    },
+    {
+      "character1": "燕回",
+      "character2": "鬼厉",
+      "type": "下属-副宗主",
+      "chapterIndex": 106
+    },
+    {
+      "character1": "小环",
+      "character2": "周一仙",
+      "type": "祖孙",
+      "chapterIndex": 107
+    },
+    {
+      "character1": "小环",
+      "character2": "金瓶儿",
+      "type": "姐妹（称呼）",
+      "chapterIndex": 107
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "秦无炎",
+      "type": "相会",
+      "chapterIndex": 107
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "相会",
+      "chapterIndex": 107
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 107
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "鬼厉",
+      "type": "跟随",
+      "chapterIndex": 107
+    },
+    {
+      "character1": "野狗",
+      "character2": "小环",
+      "type": "友善，野狗对小环有复杂情感",
+      "chapterIndex": 107
+    },
+    {
+      "character1": "周一仙",
+      "character2": "野狗",
+      "type": "厌恶",
+      "chapterIndex": 107
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "法相",
+      "type": "尴尬",
+      "chapterIndex": 108
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "曾书书",
+      "type": "好感",
+      "chapterIndex": 108
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "曾书书",
+      "type": "师兄弟",
+      "chapterIndex": 108
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "法相",
+      "type": "心有芥蒂",
+      "chapterIndex": 108
+    },
+    {
+      "character1": "秦无炎",
+      "character2": "法相",
+      "type": "敌对",
+      "chapterIndex": 109
+    },
+    {
+      "character1": "秦无炎",
+      "character2": "李洵",
+      "type": "敌对",
+      "chapterIndex": 109
+    },
+    {
+      "character1": "秦无炎",
+      "character2": "曾书书",
+      "type": "敌对",
+      "chapterIndex": 109
+    },
+    {
+      "character1": "秦无炎",
+      "character2": "林惊羽",
+      "type": "敌对",
+      "chapterIndex": 109
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "秦无炎",
+      "type": "敌对",
+      "chapterIndex": 109
+    },
+    {
+      "character1": "法相",
+      "character2": "秦无炎",
+      "type": "敌对",
+      "chapterIndex": 109
+    },
+    {
+      "character1": "法相",
+      "character2": "林惊羽",
+      "type": "盟友",
+      "chapterIndex": 109
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "燕虹",
+      "type": "结伴同行",
+      "chapterIndex": 110
+    },
+    {
+      "character1": "燕虹",
+      "character2": "萧逸才",
+      "type": "隐隐提防",
+      "chapterIndex": 110
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "燕虹",
+      "type": "同行",
+      "chapterIndex": 110
+    },
+    {
+      "character1": "法善",
+      "character2": "鹅黄衣裳的女子",
+      "type": "敌对（正在打斗）",
+      "chapterIndex": 110
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "鹅黄衣裳的女子",
+      "type": "敌对（加入战斗）",
+      "chapterIndex": 110
+    },
+    {
+      "character1": "燕虹",
+      "character2": "鹅黄衣裳的女子",
+      "type": "敌对（加入战斗）",
+      "chapterIndex": 110
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "有鸿沟，死灵渊类似的距离",
+      "chapterIndex": 111
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "敌对（可能互相杀戮）",
+      "chapterIndex": 111
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 112
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "收养的爷孙关系",
+      "chapterIndex": 112
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "收养祖孙",
+      "chapterIndex": 112
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环的父亲",
+      "type": "父子（指已故的父亲）",
+      "chapterIndex": 112
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "鬼厉",
+      "type": "对立",
+      "chapterIndex": 113
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "对峙",
+      "chapterIndex": 113
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "敌对",
+      "chapterIndex": 113
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "伙伴",
+      "chapterIndex": 115
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "相识（十年前死灵渊下无情海边）",
+      "chapterIndex": 115
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "未明确，但鬼厉说'如果你要杀我，尽管动手'，暗示潜在敌对",
+      "chapterIndex": 115
+    },
+    {
+      "character1": "黄鸟",
+      "character2": "黑水玄蛇",
+      "type": "天敌",
+      "chapterIndex": 116
+    },
+    {
+      "character1": "黄鸟",
+      "character2": "黑水玄蛇",
+      "type": "敌对（争斗中）",
+      "chapterIndex": 116
+    },
+    {
+      "character1": "鬼王",
+      "character2": "青龙",
+      "type": "宗主与得力手下",
+      "chapterIndex": 117
+    },
+    {
+      "character1": "鬼王",
+      "character2": "幽姬",
+      "type": "宗主与得力手下",
+      "chapterIndex": 117
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼厉",
+      "type": "宗主与宗门成员",
+      "chapterIndex": 117
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "鬼厉",
+      "type": "童年好友",
+      "chapterIndex": 117
+    },
+    {
+      "character1": "青龙",
+      "character2": "幽姬",
+      "type": "同为当年鬼王宗四大圣使",
+      "chapterIndex": 117
+    },
+    {
+      "character1": "鬼王",
+      "character2": "青龙",
+      "type": "宗主与下属",
+      "chapterIndex": 117
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "林惊羽",
+      "type": "童年好友",
+      "chapterIndex": 117
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 118
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "周一仙",
+      "type": "跟随与被跟随，起初紧张后亲近",
+      "chapterIndex": 118
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "小环",
+      "type": "因万人往交谈后亲近",
+      "chapterIndex": 118
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "小环",
+      "type": "跟随者与被跟随者（周一仙怀疑野狗垂涎美色）",
+      "chapterIndex": 118
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "周一仙",
+      "type": "跟随者与被跟随者（周一仙怀疑野狗觊觎财物）",
+      "chapterIndex": 118
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "炼血堂",
+      "type": "门派归属",
+      "chapterIndex": 118
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "前代炼血堂前辈",
+      "type": "师徒",
+      "chapterIndex": 118
+    },
+    {
+      "character1": "云易岚",
+      "character2": "道玄真人",
+      "type": "齐名",
+      "chapterIndex": 119
+    },
+    {
+      "character1": "云易岚",
+      "character2": "普泓上人",
+      "type": "齐名",
+      "chapterIndex": 119
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "杀生和尚",
+      "type": "属下/得力手下",
+      "chapterIndex": 119
+    },
+    {
+      "character1": "杀生和尚",
+      "character2": "神秘鱼人",
+      "type": "追踪与被追踪",
+      "chapterIndex": 119
+    },
+    {
+      "character1": "幽姬",
+      "character2": "鬼王宗",
+      "type": "成员（四大圣使之朱雀）",
+      "chapterIndex": 120
+    },
+    {
+      "character1": "幽姬",
+      "character2": "鬼王",
+      "type": "下属宗主",
+      "chapterIndex": 120
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼先生",
+      "type": "敬重",
+      "chapterIndex": 120
+    },
+    {
+      "character1": "幽姬",
+      "character2": "鬼先生",
+      "type": "警惕",
+      "chapterIndex": 120
+    },
+    {
+      "character1": "鬼先生",
+      "character2": "鬼王",
+      "type": "推动启动四灵血阵",
+      "chapterIndex": 120
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "同伴（共同行动，查探焚香谷）",
+      "chapterIndex": 121
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "互相提防，表面相安无事",
+      "chapterIndex": 121
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "鬼厉",
+      "type": "相识",
+      "chapterIndex": 121
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 121
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "小灰",
+      "type": "被嘲笑对象与嘲笑者",
+      "chapterIndex": 121
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 122
+    },
+    {
+      "character1": "李洵",
+      "character2": "老者",
+      "type": "师叔",
+      "chapterIndex": 123
+    },
+    {
+      "character1": "燕虹",
+      "character2": "老者",
+      "type": "师叔",
+      "chapterIndex": 123
+    },
+    {
+      "character1": "老者",
+      "character2": "谷主",
+      "type": "谷主念及老者镇守玄火坛重地将近百年，不愿打扰",
+      "chapterIndex": 123
+    },
+    {
+      "character1": "老者",
+      "character2": "鱼人族",
+      "type": "当年曾收服这些蛮族",
+      "chapterIndex": 123
+    },
+    {
+      "character1": "李洵",
+      "character2": "燕虹",
+      "type": "同伴",
+      "chapterIndex": 123
+    },
+    {
+      "character1": "灰衣老者",
+      "character2": "吕顺",
+      "type": "不屑",
+      "chapterIndex": 123
+    },
+    {
+      "character1": "李洵",
+      "character2": "吕顺",
+      "type": "师叔侄",
+      "chapterIndex": 123
+    },
+    {
+      "character1": "燕虹",
+      "character2": "吕顺",
+      "type": "师叔侄",
+      "chapterIndex": 123
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "伴随",
+      "chapterIndex": 124
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 124
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "保护",
+      "chapterIndex": 125
+    },
+    {
+      "character1": "火焰异兽",
+      "character2": "小灰",
+      "type": "攻击",
+      "chapterIndex": 125
+    },
+    {
+      "character1": "火焰异兽",
+      "character2": "鬼厉",
+      "type": "敌对",
+      "chapterIndex": 125
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "噬魂",
+      "type": "持有者与武器",
+      "chapterIndex": 125
+    },
+    {
+      "character1": "火焰异兽",
+      "character2": "鬼厉",
+      "type": "敌对对峙",
+      "chapterIndex": 125
+    },
+    {
+      "character1": "小灰",
+      "character2": "火焰异兽",
+      "type": "敌对",
+      "chapterIndex": 125
+    },
+    {
+      "character1": "小灰",
+      "character2": "白狐",
+      "type": "敌对（做出凶恶形状）",
+      "chapterIndex": 126
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "白狐",
+      "type": "敌对",
+      "chapterIndex": 126
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 126
+    },
+    {
+      "character1": "九尾天狐",
+      "character2": "小灰",
+      "type": "共同在玄火坛三层",
+      "chapterIndex": 127
+    },
+    {
+      "character1": "九尾天狐",
+      "character2": "鬼厉",
+      "type": "鬼厉使用玄火鉴影响玄火链束缚九尾天狐",
+      "chapterIndex": 127
+    },
+    {
+      "character1": "九尾天狐",
+      "character2": "鬼厉",
+      "type": "紧盯",
+      "chapterIndex": 127
+    },
+    {
+      "character1": "小灰",
+      "character2": "鬼厉",
+      "type": "小灰跳上鬼厉肩头并紧紧抓着他衣襟",
+      "chapterIndex": 127
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "九尾天狐",
+      "type": "求助者与指导者",
+      "chapterIndex": 128
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "九尾天狐",
+      "type": "恩人",
+      "chapterIndex": 128
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "九尾天狐",
+      "type": "前辈",
+      "chapterIndex": 128
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "九尾天狐",
+      "type": "对话",
+      "chapterIndex": 128
+    },
+    {
+      "character1": "小白",
+      "character2": "鬼厉",
+      "type": "劝说",
+      "chapterIndex": 129
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "同行",
+      "chapterIndex": 130
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "同行者",
+      "chapterIndex": 130
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "鬼厉",
+      "type": "未明确",
+      "chapterIndex": 131
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "鬼厉",
+      "type": "正邪对立",
+      "chapterIndex": 131
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "互相救命、有深厚感情",
+      "chapterIndex": 131
+    },
+    {
+      "character1": "云易岚",
+      "character2": "上官策",
+      "type": "倚重",
+      "chapterIndex": 132
+    },
+    {
+      "character1": "云易岚",
+      "character2": "李洵",
+      "type": "师徒",
+      "chapterIndex": 132
+    },
+    {
+      "character1": "上官策",
+      "character2": "云易岚",
+      "type": "师兄弟",
+      "chapterIndex": 132
+    },
+    {
+      "character1": "云易岚",
+      "character2": "上官策",
+      "type": "师兄弟（师兄）",
+      "chapterIndex": 132
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "张小凡",
+      "type": "同一个人（十年前叛出青云）",
+      "chapterIndex": 132
+    },
+    {
+      "character1": "小白",
+      "character2": "鬼厉",
+      "type": "同伴",
+      "chapterIndex": 133
+    },
+    {
+      "character1": "小白",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 133
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "同伴",
+      "chapterIndex": 134
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "朋友",
+      "chapterIndex": 134
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "苗人老者",
+      "type": "请求与帮助",
+      "chapterIndex": 134
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 135
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "同行的同伴",
+      "chapterIndex": 135
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "猴子小灰",
+      "type": "经常在一起",
+      "chapterIndex": 136
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "关心",
+      "chapterIndex": 136
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "大巫师",
+      "type": "对话",
+      "chapterIndex": 136
+    },
+    {
+      "character1": "大巫师",
+      "character2": "小白",
+      "type": "怀疑",
+      "chapterIndex": 136
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "肢体接触（小白枕鬼厉大腿，鬼厉抱小白）",
+      "chapterIndex": 136
+    },
+    {
+      "character1": "小灰",
+      "character2": "小白",
+      "type": "肢体接触（小灰靠小白肚子）",
+      "chapterIndex": 136
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "同伴",
+      "chapterIndex": 137
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "想救治",
+      "chapterIndex": 137
+    },
+    {
+      "character1": "李洵",
+      "character2": "法相",
+      "type": "师长一辈",
+      "chapterIndex": 138
+    },
+    {
+      "character1": "李洵",
+      "character2": "陆雪琪",
+      "type": "师长一辈",
+      "chapterIndex": 138
+    },
+    {
+      "character1": "吕顺",
+      "character2": "上官策",
+      "type": "地位低于",
+      "chapterIndex": 138
+    },
+    {
+      "character1": "阿合台",
+      "character2": "族长",
+      "type": "障碍",
+      "chapterIndex": 139
+    },
+    {
+      "character1": "阿合台",
+      "character2": "大巫师",
+      "type": "取代",
+      "chapterIndex": 139
+    },
+    {
+      "character1": "阿合台",
+      "character2": "魔王",
+      "type": "利用与被利用",
+      "chapterIndex": 139
+    },
+    {
+      "character1": "阿合台",
+      "character2": "黑衣人",
+      "type": "对话冲突",
+      "chapterIndex": 139
+    },
+    {
+      "character1": "阿合台",
+      "character2": "黑衣人",
+      "type": "敌对",
+      "chapterIndex": 139
+    },
+    {
+      "character1": "阿合台",
+      "character2": "兽神大人",
+      "type": "背叛",
+      "chapterIndex": 139
+    },
+    {
+      "character1": "小白",
+      "character2": "鬼厉",
+      "type": "抱持",
+      "chapterIndex": 140
+    },
+    {
+      "character1": "吕顺",
+      "character2": "云易岚",
+      "type": "同门",
+      "chapterIndex": 140
+    },
+    {
+      "character1": "吕顺",
+      "character2": "上官策",
+      "type": "同门",
+      "chapterIndex": 140
+    },
+    {
+      "character1": "吕顺",
+      "character2": "上官策",
+      "type": "师兄弟",
+      "chapterIndex": 141
+    },
+    {
+      "character1": "上官策",
+      "character2": "法相",
+      "type": "师叔侄",
+      "chapterIndex": 141
+    },
+    {
+      "character1": "上官策",
+      "character2": "陆雪琪",
+      "type": "师叔侄",
+      "chapterIndex": 141
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "同行者",
+      "chapterIndex": 141
+    },
+    {
+      "character1": "大巫师",
+      "character2": "鬼厉",
+      "type": "求与被求",
+      "chapterIndex": 143
+    },
+    {
+      "character1": "苗族",
+      "character2": "黎族",
+      "type": "抢夺圣器",
+      "chapterIndex": 143
+    },
+    {
+      "character1": "大巫师",
+      "character2": "鬼厉",
+      "type": "请求与答应",
+      "chapterIndex": 143
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 144
+    },
+    {
+      "character1": "小灰",
+      "character2": "鬼厉",
+      "type": "主人与宠物",
+      "chapterIndex": 144
+    },
+    {
+      "character1": "图麻骨",
+      "character2": "苗族",
+      "type": "族长",
+      "chapterIndex": 144
+    },
+    {
+      "character1": "大巫师",
+      "character2": "苗族",
+      "type": "大巫师",
+      "chapterIndex": 144
+    },
+    {
+      "character1": "玲珑娘娘",
+      "character2": "兽妖",
+      "type": "封印者与被封印者",
+      "chapterIndex": 144
+    },
+    {
+      "character1": "巫妖",
+      "character2": "凶灵",
+      "type": "曾是兄弟",
+      "chapterIndex": 145
+    },
+    {
+      "character1": "巫妖",
+      "character2": "娘娘",
+      "type": "有痴心妄想",
+      "chapterIndex": 145
+    },
+    {
+      "character1": "巫妖",
+      "character2": "凶灵",
+      "type": "兄弟关系（凶灵是大哥）",
+      "chapterIndex": 145
+    },
+    {
+      "character1": "凶灵",
+      "character2": "石像女子",
+      "type": "下属与尊长（称作‘娘娘’）",
+      "chapterIndex": 145
+    },
+    {
+      "character1": "巫妖",
+      "character2": "娘娘",
+      "type": "呼唤",
+      "chapterIndex": 146
+    },
+    {
+      "character1": "巫妖",
+      "character2": "声音（来源不明）",
+      "type": "对话者",
+      "chapterIndex": 146
+    },
+    {
+      "character1": "声音（来源不明）",
+      "character2": "娘娘",
+      "type": "提及对象（声音似乎对娘娘有记忆）",
+      "chapterIndex": 146
+    },
+    {
+      "character1": "巫妖",
+      "character2": "娘娘",
+      "type": "提及对象（巫妖提及娘娘的石像位置）",
+      "chapterIndex": 146
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "大巫师",
+      "type": "同行者，鬼厉依赖大巫师救命",
+      "chapterIndex": 147
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "同行者",
+      "chapterIndex": 147
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "大巫师",
+      "type": "尊敬与感激",
+      "chapterIndex": 147
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "李洵",
+      "type": "敌意",
+      "chapterIndex": 147
+    },
+    {
+      "character1": "小白",
+      "character2": "狐岐山",
+      "type": "有异样感情（千年之前与狐妖一族在此休养生息）",
+      "chapterIndex": 147
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "鬼厉思念碧瑶，希望她重获新生",
+      "chapterIndex": 147
+    },
+    {
+      "character1": "上官策",
+      "character2": "云易岚",
+      "type": "师兄弟",
+      "chapterIndex": 149
+    },
+    {
+      "character1": "李洵",
+      "character2": "云易岚",
+      "type": "师徒",
+      "chapterIndex": 149
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "水月大师",
+      "type": "师徒",
+      "chapterIndex": 149
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "道玄真人",
+      "type": "掌门-弟子",
+      "chapterIndex": 149
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼厉",
+      "type": "共谋关系",
+      "chapterIndex": 150
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼先生",
+      "type": "上下级关系",
+      "chapterIndex": 150
+    },
+    {
+      "character1": "鬼先生",
+      "character2": "鬼王",
+      "type": "从属或仆从",
+      "chapterIndex": 150
+    },
+    {
+      "character1": "鬼王",
+      "character2": "大巫师",
+      "type": "提供血液者与施法者",
+      "chapterIndex": 150
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "大巫师",
+      "type": "搀扶协助",
+      "chapterIndex": 150
+    },
+    {
+      "character1": "青龙",
+      "character2": "幽姬",
+      "type": "同事（共同处理鬼王宗事务）",
+      "chapterIndex": 151
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼厉",
+      "type": "共历石门事件",
+      "chapterIndex": 151
+    },
+    {
+      "character1": "鬼王",
+      "character2": "青龙",
+      "type": "宗主与属下",
+      "chapterIndex": 151
+    },
+    {
+      "character1": "鬼王",
+      "character2": "幽姬",
+      "type": "宗主与属下",
+      "chapterIndex": 151
+    },
+    {
+      "character1": "鬼王",
+      "character2": "青龙",
+      "type": "上下级",
+      "chapterIndex": 151
+    },
+    {
+      "character1": "鬼王",
+      "character2": "幽姬",
+      "type": "下属",
+      "chapterIndex": 151
+    },
+    {
+      "character1": "鬼王",
+      "character2": "大巫师",
+      "type": "恩人",
+      "chapterIndex": 151
+    },
+    {
+      "character1": "大巫师",
+      "character2": "瑶儿",
+      "type": "救治",
+      "chapterIndex": 151
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼厉",
+      "type": "关注",
+      "chapterIndex": 151
+    },
+    {
+      "character1": "巫妖",
+      "character2": "兽神",
+      "type": "下属与上级",
+      "chapterIndex": 152
+    },
+    {
+      "character1": "兽神",
+      "character2": "玲珑巫女",
+      "type": "面容相似",
+      "chapterIndex": 152
+    },
+    {
+      "character1": "少年",
+      "character2": "玲珑巫女",
+      "type": "有特殊关系，少年知道她和玲珑的关系，并含伤心悲凉愤慨",
+      "chapterIndex": 152
+    },
+    {
+      "character1": "巫妖",
+      "character2": "少年",
+      "type": "巫妖曾参与追杀少年，少年问巫妖是否后悔，巫妖回答有",
+      "chapterIndex": 152
+    },
+    {
+      "character1": "巫妖",
+      "character2": "巫妖的大哥",
+      "type": "兄弟关系",
+      "chapterIndex": 152
+    },
+    {
+      "character1": "",
+      "character2": "",
+      "type": "情感纠葛：少年认为石像女子为了天下苍生而牺牲自己，决定为她复仇。",
+      "chapterIndex": 152
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人-宠物",
+      "chapterIndex": 153
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 153
+    },
+    {
+      "character1": "小环",
+      "character2": "小灰",
+      "type": "熟人（小环曾给过小灰冰葫芦）",
+      "chapterIndex": 153
+    },
+    {
+      "character1": "文敏",
+      "character2": "宋大仁",
+      "type": "有情意（文敏嗔了宋大仁一眼）",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "楚誉宏",
+      "character2": "商正梁",
+      "type": "师徒",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "飞云道人",
+      "character2": "天云道人",
+      "type": "同门师兄弟",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "齐昊",
+      "character2": "林惊羽",
+      "type": "师兄弟",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "曾叔常",
+      "character2": "曾书书",
+      "type": "父子",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "萧逸才",
+      "type": "师徒",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "李洵",
+      "character2": "云谷主",
+      "type": "师徒",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "曾书书",
+      "type": "交情",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "李洵",
+      "character2": "云���主",
+      "type": "师徒",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "李洵",
+      "character2": "道玄真人",
+      "type": "前辈与后辈",
+      "chapterIndex": 154
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "小环",
+      "type": "关心",
+      "chapterIndex": 155
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "炼血堂",
+      "type": "敌对",
+      "chapterIndex": 155
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "炼血堂",
+      "type": "忠诚",
+      "chapterIndex": 155
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 155
+    },
+    {
+      "character1": "小灰",
+      "character2": "鬼厉",
+      "type": "主宠",
+      "chapterIndex": 155
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "鬼厉",
+      "type": "敌对（意图暗害）",
+      "chapterIndex": 155
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "老人",
+      "type": "师从（学艺超过十年）",
+      "chapterIndex": 156
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "苍松",
+      "type": "以前的师徒",
+      "chapterIndex": 156
+    },
+    {
+      "character1": "青龙",
+      "character2": "金瓶儿",
+      "type": "本是敌非友，但在南疆异地妖兽横行下彼此当作战友",
+      "chapterIndex": 157
+    },
+    {
+      "character1": "青龙",
+      "character2": "兽妖",
+      "type": "相遇，金瓶儿警告要小心兽妖",
+      "chapterIndex": 157
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "兽妖",
+      "type": "金瓶儿知道兽妖的身份并警告青龙",
+      "chapterIndex": 157
+    },
+    {
+      "character1": "青龙",
+      "character2": "金瓶儿",
+      "type": "共同面对白骨蛇妖",
+      "chapterIndex": 157
+    },
+    {
+      "character1": "神秘少年",
+      "character2": "白骨蛇妖",
+      "type": "首领与下属",
+      "chapterIndex": 157
+    },
+    {
+      "character1": "白骨蛇妖",
+      "character2": "青龙",
+      "type": "敌对",
+      "chapterIndex": 157
+    },
+    {
+      "character1": "白骨蛇妖",
+      "character2": "金瓶儿",
+      "type": "敌对",
+      "chapterIndex": 157
+    },
+    {
+      "character1": "青龙",
+      "character2": "金瓶儿",
+      "type": "互相利用/算计",
+      "chapterIndex": 157
+    },
+    {
+      "character1": "云易岚",
+      "character2": "道玄真人",
+      "type": "拜访",
+      "chapterIndex": 158
+    },
+    {
+      "character1": "周一仙",
+      "character2": "鬼厉",
+      "type": "反对跟随",
+      "chapterIndex": 158
+    },
+    {
+      "character1": "小环",
+      "character2": "鬼厉",
+      "type": "坚持留下",
+      "chapterIndex": 158
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "鬼厉",
+      "type": "曾被饶恕后沉默",
+      "chapterIndex": 158
+    },
+    {
+      "character1": "小灰",
+      "character2": "鬼厉",
+      "type": "交流互动",
+      "chapterIndex": 159
+    },
+    {
+      "character1": "小灰",
+      "character2": "饕餮",
+      "type": "互动对峙后尝试接近",
+      "chapterIndex": 159
+    },
+    {
+      "character1": "小灰",
+      "character2": "饕餮",
+      "type": "亲近互动",
+      "chapterIndex": 159
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "少年",
+      "type": "对话",
+      "chapterIndex": 159
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "鬼王",
+      "type": "从属（苍松称呼鬼王为宗主）",
+      "chapterIndex": 160
+    },
+    {
+      "character1": "毒神",
+      "character2": "秦无炎",
+      "type": "师徒（毒神是师父，秦无炎是最小弟子）",
+      "chapterIndex": 160
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "万毒门",
+      "type": "供奉",
+      "chapterIndex": 160
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼王宗",
+      "type": "宗主",
+      "chapterIndex": 160
+    },
+    {
+      "character1": "毒神",
+      "character2": "秦无炎",
+      "type": "传位",
+      "chapterIndex": 160
+    },
+    {
+      "character1": "毒神",
+      "character2": "苍松道人",
+      "type": "供奉",
+      "chapterIndex": 160
+    },
+    {
+      "character1": "毒神",
+      "character2": "另外几个弟子",
+      "type": "师徒",
+      "chapterIndex": 160
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "鬼王",
+      "type": "相识",
+      "chapterIndex": 160
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "云易岚",
+      "type": "二人并排站在人群最前方",
+      "chapterIndex": 161
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "云易岚",
+      "type": "师兄与施主（对话关系），道玄心中认为云易岚城府深不可测",
+      "chapterIndex": 161
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普泓上人",
+      "type": "等待其到来共商大事",
+      "chapterIndex": 161
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普泓上人",
+      "type": "相识",
+      "chapterIndex": 161
+    },
+    {
+      "character1": "云易岚",
+      "character2": "普泓上人",
+      "type": "旧识",
+      "chapterIndex": 161
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "毒神",
+      "type": "宾主（供奉与门主）",
+      "chapterIndex": 162
+    },
+    {
+      "character1": "秦无炎",
+      "character2": "毒神",
+      "type": "师徒",
+      "chapterIndex": 162
+    },
+    {
+      "character1": "秦无炎",
+      "character2": "苍松道人",
+      "type": "晚辈与前辈",
+      "chapterIndex": 162
+    },
+    {
+      "character1": "秦无炎",
+      "character2": "苍松道人",
+      "type": "对峙",
+      "chapterIndex": 162
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "云易岚",
+      "type": "同为正道领袖，互相敬重",
+      "chapterIndex": 163
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普泓上人",
+      "type": "同为正道领袖，互相敬重",
+      "chapterIndex": 163
+    },
+    {
+      "character1": "云易岚",
+      "character2": "普泓上人",
+      "type": "同为正道领袖，互相敬重",
+      "chapterIndex": 163
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普泓上人",
+      "type": "掌门对话",
+      "chapterIndex": 163
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "云易岚",
+      "type": "掌门与谷主对话",
+      "chapterIndex": 163
+    },
+    {
+      "character1": "普泓上人",
+      "character2": "云易岚",
+      "type": "掌门与谷主对话",
+      "chapterIndex": 163
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼王",
+      "type": "副宗主与宗主",
+      "chapterIndex": 164
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 164
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "关心",
+      "chapterIndex": 164
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "旧识，有交情，小白指点过鬼厉救碧瑶",
+      "chapterIndex": 164
+    },
+    {
+      "character1": "鬼王",
+      "character2": "小白",
+      "type": "旧识",
+      "chapterIndex": 164
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "鬼厉来看望碧瑶",
+      "chapterIndex": 164
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "九尾天狐",
+      "type": "认识",
+      "chapterIndex": 164
+    },
+    {
+      "character1": "鬼王",
+      "character2": "碧瑶",
+      "type": "父女",
+      "chapterIndex": 165
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "重要的人（未明确具体关系）",
+      "chapterIndex": 165
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "道玄真人",
+      "type": "师徒",
+      "chapterIndex": 166
+    },
+    {
+      "character1": "水月大师",
+      "character2": "陆雪琪",
+      "type": "抚养",
+      "chapterIndex": 166
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普泓上人",
+      "type": "同为正道三大巨擎，商议后互相点头同意",
+      "chapterIndex": 166
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "云易岚",
+      "type": "同为正道三大巨擎，商议后互相点头同意",
+      "chapterIndex": 166
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "萧逸才",
+      "type": "道玄真人对萧逸才说话，让其跟随",
+      "chapterIndex": 166
+    },
+    {
+      "character1": "水月大师",
+      "character2": "陆雪琪",
+      "type": "师徒",
+      "chapterIndex": 166
+    },
+    {
+      "character1": "水月大师",
+      "character2": "文敏",
+      "type": "师徒（师徒关系，文敏是水月大师座下大弟子）",
+      "chapterIndex": 166
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "守护",
+      "chapterIndex": 167
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "跟随",
+      "chapterIndex": 167
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "伙伴",
+      "chapterIndex": 167
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 168
+    },
+    {
+      "character1": "田不易",
+      "character2": "宋大仁",
+      "type": "师徒",
+      "chapterIndex": 168
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "情侣（提亲对象）",
+      "chapterIndex": 168
+    },
+    {
+      "character1": "苏茹",
+      "character2": "水月",
+      "type": "师姐妹",
+      "chapterIndex": 168
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "单恋",
+      "chapterIndex": 168
+    },
+    {
+      "character1": "道玄",
+      "character2": "萧逸才",
+      "type": "师徒",
+      "chapterIndex": 169
+    },
+    {
+      "character1": "道玄",
+      "character2": "田不易",
+      "type": "师兄弟",
+      "chapterIndex": 169
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "田不易",
+      "type": "师叔侄",
+      "chapterIndex": 169
+    },
+    {
+      "character1": "田不易",
+      "character2": "道玄真人",
+      "type": "师叔侄关系（田不易称道玄为掌门师兄）",
+      "chapterIndex": 169
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "田不易",
+      "type": "弟子与师叔关系",
+      "chapterIndex": 169
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "道玄真人",
+      "type": "弟子与掌门关系（萧逸才为长门弟子）",
+      "chapterIndex": 169
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "道玄真人",
+      "type": "师徒",
+      "chapterIndex": 169
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "田不易",
+      "type": "师兄弟",
+      "chapterIndex": 169
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "鬼厉",
+      "type": "跟随",
+      "chapterIndex": 170
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "周一仙",
+      "type": "朋友",
+      "chapterIndex": 170
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "小环",
+      "type": "朋友",
+      "chapterIndex": 170
+    },
+    {
+      "character1": "周一仙",
+      "character2": "周行云",
+      "type": "父子",
+      "chapterIndex": 170
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "爷孙",
+      "chapterIndex": 170
+    },
+    {
+      "character1": "小环",
+      "character2": "周一仙",
+      "type": "孙女",
+      "chapterIndex": 170
+    },
+    {
+      "character1": "周一仙",
+      "character2": "周行云",
+      "type": "父子",
+      "chapterIndex": 171
+    },
+    {
+      "character1": "小环",
+      "character2": "周一仙",
+      "type": "祖孙",
+      "chapterIndex": 171
+    },
+    {
+      "character1": "周一仙",
+      "character2": "鬼先生",
+      "type": "无明确关系（鬼先生对其子灵牌无兴趣）",
+      "chapterIndex": 171
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼先生",
+      "type": "敌对",
+      "chapterIndex": 172
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "文敏",
+      "type": "师姐妹",
+      "chapterIndex": 173
+    },
+    {
+      "character1": "文敏",
+      "character2": "陆雪琪",
+      "type": "同门师姐妹，关系要好",
+      "chapterIndex": 173
+    },
+    {
+      "character1": "文敏",
+      "character2": "宋大仁",
+      "type": "有感情的恋人，因提亲被拒而受阻",
+      "chapterIndex": 173
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "水月",
+      "type": "师徒，但关系紧张，陆雪琪常顶撞师父",
+      "chapterIndex": 173
+    },
+    {
+      "character1": "水月",
+      "character2": "田师叔",
+      "type": "彼此讨厌，水月一向讨厌大竹峰的人，曾因提亲大吵",
+      "chapterIndex": 173
+    },
+    {
+      "character1": "田师叔",
+      "character2": "苏茹师叔",
+      "type": "同为大竹峰，共同行动提亲",
+      "chapterIndex": 173
+    },
+    {
+      "character1": "文敏",
+      "character2": "陆雪琪",
+      "type": "师姐妹",
+      "chapterIndex": 173
+    },
+    {
+      "character1": "南疆怪异猛兽",
+      "character2": "巨大妖兽",
+      "type": "畏惧",
+      "chapterIndex": 174
+    },
+    {
+      "character1": "少年",
+      "character2": "饕餮",
+      "type": "亲密（少年轻拍饕餮脑袋，问话）",
+      "chapterIndex": 174
+    },
+    {
+      "character1": "少年",
+      "character2": "巨鸟",
+      "type": "可交流（少年懂鸟语，巨鸟对他叫）",
+      "chapterIndex": 174
+    },
+    {
+      "character1": "少年",
+      "character2": "兽妖",
+      "type": "兽妖畏惧少年",
+      "chapterIndex": 174
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "林惊羽",
+      "type": "师兄弟",
+      "chapterIndex": 175
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "爷孙",
+      "chapterIndex": 175
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "周一仙",
+      "type": "跟随",
+      "chapterIndex": 175
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "小环",
+      "type": "跟随",
+      "chapterIndex": 175
+    },
+    {
+      "character1": "小环",
+      "character2": "周一仙",
+      "type": "同行",
+      "chapterIndex": 175
+    },
+    {
+      "character1": "小孩",
+      "character2": "林惊羽",
+      "type": "注视",
+      "chapterIndex": 175
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "文敏",
+      "type": "师姐妹",
+      "chapterIndex": 175
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼先生",
+      "type": "互相不信任",
+      "chapterIndex": 176
+    },
+    {
+      "character1": "鬼先生",
+      "character2": "万剑一",
+      "type": "相识",
+      "chapterIndex": 176
+    },
+    {
+      "character1": "鬼先生",
+      "character2": "万剑一",
+      "type": "有恩（当年若非鬼先生，万剑一已是残废之人）",
+      "chapterIndex": 176
+    },
+    {
+      "character1": "鬼先生",
+      "character2": "普智和尚",
+      "type": "旧交（门阀不同，相交一场）",
+      "chapterIndex": 176
+    },
+    {
+      "character1": "万剑一",
+      "character2": "普智和尚",
+      "type": "旧交（门阀不同，相交一场）",
+      "chapterIndex": 176
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "万剑一",
+      "type": "前辈与后辈",
+      "chapterIndex": 177
+    },
+    {
+      "character1": "万剑一",
+      "character2": "鬼先生",
+      "type": "目光相触，万剑一对之笑并摇头",
+      "chapterIndex": 177
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "万剑一",
+      "type": "林惊羽称万剑一为前辈，扑在其身上痛哭",
+      "chapterIndex": 177
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼先生",
+      "type": "鬼先生出手相助鬼厉",
+      "chapterIndex": 177
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "神秘老人",
+      "type": "敌对（一战）",
+      "chapterIndex": 177
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "青云门",
+      "type": "曾几何时也是这里的一部分",
+      "chapterIndex": 177
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普泓上人",
+      "type": "同道",
+      "chapterIndex": 178
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "云易岚",
+      "type": "同道",
+      "chapterIndex": 178
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "萧逸才",
+      "type": "跟随者",
+      "chapterIndex": 178
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "精英弟子和散仙",
+      "type": "带领",
+      "chapterIndex": 178
+    },
+    {
+      "character1": "普智",
+      "character2": "张小凡",
+      "type": "安慰并询问",
+      "chapterIndex": 178
+    },
+    {
+      "character1": "少女",
+      "character2": "张小凡",
+      "type": "叫醒并呼唤做功课",
+      "chapterIndex": 178
+    },
+    {
+      "character1": "大黄",
+      "character2": "小灰",
+      "type": "嬉闹",
+      "chapterIndex": 178
+    },
+    {
+      "character1": "曾书书",
+      "character2": "萧逸才",
+      "type": "同门师兄",
+      "chapterIndex": 179
+    },
+    {
+      "character1": "兽神",
+      "character2": "白骨妖蛇",
+      "type": "幕后主宰",
+      "chapterIndex": 179
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "曾书书",
+      "type": "救助",
+      "chapterIndex": 180
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "陆雪琪",
+      "type": "同门师兄妹",
+      "chapterIndex": 180
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "曾书书",
+      "type": "同门（萧逸才照顾曾书书）",
+      "chapterIndex": 180
+    },
+    {
+      "character1": "兽神",
+      "character2": "饕餮",
+      "type": "主人/跟随者",
+      "chapterIndex": 181
+    },
+    {
+      "character1": "兽神少年",
+      "character2": "巨大恶灵",
+      "type": "脚下（恶灵在兽神少年脚下）",
+      "chapterIndex": 182
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "普泓上人",
+      "type": "同道（道兄）",
+      "chapterIndex": 182
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "鬼厉",
+      "type": "旧日好友，如今对峙",
+      "chapterIndex": 183
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "鬼厉",
+      "type": "曾经兄弟，现已决裂",
+      "chapterIndex": 183
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "林惊羽",
+      "type": "恩断义绝，敌对",
+      "chapterIndex": 183
+    },
+    {
+      "character1": "兽神",
+      "character2": "恶灵巨兽",
+      "type": "驾驭",
+      "chapterIndex": 184
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "兽神",
+      "type": "敌对",
+      "chapterIndex": 185
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "林惊羽",
+      "type": "童年好友",
+      "chapterIndex": 186
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "林惊羽",
+      "type": "敌对",
+      "chapterIndex": 186
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "张小凡",
+      "type": "兄弟情",
+      "chapterIndex": 186
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "鬼厉",
+      "type": "敌对",
+      "chapterIndex": 186
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "鬼厉",
+      "type": "有距离感的互动",
+      "chapterIndex": 187
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "林惊羽",
+      "type": "敌对",
+      "chapterIndex": 187
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "敌对",
+      "chapterIndex": 187
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "鬼厉",
+      "type": "敌对",
+      "chapterIndex": 187
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "冲突（鬼厉攻击陆雪琪但收回）",
+      "chapterIndex": 189
+    },
+    {
+      "character1": "文敏",
+      "character2": "陆雪琪",
+      "type": "同门",
+      "chapterIndex": 190
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "诛仙古剑",
+      "type": "吸附/控制",
+      "chapterIndex": 190
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "文敏",
+      "type": "师姐妹",
+      "chapterIndex": 190
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "鬼厉",
+      "type": "关心",
+      "chapterIndex": 190
+    },
+    {
+      "character1": "曾书书",
+      "character2": "曾叔常",
+      "type": "父子",
+      "chapterIndex": 191
+    },
+    {
+      "character1": "曾叔常",
+      "character2": "曾书书",
+      "type": "父子",
+      "chapterIndex": 191
+    },
+    {
+      "character1": "说话的人",
+      "character2": "师兄",
+      "type": "师兄弟",
+      "chapterIndex": 192
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "法相",
+      "type": "身份对立但避而不谈",
+      "chapterIndex": 193
+    },
+    {
+      "character1": "法相",
+      "character2": "鬼厉",
+      "type": "看望（常来探望，关心伤情）",
+      "chapterIndex": 193
+    },
+    {
+      "character1": "法善",
+      "character2": "鬼厉",
+      "type": "看望（和法相一同前来）",
+      "chapterIndex": 193
+    },
+    {
+      "character1": "法相",
+      "character2": "普泓上人",
+      "type": "师徒",
+      "chapterIndex": 193
+    },
+    {
+      "character1": "普泓上人",
+      "character2": "师弟（未命名）",
+      "type": "师兄弟",
+      "chapterIndex": 194
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普智",
+      "type": "刻骨铭心（因命运改变）",
+      "chapterIndex": 194
+    },
+    {
+      "character1": "普泓上人",
+      "character2": "法相",
+      "type": "师徒",
+      "chapterIndex": 195
+    },
+    {
+      "character1": "普智",
+      "character2": "法相",
+      "type": "师叔侄",
+      "chapterIndex": 195
+    },
+    {
+      "character1": "普泓上人",
+      "character2": "普智",
+      "type": "师兄弟",
+      "chapterIndex": 195
+    },
+    {
+      "character1": "法相",
+      "character2": "普泓上人",
+      "type": "师徒",
+      "chapterIndex": 195
+    },
+    {
+      "character1": "法相",
+      "character2": "普智",
+      "type": "待我极好",
+      "chapterIndex": 195
+    },
+    {
+      "character1": "法相",
+      "character2": "普泓上人",
+      "type": "师徒",
+      "chapterIndex": 196
+    },
+    {
+      "character1": "普泓上人",
+      "character2": "法相",
+      "type": "师徒",
+      "chapterIndex": 196
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 197
+    },
+    {
+      "character1": "田不易",
+      "character2": "吴大义",
+      "type": "师徒",
+      "chapterIndex": 197
+    },
+    {
+      "character1": "田不易",
+      "character2": "何大智",
+      "type": "师徒",
+      "chapterIndex": 197
+    },
+    {
+      "character1": "田不易",
+      "character2": "宋大仁",
+      "type": "师徒",
+      "chapterIndex": 197
+    },
+    {
+      "character1": "田不易",
+      "character2": "水月",
+      "type": "同门（师叔）",
+      "chapterIndex": 197
+    },
+    {
+      "character1": "掌门真人",
+      "character2": "田不易",
+      "type": "上下级",
+      "chapterIndex": 197
+    },
+    {
+      "character1": "苏茹",
+      "character2": "田不易",
+      "type": "夫妻（师娘与师父）",
+      "chapterIndex": 197
+    },
+    {
+      "character1": "苏茹",
+      "character2": "宋大仁等众弟子",
+      "type": "师娘与弟子",
+      "chapterIndex": 197
+    },
+    {
+      "character1": "法相",
+      "character2": "普泓上人",
+      "type": "师徒",
+      "chapterIndex": 198
+    },
+    {
+      "character1": "法相",
+      "character2": "鬼厉",
+      "type": "僧人与施主",
+      "chapterIndex": 198
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普智",
+      "type": "传人",
+      "chapterIndex": 199
+    },
+    {
+      "character1": "普泓上人",
+      "character2": "普智",
+      "type": "师兄弟（普智是普泓师弟）",
+      "chapterIndex": 199
+    },
+    {
+      "character1": "普泓上人",
+      "character2": "普方",
+      "type": "师兄弟（普泓是普方师兄）",
+      "chapterIndex": 199
+    },
+    {
+      "character1": "普泓上人",
+      "character2": "普智",
+      "type": "师兄弟",
+      "chapterIndex": 201
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普智",
+      "type": "面对其法身遗骸",
+      "chapterIndex": 201
+    },
+    {
+      "character1": "普泓上人",
+      "character2": "鬼厉",
+      "type": "时常看望",
+      "chapterIndex": 202
+    },
+    {
+      "character1": "法相",
+      "character2": "鬼厉",
+      "type": "时常看望",
+      "chapterIndex": 202
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "法相",
+      "type": "认识（点头致意）",
+      "chapterIndex": 204
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普泓上人",
+      "type": "施主与方丈（行礼称方丈大师）",
+      "chapterIndex": 204
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普泓上人",
+      "type": "施主与方丈",
+      "chapterIndex": 204
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普泓上人",
+      "type": "点化与被点化",
+      "chapterIndex": 204
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普泓上人",
+      "type": "拒绝劝导",
+      "chapterIndex": 204
+    },
+    {
+      "character1": "何大智",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 205
+    },
+    {
+      "character1": "田不易",
+      "character2": "杜必书",
+      "type": "师徒（师父-弟子，田不易称杜必书为‘老六’）",
+      "chapterIndex": 205
+    },
+    {
+      "character1": "田不易",
+      "character2": "大黄",
+      "type": "主人-宠物（田不易往日最喜欢大黄）",
+      "chapterIndex": 205
+    },
+    {
+      "character1": "杜必书",
+      "character2": "宋大仁",
+      "type": "师兄弟",
+      "chapterIndex": 205
+    },
+    {
+      "character1": "杜必书",
+      "character2": "吴大义",
+      "type": "师兄弟",
+      "chapterIndex": 205
+    },
+    {
+      "character1": "杜必书",
+      "character2": "何大智",
+      "type": "师兄弟",
+      "chapterIndex": 205
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "同伴",
+      "chapterIndex": 206
+    },
+    {
+      "character1": "周一仙",
+      "character2": "野狗道人",
+      "type": "同伴",
+      "chapterIndex": 206
+    },
+    {
+      "character1": "小环",
+      "character2": "野狗道人",
+      "type": "同伴",
+      "chapterIndex": 206
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "劝告与被劝告（小环不顾）",
+      "chapterIndex": 206
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "小环",
+      "type": "跟随并抢先做事",
+      "chapterIndex": 206
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 207
+    },
+    {
+      "character1": "小环",
+      "character2": "野狗道人",
+      "type": "被救者与恩人",
+      "chapterIndex": 207
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 208
+    },
+    {
+      "character1": "黑衣人",
+      "character2": "小环",
+      "type": "被救者与施救者",
+      "chapterIndex": 208
+    },
+    {
+      "character1": "黑衣人",
+      "character2": "鬼厉",
+      "type": "暗中追踪目标",
+      "chapterIndex": 208
+    },
+    {
+      "character1": "鬼先生",
+      "character2": "小环",
+      "type": "相救",
+      "chapterIndex": 208
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "爷孙",
+      "chapterIndex": 208
+    },
+    {
+      "character1": "小环",
+      "character2": "野狗道人",
+      "type": "认识",
+      "chapterIndex": 208
+    },
+    {
+      "character1": "小环",
+      "character2": "鬼先生",
+      "type": "曾见过",
+      "chapterIndex": 208
+    },
+    {
+      "character1": "周一仙",
+      "character2": "野狗道人",
+      "type": "同伴（关系改善，周一仙仍支使其干活）",
+      "chapterIndex": 209
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "小环",
+      "type": "朋友（野狗畏惧小环）",
+      "chapterIndex": 209
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "大巫师",
+      "type": "祭奠",
+      "chapterIndex": 209
+    },
+    {
+      "character1": "大巫师",
+      "character2": "碧瑶",
+      "type": "施法",
+      "chapterIndex": 209
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "对话者",
+      "chapterIndex": 210
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "鬼王",
+      "type": "受托于",
+      "chapterIndex": 210
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "同伴",
+      "chapterIndex": 210
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小白",
+      "type": "牵挂",
+      "chapterIndex": 210
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "同行伙伴",
+      "chapterIndex": 211
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "鬼厉",
+      "type": "提醒（金瓶儿似不经意般的一句提醒，使鬼厉醒悟）",
+      "chapterIndex": 211
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "同行者，带有暧昧互动",
+      "chapterIndex": 211
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "同行",
+      "chapterIndex": 212
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "鬼厉",
+      "type": "同行，但金瓶儿有所隐瞒",
+      "chapterIndex": 212
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "曾书书",
+      "type": "未知",
+      "chapterIndex": 213
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "陆雪琪",
+      "type": "未知",
+      "chapterIndex": 213
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "文敏",
+      "type": "未知",
+      "chapterIndex": 213
+    },
+    {
+      "character1": "云易岚",
+      "character2": "道玄",
+      "type": "师兄弟（云易岚称道玄为师兄）",
+      "chapterIndex": 213
+    },
+    {
+      "character1": "云易岚",
+      "character2": "李洵",
+      "type": "师徒（李洵奉师命）",
+      "chapterIndex": 213
+    },
+    {
+      "character1": "曾书书",
+      "character2": "云易岚",
+      "type": "师伯侄（曾书书称云易岚为云师伯）",
+      "chapterIndex": 213
+    },
+    {
+      "character1": "李洵",
+      "character2": "陆雪琪",
+      "type": "关注",
+      "chapterIndex": 213
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "李洵",
+      "type": "很少说话",
+      "chapterIndex": 214
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "曾书书",
+      "type": "很少理会",
+      "chapterIndex": 214
+    },
+    {
+      "character1": "曾书书",
+      "character2": "李洵",
+      "type": "师兄弟",
+      "chapterIndex": 214
+    },
+    {
+      "character1": "李洵",
+      "character2": "陆雪琪",
+      "type": "师兄妹",
+      "chapterIndex": 214
+    },
+    {
+      "character1": "李洵",
+      "character2": "陆雪琪",
+      "type": "对话",
+      "chapterIndex": 214
+    },
+    {
+      "character1": "李洵",
+      "character2": "曾书书",
+      "type": "对话",
+      "chapterIndex": 214
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "文敏",
+      "type": "商量",
+      "chapterIndex": 214
+    },
+    {
+      "character1": "曾书书",
+      "character2": "陆雪琪",
+      "type": "同行",
+      "chapterIndex": 214
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "鬼厉负碧瑶太多，需救她",
+      "chapterIndex": 215
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶父亲",
+      "type": "鬼厉称此事为碧瑶父亲所令",
+      "chapterIndex": 215
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "对话中相互调侃/合作",
+      "chapterIndex": 215
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 215
+    },
+    {
+      "character1": "田不易",
+      "character2": "林惊羽",
+      "type": "关系不好",
+      "chapterIndex": 216
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "田不易",
+      "type": "师叔侄",
+      "chapterIndex": 216
+    },
+    {
+      "character1": "田不易",
+      "character2": "掌门",
+      "type": "师兄弟",
+      "chapterIndex": 216
+    },
+    {
+      "character1": "凶灵（黑虎）",
+      "character2": "玲珑巫女",
+      "type": "追随者",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "凶灵（黑虎）",
+      "character2": "南疆七英雄",
+      "type": "成员",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "凶灵（黑虎）",
+      "type": "有过冲突",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "同行者",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "黑虎",
+      "character2": "黑木",
+      "type": "亲兄弟",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "黑虎",
+      "character2": "玲珑巫女",
+      "type": "追随者",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "黑木",
+      "character2": "玲珑巫女",
+      "type": "追随者",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "瓶儿",
+      "character2": "鬼厉",
+      "type": "猜疑",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "黑虎",
+      "character2": "鬼厉",
+      "type": "感谢",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "黑虎",
+      "character2": "玲珑巫女",
+      "type": "追随",
+      "chapterIndex": 217
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "苏茹",
+      "type": "后辈与师叔",
+      "chapterIndex": 218
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "曹师弟",
+      "type": "师兄与师弟",
+      "chapterIndex": 218
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "徐师弟",
+      "type": "师兄与师弟",
+      "chapterIndex": 218
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "苏茹",
+      "type": "师叔侄",
+      "chapterIndex": 218
+    },
+    {
+      "character1": "水月大师",
+      "character2": "萧逸才",
+      "type": "师叔与师侄",
+      "chapterIndex": 219
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "道玄",
+      "type": "师徒",
+      "chapterIndex": 219
+    },
+    {
+      "character1": "林惊羽",
+      "character2": "龙首峰",
+      "type": "弟子所属",
+      "chapterIndex": 219
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "掌门师兄",
+      "type": "弟子与恩师",
+      "chapterIndex": 219
+    },
+    {
+      "character1": "萧逸才",
+      "character2": "阳长老",
+      "type": "师侄与师叔",
+      "chapterIndex": 219
+    },
+    {
+      "character1": "掌门师兄",
+      "character2": "田不易",
+      "type": "同门（师兄弟？）",
+      "chapterIndex": 219
+    },
+    {
+      "character1": "兽神",
+      "character2": "女子",
+      "type": "相识多年，具体关系未明确",
+      "chapterIndex": 220
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "同行者",
+      "chapterIndex": 221
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 222
+    },
+    {
+      "character1": "周一仙",
+      "character2": "野狗道人",
+      "type": "同行",
+      "chapterIndex": 222
+    },
+    {
+      "character1": "小环",
+      "character2": "野狗道人",
+      "type": "同行",
+      "chapterIndex": 222
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "金瓶儿",
+      "type": "旁观未出手",
+      "chapterIndex": 223
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "爷孙",
+      "chapterIndex": 224
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 224
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "小环",
+      "type": "保护",
+      "chapterIndex": 224
+    },
+    {
+      "character1": "野狗道人",
+      "character2": "周一仙",
+      "type": "保护",
+      "chapterIndex": 224
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "相熟",
+      "chapterIndex": 225
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "暧昧",
+      "chapterIndex": 225
+    },
+    {
+      "character1": "文敏",
+      "character2": "陆雪琪",
+      "type": "同门师妹",
+      "chapterIndex": 225
+    },
+    {
+      "character1": "水月大师",
+      "character2": "苏茹",
+      "type": "师姐妹（水月大师称呼苏茹为师妹）",
+      "chapterIndex": 225
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "保护",
+      "chapterIndex": 226
+    },
+    {
+      "character1": "周一仙",
+      "character2": "野狗道人",
+      "type": "保护",
+      "chapterIndex": 226
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 226
+    },
+    {
+      "character1": "小环",
+      "character2": "鬼先生",
+      "type": "受赠者",
+      "chapterIndex": 226
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "站在小环身后",
+      "chapterIndex": 226
+    },
+    {
+      "character1": "李洵",
+      "character2": "陆雪琪",
+      "type": "单恋（李洵暗恋陆雪琪）",
+      "chapterIndex": 227
+    },
+    {
+      "character1": "黑木",
+      "character2": "凶灵黑虎",
+      "type": "兄弟关系（黑木称凶灵黑虎为大哥）",
+      "chapterIndex": 227
+    },
+    {
+      "character1": "曾书书",
+      "character2": "陆雪琪",
+      "type": "师兄妹",
+      "chapterIndex": 227
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "兽神",
+      "type": "对话关系",
+      "chapterIndex": 228
+    },
+    {
+      "character1": "兽神",
+      "character2": "饕餮",
+      "type": "主人与宠物（饕餮趴在他身边）",
+      "chapterIndex": 228
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "三眼灵猴小灰",
+      "type": "主人与宠物（小灰跑回他脚下）",
+      "chapterIndex": 228
+    },
+    {
+      "character1": "李洵",
+      "character2": "金瓶儿",
+      "type": "敌对",
+      "chapterIndex": 229
+    },
+    {
+      "character1": "李洵",
+      "character2": "燕虹",
+      "type": "师兄妹",
+      "chapterIndex": 229
+    },
+    {
+      "character1": "李洵",
+      "character2": "众焚香谷弟子",
+      "type": "同门",
+      "chapterIndex": 229
+    },
+    {
+      "character1": "李洵",
+      "character2": "云易岚",
+      "type": "师徒",
+      "chapterIndex": 229
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "小白",
+      "type": "斗法对手",
+      "chapterIndex": 229
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "鬼王宗",
+      "type": "关系非浅，但不到卖命地步",
+      "chapterIndex": 229
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "猴子小灰",
+      "type": "同伴",
+      "chapterIndex": 230
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "赤焰魔兽",
+      "type": "敌对",
+      "chapterIndex": 230
+    },
+    {
+      "character1": "猴子小灰",
+      "character2": "赤焰魔兽",
+      "type": "敌对",
+      "chapterIndex": 230
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "同伴",
+      "chapterIndex": 230
+    },
+    {
+      "character1": "小灰",
+      "character2": "赤焰魔兽",
+      "type": "敌对",
+      "chapterIndex": 230
+    },
+    {
+      "character1": "黑木",
+      "character2": "凶灵黑虎",
+      "type": "兄弟",
+      "chapterIndex": 231
+    },
+    {
+      "character1": "黑虎",
+      "character2": "黑木",
+      "type": "前世兄弟",
+      "chapterIndex": 231
+    },
+    {
+      "character1": "黑虎",
+      "character2": "娘娘",
+      "type": "侍奉",
+      "chapterIndex": 231
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "同伴",
+      "chapterIndex": 232
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "鬼厉",
+      "type": "保护",
+      "chapterIndex": 232
+    },
+    {
+      "character1": "云易岚",
+      "character2": "上官策",
+      "type": "师兄弟",
+      "chapterIndex": 233
+    },
+    {
+      "character1": "云易岚",
+      "character2": "上官策",
+      "type": "师兄弟（云易岚为师兄，上官策为师弟）",
+      "chapterIndex": 233
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "田不易",
+      "type": "未知关系",
+      "chapterIndex": 234
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "文敏",
+      "type": "师姐师妹",
+      "chapterIndex": 234
+    },
+    {
+      "character1": "文敏",
+      "character2": "陆雪琪",
+      "type": "师姐妹",
+      "chapterIndex": 234
+    },
+    {
+      "character1": "鬼王",
+      "character2": "饕餮",
+      "type": "对峙",
+      "chapterIndex": 235
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼王",
+      "type": "跟随/观察",
+      "chapterIndex": 235
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "同伴",
+      "chapterIndex": 235
+    },
+    {
+      "character1": "鬼王",
+      "character2": "饕餮",
+      "type": "敌对",
+      "chapterIndex": 235
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼王",
+      "type": "憎恨",
+      "chapterIndex": 236
+    },
+    {
+      "character1": "幽姬",
+      "character2": "鬼厉",
+      "type": "斥责",
+      "chapterIndex": 236
+    },
+    {
+      "character1": "幽姬",
+      "character2": "碧瑶",
+      "type": "类似母亲角色，碧瑶称其为‘幽姨’",
+      "chapterIndex": 236
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "鬼厉对碧瑶心存愧疚",
+      "chapterIndex": 236
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼王",
+      "type": "敌对，曾动手相搏，鬼厉答应将来让着鬼王几分",
+      "chapterIndex": 236
+    },
+    {
+      "character1": "鬼王",
+      "character2": "碧瑶",
+      "type": "父女",
+      "chapterIndex": 236
+    },
+    {
+      "character1": "幽姬",
+      "character2": "碧瑶",
+      "type": "提及",
+      "chapterIndex": 236
+    },
+    {
+      "character1": "水月大师",
+      "character2": "万剑一",
+      "type": "师兄妹",
+      "chapterIndex": 237
+    },
+    {
+      "character1": "水月大师",
+      "character2": "道玄师兄",
+      "type": "同门",
+      "chapterIndex": 237
+    },
+    {
+      "character1": "水月大师",
+      "character2": "苏茹",
+      "type": "师姐妹",
+      "chapterIndex": 237
+    },
+    {
+      "character1": "水月大师",
+      "character2": "真雩大师",
+      "type": "师祖与晚辈",
+      "chapterIndex": 237
+    },
+    {
+      "character1": "苏茹",
+      "character2": "田不易",
+      "type": "恋人/幽会对象",
+      "chapterIndex": 237
+    },
+    {
+      "character1": "道玄师兄",
+      "character2": "水月大师",
+      "type": "师兄妹",
+      "chapterIndex": 237
+    },
+    {
+      "character1": "万剑一师兄",
+      "character2": "水月大师",
+      "type": "师兄妹",
+      "chapterIndex": 237
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼王",
+      "type": "斗法对手",
+      "chapterIndex": 238
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "猴子小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 238
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼先生",
+      "type": "共同知晓血池存在",
+      "chapterIndex": 238
+    },
+    {
+      "character1": "水月大师",
+      "character2": "陆雪琪",
+      "type": "师徒",
+      "chapterIndex": 239
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "老樵夫",
+      "type": "陌生人（热心帮助）",
+      "chapterIndex": 239
+    },
+    {
+      "character1": "巫妖",
+      "character2": "上官策",
+      "type": "追捕",
+      "chapterIndex": 240
+    },
+    {
+      "character1": "上官策",
+      "character2": "巫妖",
+      "type": "追捕",
+      "chapterIndex": 240
+    },
+    {
+      "character1": "云易岚",
+      "character2": "巫妖",
+      "type": "敌对（欲擒拿）",
+      "chapterIndex": 240
+    },
+    {
+      "character1": "巫妖",
+      "character2": "上官策",
+      "type": "追逃关系",
+      "chapterIndex": 240
+    },
+    {
+      "character1": "上官策",
+      "character2": "小白",
+      "type": "敌对",
+      "chapterIndex": 241
+    },
+    {
+      "character1": "小白",
+      "character2": "上官策",
+      "type": "宿敌",
+      "chapterIndex": 241
+    },
+    {
+      "character1": "小白",
+      "character2": "上官策",
+      "type": "敌对",
+      "chapterIndex": 241
+    },
+    {
+      "character1": "小白",
+      "character2": "鬼厉",
+      "type": "帮助",
+      "chapterIndex": 241
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖父-孙女",
+      "chapterIndex": 242
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小白",
+      "type": "对话互动（周一仙求小白救人，小白未直接回应）",
+      "chapterIndex": 242
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "得救后迎上前问长问短",
+      "chapterIndex": 242
+    },
+    {
+      "character1": "周一仙",
+      "character2": "野狗道人",
+      "type": "得救后迎上前问长问短，后有争执",
+      "chapterIndex": 242
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙",
+      "chapterIndex": 242
+    },
+    {
+      "character1": "巫妖",
+      "character2": "神秘胖子",
+      "type": "同在棺材中",
+      "chapterIndex": 243
+    },
+    {
+      "character1": "小环",
+      "character2": "周一仙",
+      "type": "祖孙",
+      "chapterIndex": 244
+    },
+    {
+      "character1": "田不易",
+      "character2": "小环",
+      "type": "被救者-施救者",
+      "chapterIndex": 244
+    },
+    {
+      "character1": "田不易",
+      "character2": "周一仙",
+      "type": "被救者-施救者",
+      "chapterIndex": 244
+    },
+    {
+      "character1": "田不易",
+      "character2": "道长",
+      "type": "被救者-施救者",
+      "chapterIndex": 244
+    },
+    {
+      "character1": "环",
+      "character2": "周一仙",
+      "type": "祖孙",
+      "chapterIndex": 244
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "田不易",
+      "type": "师叔侄",
+      "chapterIndex": 244
+    },
+    {
+      "character1": "田不易",
+      "character2": "陆雪琪",
+      "type": "师叔侄",
+      "chapterIndex": 245
+    },
+    {
+      "character1": "田不易",
+      "character2": "老七",
+      "type": "师徒",
+      "chapterIndex": 245
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "老七",
+      "type": "关心（田不易提及'你们的事'）",
+      "chapterIndex": 245
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "祖孙关系",
+      "chapterIndex": 245
+    },
+    {
+      "character1": "田不易",
+      "character2": "鬼厉",
+      "type": "师徒",
+      "chapterIndex": 246
+    },
+    {
+      "character1": "田不易",
+      "character2": "神秘人",
+      "type": "师兄师弟（田不易称其为‘道玄师兄’）",
+      "chapterIndex": 246
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "道玄真人",
+      "type": "鬼厉曾视道玄真人为神明",
+      "chapterIndex": 246
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "田不易",
+      "type": "道玄真人评价田不易为青云门下人才胆识第一",
+      "chapterIndex": 246
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "万剑一",
+      "type": "被道玄真人提及为‘那个死鬼万剑一’",
+      "chapterIndex": 246
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "田不易",
+      "type": "师徒（养育长大成人）",
+      "chapterIndex": 248
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "田不易",
+      "type": "养父子/师徒",
+      "chapterIndex": 248
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "陆雪琪",
+      "type": "未知（陆雪琪救鬼厉）",
+      "chapterIndex": 248
+    },
+    {
+      "character1": "苏茹",
+      "character2": "田不易",
+      "type": "夫妻",
+      "chapterIndex": 249
+    },
+    {
+      "character1": "小灰",
+      "character2": "大黄",
+      "type": "好友，从小玩到大",
+      "chapterIndex": 250
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 251
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "大师兄",
+      "type": "师兄弟",
+      "chapterIndex": 251
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "鬼厉",
+      "type": "师兄弟",
+      "chapterIndex": 251
+    },
+    {
+      "character1": "田不易",
+      "character2": "鬼厉",
+      "type": "师徒",
+      "chapterIndex": 251
+    },
+    {
+      "character1": "田不易",
+      "character2": "宋大仁",
+      "type": "师徒",
+      "chapterIndex": 251
+    },
+    {
+      "character1": "文敏",
+      "character2": "水月大师",
+      "type": "师徒",
+      "chapterIndex": 252
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "水月大师",
+      "type": "师徒",
+      "chapterIndex": 252
+    },
+    {
+      "character1": "文敏",
+      "character2": "陆雪琪",
+      "type": "同门师姐妹",
+      "chapterIndex": 252
+    },
+    {
+      "character1": "水月大师",
+      "character2": "陆雪琪",
+      "type": "师徒，如师如母",
+      "chapterIndex": 252
+    },
+    {
+      "character1": "水月大师",
+      "character2": "陆雪琪",
+      "type": "师徒",
+      "chapterIndex": 252
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "田师叔",
+      "type": "仇杀（陆雪琪出手杀田师叔）",
+      "chapterIndex": 252
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "那个人",
+      "type": "情感关联（陆雪琪‘本就不抱希望’）",
+      "chapterIndex": 252
+    },
+    {
+      "character1": "苏如",
+      "character2": "田不易",
+      "type": "夫妻",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "小竹峰",
+      "type": "门下弟子",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "陆雪琪",
+      "type": "同门（师兄妹）",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "宋大仁等人",
+      "type": "同门（师兄妹）",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "师娘",
+      "character2": "田灵儿",
+      "type": "母女",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "小师弟",
+      "character2": "宋大仁",
+      "type": "同门（师兄弟）",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "师娘",
+      "character2": "宋大仁等人",
+      "type": "师娘与弟子",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "水月师叔",
+      "type": "师徒",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "田师叔",
+      "type": "祭奠对象",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "吴大义",
+      "type": "同门",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "何大智",
+      "type": "同门",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "师娘",
+      "type": "师徒",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "老七",
+      "type": "师兄弟",
+      "chapterIndex": 253
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "苏茹",
+      "type": "师（鬼厉称苏茹为师娘）",
+      "chapterIndex": 254
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "苏茹",
+      "type": "师徒（师娘）",
+      "chapterIndex": 254
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "夫妻",
+      "chapterIndex": 254
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "田不易",
+      "type": "父女",
+      "chapterIndex": 254
+    },
+    {
+      "character1": "田灵儿",
+      "character2": "苏茹",
+      "type": "母女",
+      "chapterIndex": 254
+    },
+    {
+      "character1": "水月大师",
+      "character2": "苏茹",
+      "type": "至交好友",
+      "chapterIndex": 254
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "师父",
+      "type": "师徒",
+      "chapterIndex": 254
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "师娘",
+      "type": "师徒",
+      "chapterIndex": 254
+    },
+    {
+      "character1": "师父",
+      "character2": "师娘",
+      "type": "夫妻（隐含）",
+      "chapterIndex": 254
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "周一仙",
+      "type": "鬼厉称呼周一仙为前辈",
+      "chapterIndex": 255
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "周一仙",
+      "type": "对话",
+      "chapterIndex": 255
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "周一仙",
+      "type": "交谈",
+      "chapterIndex": 255
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "周一仙",
+      "type": "恭敬行礼，称谓前辈",
+      "chapterIndex": 256
+    },
+    {
+      "character1": "田不易",
+      "character2": "苏茹",
+      "type": "伉俪情深",
+      "chapterIndex": 256
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 256
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "苏茹",
+      "type": "师徒",
+      "chapterIndex": 256
+    },
+    {
+      "character1": "水月大师",
+      "character2": "文敏",
+      "type": "师徒",
+      "chapterIndex": 256
+    },
+    {
+      "character1": "周一仙",
+      "character2": "音",
+      "type": "对话",
+      "chapterIndex": 256
+    },
+    {
+      "character1": "文敏",
+      "character2": "陆雪琪",
+      "type": "师姐妹",
+      "chapterIndex": 257
+    },
+    {
+      "character1": "水月大师",
+      "character2": "陆雪琪",
+      "type": "师徒",
+      "chapterIndex": 257
+    },
+    {
+      "character1": "水月大师",
+      "character2": "苏茹",
+      "type": "师姐妹，自幼一起长大，情同姐妹",
+      "chapterIndex": 257
+    },
+    {
+      "character1": "苏茹",
+      "character2": "田不易",
+      "type": "夫妻",
+      "chapterIndex": 257
+    },
+    {
+      "character1": "水月大师",
+      "character2": "田不易",
+      "type": "过去看不顺眼，但认为其是佳偶",
+      "chapterIndex": 257
+    },
+    {
+      "character1": "小白",
+      "character2": "鬼厉",
+      "type": "曾一同求见大巫师",
+      "chapterIndex": 258
+    },
+    {
+      "character1": "小白",
+      "character2": "大巫师",
+      "type": "曾来求见",
+      "chapterIndex": 258
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "周一仙",
+      "type": "前辈后辈（鬼厉称周一仙为前辈）",
+      "chapterIndex": 259
+    },
+    {
+      "character1": "周一仙",
+      "character2": "小环",
+      "type": "长辈与晚辈（但无明确关系）",
+      "chapterIndex": 259
+    },
+    {
+      "character1": "周一仙",
+      "character2": "鬼厉",
+      "type": "长辈语重心长教导后辈",
+      "chapterIndex": 259
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼先生",
+      "type": "宗主与下属",
+      "chapterIndex": 260
+    },
+    {
+      "character1": "鬼先生",
+      "character2": "鬼王",
+      "type": "宗主与属下",
+      "chapterIndex": 260
+    },
+    {
+      "character1": "苍松道人",
+      "character2": "金瓶儿",
+      "type": "同行",
+      "chapterIndex": 260
+    },
+    {
+      "character1": "法相",
+      "character2": "普泓大师",
+      "type": "师徒",
+      "chapterIndex": 261
+    },
+    {
+      "character1": "法相",
+      "character2": "普泓大师",
+      "type": "师徒关系",
+      "chapterIndex": 261
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普泓大师",
+      "type": "访客与高僧的尊敬关系",
+      "chapterIndex": 261
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普泓大师",
+      "type": "请教者与被请教者",
+      "chapterIndex": 261
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "朋友",
+      "chapterIndex": 261
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普泓大师",
+      "type": "请求与施舍",
+      "chapterIndex": 262
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "普德大师",
+      "type": "请求与施舍",
+      "chapterIndex": 262
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "关心",
+      "chapterIndex": 262
+    },
+    {
+      "character1": "普智",
+      "character2": "鬼厉",
+      "type": "师徒",
+      "chapterIndex": 262
+    },
+    {
+      "character1": "普智",
+      "character2": "普德",
+      "type": "同门师兄弟",
+      "chapterIndex": 262
+    },
+    {
+      "character1": "普智",
+      "character2": "普泓",
+      "type": "同门师兄弟",
+      "chapterIndex": 262
+    },
+    {
+      "character1": "小白",
+      "character2": "鬼王",
+      "type": "认识",
+      "chapterIndex": 264
+    },
+    {
+      "character1": "小白",
+      "character2": "小痴",
+      "type": "姐妹",
+      "chapterIndex": 264
+    },
+    {
+      "character1": "鬼王",
+      "character2": "小白",
+      "type": "冲突",
+      "chapterIndex": 264
+    },
+    {
+      "character1": "鬼王",
+      "character2": "千年九尾天狐",
+      "type": "会面",
+      "chapterIndex": 265
+    },
+    {
+      "character1": "鬼先生",
+      "character2": "鬼王",
+      "type": "知晓行踪",
+      "chapterIndex": 265
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 266
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "不离不弃的陪伴",
+      "chapterIndex": 266
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "最重要的人，鬼厉想救她",
+      "chapterIndex": 267
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "守护",
+      "chapterIndex": 268
+    },
+    {
+      "character1": "鬼王",
+      "character2": "鬼先生",
+      "type": "对话",
+      "chapterIndex": 268
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼先生",
+      "type": "共同参悟星盘",
+      "chapterIndex": 269
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 269
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼先生",
+      "type": "交谈讨论的同伴",
+      "chapterIndex": 269
+    },
+    {
+      "character1": "小灰",
+      "character2": "黄鸟",
+      "type": "有冤仇",
+      "chapterIndex": 270
+    },
+    {
+      "character1": "小灰",
+      "character2": "饕餮",
+      "type": "交情非浅",
+      "chapterIndex": 270
+    },
+    {
+      "character1": "小灰",
+      "character2": "饕餮",
+      "type": "相识",
+      "chapterIndex": 270
+    },
+    {
+      "character1": "四灵血针",
+      "character2": "四大灵兽",
+      "type": "禁锢",
+      "chapterIndex": 270
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼先生",
+      "type": "同行者",
+      "chapterIndex": 271
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "鬼先生",
+      "type": "同行",
+      "chapterIndex": 271
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "碧瑶",
+      "type": "担忧",
+      "chapterIndex": 272
+    },
+    {
+      "character1": "小白",
+      "character2": "鬼厉",
+      "type": "救助关系",
+      "chapterIndex": 273
+    },
+    {
+      "character1": "小白",
+      "character2": "小灰",
+      "type": "友好关系",
+      "chapterIndex": 273
+    },
+    {
+      "character1": "鬼厉",
+      "character2": "小灰",
+      "type": "主人与宠物",
+      "chapterIndex": 273
+    },
+    {
+      "character1": "小白",
+      "character2": "小灰",
+      "type": "照料与被照料",
+      "chapterIndex": 273
+    },
+    {
+      "character1": "小白",
+      "character2": "鬼厉",
+      "type": "相识，小白称鬼厉‘倒霉的家伙’",
+      "chapterIndex": 273
+    },
+    {
+      "character1": "小白",
+      "character2": "小灰",
+      "type": "照料",
+      "chapterIndex": 273
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "苍松道人",
+      "type": "金瓶儿对苍松道人有几分看不起",
+      "chapterIndex": 274
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "苍松道人",
+      "type": "对话者",
+      "chapterIndex": 274
+    },
+    {
+      "character1": "鬼王宗主",
+      "character2": "金瓶儿",
+      "type": "上级与下属",
+      "chapterIndex": 274
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "张小凡",
+      "type": "相爱",
+      "chapterIndex": 275
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "张小凡",
+      "type": "情感（陆雪琪想和他在一起）",
+      "chapterIndex": 275
+    },
+    {
+      "character1": "小灰",
+      "character2": "张小凡",
+      "type": "宠物或伙伴（小灰找野果回给张小凡）",
+      "chapterIndex": 275
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "小灰",
+      "type": "相识（陆雪琪对小灰微笑）",
+      "chapterIndex": 275
+    },
+    {
+      "character1": "张小凡",
+      "character2": "田不易",
+      "type": "师徒",
+      "chapterIndex": 276
+    },
+    {
+      "character1": "张小凡",
+      "character2": "苏茹",
+      "type": "师娘",
+      "chapterIndex": 276
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "田不易",
+      "type": "凶手",
+      "chapterIndex": 276
+    },
+    {
+      "character1": "道玄真人",
+      "character2": "苏茹",
+      "type": "间接害死",
+      "chapterIndex": 276
+    },
+    {
+      "character1": "张小凡",
+      "character2": "道玄真人",
+      "type": "对峙",
+      "chapterIndex": 276
+    },
+    {
+      "character1": "白衣青年",
+      "character2": "道玄师兄",
+      "type": "师兄弟",
+      "chapterIndex": 277
+    },
+    {
+      "character1": "天音寺",
+      "character2": "青云门",
+      "type": "交好",
+      "chapterIndex": 277
+    },
+    {
+      "character1": "鬼王",
+      "character2": "道玄",
+      "type": "敌对",
+      "chapterIndex": 278
+    },
+    {
+      "character1": "鬼王",
+      "character2": "魔教",
+      "type": "领导",
+      "chapterIndex": 278
+    },
+    {
+      "character1": "金瓶儿",
+      "character2": "小环",
+      "type": "亲密友人",
+      "chapterIndex": 279
+    },
+    {
+      "character1": "小环",
+      "character2": "周一仙",
+      "type": "爷孙",
+      "chapterIndex": 279
+    },
+    {
+      "character1": "文敏",
+      "character2": "宋大仁",
+      "type": "夫妻",
+      "chapterIndex": 279
+    },
+    {
+      "character1": "陆雪琪",
+      "character2": "文敏",
+      "type": "师姐妹",
+      "chapterIndex": 279
+    },
+    {
+      "character1": "宋大仁",
+      "character2": "文敏",
+      "type": "夫妻",
+      "chapterIndex": 279
+    }
+  ]
+}

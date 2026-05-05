@@ -187,9 +187,8 @@ function readNovel() {
   const fileSizeMB = statsFile.size / (1024 * 1024);
   console.log(`📄 文件大小: ${fileSizeMB.toFixed(2)} MB (${statsFile.size} 字节)`);
 
-  if (statsFile.size < 10 * 1024 * 1024) {
-    console.error(`❌ 文件过小 (${fileSizeMB.toFixed(2)} MB)，请确保小说文件完整。`);
-    console.error(`   当前文件可能不完整，无法提取全部章节。`);
+  if (statsFile.size < 100 * 1024) {
+    console.error(`❌ 文件过小 (${fileSizeMB.toFixed(2)} MB)，可能不是有效的小说文件。`);
     process.exit(1);
   }
 
@@ -766,6 +765,48 @@ async function processAllChapters(chapters, retryFailedOnly = false) {
   let allEvents = progress.allEvents || [];
   let allRelationships = progress.allRelationships || [];
   let allWorldbook = progress.allWorldbook || {};
+
+  // 修复：如果进度文件数据为空，从独立文件恢复，避免用空数据覆盖已有数据
+  const progressHasData = Object.keys(allCharacters).length > 0 || allEvents.length > 0;
+  if (!progressHasData) {
+    console.log('⚠️ 进度文件数据为空，尝试从独立文件恢复...');
+    
+    if (fs.existsSync(EVENTS_FILE)) {
+      try {
+        const eventsData = JSON.parse(fs.readFileSync(EVENTS_FILE, 'utf8'));
+        if (eventsData.events && eventsData.events.length > 0) {
+          allEvents = eventsData.events;
+          console.log(`  ✓ 从 events.json 恢复 ${allEvents.length} 个事件`);
+        }
+      } catch (e) {
+        console.warn('  ⚠️ 读取 events.json 失败:', e.message);
+      }
+    }
+    
+    if (fs.existsSync(RELATIONSHIPS_FILE)) {
+      try {
+        const relData = JSON.parse(fs.readFileSync(RELATIONSHIPS_FILE, 'utf8'));
+        if (relData.relationships && relData.relationships.length > 0) {
+          allRelationships = relData.relationships;
+          console.log(`  ✓ 从 relationships.json 恢复 ${allRelationships.length} 条关系`);
+        }
+      } catch (e) {
+        console.warn('  ⚠️ 读取 relationships.json 失败:', e.message);
+      }
+    }
+    
+    if (fs.existsSync(CHARACTER_CACHE_FILE)) {
+      try {
+        const cacheData = JSON.parse(fs.readFileSync(CHARACTER_CACHE_FILE, 'utf8'));
+        if (Object.keys(cacheData).length > 0) {
+          allCharacters = cacheData;
+          console.log(`  ✓ 从 character_attributes_cache.json 恢复 ${Object.keys(allCharacters).length} 个角色`);
+        }
+      } catch (e) {
+        console.warn('  ⚠️ 读取 character_attributes_cache.json 失败:', e.message);
+      }
+    }
+  }
   const failedIndices = progress.failedIndices || [];
 
   // 确定需要处理的章节
@@ -1415,7 +1456,7 @@ async function main() {
 
   // 7. 生成输出文件
   console.log('\n生成故事框架...');
-  if (!existingData.storyFramework || retryFailedOnly) {
+  if (!existingData.storyFramework || (retryFailedOnly && extractedData.events?.length > 0)) {
     fs.writeFileSync(STORY_FRAMEWORK_FILE, JSON.stringify(generateStoryFramework(chapters, extractedData), null, 2));
     console.log('✓ 故事框架已生成');
   } else {
@@ -1423,7 +1464,7 @@ async function main() {
   }
   
   console.log('生成时间轴...');
-  if (!existingData.timeline || retryFailedOnly) {
+  if (!existingData.timeline || (retryFailedOnly && extractedData.events?.length > 0)) {
     fs.writeFileSync(TIMELINE_FILE, JSON.stringify(generateTimeline(extractedData), null, 2));
     console.log('✓ 时间轴已生成');
   } else {
@@ -1431,7 +1472,7 @@ async function main() {
   }
   
   console.log('生成原著锚点...');
-  if (!existingData.canonAnchors || retryFailedOnly) {
+  if (!existingData.canonAnchors || (retryFailedOnly && extractedData.events?.length > 0)) {
     const canonAnchorsData = await generateCanonAnchorsWithAI(extractedData);
     fs.writeFileSync(CANON_ANCHORS_FILE, JSON.stringify(canonAnchorsData, null, 2));
     console.log('✓ 原著锚点已生成');
@@ -1440,7 +1481,7 @@ async function main() {
   }
   
   console.log('生成角色属性缓存...');
-  if (!existingData.characters || retryFailedOnly) {
+  if (!existingData.characters || (retryFailedOnly && extractedData.characters?.length > 0)) {
     fs.writeFileSync(CHARACTER_CACHE_FILE, JSON.stringify(generateCharacterCache(extractedData), null, 2));
     console.log('✓ 角色属性缓存已生成');
   } else {
@@ -1448,7 +1489,7 @@ async function main() {
   }
   
   console.log('生成世界书...');
-  if (!existingData.worldbook || retryFailedOnly) {
+  if (!existingData.worldbook || (retryFailedOnly && Object.keys(extractedData.worldbook || {}).length > 0)) {
     fs.writeFileSync(WORLDBOOK_FILE, JSON.stringify(generateWorldbook(extractedData.worldbook || {}), null, 2));
     console.log('✓ 世界书已生成');
   } else {

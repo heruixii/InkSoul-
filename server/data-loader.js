@@ -123,7 +123,7 @@ async function loadAllData(options = {}) {
   
   // 优先从进度文件加载（包含所有数据）
   const progress = await loadJSON(paths.progressFile, options);
-  if (progress && progress.allCharacters) {
+  if (progress && progress.allCharacters && Object.keys(progress.allCharacters).length > 0) {
     console.log('✓ 从进度文件加载角色数据');
     data.characters = progress.allCharacters;
     data.events = progress.allEvents || [];
@@ -217,7 +217,7 @@ function loadAllDataSync() {
   
   // 优先从进度文件加载
   const progress = loadJSONSync(paths.progressFile);
-  if (progress && progress.allCharacters) {
+  if (progress && progress.allCharacters && Object.keys(progress.allCharacters).length > 0) {
     console.log('✓ 从进度文件加载角色数据');
     data.characters = progress.allCharacters;
     data.events = progress.allEvents || [];

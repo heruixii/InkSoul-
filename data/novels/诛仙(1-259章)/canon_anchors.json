@@ -1,0 +1,8141 @@
+{
+  "version": "2.0",
+  "generatedAt": "2026-05-05T04:59:12.369Z",
+  "anchors": [
+    {
+      "id": "anchor_1",
+      "event": "青云子寿三百六十七岁，临终前叮嘱十个弟子不可放弃青云山，称其为人间罕有灵地。",
+      "chapter": 1,
+      "characters": [
+        "青云子",
+        "十个弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_2",
+      "event": "距今一千三百年前，青云门第十一代传人中出了青叶道人，被无方子收为关门弟子",
+      "chapter": 1,
+      "characters": [
+        "青叶道人",
+        "无方子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_3",
+      "event": "老僧观察两个小孩，多看了林惊羽几眼，心道‘好资质，只是性子怎么却如此偏激？’",
+      "chapter": 2,
+      "characters": [
+        "老僧",
+        "林惊羽",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_4",
+      "event": "西边村子起了一股黑气，翻涌不止，黑气盘旋而起向村外草庙方向而来，其中夹带小孩林惊羽。老僧拔地而起插入黑气，救出林惊羽，但袈裟被撕去一块。黑气在草庙上空盘旋，老僧与黑气中的人对话对峙。",
+      "chapter": 2,
+      "characters": [
+        "老僧",
+        "林惊羽",
+        "黑气中的人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_5",
+      "event": "普智步履蹒跚，肋下夹着张小凡和林惊羽，走到一块稍微干净之地，将两个小孩轻轻放下，然后坐下。",
+      "chapter": 3,
+      "characters": [
+        "普智",
+        "张小凡",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_6",
+      "event": "普智强运真元以大梵般若和翡翠念珠挡下邪人的神剑御雷真诀，反挫重创邪人",
+      "chapter": 3,
+      "characters": [
+        "普智",
+        "邪人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_7",
+      "event": "张小凡和林惊羽回到草庙村村口，看见村子中间空地上，草庙村四十余户人家二百多人躺在空地之上，身体僵硬，成了尸体，血流成河，苍蝇乱飞",
+      "chapter": 4,
+      "characters": [
+        "张小凡",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_8",
+      "event": "王二叔被张小凡大声一喊后全身一抖，连滚带爬窜到一边，双手抱头缩成一团，哀号‘鬼’",
+      "chapter": 5,
+      "characters": [
+        "王二叔",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_9",
+      "event": "道玄真人细细看了二人一眼，微叹一声说‘可怜的孩子，你们起来罢’",
+      "chapter": 5,
+      "characters": [
+        "道玄真人",
+        "林惊羽",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_10",
+      "event": "青云门千年来未曾有过、闻所未闻之事，发生在青云门脚下，青云门举派震动",
+      "chapter": 5,
+      "characters": [
+        "张小凡",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_11",
+      "event": "宋大仁带张小凡往外走，介绍大竹峰人丁单薄，总人数不过十人，屋子宽敞",
+      "chapter": 6,
+      "characters": [
+        "宋大仁",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_12",
+      "event": "张小凡跟随宋大仁去厨房，得知大竹峰一脉从青叶祖师座下四弟子郑通开始，传到现在田不易共六代，人丁不盛",
+      "chapter": 6,
+      "characters": [
+        "张小凡",
+        "宋大仁"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_13",
+      "event": "宋大仁依次介绍弟子名字，张小凡记错杜必书名字，宋大仁纠正并解释改名原因",
+      "chapter": 6,
+      "characters": [
+        "宋大仁",
+        "张小凡",
+        "杜必书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_14",
+      "event": "宋大仁带张小凡来到大竹峰主殿守静堂，大竹峰一脉上下人等集中在此，堂前坐着田不易和苏茹，苏茹身旁站着一个小女孩，其他五名男弟子一字排开站在下首。",
+      "chapter": 6,
+      "characters": [
+        "张小凡",
+        "宋大仁",
+        "田不易",
+        "苏茹",
+        "小女孩"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_15",
+      "event": "师父师娘为张小凡的六师兄改名杜必书，张小凡念出‘赌必输’的谐音而发笑，师娘此举有警惕之意。",
+      "chapter": 6,
+      "characters": [
+        "杜必书",
+        "苏茹",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_16",
+      "event": "众弟子聚集到用膳厅，杜必书端饭菜上桌，多为素菜，少有荤腥，众弟子依次落座，张小凡恭陪末座",
+      "chapter": 7,
+      "characters": [
+        "宋大仁",
+        "杜必书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_17",
+      "event": "杜必书询问张小凡名字，张小凡回答，杜必书自我介绍，让张小凡品尝手艺",
+      "chapter": 7,
+      "characters": [
+        "杜必书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_18",
+      "event": "杜必书与张小凡打赌，猜田不易一家三口谁先进入大厅门口，张小凡猜是田不易师父先进来",
+      "chapter": 7,
+      "characters": [
+        "杜必书",
+        "张小凡",
+        "吕大信",
+        "何大智",
+        "吴大义",
+        "宋大仁"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_19",
+      "event": "田不易问宋大仁是否将门规戒条告诉张小凡，宋大仁回答已告知并计划明天传授基础修炼道法",
+      "chapter": 7,
+      "characters": [
+        "田不易",
+        "宋大仁",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_20",
+      "event": "田灵儿告诉张小凡本脉弟子入门头三年都要上山砍黑节竹，今年是她最后一年。",
+      "chapter": 8,
+      "characters": [
+        "田灵儿",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_21",
+      "event": "清晨，张小凡随田灵儿走向大竹峰后山砍竹子，路程比想象中远，张小凡疲惫，田灵儿停下让他歇息",
+      "chapter": 8,
+      "characters": [
+        "张小凡",
+        "田灵儿",
+        "大黄狗"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_22",
+      "event": "张小凡问为何砍竹是功课，田灵儿解释修真体魄重要，并介绍神剑御雷真诀，张小凡听到后脸色大变。",
+      "chapter": 8,
+      "characters": [
+        "田灵儿",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_23",
+      "event": "宋大仁向张小凡讲述太极玄清道的修习过程、境界划分、法宝修炼等知识",
+      "chapter": 9,
+      "characters": [
+        "宋大仁",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_24",
+      "event": "宋大仁将太极玄清道玉清境第一层法门传授给张小凡，并嘱咐修行注意事项。",
+      "chapter": 9,
+      "characters": [
+        "宋大仁",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_25",
+      "event": "三月之后，田不易前来探察张小凡修道情况，一问一试发现张小凡修炼太极玄清道三个月连全身孔窍也不能控制自如，引灵气入体勉强，田不易怒气转为失望，拂袖而起。",
+      "chapter": 10,
+      "characters": [
+        "张小凡",
+        "田不易",
+        "宋大仁",
+        "田灵儿",
+        "众弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_26",
+      "event": "张小凡每日清晨与田灵儿上山砍竹，半年后砍断第一根黑节竹，身子练得壮实。",
+      "chapter": 10,
+      "characters": [
+        "张小凡",
+        "田灵儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_27",
+      "event": "灰猴砸松果攻击张小凡，张小凡躲闪后仍被击中后脑勺，随后摇竹子和砍竹子试图报复",
+      "chapter": 11,
+      "characters": [
+        "张小凡",
+        "灰猴"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_28",
+      "event": "普智与神���黑衣人战斗，被重创近油尽灯枯，黑衣人负伤遁逃。普智服下三日必死丸后，将噬血珠交予张小凡，叮嘱不可示人并丢下深谷。",
+      "chapter": 12,
+      "characters": [
+        "普智",
+        "神秘黑衣人",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_29",
+      "event": "失去普智的压制和翡翠念珠的清净之气，噬血珠的凶灵之气逐步侵蚀禁制，天音寺降魔大法禁制震慑三年后力不从心，即将被破。",
+      "chapter": 12,
+      "characters": [
+        "张小凡",
+        "普智"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_30",
+      "event": "从幽谷回来后半个月，张小凡结束三年砍竹生涯，最后一天只砍断一根黑节竹。",
+      "chapter": 13,
+      "characters": [
+        "张小凡",
+        "宋大仁",
+        "田灵儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_31",
+      "event": "杜必书脸红犹豫后说想看看能否让东西动起来，并称好像动了一下，众人哗然。",
+      "chapter": 13,
+      "characters": [
+        "杜必书",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_32",
+      "event": "杜必书在房里修行时发现念力之下桌上水杯动了一下，怀疑突破第三层，后被师父田不易确认已达到玉清境第四层",
+      "chapter": 13,
+      "characters": [
+        "杜必书",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_33",
+      "event": "田不易告知杜必书按青云门旧例，修行到太极玄清道第四层的弟子要下山游历，寻找良材灵物修炼法宝，并让他准备几日就下山",
+      "chapter": 13,
+      "characters": [
+        "田不易",
+        "杜必书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_34",
+      "event": "齐昊和林惊羽奉命前来向田不易和苏茹通报两年后七脉会武大试的变动",
+      "chapter": 14,
+      "characters": [
+        "齐昊",
+        "林惊羽",
+        "田不易",
+        "苏茹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_35",
+      "event": "苍松真人与掌门真人商量后，将各脉出四人改为各脉出九人，长门再多出一人，共六十四人",
+      "chapter": 14,
+      "characters": [
+        "苍松",
+        "齐昊"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_36",
+      "event": "抽签对决，共行六轮，决出胜者。田不易与苏茹面色难看，但最终同意。",
+      "chapter": 14,
+      "characters": [
+        "田不易",
+        "苏茹",
+        "齐昊"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_37",
+      "event": "林惊羽对张小凡说「小凡，刚才是我的不对，说是试一下各自修行，但出手没有分寸，对不起了」",
+      "chapter": 15,
+      "characters": [
+        "林惊羽",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_38",
+      "event": "张小凡眼见林惊羽惹恼师父，跑出来跪在田不易面前，说一切都是自己不好，想看林惊羽修行才动手。",
+      "chapter": 15,
+      "characters": [
+        "张小凡",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_39",
+      "event": "田不易心中无名火起，怒斥张小凡闭嘴没用的东西，袖袍一挥将张小凡打飞撞墙，张小凡吐血。",
+      "chapter": 15,
+      "characters": [
+        "田不易",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_40",
+      "event": "田灵儿大叫爹，冲上去扶起张小凡；林惊羽也冲过去，看到张小凡胸口血迹，返身对田不易大声说矮胖子你做什么。",
+      "chapter": 15,
+      "characters": [
+        "田灵儿",
+        "林惊羽",
+        "张小凡",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_41",
+      "event": "田不易被林惊羽骂矮胖子后气得七窍生烟，袖子一挥，消失在众人眼前。",
+      "chapter": 15,
+      "characters": [
+        "田不易",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_42",
+      "event": "田不易徒手抓住斩龙剑，无视剑气青光，随后用力向齐昊与林惊羽方向凌空一斩，绿芒狂盛形成大绿气柱激射而出",
+      "chapter": 15,
+      "characters": [
+        "田不易",
+        "齐昊",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_43",
+      "event": "田灵儿担忧张小凡伤势，悄悄跑过来探望，藏在门外直到苏茹走后才现身。",
+      "chapter": 16,
+      "characters": [
+        "田灵儿",
+        "苏茹",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_44",
+      "event": "小灰跑到大黄身后，拉住它的大尾巴向后拔着，并龇牙咧嘴向田灵儿做凶恶状。",
+      "chapter": 16,
+      "characters": [
+        "小灰",
+        "大黄",
+        "田灵儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_45",
+      "event": "张小凡受伤后，田灵儿前来探望，随后师娘也来看望并赐予两颗大黄丹，张小凡服用一颗后痊愈。",
+      "chapter": 16,
+      "characters": [
+        "张小凡",
+        "田灵儿",
+        "师娘"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_46",
+      "event": "张小凡按照宋大仁传授的法诀，用一年时间修习完成玉清境第二层炼气",
+      "chapter": 17,
+      "characters": [
+        "张小凡",
+        "宋大仁"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_47",
+      "event": "多年前在破碎的草庙边上，普智和尚看向张小凡时眼中带着异样的狂热。",
+      "chapter": 17,
+      "characters": [
+        "张小凡",
+        "普智和尚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_48",
+      "event": "青云门一甲子一次的大盛事，各脉选出佼佼者参加，现场有数百人围观",
+      "chapter": 18,
+      "characters": [
+        "宋大仁",
+        "吴大义",
+        "郑大礼",
+        "何大智",
+        "吕大信",
+        "杜必书",
+        "田灵儿",
+        "张小凡",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_49",
+      "event": "田灵儿、何大智、吴大义、郑大礼等人围绕宋大仁与文敏的关系进行调笑，宋大仁失言说出文敏名字。",
+      "chapter": 18,
+      "characters": [
+        "田灵儿",
+        "宋大仁",
+        "何大智",
+        "吴大义",
+        "郑大礼",
+        "杜必书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_50",
+      "event": "宋大仁转身见到小竹峰女弟子，文敏排前。何大智与文敏对话提及上一届七脉会武。",
+      "chapter": 19,
+      "characters": [
+        "宋大仁",
+        "何大智",
+        "文敏",
+        "吴大义",
+        "郑大礼",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_51",
+      "event": "道玄真人突然出现在水麒麟与弟子中间，诵无量天尊，双手结剑指法诀虚画太极",
+      "chapter": 20,
+      "characters": [
+        "道玄真人",
+        "水麒麟"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_52",
+      "event": "道玄返身，墨绿道袍无风自鼓飘下，空中的太极图受驱使烙在道袍上，道袍变大横在半空。水麒麟御使的水柱撞上放大的道袍，道袍后退数丈，中心鼓出。水柱中妖兽魂魄怒吼。巨风使青云年轻弟子立足不稳。",
+      "chapter": 20,
+      "characters": [
+        "道玄",
+        "水麒麟",
+        "青云年轻弟子",
+        "张小凡",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_53",
+      "event": "道玄身后出现十几条人影，凌空站在其背后，包括苍松真人、六脉首座、各脉长老。",
+      "chapter": 20,
+      "characters": [
+        "道玄",
+        "苍松真人",
+        "田不易",
+        "苏茹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_54",
+      "event": "所有目光落在大竹峰弟子张小凡身上，他抽中了写有‘一’的字条，众人反应各异，长老苍松道人宣布按签号报名，道玄真人准备说话。",
+      "chapter": 21,
+      "characters": [
+        "张小凡",
+        "田不易",
+        "苏茹",
+        "吕大信",
+        "杜必书",
+        "田灵儿",
+        "宋大仁",
+        "苍松道人",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_55",
+      "event": "道玄真人宣布明日开始七脉会武比试，弟子们行礼后退下，七脉首座与十几位长老留在殿中。",
+      "chapter": 21,
+      "characters": [
+        "道玄真人",
+        "齐昊",
+        "宋大仁",
+        "文敏",
+        "田灵儿",
+        "杜必书",
+        "青云门七脉首座",
+        "十几位长老"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_56",
+      "event": "猴子小灰因被陌生人盯着看而发怒，用猴爪抓向那位青云弟子，被其躲过。",
+      "chapter": 24,
+      "characters": [
+        "猴子小灰",
+        "年轻的青云弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_57",
+      "event": "张小凡喝止小灰，向师兄道歉，师兄认出小灰是‘三眼灵猴’，张小凡表示不知此物，并讲述与小灰相遇的经过。",
+      "chapter": 24,
+      "characters": [
+        "张小凡",
+        "年轻的青云弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_58",
+      "event": "曾书书自我介绍并询问张小凡姓名，张小凡报上姓名后因‘书书’与‘叔叔’谐音而笑；曾书书解释名字由来，张小凡觉得亲近；曾书书问张小凡是否知道猴子是三眼灵猴，张小凡说不知；猴子小灰拔张小凡头发，曾书书称赞猴子聪明。",
+      "chapter": 24,
+      "characters": [
+        "曾书书",
+        "张小凡",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_59",
+      "event": "曾书书引用《神魔志异·灵兽篇》，说明三眼灵猴幼年与普通猴无异，成年后开第三灵目，通晓五行仙术，能看千里之外",
+      "chapter": 24,
+      "characters": [
+        "曾书书",
+        "张小凡",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_60",
+      "event": "曾书书询问张小凡是否来通天峰参加七脉会武，张小凡肯定回答并反问，曾书书回答也是",
+      "chapter": 24,
+      "characters": [
+        "曾书书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_61",
+      "event": "小灰跳到大黄背上，拍了一下大黄的狗头，大黄瞪眼吠了两声后撒腿跑向厨房",
+      "chapter": 25,
+      "characters": [
+        "小灰",
+        "大黄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_62",
+      "event": "曾书书与张小凡交谈，曾书书想用稀奇动物换取张小凡的三眼灵猴，被张小凡拒绝。",
+      "chapter": 25,
+      "characters": [
+        "曾书书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_63",
+      "event": "曾书书把张小凡拉到偏僻处，四处张望后从怀中摸出一本蓝色封面古旧书（无名字），递给张小凡。张小凡翻开后看到春宫图画，面红耳赤，失声询问。曾书书赶紧抢回书并让他小声。",
+      "chapter": 25,
+      "characters": [
+        "曾书书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_64",
+      "event": "枯心上人以天琊神剑与黑心老人激斗三日三夜，最后重���黑心老人",
+      "chapter": 26,
+      "characters": [
+        "枯心上人",
+        "黑心老人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_65",
+      "event": "青云门七脉会武大试第二日，大竹峰五人晋级，张小凡对手为楚誉宏。杜必书提议打赌，其他弟子押张小凡输。",
+      "chapter": 26,
+      "characters": [
+        "张小凡",
+        "宋大仁",
+        "杜必书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_66",
+      "event": "楚誉宏被张小凡击败，白胡子老头宣布张小凡胜出，台下朝阳峰弟子大哗",
+      "chapter": 27,
+      "characters": [
+        "白胡子老头",
+        "楚誉宏",
+        "张小凡",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_67",
+      "event": "曾书书拉着张小凡撒腿就跑向远处中央，因想起陆雪琪在比试而懊悔。",
+      "chapter": 27,
+      "characters": [
+        "曾书书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_68",
+      "event": "曾书书告诉张小凡，明日其对手是风回峰的彭昌师兄，道行非楚誉宏可比，其仙剑法宝吴钩厉害。",
+      "chapter": 28,
+      "characters": [
+        "曾书书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_69",
+      "event": "张小凡走到田不易面前，田不易愤怒质问是谁伤他，张小凡说自己胜了后晕倒，田不易等人扶起并察看",
+      "chapter": 29,
+      "characters": [
+        "田不易",
+        "苏茹",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_70",
+      "event": "田不易抱起张小凡并对苏茹低语，后与道玄真人对话，带张小凡走出人群",
+      "chapter": 29,
+      "characters": [
+        "田不易",
+        "张小凡",
+        "苏茹",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_71",
+      "event": "风回峰一脉弟子大都脸色铁青，三五成群向远处汇集，那里是曾书书比试的地方",
+      "chapter": 29,
+      "characters": [
+        "风回峰一脉的弟子",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_72",
+      "event": "田不易冷冷一笑，手一挥带着大竹峰众人向今日比试的西边擂台走去。",
+      "chapter": 30,
+      "characters": [
+        "田不易",
+        "张小凡",
+        "何大智",
+        "其他大竹峰众人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_73",
+      "event": "田灵儿跑到云海擂台边蹲下哭泣，张小凡上前安慰，田灵儿扑到他怀里哭",
+      "chapter": 31,
+      "characters": [
+        "田灵儿",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_74",
+      "event": "田灵儿靠在张小凡肩膀哭泣，张小凡感到空虚。田灵儿离开后道歉，张小凡询问原因，田灵儿诉说自己被爹娘责骂。",
+      "chapter": 31,
+      "characters": [
+        "田灵儿",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_75",
+      "event": "田灵儿因为与齐昊的恋情被父母反对而向张小凡倾诉，情绪激动，说出齐昊与她两情相悦，而父母得知后反对她。",
+      "chapter": 31,
+      "characters": [
+        "田灵儿",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_76",
+      "event": "天际巨响，一道无比巨大的电柱从天而降，落到天琊之上，形成巨大的光柱冲向张小凡。烧火棍腾空而起挡在主人身前，下一刻张小凡被光芒吞没。许久之后，乌云散去，光芒消失，张小凡握着烧火棍。",
+      "chapter": 32,
+      "characters": [
+        "女子",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_77",
+      "event": "大黄躺在地上眯眼摇尾，小灰趴在床上看张小凡并对主人受伤显得幸灾乐祸，张小凡对小灰说话并赶它走",
+      "chapter": 33,
+      "characters": [
+        "大黄",
+        "小灰",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_78",
+      "event": "张小凡听到脚步声以为六师兄，却发现是田不易，吃惊后下床要行大礼，田不易挥手说罢了，随后张小凡立于一旁，田不易让他坐下",
+      "chapter": 33,
+      "characters": [
+        "张小凡",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_79",
+      "event": "田不易追问张小凡黑棒的来历，张小凡说出是数年前与师姐田灵儿在后山幽谷无意得到，但隐瞒了普智和噬血珠的相关信息。",
+      "chapter": 33,
+      "characters": [
+        "张小凡",
+        "田不易",
+        "田灵儿",
+        "苏茹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_80",
+      "event": "道玄真人召集齐昊、曾书书、陆雪琪、张小凡四人，告知空桑山万蝠古窟一事，派遣他们下山查探魔教。",
+      "chapter": 34,
+      "characters": [
+        "道玄真人",
+        "齐昊",
+        "曾书书",
+        "陆雪琪",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_81",
+      "event": "道玄真人从怀中拿出一面小镜（形状古拙，青铜镂边，上刻龙，下刻虎）交给齐昊。",
+      "chapter": 34,
+      "characters": [
+        "道玄真人",
+        "齐昊"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_82",
+      "event": "张小凡看陆雪琪，陆雪琪有感应也看过来，张小凡觉得她目光如霜，移开视线",
+      "chapter": 34,
+      "characters": [
+        "张小凡",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_83",
+      "event": "说笑时张小凡表情僵硬，盯着曾书书身后；曾书书转头见一个男人歪歪扭扭走上来",
+      "chapter": 34,
+      "characters": [
+        "张小凡",
+        "曾书书",
+        "男人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_84",
+      "event": "绿衣少女折下一朵花，张小凡质问为何折花，少女回答，张小凡反驳，少女笑称露珠是花的眼泪。",
+      "chapter": 36,
+      "characters": [
+        "张小凡",
+        "绿衣少女"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_85",
+      "event": "少女笑张小凡，张小凡发火转身，少女叫住他问名字，张小凡反问，少女再次笑",
+      "chapter": 36,
+      "characters": [
+        "张小凡",
+        "绿衣少女"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_86",
+      "event": "绿衣少女问张小凡是否好看，张小凡回答好看；绿衣少女表示从小到大都被人说漂亮；张小凡想反驳但因想起师姐而意兴阑珊，转身离开；绿衣少女叫住他问名字，张小凡回答后快步离开",
+      "chapter": 36,
+      "characters": [
+        "绿衣少女",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_87",
+      "event": "四人从堆积如山的蝙蝠尸体中走出，身上沾满污秽暗色的鲜血和恶臭，狼狈不堪，然后拍打衣衫整理。",
+      "chapter": 37,
+      "characters": [
+        "张小凡",
+        "齐昊",
+        "曾书书",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_88",
+      "event": "天音寺法相、法善与焚香谷李洵、燕虹与青云门四人相遇，法相询问对方是否为青云门下，齐昊回应并互报姓名来历",
+      "chapter": 37,
+      "characters": [
+        "法相",
+        "法善",
+        "李洵",
+        "燕虹",
+        "齐昊",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_89",
+      "event": "齐昊介绍完毕，一个焚香谷弟子冷冷地道：‘齐师兄，你们青云门一向自居正道领袖，道家真法独步天下，怎么今日一见，却个个是如此狼狈？’",
+      "chapter": 37,
+      "characters": [
+        "齐昊",
+        "未命名焚香谷弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_90",
+      "event": "曾书书向法善微笑问是否与吸血蝙蝠遇上，法善点头说退走了。曾书书叹气说他们也遇到蝙蝠，杀不胜杀，逐回洞窟，落得一身污秽。",
+      "chapter": 37,
+      "characters": [
+        "曾书书",
+        "法善"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_91",
+      "event": "法相低声念佛号后，祭起轮回珠，金光如潮水般向四面八方涌去，照亮整个空间，在场每个人的脸映作淡淡金色，心情舒畅，紧张平伏。",
+      "chapter": 38,
+      "characters": [
+        "法相",
+        "张小凡",
+        "李洵"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_92",
+      "event": "六合镜照亮洞穴，前方出现两条岔路，道路中间竖立一块六人之高的石碑，刻有'天道在我'四字。",
+      "chapter": 38,
+      "characters": [
+        "李洵",
+        "法相",
+        "燕虹",
+        "齐昊"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_93",
+      "event": "燕虹指出石碑下四分处有一道断痕，众人查看发现细微裂痕，裂缝处石头纹理呈暗红色。",
+      "chapter": 38,
+      "characters": [
+        "燕虹",
+        "法相",
+        "齐昊"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_94",
+      "event": "张小凡背着尸体，野狗道人询问如何杀死吸血鬼，张小凡记起后甩下尸体，野狗道人和高个男子查看尸体，惊疑",
+      "chapter": 39,
+      "characters": [
+        "张小凡",
+        "野狗道人",
+        "高个男子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_95",
+      "event": "野狗道人和高个见张小凡受伤，想趁机发动攻击，手中飞剑獠牙亮起光芒",
+      "chapter": 39,
+      "characters": [
+        "野狗道人",
+        "高个"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_96",
+      "event": "张小凡眼看齐昊、曾书书陷入困境，冲了上去，用烧火棍迎击大汉射来的红芒。",
+      "chapter": 40,
+      "characters": [
+        "张小凡",
+        "齐昊",
+        "曾书书",
+        "大汉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_97",
+      "event": "红芒与烧火棍在半空相撞，红芒消散，烧火棍抖动但安然无事，张小凡大喜，魔教诸人吃惊。",
+      "chapter": 40,
+      "characters": [
+        "张小凡",
+        "大汉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_98",
+      "event": "大汉将大部分注意力放在张小凡身上，连射红芒，同时隔一段时间向齐昊、曾书书放红芒阻挡他们前进。",
+      "chapter": 40,
+      "characters": [
+        "大汉",
+        "张小凡",
+        "齐昊",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_99",
+      "event": "张小凡在众人注视下一步一步逼向大汉，大汉使用赤魔眼攻击烧火棍但无效",
+      "chapter": 40,
+      "characters": [
+        "张小凡",
+        "大汉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_100",
+      "event": "陆雪琪在黑暗中出现，拔剑（天琊出鞘），蓝光照亮黑暗。她挥剑驱散冲来的阴灵，但阴灵数量众多，她因受伤不支跌坐在张小凡身旁，转头看了他一眼。",
+      "chapter": 42,
+      "characters": [
+        "陆雪琪",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_101",
+      "event": "陆雪琪将天琊神剑插入身前地下，产生光圈将她和张小凡包围，抵御阴灵攻击。但光圈光芒微弱，瑞气无力，在阴灵撞击下不断缩小，陆雪琪脸色愈发苍白，天琊神剑光彩黯淡。此时张小凡昏迷中含糊说了一句，陆雪琪转头。",
+      "chapter": 42,
+      "characters": [
+        "陆雪琪",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_102",
+      "event": "张小凡脚下地面裂开大洞，掉入其中；陆雪琪随后拔剑跳入洞中，与洞内生物战斗，最终搀扶张小凡跃出地面。",
+      "chapter": 42,
+      "characters": [
+        "陆雪琪",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_103",
+      "event": "少女在死灵渊下看到张小凡和陆雪琪，吃惊，认出张小凡，微笑，走过来",
+      "chapter": 43,
+      "characters": [
+        "少女",
+        "张小凡",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_104",
+      "event": "少女质问张小凡来黑暗肮脏之地的目的，提到滴血洞中的东西；张小凡反问少女身份，少女自称魔教妖女；陆雪琪醒来并提醒小心",
+      "chapter": 43,
+      "characters": [
+        "张小凡",
+        "少女",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_105",
+      "event": "绿衣少女释放四分五裂的朵攻击张小凡，张小凡用烧火棍挡住大部分花瓣；随后绿衣少女转向陆雪琪，张小凡祭出烧火棍阻止，双方兵器相撞僵持片刻后各自飞回",
+      "chapter": 43,
+      "characters": [
+        "张小凡",
+        "绿衣少女"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_106",
+      "event": "张小凡与陆雪琪被巨浪卷入，被沛不可当的巨力生生击散，相隔数丈之远",
+      "chapter": 44,
+      "characters": [
+        "张小凡",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_107",
+      "event": "黑水玄蛇蛇尾横扫，张小凡被击飞，碧瑶等人被巨浪吞没，碧瑶用白色光轮抵挡但被击碎，蒙面女子用黄色圆状物阻挡，碧瑶被余力扫飞，蒙面女子被淹没",
+      "chapter": 44,
+      "characters": [
+        "张小凡",
+        "碧瑶",
+        "黑水玄蛇",
+        "蒙面女子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_108",
+      "event": "张小凡发现洞顶有红色石头，碧瑶仔细查看后认出这是滴血洞所在地。碧瑶说黑心老鬼把滴血洞建在这里，八百年来找了数十次也找不到。",
+      "chapter": 45,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_109",
+      "event": "碧瑶磕头后与张小凡走进一个宽敞的山洞，洞内钟乳石千奇百怪、颜色异彩纷呈，洞口立有巨碑，上刻“天地不仁，以万物为刍狗”。张小凡注视片刻后头晕后退，随后二人绕过石碑继续深入，碧瑶忽然失声轻呼。",
+      "chapter": 46,
+      "characters": [
+        "碧瑶",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_110",
+      "event": "张小凡说出路后碧瑶不配合，张小凡哼了一声走向左边隧道，走了几步碧瑶没跟上来",
+      "chapter": 46,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_111",
+      "event": "碧瑶和张小凡往墙上看号称魔教经典的‘天书’总纲文字。碧瑶觉得枯涩难懂，张小凡则深受震撼。",
+      "chapter": 47,
+      "characters": [
+        "碧瑶",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_112",
+      "event": "碧瑶发现四句话最后一字'苦'的'口'字深陷，用合欢铃插入并转动，导致石壁塌落，露出刻有文字的里层",
+      "chapter": 49,
+      "characters": [
+        "碧瑶",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_113",
+      "event": "碧瑶在石壁上发现金铃夫人留下的痴情咒，并说出咒文内容：九幽阴灵，诸天神魔，以我血躯，奉为牺牲。三生七世，永堕阎罗，只为情故，虽死不悔。",
+      "chapter": 49,
+      "characters": [
+        "碧瑶",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_114",
+      "event": "张小凡的干粮已丢失，仅有碧瑶所带干粮，二人节省食用后仍很快吃完。约二日后，食袋已空。",
+      "chapter": 50,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_115",
+      "event": "碧瑶坐在平台上（旁边有枯骨），叹气，显愁容。张小凡病情好转后听到叹气，转头看向碧瑶。",
+      "chapter": 50,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_116",
+      "event": "张小凡和碧瑶被困在山洞死地之中，离死不远。碧瑶将大部分干粮给张小凡。",
+      "chapter": 50,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_117",
+      "event": "碧瑶在干粮吃完、只能再活约七日的情况下，提议如果她不行了，让张小凡先杀了她，并食其肉以多活一段时间。张小凡震惊并认为魔教中人妖孽。",
+      "chapter": 50,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_118",
+      "event": "张小凡坐在平台上，一脚悬空一脚踩地，半斜坐着，碧瑶紧紧抓着他，他忍着疼痛和酸疼，后来打盹。",
+      "chapter": 51,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_119",
+      "event": "张小凡发现碧瑶跪在幽明圣母和天煞明王神像前哭泣，张小凡试图安慰她，但碧瑶哭得更厉害。",
+      "chapter": 51,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_120",
+      "event": "张小凡醒来时天已经黑下来，睡了五、六个时辰，碧瑶依然未醒，一双手抓着他的衣裳；张小凡听到林间山风吹动树木的声响，想到青云山大竹峰的竹林。",
+      "chapter": 52,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_121",
+      "event": "天亮后，张小凡走到小溪边用溪水洗脸，查看左手拆下绷带发现断骨好得差不多，解下烧火棍插在腰间活动左手；碧瑶从身后走来，问他手是否好了，张小凡回答没什么大碍，碧瑶提醒他不要乱动。",
+      "chapter": 52,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_122",
+      "event": "张小凡感谢碧瑶救命之恩，因正邪不两立提出分手，表示下次再见为敌非友；碧瑶邀请张小凡加入圣教被拒。",
+      "chapter": 52,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_123",
+      "event": "万人往告诉张小凡黑色短棒名为摄魂，是大凶煞之物，非魔教之物，数千年来从未出世。张小凡震惊，烧火棍滑落地上。",
+      "chapter": 53,
+      "characters": [
+        "张小凡",
+        "万人往"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_124",
+      "event": "张小凡发现自己的烧火棍是摄魂，想起死灵渊下阴灵惧怕此棍，感到震惊和痛苦。",
+      "chapter": 53,
+      "characters": [
+        "张小凡",
+        "万人往"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_125",
+      "event": "张小凡清理脚下污物后转身，看到小女孩对老头说些什么，然后走过去问老先生关于大凶之相。",
+      "chapter": 54,
+      "characters": [
+        "张小凡",
+        "老先生",
+        "小女孩"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_126",
+      "event": "老先生观察张小凡面相，说其天庭饱满两颊微瘦非富贵中人，眉浓而密直而挺右眉末端有一小痣主父母尊亲，推断父母不在人世；张小凡承认。",
+      "chapter": 54,
+      "characters": [
+        "张小凡",
+        "老先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_127",
+      "event": "老先生请张小凡伸手，小女孩突然抓住张小凡的手看几眼后跑开，留下冰；老先生递手帕。",
+      "chapter": 54,
+      "characters": [
+        "张小凡",
+        "老先生",
+        "小女孩"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_128",
+      "event": "老头为张小凡看手相，指出命理线有大缺和玉新格，张小凡相信并想起普智",
+      "chapter": 54,
+      "characters": [
+        "张小凡",
+        "老头"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_129",
+      "event": "老人为张小凡看相，收取四两纹银，预言其印堂发黑前途艰险，劝其转回。",
+      "chapter": 54,
+      "characters": [
+        "张小凡",
+        "老人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_130",
+      "event": "张小凡在野外遇到碧瑶，碧瑶先是惊喜后翻脸冷笑，众人以为是小情人斗气",
+      "chapter": 55,
+      "characters": [
+        "张小凡",
+        "碧瑶",
+        "石头"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_131",
+      "event": "碧瑶喝住准备溜走的周一仙和小环，骂周一仙是'老骗子'，指责他满口胡话、招摇撞骗，并要求他站住",
+      "chapter": 55,
+      "characters": [
+        "碧瑶",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_132",
+      "event": "周一仙向张小凡解释，称自己在小镇上为碧瑶算卦，碧瑶听不得真话，一不遂心愿就对他祖孙二人动武",
+      "chapter": 55,
+      "characters": [
+        "周一仙",
+        "张小凡",
+        "碧瑶",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_133",
+      "event": "碧瑶凝法诀，使'伤心'白光大盛、寒气大盛，然后'伤心'离手而出，发出耀眼白光，满天飞，香气盈鼻，呼啸攻向周一仙；周一仙见状大惊，拉着小环逃跑并掏出一张黄色小纸",
+      "chapter": 55,
+      "characters": [
+        "碧瑶",
+        "周一仙",
+        "小环",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_134",
+      "event": "周一仙顺利从胖妇人身上赚钱后，贪心不足，又试图骗碧瑶，但碧瑶聪慧，追问之下周一仙满口胡诌露了破绽，碧瑶大怒，要教训周一仙和小环。",
+      "chapter": 55,
+      "characters": [
+        "碧瑶",
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_135",
+      "event": "张小凡因心中不忍，挺身而出挡在周一仙祖孙身前，劝说碧瑶不要为难他们，碧瑶停下法宝，询问缘由。",
+      "chapter": 55,
+      "characters": [
+        "张小凡",
+        "碧瑶",
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_136",
+      "event": "周一仙和小环躲在树林黑暗处，观看场中众人，周一仙想趁众人开路去妖怪洞穴寻宝。",
+      "chapter": 56,
+      "characters": [
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_137",
+      "event": "张小凡欺身而进，使用烧火棍泛黑光冲向前柔媚女子，运用太极玄清道，双方斗法不休。",
+      "chapter": 56,
+      "characters": [
+        "张小凡",
+        "柔媚女子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_138",
+      "event": "石头怒喝金光逼退妖魅，张小凡腾空冲向三尾妖狐，二人近身，女子问井中所见，张小凡面色金光闪过平静，随后横飞数丈落地",
+      "chapter": 56,
+      "characters": [
+        "石头",
+        "张小凡",
+        "三尾妖狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_139",
+      "event": "石头与张小凡与三尾妖狐激烈斗法，三尾妖狐发现二人道行不低，张小凡心志坚定，狐媚之术难以奏效",
+      "chapter": 56,
+      "characters": [
+        "石头",
+        "张小凡",
+        "三尾妖狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_140",
+      "event": "三尾妖狐在重围中拿出玄火鉴，石头冲上前攻击。玄火鉴中心火焰图腾转为鲜艳赤红，化作熊熊烈火，以三尾妖狐为中心，周围三丈内草木瞬间焦黄，但未着火。",
+      "chapter": 57,
+      "characters": [
+        "石头",
+        "三尾妖狐",
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_141",
+      "event": "石头使用破煞法杖攻击三尾妖狐，三尾妖狐用玄火鉴释放火龙，火龙咬住破煞法杖，石头感到烫手",
+      "chapter": 57,
+      "characters": [
+        "石头",
+        "三尾妖狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_142",
+      "event": "碧瑶用伤心法宝攻击三尾妖狐，三尾妖狐闪躲，碧瑶未追赶，凌空站到张小凡旁边",
+      "chapter": 57,
+      "characters": [
+        "碧瑶",
+        "三尾妖狐",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_143",
+      "event": "三人下降过程中，周围黑暗中有无数眼睛注视，未主动攻击；下降四、五丈后，石壁上的洞变大，怪兽更凶恶；一头山猪身熊首的怪兽攻击张小凡，被其驾御法宝躲开。",
+      "chapter": 58,
+      "characters": [
+        "张小凡",
+        "碧瑶",
+        "石头"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_144",
+      "event": "张小凡向碧瑶看去，二人目光相接，张小凡心里一跳，连忙转过了头去。",
+      "chapter": 58,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_145",
+      "event": "周一仙和小环在火把照明下走到断崖边上，周一仙想下深渊但无法，小环反对并讽刺，两人对话后准备离开。",
+      "chapter": 58,
+      "characters": [
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_146",
+      "event": "李洵与燕虹降落到之前争斗的地方，发现这里是妖狐巢穴下的洞天，有许多怪兽，且气温异常更热。李洵表现出傲然，燕虹提醒小心凶险。",
+      "chapter": 59,
+      "characters": [
+        "李洵",
+        "燕虹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_147",
+      "event": "六尾魔狐被上官师叔以九寒凝冰刺刺入狐脉，坏其道行根基，三百年来痛苦不堪，需至阳至热之处缓解",
+      "chapter": 59,
+      "characters": [
+        "上官师叔",
+        "六尾魔狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_148",
+      "event": "三尾妖狐于巨大石洞洞口出现，看到张小凡被缚，犹豫后举起玄火鉴照向洞内并发出低啸",
+      "chapter": 59,
+      "characters": [
+        "张小凡",
+        "三尾妖狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_149",
+      "event": "张小凡在炽热的地下洞穴中走向前方白色六尾狐狸，停在离它三步远的地方，仔细观察。",
+      "chapter": 61,
+      "characters": [
+        "张小凡",
+        "六尾狐狸"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_150",
+      "event": "张小凡与六尾白狐在岩浆湖旁对峙，六尾白狐趴在青石窝中，没有动手",
+      "chapter": 61,
+      "characters": [
+        "张小凡",
+        "六尾白狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_151",
+      "event": "玄火鉴光芒平息，巨大火龙消失。六尾白狐请求张小凡将它与怀里的女子一起扔到下面的岩浆中，张小凡同意，并捧着两只狐狸走向平台尽头。",
+      "chapter": 62,
+      "characters": [
+        "张小凡",
+        "六尾白狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_152",
+      "event": "李洵和燕虹先后与张小凡交谈，燕虹提及陆师姐，李洵建议张小凡回去报平安",
+      "chapter": 62,
+      "characters": [
+        "李洵",
+        "燕虹",
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_153",
+      "event": "离开小池镇后，三人落地商议下一步去向，张小凡决定去东海流波山见师父，石头表示同去，碧瑶冷笑嘲讽石头。",
+      "chapter": 63,
+      "characters": [
+        "张小凡",
+        "碧瑶",
+        "石头"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_154",
+      "event": "张小凡与石头分头向人打听，得知昌合城是离东海最近的一个较有规模的大城，离此往东再行四百里便是东海之滨。",
+      "chapter": 63,
+      "characters": [
+        "张小凡",
+        "石头"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_155",
+      "event": "碧瑶站在雨中，对张小凡说其实若是我们两个人就死在滴血洞中，逃不出来，那也不错。",
+      "chapter": 64,
+      "characters": [
+        "碧瑶",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_156",
+      "event": "碧瑶撑着青绿油伞走上回廊，望着张小凡走去的方向沉默；幽姨从暗处走出，叫碧瑶去流波山见爹，碧瑶点头",
+      "chapter": 64,
+      "characters": [
+        "碧瑶",
+        "幽姨"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_157",
+      "event": "石头拉着张小凡去叫碧瑶，敲门无人应答，掌柜说碧瑶昨晚深夜结账走了",
+      "chapter": 64,
+      "characters": [
+        "张小凡",
+        "石头"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_158",
+      "event": "张小凡在海边清醒，发现远处沙滩上有四人，一边是绿衣女子，另一边是青云门下的师姐、宋大仁和杜必书，他激动地叫师姐，师姐回应。",
+      "chapter": 66,
+      "characters": [
+        "张小凡",
+        "绿衣女子",
+        "师姐",
+        "宋大仁",
+        "杜必书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_159",
+      "event": "在暴风雨之夜，陆雪琪出现在张小凡面前，蹲下安慰他，并说会陪着他。",
+      "chapter": 68,
+      "characters": [
+        "张小凡",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_160",
+      "event": "风雨稍歇时，碧瑶从密林深处缓缓走出，撑着油布伞，笑盈盈地看着张小凡",
+      "chapter": 68,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_161",
+      "event": "田不易与张小凡在森林中对话，田不易询问关于私传太极玄清道法诀的事情",
+      "chapter": 69,
+      "characters": [
+        "田不易",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_162",
+      "event": "田不易带张小凡出去走了一圈，教诲后原谅了他，之后返回山腰山洞处。",
+      "chapter": 69,
+      "characters": [
+        "田不易",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_163",
+      "event": "大竹峰门下数人离开居住的石洞，御起法宝向流波山深处飞行，一路仔细搜索，希望能找到魔教徒众",
+      "chapter": 70,
+      "characters": [
+        "田灵儿",
+        "宋大仁",
+        "何大智",
+        "杜必书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_164",
+      "event": "碧瑶身边数人霍地站起，多半是鬼王宗的人；其余魔教中人最初惊讶后无人指责小周，反而向碧瑶处望去，有警惕之色并议论纷纷",
+      "chapter": 71,
+      "characters": [
+        "碧瑶",
+        "小周",
+        "鬼王宗众人",
+        "其他魔教众人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_165",
+      "event": "小周微微一笑，无惧色，自称无名小辈，仰慕圣教才加入，并指出鬼王宗将众人置於险地不顾",
+      "chapter": 71,
+      "characters": [
+        "小周",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_166",
+      "event": "小周朗声要求碧瑶解释夔牛之事，并提到若不找到夔牛，众人可能死在正道中人手里。",
+      "chapter": 71,
+      "characters": [
+        "小周",
+        "年老大",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_167",
+      "event": "小周受伤后勉力站起，让张小凡、田灵儿先走，自己准备拖延鬼王，但运气时吐血。鬼王夸奖小周的道行。",
+      "chapter": 72,
+      "characters": [
+        "小周",
+        "鬼王",
+        "张小凡",
+        "田灵儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_168",
+      "event": "鬼王称赞碧瑶带回天书，碧瑶担心张小凡对其师姐田灵儿的情意，鬼王安慰碧瑶，认为张小凡心中对她也有分量",
+      "chapter": 75,
+      "characters": [
+        "鬼王",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_169",
+      "event": "鬼王故意将碧瑶与张小凡的关系说得暧昧，让‘小周’回青云门传话，使青云门对张小凡起疑，以促使张小凡投靠圣教",
+      "chapter": 75,
+      "characters": [
+        "鬼王",
+        "碧瑶",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_170",
+      "event": "萧逸才突然出现在青云门中，告知魔教在流波山上寻找奇兽‘夔牛’，且鬼王也来到了此处",
+      "chapter": 75,
+      "characters": [
+        "萧逸才",
+        "苍松道人",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_171",
+      "event": "张师弟与陆雪琪陆师妹掉入死灵渊，萧逸才因被分配对付法相师兄而不及救援。",
+      "chapter": 75,
+      "characters": [
+        "张师弟",
+        "陆雪琪陆师妹",
+        "萧逸才"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_172",
+      "event": "萧逸才私下告诉田不易，张师弟与鬼王父女认识，希望田不易在事情闹大前私下处理。",
+      "chapter": 76,
+      "characters": [
+        "田不易",
+        "萧逸才",
+        "张师弟",
+        "鬼王",
+        "鬼王之女"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_173",
+      "event": "田不易独自在树林里，苏茹走来，询问心事，田不易讲述萧逸才关于张小凡的话。",
+      "chapter": 76,
+      "characters": [
+        "田不易",
+        "苏茹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_174",
+      "event": "田不易进入前四，因与苏茹在通天峰虹桥看星月一夜未睡，败给万师兄",
+      "chapter": 76,
+      "characters": [
+        "田不易",
+        "苏茹",
+        "万师兄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_175",
+      "event": "吸血老妖作为三大宗派之一的强援来到流波山，碰上了野狗道人等炼血堂一系人马。",
+      "chapter": 77,
+      "characters": [
+        "吸血老妖",
+        "野狗道人",
+        "年老大",
+        "刘镐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_176",
+      "event": "野狗道人上前给吸血老妖打招呼见礼，吸血老妖大怒，把野狗道人拎了起来。野狗道人求饶。",
+      "chapter": 77,
+      "characters": [
+        "吸血老妖",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_177",
+      "event": "吸血老妖对野狗道人说要去青云门那里找杀他徒弟的人，找不到就先吸干野狗的血。",
+      "chapter": 77,
+      "characters": [
+        "吸血老妖",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_178",
+      "event": "张小凡在流波山上数次看到野狗道人，但野狗道人当时在斗法或逃跑，未看见张小凡。",
+      "chapter": 77,
+      "characters": [
+        "张小凡",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_179",
+      "event": "吸血老妖发现姜老三尸首血肉干枯，怀疑是同类吸血妖法所致，认定凶手道行不低",
+      "chapter": 77,
+      "characters": [
+        "吸血老妖",
+        "姜老三"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_180",
+      "event": "吸血老妖与田不易对峙，田不易曾使出石破天惊的一剑撕碎乌云，吸血老妖召唤红色骷髅头环绕自身。",
+      "chapter": 78,
+      "characters": [
+        "吸血老妖",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_181",
+      "event": "张小凡悠悠醒来后感觉胸口烦闷，被师娘苏茹推拿推拿后气血通畅，精神好转。",
+      "chapter": 78,
+      "characters": [
+        "张小凡",
+        "苏茹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_182",
+      "event": "田不易傲立云端，将赤焰幻化火龙，与吸血老妖所化的巨大骷髅及其幽厉血光厮斗，满天黑云沸腾，火龙狂啸声动四野。",
+      "chapter": 78,
+      "characters": [
+        "田不易",
+        "吸血老妖"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_183",
+      "event": "森林中走出百余人，包括天音寺法相、法善，焚香谷李洵、燕虹，走在最前面的是苍松。",
+      "chapter": 78,
+      "characters": [
+        "法相",
+        "法善",
+        "李洵",
+        "燕虹",
+        "苍松"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_184",
+      "event": "道人冷笑质问，百毒子、吸血老妖怒而回应，正道众人愤慨，田灵儿打听万师伯，宋大仁未答，张小凡拉住田灵儿，碧瑶出现盯着张小凡，陆雪琪看张小凡",
+      "chapter": 79,
+      "characters": [
+        "道人",
+        "百毒子",
+        "吸血老妖",
+        "田灵儿",
+        "宋大仁",
+        "张小凡",
+        "鬼王",
+        "碧瑶",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_185",
+      "event": "深夜森林中，无数法宝发光，魔教徒众与正派人士激烈战斗，鲜血喷洒，树木颤抖",
+      "chapter": 80,
+      "characters": [
+        "陆雪琪",
+        "张小凡",
+        "宋大仁",
+        "杜必书",
+        "田灵儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_186",
+      "event": "形势变化，魔教高手缠住陆雪琪、法相、齐昊等人，魔教徒众聚集，局面倒向魔教",
+      "chapter": 80,
+      "characters": [
+        "陆雪琪",
+        "法相",
+        "齐昊"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_187",
+      "event": "野狗道人因被吸血老妖所伤迁怒于张小凡，祭起獠牙法宝向张小凡打去",
+      "chapter": 81,
+      "characters": [
+        "野狗道人",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_188",
+      "event": "年老大盛气凌人想说话，未出口便被野狗道人冲出的行为打断，心里恼火",
+      "chapter": 81,
+      "characters": [
+        "年老大",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_189",
+      "event": "宋大仁飞到何大智身边，发现他被邪煞之力侵入体内，不能动手但性命无忧",
+      "chapter": 81,
+      "characters": [
+        "宋大仁",
+        "何大智"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_190",
+      "event": "夜空中飘落漫天雨丝，大风从远海吹来，风挟雨势，众人落入风雨之中，海浪汹涌拍打沙滩，地面震动，雷声沉闷",
+      "chapter": 82,
+      "characters": [
+        "张小凡",
+        "田灵儿",
+        "宋大仁"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_191",
+      "event": "杜必书发现前头数十丈远的海滩上突然从黑暗中冒出数十个人影，皆是一身黑衣，分散开来在海滩上忙碌。众人看不清他们在做什么。",
+      "chapter": 82,
+      "characters": [
+        "杜必书",
+        "陆雪琪",
+        "田灵儿",
+        "宋大仁"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_192",
+      "event": "宋大仁表示情势不利，决定先离开这里，招呼众人向旁边拐去，走远处绕开海滩。",
+      "chapter": 82,
+      "characters": [
+        "宋大仁",
+        "杜必书",
+        "陆雪琪",
+        "田灵儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_193",
+      "event": "天地间风雨雷电大作，大海巨浪分开，一个硕大身影从深海跃出，落在流波山，引起震动。奇兽形状如牛，青苍色身子，头上无角，仅有一只粗壮独脚。黑衣人设下泛红光的倒插事物围成圈，青云门众人观察。",
+      "chapter": 82,
+      "characters": [
+        "张小凡",
+        "黑衣人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_194",
+      "event": "远方尖锐啸声，无数光芒亮起，正道众人与魔教大队人马到了此处，杀杀停停，苍松对百毒子，田不易对端木老祖，苏茹以一敌二挡住受伤的吸血老妖和林锋",
+      "chapter": 83,
+      "characters": [
+        "苍松道人",
+        "百毒子",
+        "田不易",
+        "端木老祖",
+        "苏茹",
+        "吸血老妖",
+        "林锋"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_195",
+      "event": "天音寺僧人、焚香谷门下、大力尊者师徒也来到，看到巨大光墙和困住的奇兽，百毒子和端木老祖跃开，舍了对手",
+      "chapter": 83,
+      "characters": [
+        "百毒子",
+        "端木老祖",
+        "苍松道人",
+        "田不易",
+        "奇兽夔牛"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_196",
+      "event": "张小凡用力一跃，飞近田灵儿身后，烧火棍青光大盛，扫下一片光墙，挡下黑衣人",
+      "chapter": 83,
+      "characters": [
+        "张小凡",
+        "黑衣魔教中人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_197",
+      "event": "张小凡梦见在村庄中玩耍，与惊羽等孩子嬉闹，后天地变暗，人群和村庄消失，他惊叫服了并惊醒，林惊羽在旁询问",
+      "chapter": 84,
+      "characters": [
+        "张小凡",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_198",
+      "event": "在客栈房间中，林惊羽问张小凡有没有话要说，张小凡说没有。林惊羽解释从流波山退回昌合城的过程，已过三天。张小凡打断林惊羽的追问。",
+      "chapter": 84,
+      "characters": [
+        "张小凡",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_199",
+      "event": "林惊羽对张小凡说‘什么原因，我都相信你，我一定会求师父为你说话的！’然后转身走了出去，门外有人低声交谈，脚步声远去。",
+      "chapter": 84,
+      "characters": [
+        "林惊羽",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_200",
+      "event": "张小凡快速下床拉开门，门外站着宋大仁和杜必书。杜必书询问，宋大仁劝张小凡回房养伤。一道阳光照来，张小凡眩晕摇晃，宋大仁想搀扶却缩回手。张小凡欲言又止。",
+      "chapter": 84,
+      "characters": [
+        "张小凡",
+        "宋大仁",
+        "杜必书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_201",
+      "event": "田不易、苍松道人、萧逸才商量后，张小凡暂时被田不易带回大竹峰，由苍松道人和萧逸才回去向掌门道玄真人详细禀报再做决定",
+      "chapter": 85,
+      "characters": [
+        "田不易",
+        "苍松道人",
+        "萧逸才",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_202",
+      "event": "大竹峰众人回到大竹峰，张小凡面无表情地下来，沉默站在一边，田不易直接走回守静堂",
+      "chapter": 85,
+      "characters": [
+        "张小凡",
+        "田不易",
+        "宋大仁",
+        "苏茹",
+        "田灵儿",
+        "吴大义"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_203",
+      "event": "苏茹叹息摇头，吩咐宋大仁后，转头看了看张小凡，随即转身走去，田灵儿跟着",
+      "chapter": 85,
+      "characters": [
+        "苏茹",
+        "田灵儿",
+        "宋大仁",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_204",
+      "event": "大师兄神色怪怪地对张小凡说既然回来了就回房休息，不要乱走。张小凡点头答应。",
+      "chapter": 85,
+      "characters": [
+        "大师兄",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_205",
+      "event": "张小凡独自走开后，身后传来低声交谈，吴大义等人正在追问宋大仁、杜必书。",
+      "chapter": 85,
+      "characters": [
+        "吴大义",
+        "宋大仁",
+        "杜必书",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_206",
+      "event": "大竹峰上响起两声欢快的吠叫，许久不见的猴子小灰骑在大狗大黄背上冲过来。张小凡激动，蹲下抚摸大黄，小灰跳到肩头缠着他不放。",
+      "chapter": 85,
+      "characters": [
+        "张小凡",
+        "小灰",
+        "大黄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_207",
+      "event": "在众人注视下，张小凡站起身来，向住处走去，小灰坐在肩头，大黄跟过去",
+      "chapter": 85,
+      "characters": [
+        "张小凡",
+        "小灰",
+        "大黄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_208",
+      "event": "碧瑶与幽姬在青云山麓远处遥望，碧瑶担心张小凡，幽姬安慰；幽姬告知宗主去见毒神，以及长生堂和合欢派门主即将赶来",
+      "chapter": 85,
+      "characters": [
+        "碧瑶",
+        "幽姬",
+        "鬼王宗宗主",
+        "毒神",
+        "长生堂门主",
+        "合欢派门主"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_209",
+      "event": "阳光明媚的下午，张小凡在房间怔怔出神，大黄和小灰休息，田不易推门而入",
+      "chapter": 86,
+      "characters": [
+        "张小凡",
+        "大黄",
+        "小灰",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_210",
+      "event": "小灰被人打扰好梦，恼怒地吱吱叫了两声，但知道惹不起田不易，没敢放肆，然后跳回张小凡床上继续睡。",
+      "chapter": 86,
+      "characters": [
+        "小灰",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_211",
+      "event": "田不易低下身子，摸了摸脚边的大黄的头，大黄低吠并用脑袋蹭他手心。",
+      "chapter": 86,
+      "characters": [
+        "田不易",
+        "大黄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_212",
+      "event": "凡与碧瑶在竹林交谈，凡拒绝背叛师门，碧瑶担忧凡的危险处境，凡决定听天由命，碧瑶离开时凡听到她的声音。",
+      "chapter": 87,
+      "characters": [
+        "凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_213",
+      "event": "碧瑶追问张小凡在小池镇外树林满月之夜从古井中看到了什么，张小凡答应下次见面告知",
+      "chapter": 87,
+      "characters": [
+        "张小凡",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_214",
+      "event": "田不易整束停当与苏茹走到守静堂前空地，众人等候，田不易令宋大仁带老七（张小凡）其他人不用去",
+      "chapter": 87,
+      "characters": [
+        "田不易",
+        "苏茹",
+        "宋大仁",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_215",
+      "event": "常箭带宋大仁、张小凡、田灵儿来到大殿，向道玄真人通报张小凡已到，周围人耸动目光移来",
+      "chapter": 88,
+      "characters": [
+        "常箭",
+        "宋大仁",
+        "张小凡",
+        "田灵儿",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_216",
+      "event": "道玄真人向张小凡介绍旁边的前辈，包括天音寺主持普泓、普空、焚香谷上官等人",
+      "chapter": 88,
+      "characters": [
+        "道玄真人",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_217",
+      "event": "道玄真人在玉清殿上询问张小凡是否在东海流波山与奇兽夔牛交手时使用了天音寺的‘大梵般若’真法，张小凡承认。",
+      "chapter": 88,
+      "characters": [
+        "道玄真人",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_218",
+      "event": "苍松道人将张小凡的烧火棍放到道玄手边茶几，解释因形势混乱而收起",
+      "chapter": 89,
+      "characters": [
+        "苍松道人",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_219",
+      "event": "道玄询问张小凡后，张小凡内心交战未发一言，道玄愤怒站起，指责张小凡为孽障，要除去他。众弟子为其求情，田不易站起，陆雪琪、田灵儿在场。",
+      "chapter": 89,
+      "characters": [
+        "张小凡",
+        "道玄",
+        "田不易",
+        "陆雪琪",
+        "田灵儿",
+        "水月"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_220",
+      "event": "道玄拿起烧火棍欲杀张小凡，突然身子剧颤将棍扔掉，棍上飞起七尾蜈蚣，张小凡认出并回忆往事",
+      "chapter": 89,
+      "characters": [
+        "道玄",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_221",
+      "event": "魔教四大宗主率领数十个魔教高手闯入玉清殿，击倒青云弟子；青云山上喊杀声四起，血腥笼罩，道玄真人认为是青云门百年最危急时刻",
+      "chapter": 90,
+      "characters": [
+        "道玄真人",
+        "毒神",
+        "玉阳子",
+        "鬼王",
+        "三妙仙子",
+        "青龙",
+        "幽姬",
+        "百毒子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_222",
+      "event": "假上官策等四个魔教中人来到祖师祠堂前，林惊羽阻拦，以一敌三战斗",
+      "chapter": 91,
+      "characters": [
+        "假上官策",
+        "林惊羽",
+        "黑衣人1",
+        "黑衣人2",
+        "黑衣人3"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_223",
+      "event": "林惊羽苦斗数十回合，全力防守，渐被压制，终退一步；后被白骨剑潜入地下划伤右腿，随后用斩龙剑撞白骨剑，使白骨剑出现细微裂痕，白骨剑主人跌出。",
+      "chapter": 91,
+      "characters": [
+        "林惊羽",
+        "三个黑衣魔教徒众"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_224",
+      "event": "林惊羽跑回三岔路口，看到周围空地血迹斑斑，树木枝叶洒满鲜血，张小凡和陆雪琪站在那里",
+      "chapter": 92,
+      "characters": [
+        "林惊羽",
+        "张小凡",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_225",
+      "event": "有人想起诛仙古剑，但道玄真人双手空空，不见诛仙踪影，水麒麟趴在外面，附近也没有诛仙古剑的影子。",
+      "chapter": 93,
+      "characters": [
+        "道玄真人",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_226",
+      "event": "魔教围攻之下，二十五位长老战死十四人，重伤四五个；七脉首座中苍松道人背叛，商正梁、天云���人战死，田不易和曾叔常受伤，水月大师无大碍。道玄真人得知后身子晃了晃，险险支持不住。",
+      "chapter": 93,
+      "characters": [
+        "道玄",
+        "田不易",
+        "苍松道人",
+        "商正梁",
+        "天云道人",
+        "曾叔常",
+        "水月大师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_227",
+      "event": "魔教众人拚死杀开一条血路，冲出道玄真人发动的诛仙剑阵，逃下通天峰",
+      "chapter": 93,
+      "characters": [
+        "鬼王",
+        "毒神",
+        "玉阳子",
+        "三妙仙子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_228",
+      "event": "鬼王首先镇定下来，连声喝止，将惊魂未定的众人挡住，四大派系重新清点人手",
+      "chapter": 93,
+      "characters": [
+        "鬼王",
+        "毒神",
+        "玉阳子",
+        "三妙仙子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_229",
+      "event": "张小凡和林惊羽同时走过去，林惊羽把他拉到一边检查，发现只有几处擦伤",
+      "chapter": 93,
+      "characters": [
+        "张小凡",
+        "林惊羽",
+        "王二叔"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_230",
+      "event": "当年普智来到青云山，面见道玄掌门，劝说将佛道两家真法一起修习以参破长生之谜，被婉言拒绝",
+      "chapter": 94,
+      "characters": [
+        "普智",
+        "道玄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_231",
+      "event": "黑衣人夜闯草庙村，先藏七尾蜈蚣咬伤普智，后与普智相斗，普智重伤于神剑御雷真诀下，也以大梵般若重创黑衣人，黑衣人惊走。期间张小凡来到草庙之中。",
+      "chapter": 94,
+      "characters": [
+        "普智",
+        "黑衣人",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_232",
+      "event": "最后一桌商旅共四人，身后堆满货物，其中年轻人咒骂天气，年龄较大的老者喝止后向何老板致歉。何老板询问老者为何在这种天气赶路，老者苦笑提及有难处，并感慨世道艰难。",
+      "chapter": 95,
+      "characters": [
+        "年龄较大的老者",
+        "年轻人",
+        "何老板"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_233",
+      "event": "年轻弟子带头投降，随后众人陆续投降，年老大交出黑心令，宣称炼血堂八百年基业完了。",
+      "chapter": 96,
+      "characters": [
+        "鬼厉",
+        "年老大"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_234",
+      "event": "野狗道人在巨石前拒绝年老大要他叛离炼血堂的要求，并坚持自己发下的重誓",
+      "chapter": 96,
+      "characters": [
+        "野狗道人",
+        "年老大"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_235",
+      "event": "黑心令从野狗手里滑落，野狗拾起，脸色发白。鬼厉表示不杀野狗，并让野狗日后跟随自己。野狗质疑，鬼厉解释鬼王宗和投降的同门会杀他。野狗最终跟上。",
+      "chapter": 97,
+      "characters": [
+        "鬼厉",
+        "野狗"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_236",
+      "event": "野狗称呼鬼厉为张小凡，鬼厉在黑暗中沉默后表示这个名字已经忘了多年。",
+      "chapter": 97,
+      "characters": [
+        "鬼厉",
+        "野狗"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_237",
+      "event": "一场正魔厮杀，朝阳峰首座商正梁、落霞峰首座天云道人过世，龙首峰首座苍松道人叛出",
+      "chapter": 97,
+      "characters": [
+        "商正梁",
+        "天云道人",
+        "苍松道人",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_238",
+      "event": "张小凡离开后，两只动物郁郁寡欢，尤其是小灰闷了许久，大黄垂头丧气；后来渐渐恢复打闹玩耍，但夜深入睡时刻仍回到张小凡的房间。",
+      "chapter": 98,
+      "characters": [
+        "大黄",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_239",
+      "event": "大黄和小灰听到竹林声音，小灰尖叫，大黄吠叫，然后小灰抓紧大黄，大黄跑向后山黑竹林，在翠绿竹林外停下",
+      "chapter": 98,
+      "characters": [
+        "大黄",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_240",
+      "event": "小灰下定决心，向大黄吱吱叫了两声，当先向竹林里走去，大黄跟在身后，一猴一狗慢慢穿梭在竹林中",
+      "chapter": 98,
+      "characters": [
+        "小灰",
+        "大黄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_241",
+      "event": "小灰和大黄走到竹林深处的一片小空地，小灰停下向四周张望，这里曾是张小凡初次砍竹的地方",
+      "chapter": 98,
+      "characters": [
+        "小灰",
+        "大黄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_242",
+      "event": "一个身影从粗大的竹子背后现身，小灰蹦起来冲入那个人的怀抱，紧紧抓住衣衫欢呼",
+      "chapter": 98,
+      "characters": [
+        "小灰",
+        ""
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_243",
+      "event": "鬼王与鬼厉在狐岐山湖心石亭交谈，鬼王问及收服炼血堂及保下野狗道人的事，鬼厉解释原因",
+      "chapter": 99,
+      "characters": [
+        "鬼王",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_244",
+      "event": "鬼王询问鬼厉先对付哪一派，鬼厉提议长生堂，并计划在死亡沼泽异宝出世时待长生堂与正道火并后联合万毒门、合欢派落井下石。",
+      "chapter": 99,
+      "characters": [
+        "鬼王",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_245",
+      "event": "小环为秦无炎测字，分析其名字含义，说西方死泽对他有利。秦无炎支付十两银子，周一仙收下。秦无炎又拿出十两银子请小环为鬼厉测字。",
+      "chapter": 100,
+      "characters": [
+        "小环",
+        "周一仙",
+        "秦无炎",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_246",
+      "event": "秦无炎微笑着反驳小环，称上古时候天煞明王开天辟地、幽明圣母创万物生灵是恒久确实之事，不可不信",
+      "chapter": 100,
+      "characters": [
+        "秦无炎",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_247",
+      "event": "鬼厉和秦无炎在大街上冷冷对视，四周寂静，有隐约的压力，旁人偷瞄并拿住法宝准备大杀一场，随后两人互称毒公子和血公子，一声低沉声音响起",
+      "chapter": 100,
+      "characters": [
+        "鬼厉",
+        "秦无炎"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_248",
+      "event": "萧逸才叮嘱众人小心后，祭起七星仙剑当先飞入死泽，青云门弟子紧随其后，消失在迷雾中。",
+      "chapter": 101,
+      "characters": [
+        "萧逸才",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_249",
+      "event": "小环询问是否拖累金瓶儿，金瓶儿表示不是赶路；小环追问是否为夺死泽异宝，金瓶儿承认但不急",
+      "chapter": 101,
+      "characters": [
+        "小环",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_250",
+      "event": "死泽下大雨刮风，小环和小灰淋雨，周一仙坐在树下，野狗道人撑伞过来想嘲笑小环未果，看到小环后有些走神",
+      "chapter": 102,
+      "characters": [
+        "小环",
+        "猴子小灰",
+        "周一仙",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_251",
+      "event": "野狗道人急转身不再看小环，抓紧雨伞一叠声说‘我是坏人’；小环好奇询问，野狗道人忽然大怒咆哮‘要你管’；小环怔住低头，见小灰微微一笑吐舌头，小灰咧嘴笑；小环渐觉身子发冷，抬头见野狗道人又走回把伞遮在她头顶，雨水打湿他身子，恶声恶气说‘喏，伞给你’；小环站起来惊讶道‘道长’。",
+      "chapter": 102,
+      "characters": [
+        "野狗道人",
+        "小环",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_252",
+      "event": "野狗道人把伞塞给小环后走开，小环笑着称赞他是好人，野狗否认并到周一仙坐的小树下躲雨，周一仙大笑嘲笑他，野狗恼怒。",
+      "chapter": 102,
+      "characters": [
+        "小环",
+        "野狗道人",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_253",
+      "event": "鬼厉转身看向野狗道人，询问其是否在下雨时把伞借给看相的小姑娘遮雨",
+      "chapter": 103,
+      "characters": [
+        "鬼厉",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_254",
+      "event": "鬼厉不理野狗道人的怒斥，转身迈步就走，并质问野狗道人杀人与借伞的干系",
+      "chapter": 103,
+      "characters": [
+        "鬼厉",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_255",
+      "event": "鬼厉停下脚步，回头望向野狗道人，称野狗在死灵渊之后再次让他吃惊，并指出野狗做了英雄救美之事。野狗先是警惕，后否认并暴跳如雷，但片刻后自言自语说那小妞其实还可以，最终朝鬼厉方向追去。",
+      "chapter": 103,
+      "characters": [
+        "鬼厉",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_256",
+      "event": "黑暗中正道中人突然现身，驭起法宝杀向长生堂门人。林惊羽持斩龙剑冲入人群，斩杀数人，锐不可当。其他正道弟子随后跟上厮杀，萧逸才在乱战中高声提醒林惊羽小心。",
+      "chapter": 104,
+      "characters": [
+        "林惊羽",
+        "萧逸才"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_257",
+      "event": "林惊羽被长生堂门人围攻，挥舞斩龙剑杀敌，后遭圆形法宝攻击，躲避时被三四把利刃砍进身子。",
+      "chapter": 104,
+      "characters": [
+        "林惊羽",
+        "长生堂门人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_258",
+      "event": "玉阳子从远处飞行而来，落地后吐血，孟骥扶住，玉阳子强振精神安抚弟子。",
+      "chapter": 105,
+      "characters": [
+        "玉阳子",
+        "孟骥"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_259",
+      "event": "玉阳子被正道中人围攻，大耗元气，有女子施展青云门‘神剑御雷真诀’，玉阳子施展‘血咒’强行冲出",
+      "chapter": 105,
+      "characters": [
+        "玉阳子",
+        "女子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_260",
+      "event": "玉阳子在天亮后决定带领众人向死泽深处的内泽前进以寻找宝物，尽管面临血咒反噬和外界威胁。",
+      "chapter": 105,
+      "characters": [
+        "玉阳子",
+        "孟骥"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_261",
+      "event": "鬼厉在死亡沼泽内泽的瘴气中飞行，遇到瘴气奇厚，飞出百丈仍在其中，后前方出现蓝色光芒一闪即散，周围瘴气疯狂旋转形成漩涡",
+      "chapter": 106,
+      "characters": [
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_262",
+      "event": "昨天深夜，金瓶儿将小环和周一仙送出死泽。小环担心金瓶儿，周一仙提到与长生堂门人的遭遇。",
+      "chapter": 107,
+      "characters": [
+        "小环",
+        "周一仙",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_263",
+      "event": "今天，小环和周一仙准备离开大王村。小环在村口向死泽方向看去，看到天空变暗。",
+      "chapter": 107,
+      "characters": [
+        "小环",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_264",
+      "event": "野狗在村口遇到小环，小环叫住他并将雨伞还给他，感谢他，之后与爷爷离开，野狗随后跟上。",
+      "chapter": 107,
+      "characters": [
+        "野狗",
+        "小环",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_265",
+      "event": "三人沉默后，曾书书询问林惊羽如何到来，林惊羽回答在瘴气中与师兄失散，望见法宝毫光赶来；雨停，法相建议离开，三人驭宝腾空。",
+      "chapter": 108,
+      "characters": [
+        "曾书书",
+        "林惊羽",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_266",
+      "event": "林惊羽、曾书书、法相三人讨论深入蛮荒恶地探寻异宝，林惊羽主张‘不入虎穴焉得虎子’，曾书书询问法相后无异议，决定继续向森林深处飞去",
+      "chapter": 108,
+      "characters": [
+        "林惊羽",
+        "曾书书",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_267",
+      "event": "三人搜索半日，未见异宝，但遇到多种怪兽毒虫，包括枯枝化为灰色毒虫咬人",
+      "chapter": 108,
+      "characters": [
+        "林惊羽",
+        "曾书书",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_268",
+      "event": "夜色渐深，三人找到林间大石休息，曾书书凝神戒备，用轩辕剑衬光，挑拣枯枝准备生火",
+      "chapter": 108,
+      "characters": [
+        "林惊羽",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_269",
+      "event": "林惊羽看着曾书书拣柴火，忍不住苦笑，曾书书听到后与他对望，也呵呵笑了出来",
+      "chapter": 108,
+      "characters": [
+        "林惊羽",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_270",
+      "event": "法相为防御毒虫，用轮回珠施展般若心圈，形成六尺方圆的金色光环笼罩三人",
+      "chapter": 108,
+      "characters": [
+        "法相",
+        "林惊羽",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_271",
+      "event": "秦无炎控制死泽巨蚁与法相、李洵、曾书书、林惊羽四人对峙，场面秦无炎占上风",
+      "chapter": 109,
+      "characters": [
+        "秦无炎",
+        "法相",
+        "李洵",
+        "曾书书",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_272",
+      "event": "法相提议分做两队，李洵和曾书书暂抵巨蚁，法相和林师弟攻向秦无炎。",
+      "chapter": 109,
+      "characters": [
+        "法相",
+        "李洵",
+        "曾书书",
+        "林师弟"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_273",
+      "event": "林惊羽和法相冲上前，林惊羽以斩龙剑斩向秦无炎，秦无炎用控妖笛指挥巨蚁并用斩相思神匕抵挡，双方僵持，法相劝降未果。",
+      "chapter": 109,
+      "characters": [
+        "林惊羽",
+        "法相",
+        "秦无炎"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_274",
+      "event": "萧逸才与燕虹发现林间有被开出的路、倒树和死动物，听到前方喧闹声和佛门念佛声，随后听到佛门降魔吼，萧逸才冲出去，燕虹跟上。",
+      "chapter": 110,
+      "characters": [
+        "萧逸才",
+        "燕虹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_275",
+      "event": "法善舞动金刚降魔杖护住全身，被鹅黄衣裳女子逼得困守不已，萧逸才和燕虹加入战斗",
+      "chapter": 110,
+      "characters": [
+        "法善",
+        "鹅黄衣裳的女子",
+        "萧逸才",
+        "燕虹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_276",
+      "event": "前方数十丈外，昨晚金色光柱方向的雾气浓厚纯白，可能是异宝所在。",
+      "chapter": 111,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_277",
+      "event": "一道灿烂辉煌的金色光柱冲天而起，他们转身眺望，被金色光芒照亮的脸庞上多了几分冰凉的感觉。",
+      "chapter": 111,
+      "characters": [
+        "陆雪琪",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_278",
+      "event": "陆雪琪望着鬼厉，轻轻道‘你回来吧’，并称呼他为‘张师弟’。鬼厉闭上眼睛后睁开眼睛，微笑道‘这个名字，我不用很久了’。",
+      "chapter": 111,
+      "characters": [
+        "陆雪琪",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_279",
+      "event": "陆雪琪离开时，鬼厉问‘你会杀我吗？’，陆雪琪回答‘我会的。所以你能杀我的时候，也尽管下手吧……’后消失在迷雾中。",
+      "chapter": 111,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_280",
+      "event": "周一仙和小环在大王村向西的古道上缓缓而行，小环欣赏荒野景色，周一仙吐槽并自称世外高人。",
+      "chapter": 112,
+      "characters": [
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_281",
+      "event": "当年在河阳城里，周一仙看到小环（二、三岁）倒在路旁边，饿的奄奄一息，一时心软就抱起来了。",
+      "chapter": 112,
+      "characters": [
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_282",
+      "event": "十年前，为了那个叫张小凡的青云弟子，周一仙和小环好奇跟过去看了看，但未接近青云山。",
+      "chapter": 112,
+      "characters": [
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_283",
+      "event": "鬼厉与陆雪琪在石门前对峙，鬼厉要取石门内的异宝，陆雪琪以天玡神剑阻止，表示不会让异宝落入魔教之手。鬼厉声称要取异宝杀更多人。",
+      "chapter": 113,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_284",
+      "event": "远处传来隐约嘶吼，来自脚下迷雾深处；鬼厉和陆雪琪同时感觉到脚下参天大树从树干上传来轻微颤抖；二人脸色微变，认为脚下迷雾中有了极大变故，有巨大之力震动此树；二人想到变故多半与面前天帝宝库有关。",
+      "chapter": 113,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_285",
+      "event": "鬼厉欲有所行动，陆雪琪一横身挡在天帝宝库的石门之前；鬼厉说‘我不愿和你动手，你让开’；陆雪琪说‘你杀了我，自然就过去了’；鬼厉长啸飞身而起，周身玄青光芒大作；陆雪琪说‘你既入了魔道，又何必再用青云门的道法？’",
+      "chapter": 113,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_286",
+      "event": "鬼厉与陆雪琪在树林中战斗，陆雪琪提起十年前一战她败了，十年后再次请教。",
+      "chapter": 113,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_287",
+      "event": "黑水玄蛇迅速爬上来，众人惊骇，金瓶儿、曾书书、林惊羽、法相首先飞起",
+      "chapter": 114,
+      "characters": [
+        "黑水玄蛇",
+        "金瓶儿",
+        "曾书书",
+        "林惊羽",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_288",
+      "event": "宝库飞去，在半空的法相等人吃惊，回头看黑水玄蛇愤怒冲向天帝宝库",
+      "chapter": 114,
+      "characters": [
+        "法相",
+        "黑水玄蛇"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_289",
+      "event": "鬼厉在黑暗中睁开眼睛，前方有不断变换颜色的光芒，他发现自己伤势痊愈，并握着另一只手掌。",
+      "chapter": 115,
+      "characters": [
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_290",
+      "event": "一声巨响，地动山摇，伴随凤鸣清啸和狂怒嘶吼，整个黑暗空间剧烈颤动。震动将陆雪琪震起惊醒，随后慢慢缓和恢复平静。",
+      "chapter": 115,
+      "characters": [
+        "鬼厉",
+        "陆雪琪",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_291",
+      "event": "震动后陆雪琪缓缓坐起，与鬼厉相互凝望，随后目光低垂看到握在一起的手。陆雪琪沉默，鬼厉松开手收回。",
+      "chapter": 115,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_292",
+      "event": "鬼厉看了她一眼，然后淡淡道：'不是，是你自己命大，在石门关闭之前飞进来的。'",
+      "chapter": 115,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_293",
+      "event": "两只上古奇兽在天帝宝库外的奇树上激烈争斗，天昏地暗，风云变色。黑水玄蛇伤痕累累，黄鸟也受伤。法相等人远远在高空观战。",
+      "chapter": 116,
+      "characters": [
+        "法相",
+        "黑水玄蛇",
+        "黄鸟"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_294",
+      "event": "两只巨兽暂时停止攻击后对峙，黑水玄蛇愤怒之下狠狠撞击天帝宝库，导致天帝宝库裂纹遍布，石门裂痕，神秘力量开始崩溃。黄鸟随后振翅反击。",
+      "chapter": 116,
+      "characters": [
+        "黑水玄蛇",
+        "黄鸟"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_295",
+      "event": "黄鸟狂怒冲下，龙卷风笼罩黑水玄蛇，黑水玄蛇发出凄厉怒吼，右眼被啄瞎",
+      "chapter": 116,
+      "characters": [
+        "黄鸟",
+        "黑水玄蛇"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_296",
+      "event": "陆雪琪、法相、林惊羽、曾书书四人落在巨树之巅，与鬼王、青龙、幽姬、鬼厉相遇对峙。",
+      "chapter": 117,
+      "characters": [
+        "陆雪琪",
+        "法相",
+        "林惊羽",
+        "曾书书",
+        "鬼王",
+        "青龙",
+        "幽姬",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_297",
+      "event": "鬼王向鬼厉询问如何处置这四位正道中人，鬼王表示此处事务由鬼厉作主。",
+      "chapter": 117,
+      "characters": [
+        "鬼王",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_298",
+      "event": "鬼王看了看林惊羽，转头对鬼厉说‘此人就是林惊羽吧！是你那个童年好友？’",
+      "chapter": 117,
+      "characters": [
+        "鬼王",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_299",
+      "event": "鬼厉对鬼王说‘此间之事大都完成，这些人又非举足轻重的角色，不必理会了。宗主你眼下还是先将黄鸟收拾好，才是当务之急。’",
+      "chapter": 117,
+      "characters": [
+        "鬼厉",
+        "鬼王"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_300",
+      "event": "幽姬目光透过黑纱向远处瞄了一眼，看到陆雪琪默默站在最后，目光远远地望在鬼厉身上",
+      "chapter": 117,
+      "characters": [
+        "幽姬",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_301",
+      "event": "法相称呼鬼厉为张师弟，鬼厉纠正为鬼厉；林惊羽劝鬼厉回头，鬼厉反问",
+      "chapter": 117,
+      "characters": [
+        "鬼厉",
+        "法相",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_302",
+      "event": "周一仙阴阳怪气质问野狗道人为何跟随，野狗反唇相讥提到竹竿有古怪",
+      "chapter": 118,
+      "characters": [
+        "周一仙",
+        "野狗道人",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_303",
+      "event": "周一仙质问野狗道人为什么一直跟着他们，野狗道人愣了，一时说不出话来。周一仙得意，指责野狗道人垂涎他的财物和孙女的美色，小环满面通红地制止爷爷。野狗道人自卑地低下头，小环对野狗道人说别听爷爷乱说，骂爷爷是狗嘴里吐不出象牙。周一仙生气反驳。小环吐了吐舌头，对野狗做鬼脸。",
+      "chapter": 118,
+      "characters": [
+        "小环",
+        "野狗道人",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_304",
+      "event": "野狗道人在周一仙询问为何跟踪他们时，沉默后回答‘我也不知道’，随后在小环追问下讲述自己被父母丢弃、被野狗喂养、被炼血堂前辈收留的经历。",
+      "chapter": 118,
+      "characters": [
+        "野狗道人",
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_305",
+      "event": "幽姬顺着窄小石径向前走去，看到前方鬼王身影，走到鬼王身后低声道宗主",
+      "chapter": 120,
+      "characters": [
+        "幽姬",
+        "鬼王"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_306",
+      "event": "鬼王回头微笑说“你来了”，幽姬黑纱一顿似吃惊，鬼王转头时红光照射面容模糊眼睛有红芒，鬼王说“你过来吧”，幽姬走",
+      "chapter": 120,
+      "characters": [
+        "鬼王",
+        "幽姬"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_307",
+      "event": "伏龙鼎凌空孤悬，一道黑色人影在伏龙鼎上施法，暗红光芒笼罩血池中的黄鸟和夔牛",
+      "chapter": 120,
+      "characters": [
+        "鬼先生",
+        "鬼王",
+        "幽姬"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_308",
+      "event": "三日前夜晚，鬼厉与金瓶儿发现焚香谷竟似与南疆十万大山中的南蛮异族有暗中勾结，遂决定暗中查探焚香谷",
+      "chapter": 121,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_309",
+      "event": "二人凭借道行躲过外围警戒，但每次一到焚香谷相对深入的地方，不论如何隐藏身形，附近必定突然响起一阵莫名其妙的清脆铃声，引来无数焚香谷门人仔细搜索，其中不乏高手",
+      "chapter": 121,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_310",
+      "event": "金瓶儿将食物烤焦，鬼厉和小灰注视兔腿，金瓶儿脸红缩回木棒离开火堆",
+      "chapter": 121,
+      "characters": [
+        "金瓶儿",
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_311",
+      "event": "小灰肩头异动，发出轻微呻吟，面容扭曲，双目紧闭，身体颤抖，睁开眼后眼睛变成金色中微带暗红的异芒，周围温度似乎冷了下来",
+      "chapter": 122,
+      "characters": [
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_312",
+      "event": "鱼人族长在三日前与吕顺在合股山无名古刹见面后，离开古刹不到一里地方被高手狙杀",
+      "chapter": 123,
+      "characters": [
+        "鱼人族长",
+        "吕顺"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_313",
+      "event": "老者、李洵、燕虹走下玄火坛，老者问起鱼人族长死因，李洵和燕虹回答",
+      "chapter": 123,
+      "characters": [
+        "老者",
+        "李洵",
+        "燕虹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_314",
+      "event": "吕师叔带领弟子将鱼人堵在山谷入口，施展神通压住气焰，双方对峙。鱼人要求为族长报仇。",
+      "chapter": 123,
+      "characters": [
+        "吕顺",
+        "李洵",
+        "燕虹",
+        "灰衣老者"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_315",
+      "event": "鬼厉用力推开沉重的木门，门发出吱呀声，缓缓向内打开。一道淡淡的红光透出，空气燥热。鬼厉皱眉、额头见汗，想起上官老者。他走进门内，木门又合上。他环顾四周，发现大殿呈圆形，高五丈，墙壁为赤红岩石，无雕刻装饰。中央有红光如火焰，越靠近越亮。一人一猴的眼眸倒映红光。",
+      "chapter": 124,
+      "characters": [
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_316",
+      "event": "鬼厉在离大殿中央不到一丈处停步，发现地面上有指头粗细的刻痕，组成一幅神祇图案，神祇有羊角、獠牙、滴血等特征",
+      "chapter": 124,
+      "characters": [
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_317",
+      "event": "火焰异兽注意力转向小灰，跃起扑向小灰；鬼厉挡在小灰身前施展神通，异兽巨掌击下被弹回",
+      "chapter": 125,
+      "characters": [
+        "火焰异兽",
+        "小灰",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_318",
+      "event": "鬼厉受伤吐血，噬魂吞噬鲜血，鬼厉暴戾爆发，与火焰异兽彼此对峙，大殿一片炽热，异兽低吼不安。",
+      "chapter": 125,
+      "characters": [
+        "鬼厉",
+        "火焰异兽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_319",
+      "event": "小灰眼中凶光，对火焰异兽咆哮；火焰异兽巨头缓缓转动，面对巨大凶猴有忌惮之意；小灰第三只眼射出金光，火焰异兽避开，金光打在地面上",
+      "chapter": 125,
+      "characters": [
+        "小灰",
+        "火焰异兽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_320",
+      "event": "在祭坛三层的幽光中，一只巨大的白狐从黑暗深处出现，情绪激动，悲鸣厉啸，蓝色光芒明亮，起风，鬼厉与小灰面对白狐。",
+      "chapter": 126,
+      "characters": [
+        "鬼厉",
+        "小灰",
+        "白狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_321",
+      "event": "玄火坛剧烈颤抖，玄火链开始明亮，玄火坛下炽热之气喷涌而上，周围巨大坚冰融化，暗红光芒照亮鬼厉身影",
+      "chapter": 127,
+      "characters": [
+        "九尾天狐",
+        "小灰",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_322",
+      "event": "脚下大地剧烈颤动，所有东西纷纷倒塌，空气中炽热如要燃烧，呼吸进去也似火焰，巨大轰鸣从地底轰然而出，石板瞬间坍塌掉落",
+      "chapter": 127,
+      "characters": [
+        "鬼厉",
+        "小灰",
+        "九尾天狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_323",
+      "event": "鬼厉因九尾天狐提到救人之法而狂喜，请求九尾天狐教导。九尾天狐指出只要肉身完好且有一魂尚在就有希望，并提及还魂异术和黑巫族。",
+      "chapter": 128,
+      "characters": [
+        "鬼厉",
+        "九尾天狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_324",
+      "event": "九尾天狐决定明天带鬼厉去南疆找当年遇到黑巫族人的地方，看看是否有黑巫族踪影",
+      "chapter": 128,
+      "characters": [
+        "九尾天狐",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_325",
+      "event": "九尾天狐将小灰放在地上，站在林间感受自由；鬼厉走来询问，两人对话，九尾天狐提出不要叫她前辈，鬼厉问如何称呼。",
+      "chapter": 128,
+      "characters": [
+        "九尾天狐",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_326",
+      "event": "关于异兽出世、神秘奇宝、谷主被杀等谣言流传，最终惊动青云门和天音寺。",
+      "chapter": 129,
+      "characters": [
+        "云易岚",
+        "道玄真人",
+        "普泓大师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_327",
+      "event": "鬼厉和小白在小山下来后，于偏僻村子用钱物买了两套当地衣服（一男一女）换装，然后步行前往焚香谷方向，途中绕过焚香谷弟子的盘查，未被认出。",
+      "chapter": 129,
+      "characters": [
+        "鬼厉",
+        "小白",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_328",
+      "event": "小白向伙计和老板点南疆菜式，一口气说出约三十个菜名，但老板表示只能做出土闷黄雀、黑心果和烤熊尾这三样。",
+      "chapter": 130,
+      "characters": [
+        "小白",
+        "伙计",
+        "店铺老板"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_329",
+      "event": "鬼厉询问黑心果和烤熊尾，小白解释。小白注意到鬼厉对菜式的兴趣，鬼厉回忆自己的厨艺经历后意兴索然。",
+      "chapter": 130,
+      "characters": [
+        "鬼厉",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_330",
+      "event": "夜色中，荒凉街道上，陆雪琪和鬼厉相对而立，月光下影子拉长。陆雪琪收回天琊，两人对话。陆雪琪问及金瓶儿，鬼厉回答并解释。陆雪琪脸色柔和。",
+      "chapter": 131,
+      "characters": [
+        "陆雪琪",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_331",
+      "event": "陆雪琪使用神剑御雷真诀，鬼厉在最后关头故意收手，陆雪琪认为是自己输了",
+      "chapter": 131,
+      "characters": [
+        "陆雪琪",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_332",
+      "event": "与魔教中人厮杀，与阴灵妖魅缠斗，鬼厉不顾性命救陆雪琪，陆雪琪也一般对他",
+      "chapter": 131,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_333",
+      "event": "上官策通过暗道走到石室，石室空无一物，有一面屏风，屏风后传出苍老声音",
+      "chapter": 132,
+      "characters": [
+        "上官策",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_334",
+      "event": "鬼厉和小白穿过狭窄山道，来到一片开阔土地，即七里峒苗人聚居地。",
+      "chapter": 133,
+      "characters": [
+        "鬼厉",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_335",
+      "event": "二人继续向前走，人群渐多，苗人多看他们但无特别敌意；小白低声说这些年南疆平和了许多",
+      "chapter": 133,
+      "characters": [
+        "鬼厉",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_336",
+      "event": "小白和鬼厉寻找三百年前的那个人的所在之处，小白指向苗人聚居深处的祭坛",
+      "chapter": 133,
+      "characters": [
+        "小白",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_337",
+      "event": "一群苗人从山上走下，为首的五十多岁老者大喝一声，下山后走向鬼厉和小白，用苗语问话，鬼厉听不懂，随后老者用半生不熟的中土语言询问他们是否是中土人。",
+      "chapter": 134,
+      "characters": [
+        "鬼厉",
+        "小白",
+        "老者"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_338",
+      "event": "鬼厉与小白来到南疆边陲，向苗族老者请求拜见大巫师，为碧瑶求医。鬼厉说明碧瑶伤势：三魂七魄散去十分之九，仅残存一魂，需要还魂奇术。鬼厉十年前开始寻找，近日听说大巫师有此奇术。",
+      "chapter": 134,
+      "characters": [
+        "鬼厉",
+        "小白",
+        "老者",
+        "大巫师",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_339",
+      "event": "小白喝醉后全身靠在鬼厉身上，头靠在他肩头，说‘你这个人，就是活的太累啊！知道吗？小傻瓜！’",
+      "chapter": 135,
+      "characters": [
+        "小白",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_340",
+      "event": "双方拼酒结束，众人收拾，苗人多走过去将那些醉倒的战士扶起照顾，鬼厉抱着半醉不醒的小白",
+      "chapter": 135,
+      "characters": [
+        "鬼厉",
+        "小白",
+        "苗人战士"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_341",
+      "event": "小灰趁人不注意，溜到醉倒苗人身边，捡起地上酒袋，闻酒味，喝了一口并喜欢",
+      "chapter": 135,
+      "characters": [
+        "小灰",
+        "苗人战士"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_342",
+      "event": "大巫师说小白不是普通人，因为她一个弱女子凭酒量放倒苗族数十个壮汉",
+      "chapter": 136,
+      "characters": [
+        "大巫师",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_343",
+      "event": "大巫师告诉鬼厉还魂异术只在苗族祭坛巫师中传承，只有历代大巫师知晓，并质疑小白年纪轻轻如何知道",
+      "chapter": 136,
+      "characters": [
+        "鬼厉",
+        "大巫师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_344",
+      "event": "敲门声响起，鬼厉开门，看到一个苗族少年提着篮子送来肉食酒菜。鬼厉道谢，少年咧嘴一笑后离开。鬼厉望着少年背影远去，心中烦闷，叹息后关门。天色渐暗，七里峒人家亮起灯火。",
+      "chapter": 137,
+      "characters": [
+        "鬼厉",
+        "苗族少年"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_345",
+      "event": "小白问鬼厉是否见过大巫师，鬼厉称见过，大巫师承认懂得还魂异术但要求知道小白来历",
+      "chapter": 137,
+      "characters": [
+        "鬼厉",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_346",
+      "event": "七里峒上空爆发如犬吠般的巨大咆哮，声动四野，震动山脉；苗人惊恐冲出屋子，口中喊同一句话（鬼厉听不懂）；小白解释这是苗人供奉的犬神石刻发出的警报，只有亡族灭种的危难时刻才会发出，千年以来只发出过一次",
+      "chapter": 137,
+      "characters": [
+        "鬼厉",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_347",
+      "event": "众人于七里峒百里之外的古道上，看到远处火光闪烁、轰隆声响，法相认为邪气冲天，疑似邪道妖魔作祟",
+      "chapter": 138,
+      "characters": [
+        "上官策",
+        "李洵",
+        "吕顺",
+        "陆雪琪",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_348",
+      "event": "上官策经李洵询问后，决定前往七里峒除妖，并先行一步化作亮芒疾驰而去",
+      "chapter": 138,
+      "characters": [
+        "上官策",
+        "李洵",
+        "法相",
+        "吕顺"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_349",
+      "event": "法相、陆雪琪、李洵、吕顺先后起飞，追赶上官策，但上官策已不见踪影",
+      "chapter": 138,
+      "characters": [
+        "法相",
+        "陆雪琪",
+        "李洵",
+        "吕顺"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_350",
+      "event": "黑暗中出现两团赤色火焰，随后黑衣人凌空飘出，质问阿合台是否想遵守对兽神的诺言交出骨玉与黑杖。阿合台因贪念拒绝。",
+      "chapter": 139,
+      "characters": [
+        "阿合台",
+        "黑衣人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_351",
+      "event": "阿合台使用骨玉黑杖发出黑火攻击黑衣人，被黑衣人用无形力量阻挡，阿合台证实了骨玉黑杖等圣器能够将兽妖传给持杖者",
+      "chapter": 139,
+      "characters": [
+        "黑衣人",
+        "阿合台"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_352",
+      "event": "巨大白色光柱中男子浴血而出，红芒出现，向陆雪琪扑去，陆雪琪天琊刺出后又垂下，被男子抓住衣襟",
+      "chapter": 140,
+      "characters": [
+        "陆雪琪",
+        "男子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_353",
+      "event": "小白笑着将失去知觉的鬼厉抱紧，面对正道众人，声称自己从不识相。李洵一时语塞。吕顺惊呼‘九尾妖狐’，焚香谷弟子大乱。小白与吕顺交手，吕顺一击被挡回。",
+      "chapter": 140,
+      "characters": [
+        "小白",
+        "鬼厉",
+        "李洵",
+        "吕顺",
+        "陆雪琪",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_354",
+      "event": "上官策从天而降，落到地上缓缓走来。吕顺冷笑嘲讽其来得早。上官策面无表情，双眉紧皱，对李洵说这里事差不多了，让他们先回焚香谷。",
+      "chapter": 141,
+      "characters": [
+        "上官策",
+        "吕顺",
+        "李洵"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_355",
+      "event": "上官策以遇到小毛贼为由推脱，法相和陆雪琪未揭穿，行礼答应，上官策客套后飞走。",
+      "chapter": 141,
+      "characters": [
+        "上官策",
+        "法相",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_356",
+      "event": "鬼厉和小白在山头望着最后两道外族身影飞走，小白说他们走了，鬼厉收目光决定下去，小白建议休息被拒，鬼厉坚持找大巫师，起身。",
+      "chapter": 141,
+      "characters": [
+        "鬼厉",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_357",
+      "event": "大巫师咳嗽后说‘你们来了，过来吧’，鬼厉和小白坐下；大巫师为族人无礼道歉，鬼厉回应‘不敢’；大巫师沉默下来",
+      "chapter": 142,
+      "characters": [
+        "大巫师",
+        "鬼厉",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_358",
+      "event": "大巫师答应鬼厉为其朋友招魂，但表示没有把握，并决定明日一早陪同前往中土",
+      "chapter": 143,
+      "characters": [
+        "大巫师",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_359",
+      "event": "大巫师说圣器关系到南疆无数百姓的生死，苗族丢失了一件圣器，五件圣器一起回到古洞兽妖才能复活",
+      "chapter": 143,
+      "characters": [
+        "大巫师",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_360",
+      "event": "大巫师插口说“两件，是两件”，后解释黑杖上镶有骨玉，是两百年前苗族从黎族抢夺过来的。",
+      "chapter": 143,
+      "characters": [
+        "大巫师",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_361",
+      "event": "金瓶儿追踪巫妖进入十万大山，跋涉过两重险峻山脉后进入一片广大的黑森林，已在黑森林中第三天。",
+      "chapter": 143,
+      "characters": [
+        "金瓶儿",
+        "巫妖"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_362",
+      "event": "鬼厉和小白在七里峒苗族祭坛平台上，小白问鬼厉是否想好去十万大山对付怪物，鬼厉表示不怕死",
+      "chapter": 144,
+      "characters": [
+        "鬼厉",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_363",
+      "event": "巫妖与凶灵在娘娘神像前对话，凶灵要求巫妖认错，巫妖坚持自己没错，凶灵威胁翻脸，巫妖询问是否还认兄弟，凶灵提出条件。",
+      "chapter": 145,
+      "characters": [
+        "巫妖",
+        "凶灵"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_364",
+      "event": "凶灵转向石像女子，哽咽低语‘娘娘’后，身影渐渐飘散在黑气阴风中消失。",
+      "chapter": 145,
+      "characters": [
+        "凶灵",
+        "石像女子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_365",
+      "event": "黑暗中传来声音'你回来了'，巫妖站在光亮处，展示手中的黑杖。随后一声咆哮，黑暗退却，幽芒闪烁，石壁动摇，阴风呼啸。巫妖问声音'你还记得，娘娘的模样么？'并告知石像在洞口。之后巫妖飘进光芒深处。",
+      "chapter": 146,
+      "characters": [
+        "巫妖",
+        "声音（来源不明）"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_366",
+      "event": "丝绸腾空而起，耀眼的光芒从丝绸下照耀而出，带着妖力冲向四面八方",
+      "chapter": 146,
+      "characters": [
+        "巫妖",
+        "真人大小的白骨",
+        "丝绸"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_367",
+      "event": "鬼厉、小白和大巫师一行经过十五日的跋涉，于今日午间望见了狐岐山光秃秃的山顶，尚未到达山脚",
+      "chapter": 147,
+      "characters": [
+        "鬼厉",
+        "小白",
+        "大巫师",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_368",
+      "event": "鬼厉、小白、大巫师三人休息后继续前往狐岐山，小白逐渐回忆道路并变为领路人",
+      "chapter": 147,
+      "characters": [
+        "鬼厉",
+        "小白",
+        "大巫师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_369",
+      "event": "小白感慨狐岐山如今荒凉，与当年草木茂盛决然不同，鬼厉表示不知原因",
+      "chapter": 147,
+      "characters": [
+        "鬼厉",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_370",
+      "event": "云易岚在焚香谷密室询问上官策关于追踪九尾天狐一事，上官策提到遇见巫妖",
+      "chapter": 149,
+      "characters": [
+        "上官策",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_371",
+      "event": "陆雪琪走完石阶，默默看了一眼高大的玉清殿，走了进去，见到道玄真人和水月大师",
+      "chapter": 149,
+      "characters": [
+        "陆雪琪",
+        "道玄真人",
+        "水月大师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_372",
+      "event": "鬼先生将盛有鲜血的铜盆送至大巫师身前，鬼王示意后鬼先生退出。鬼王告知大巫师血已到，大巫师同意开始。",
+      "chapter": 150,
+      "characters": [
+        "鬼先生",
+        "鬼王",
+        "大巫师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_373",
+      "event": "大巫师虚弱站起摇晃，鬼厉搀扶。大巫师从怀中掏出红笔，在血中浸泡后提起，走到碧瑶所躺的石台旁。",
+      "chapter": 150,
+      "characters": [
+        "大巫师",
+        "鬼厉",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_374",
+      "event": "大巫师以红笔吸食鲜血在地面画出诡异且互相连接的血色图案，法阵以碧瑶的寒冰石台为中心逐渐成型",
+      "chapter": 150,
+      "characters": [
+        "大巫师",
+        "鬼王"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_375",
+      "event": "三日前，在石门中满地鲜血，大巫师端坐血泊中垂头而亡，后被火化收藏骨灰瓮",
+      "chapter": 151,
+      "characters": [
+        "大巫师",
+        "鬼王",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_376",
+      "event": "三日前，鬼王和鬼厉从石门中走出，神情恍惚悲凉，鬼王说三日勿扰，鬼厉撞墙流血",
+      "chapter": 151,
+      "characters": [
+        "鬼王",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_377",
+      "event": "鬼王再次睁开眼睛，脸上有沧桑悲凉，眼眸有淡淡光芒；他自嘲‘我看起来，老了许多罢！’嘴角有苦涩笑意。青龙与幽姬低头不忍看。鬼王看到青龙手边桌上的青小瓮，询问里面是什么。青龙解释是大巫师的骨灰舍利，并说明是自己做主火化。鬼王接过小瓮抚摸叹息，称大巫师虽未救回瑶儿，但收全魂魄，是大恩人，命青龙以圣教重礼送大巫师回南疆。鬼王询问鬼厉情况，幽姬回答鬼厉从寒冰石室出来后失魂落魄，回房三日未出。",
+      "chapter": 151,
+      "characters": [
+        "鬼王",
+        "青龙",
+        "幽姬"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_378",
+      "event": "巫妖向少年报告十三妖王已收服十万大山中残余的蛮族，共三十七族。",
+      "chapter": 152,
+      "characters": [
+        "巫妖",
+        "兽神"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_379",
+      "event": "少年与巫妖对话，提及黑巫族为三十八族之一，少年问巫妖是否后悔，巫妖回答有",
+      "chapter": 152,
+      "characters": [
+        "少年",
+        "巫妖"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_380",
+      "event": "少年对着石像女子咆哮质问，然后拥抱石像并低声说话，说要让天下苍生为石像陪葬。巫妖在背后注视。天空乌云惊雷，大雨飘落。",
+      "chapter": 152,
+      "characters": [
+        "",
+        "",
+        ""
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_381",
+      "event": "周一仙、小环和野狗道人发现鬼厉趴在桌子上，小环推他并叫他鬼厉，但无反应。周一仙问小灰其主人怎么了，小灰不理睬。",
+      "chapter": 153,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人",
+        "小灰",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_382",
+      "event": "周一仙因面子发怒，话音未落三眼猴子丢来烧鸡骨头，周一仙被野狗推倒躲避，骨头砸到小店墙壁",
+      "chapter": 153,
+      "characters": [
+        "周一仙",
+        "三眼猴子",
+        "野狗道人",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_383",
+      "event": "小环笑着叫小灰过来，小灰犹豫后走近，小环用丝巾擦去小灰手上的油渍",
+      "chapter": 153,
+      "characters": [
+        "小环",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_384",
+      "event": "非正式场合，众人大都放松，道玄真人、田不易、曾叔常、水月大师等人轻松交谈",
+      "chapter": 154,
+      "characters": [
+        "道玄真人",
+        "田不易",
+        "曾叔常",
+        "水月大师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_385",
+      "event": "李洵代师拜见道玄真人，转交书信，道玄看信后询问，安排李洵暂住几日",
+      "chapter": 154,
+      "characters": [
+        "李洵",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_386",
+      "event": "野狗道人趁鬼厉失丧心志之机，用兽牙法宝劈向鬼厉，但在临动手时犹豫，因为想到小环可能会伤心",
+      "chapter": 155,
+      "characters": [
+        "野狗道人",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_387",
+      "event": "野狗道人的兽牙即将刺穿鬼厉咽喉，黑暗中的巨大手臂抓住兽牙，使其无法寸进",
+      "chapter": 155,
+      "characters": [
+        "野狗道人",
+        "鬼厉",
+        "黑暗中的怪物"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_388",
+      "event": "野狗道人抬头发现上方黑暗中有三团三角排列的火焰，最上面火焰兼具金色与血红",
+      "chapter": 155,
+      "characters": [
+        "野狗道人",
+        "黑暗中的怪物"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_389",
+      "event": "一股凛冽劲风从上而下，将鬼厉原来站立的地方砸开大坑，发出轰隆巨响，整个小山头震动。野狗道人倒飞回来。黑暗之中缓缓现出巨大身影，双足着地，双臂过膝，至少四、五丈高，三团燃烧的火焰是眼睛，巨大锋利的獠牙，肌肉贲起。周一仙低声道是三眼凶猴，小环问是不是小灰。周一仙拉住小环后退，怒问野狗道人。三眼凶猴目光如血，腾空而起，风声大作，阴影笼罩。周一仙等三人面无人色，四散而逃。",
+      "chapter": 155,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人",
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_390",
+      "event": "林惊羽持斩龙剑发出巨大轰鸣，地面四分五裂，石块冲天，碧光深深刺入地底。法阵内符纸发亮，有神秘咒文声音，力量被笼罩不外泄。风暴平息后，地面留下裂痕和深洞。",
+      "chapter": 156,
+      "characters": [
+        "林惊羽",
+        "祠堂老者"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_391",
+      "event": "林惊羽修成‘斩鬼神’真法剑诀，老人称赞其速度比自己当年快不了多少",
+      "chapter": 156,
+      "characters": [
+        "林惊羽",
+        "老人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_392",
+      "event": "森林中安静下来，凶狠吠叫的妖兽远远散去，速度之快让青龙吃了一惊",
+      "chapter": 157,
+      "characters": [
+        "青龙",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_393",
+      "event": "一个少年（兽妖）打量青龙和金瓶儿，问他们是否中土人，青龙反问你是谁，少年微笑反问",
+      "chapter": 157,
+      "characters": [
+        "青龙",
+        "金瓶儿",
+        "兽妖"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_394",
+      "event": "金瓶儿低声告诉青龙那个少年就是兽妖，周围妖兽都是其手下，道行很高，道法古怪",
+      "chapter": 157,
+      "characters": [
+        "金瓶儿",
+        "青龙",
+        "兽妖"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_395",
+      "event": "青龙和金瓶儿身后方向传来一声嘶吼，树木倒地声音不绝，二人转头望去",
+      "chapter": 157,
+      "characters": [
+        "青龙",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_396",
+      "event": "白骨蛇妖追击青龙和金瓶儿，二人靠身法躲避并偶尔狙击，蛇妖速度加快逐渐追上，青龙萌生去意",
+      "chapter": 157,
+      "characters": [
+        "青龙",
+        "金瓶儿",
+        "白骨蛇妖"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_397",
+      "event": "青龙和金瓶儿发出清光和紫芒，从侧面击中白骨蛇妖的骨椎，将其打退",
+      "chapter": 157,
+      "characters": [
+        "青龙",
+        "金瓶儿",
+        "白骨蛇妖"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_398",
+      "event": "青龙腾空时发现金瓶儿未跟上，随后黑幕攻击青龙，金瓶儿趁机从黑幕之后飞上天空逃离",
+      "chapter": 157,
+      "characters": [
+        "青龙",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_399",
+      "event": "某一年的春夏时分，从南疆极南处十万大山中蜂拥出无数怪兽异族，嗜血成性，见人就杀，迅速蔓延至整个南疆。南疆五族（苗、壮、土、黎、高山）奋起抵抗但被击溃，中土百姓纷纷往北方逃去，天下修道之士震骇，正魔二道暂时停手。",
+      "chapter": 158,
+      "characters": [
+        "云易岚",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_400",
+      "event": "鬼厉跟着周一仙等人已经一个多月，自己也不知道为什么会一直跟着他们。",
+      "chapter": 158,
+      "characters": [
+        "鬼厉",
+        "周一仙",
+        "小环",
+        "野狗道人",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_401",
+      "event": "野狗道人突起杀心想要暗算鬼厉，被小灰发现阻止，最后鬼厉饶恕了他。",
+      "chapter": 158,
+      "characters": [
+        "野狗道人",
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_402",
+      "event": "鬼厉渐渐清醒，酒醉时间减少，有时整晚不喝酒，经常和小灰坐在一起面向北方出神。",
+      "chapter": 158,
+      "characters": [
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_403",
+      "event": "南方那场浩劫的消息随着向北逃难的百姓涌向北方，渐渐传播开来，周一仙等人知道了这件事。",
+      "chapter": 158,
+      "characters": [
+        "周一仙",
+        "鬼厉",
+        "小环",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_404",
+      "event": "鬼厉烤好一只烤猪，小灰与饕餮争抢，饕餮咬下大部分，小灰只得到一只后腿",
+      "chapter": 159,
+      "characters": [
+        "鬼厉",
+        "小灰",
+        "饕餮"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_405",
+      "event": "饕餮迅速吃完整只烤猪，连骨头不剩，意犹未尽盯着小灰手中的肉骨头",
+      "chapter": 159,
+      "characters": [
+        "饕餮",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_406",
+      "event": "苍松道人在荒野赏月，鬼王突然出现在其身后，苍松发现鬼王三日白头，惊讶询问。",
+      "chapter": 160,
+      "characters": [
+        "苍松道人",
+        "鬼王"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_407",
+      "event": "毒神死后，秦无炎被传命接掌门主之位，但另外几个弟子不肯善罢甘休，为门主之位争吵。",
+      "chapter": 160,
+      "characters": [
+        "秦无炎",
+        "另��几个弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_408",
+      "event": "道玄真人与云易岚议论身后道友私语悲观，云易岚鼓励道玄，道玄提及等普泓上人到来三派联手",
+      "chapter": 161,
+      "characters": [
+        "道玄真人",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_409",
+      "event": "人群中忽地一阵耸动，缠绕漂浮在高耸的通天峰山间的白云深处金光一闪，迅速变大接近峰顶",
+      "chapter": 161,
+      "characters": [
+        "道玄真人",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_410",
+      "event": "金莲绽放，梵音阵阵，天音寺普泓上人率数十位佛门和尚乘金莲而来，道玄真人和云易岚迎接。普泓上人认出云易岚，二人寒暄，提及焚香玉册和玉阳之境。",
+      "chapter": 161,
+      "characters": [
+        "道玄真人",
+        "云易岚",
+        "普泓上人",
+        "普方",
+        "法相",
+        "法善"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_411",
+      "event": "苍松道人到灵柩前供桌，点香插香炉，对灵位行礼；秦无炎在旁观看并还礼道谢。",
+      "chapter": 162,
+      "characters": [
+        "苍松道人",
+        "秦无炎"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_412",
+      "event": "苍松道人展示手腕上的盒子，发出虫鸣，靠近灵位前的盒子时，灵位前的盒子也发出相同声音。苍松道人说出“七尾蜈蚣”，秦无炎重复。秦无炎从颓废变为精干凌厉，灵堂充斥杀机。",
+      "chapter": 162,
+      "characters": [
+        "秦无炎",
+        "苍松道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_413",
+      "event": "道玄真人、普泓上人和云易岚在青云山通天峰玉清殿后堂的一个僻静房间内品茶，谈论兽妖大劫和天下苍生。",
+      "chapter": 163,
+      "characters": [
+        "道玄真人",
+        "普泓上人",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_414",
+      "event": "原本从南方杀入中土的无数兽妖，一直向著北方长驱直入，但近日突然有大批兽妖停止北上，纷纷向西南方向而去，往北的兽妖数目只有原来的四成左右。道玄真人派遣萧逸才、林惊羽等弟子探查，他们昨晚赶回禀告此事。",
+      "chapter": 163,
+      "characters": [
+        "道玄真人",
+        "云易岚",
+        "普泓上人",
+        "萧逸才",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_415",
+      "event": "原本沿路北上进入中土，后突然大批转向西南方向，被推测可能与魔教冲突或魔教异动有关",
+      "chapter": 163,
+      "characters": [
+        "兽妖",
+        "兽神"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_416",
+      "event": "数日前鬼王亲自带领众多弟子出山，但副宗主鬼厉不知去向，幽姬、鬼先生、苍松道人等留下",
+      "chapter": 164,
+      "characters": [
+        "鬼王",
+        "鬼厉",
+        "幽姬",
+        "鬼先生",
+        "苍松道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_417",
+      "event": "鬼厉在寒冰石室门口站了一会，推门进去，看到小白站在碧瑶旁边。鬼厉与小白对话，随后鬼厉在碧瑶身边坐下，小白退出石室。",
+      "chapter": 164,
+      "characters": [
+        "鬼厉",
+        "小白",
+        "碧瑶",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_418",
+      "event": "鬼厉体内噬血珠妖异之力突然爆发，全身冰寒，脸上血色全失，笼罩寒霜，身体周围出现墨绿光芒，有凶悍噬血味道。小白伸手被墨绿光芒吸噬妖力逼退。",
+      "chapter": 164,
+      "characters": [
+        "鬼厉",
+        "九尾天狐"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_419",
+      "event": "道玄真人惊愕地提问，萧逸才确认魔教三大派阀（合欢派、万毒门、鬼王宗）在与兽妖决战之后全军覆没，在西南毒蛇谷发现魔教许多人物尸首，包括三妙夫人，但鬼王宗首要人物未发现几个。",
+      "chapter": 166,
+      "characters": [
+        "道玄真人",
+        "萧逸才"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_420",
+      "event": "萧逸才向道玄真人汇报西南毒蛇谷中魔教尸横遍野，受到重创，包括三妙夫人等合欢派、万毒门人物的尸首已被找到，鬼王宗首要人物未发现几个。",
+      "chapter": 166,
+      "characters": [
+        "萧逸才",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_421",
+      "event": "道玄真人、普泓上人和云易岚低声商量后，道玄真人站起来发言，要求众人做好准备迎接兽妖浩劫",
+      "chapter": 166,
+      "characters": [
+        "道玄真人",
+        "普泓上人",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_422",
+      "event": "小灰大喜蹦跳咧嘴大笑，鬼厉被感染心情变好，笑骂后小灰缩头窜回爬上鬼厉肩头，鬼厉翻动噬魂魔棒感到冰凉犹豫，然后说'人生寂寞，何苦还想那么多？'小灰不明白。",
+      "chapter": 167,
+      "characters": [
+        "小灰",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_423",
+      "event": "鬼厉祭出噬魂魔棒载着一人一猴飞离狐岐山，小灰指向三福镇方向想喝酒吃东西，鬼厉转向三福镇飞去。",
+      "chapter": 167,
+      "characters": [
+        "小灰",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_424",
+      "event": "清晨，鬼厉与少年在三福镇镇口告别。少年说难得相聚，今日别过。鬼厉淡淡道。少年问鬼厉是否北上去看热闹，鬼厉说再说吧。少年说天涯路远，有缘再见。鬼厉还礼。少年大笑转身而去，饕餮跟上去，小灰不舍。鬼厉望着他们消失，然后转身面对三福镇死寂一片。小灰喝酒，鬼厉说走吧。",
+      "chapter": 168,
+      "characters": [
+        "鬼厉",
+        "少年",
+        "小灰",
+        "饕餮"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_425",
+      "event": "田不易在妻子苏茹劝告下，三日前去小竹峰为宋大仁和文敏向水月大师提亲，被水月大师拒绝并冷言讽刺",
+      "chapter": 168,
+      "characters": [
+        "田不易",
+        "苏茹",
+        "水月大师",
+        "文敏",
+        "宋大仁"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_426",
+      "event": "田不易在水月大师拒绝后勃然大怒，与小竹峰山头与水月大师大吵一架，险些动手，后被苏茹拉回大竹峰，水月大师被弟子拦回",
+      "chapter": 168,
+      "characters": [
+        "田不易",
+        "水月大师",
+        "苏茹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_427",
+      "event": "田不易因宋大仁对文敏念念不忘而接连骂他，宋大仁东躲西藏不敢见师父",
+      "chapter": 168,
+      "characters": [
+        "田不易",
+        "宋大仁"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_428",
+      "event": "萧逸才奉恩师道玄之命，询问田不易大竹峰后山的天机印是否一切完好；田不易得知后大惊，并问道玄是否想清楚，还询问其他五脉的天机印情况。",
+      "chapter": 169,
+      "characters": [
+        "萧逸才",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_429",
+      "event": "田不易要萧逸才转告道玄真人关于七脉天机印撤除后戾气宣泄、对持剑人有害的后果。",
+      "chapter": 169,
+      "characters": [
+        "田不易",
+        "萧逸才"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_430",
+      "event": "萧逸才向道玄真人汇报七脉首座均无异议，只有大竹峰的田不易托弟子带话。",
+      "chapter": 169,
+      "characters": [
+        "萧逸才",
+        "道玄真人",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_431",
+      "event": "鬼先生突然出现在僻静的地方，野狗道人大吃一惊，鬼先生认出野狗道人并询问其来意及同伴身份",
+      "chapter": 170,
+      "characters": [
+        "鬼先生",
+        "野狗道人",
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_432",
+      "event": "周一仙、小环和野狗道人拜祭小环的爹后，鬼先生让路，三人快步走出屋子，门自动关上，走到离义庄远处停下交谈。",
+      "chapter": 170,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_433",
+      "event": "周一仙向野狗道人询问鬼先生是什么人物，野狗道人透露了鬼先生的部分信息。",
+      "chapter": 170,
+      "characters": [
+        "周一仙",
+        "野狗道人",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_434",
+      "event": "周一仙、小环和野狗道人在阴森夜里看到屋子中有幽绿冥火，以为被屋中人发现，但冥火静止不动，三人松了口气并产生好奇。周一仙找到缝隙张望，小环和野狗道人也随后张望。屋内没有鬼先生身影，只有幽绿冥火悬在半空，有残破棺材，供桌上有周行云灵位。",
+      "chapter": 171,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_435",
+      "event": "周一仙转身时踢到地下一根棍子，发出声响，随后背后破墙垮塌，绿色幽光涌出",
+      "chapter": 171,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_436",
+      "event": "鬼厉与鬼先生对峙，鬼先生操纵幽冥鬼火，随后地底出现白骨巨臂攻击鬼厉，鬼厉躲避",
+      "chapter": 172,
+      "characters": [
+        "鬼厉",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_437",
+      "event": "鬼先生召唤两只巨大白骨手臂追逐鬼厉，斗法局限在阴宅屋内，鬼厉未还手",
+      "chapter": 172,
+      "characters": [
+        "鬼先生",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_438",
+      "event": "白骨巨臂碎裂成无数锋利骨片，铺天盖地向鬼厉扑来，鬼厉高速落下直扑地面，骨片追下，鬼厉贴地飞向鬼先生所在棺材。",
+      "chapter": 172,
+      "characters": [
+        "鬼厉",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_439",
+      "event": "清晨，天色堪堪才亮的时候，青云山周围地界天空中乌云密布，落下雨滴，雨势从小变大，天地间变做灰蒙蒙一片，淅淅雨声无处不在，高耸山脉笼罩在水雾中。陆雪琪独立窗前看雨，文敏敲门来访，两人在屋中坐下。文敏询问陆雪琪昨晚没睡么。",
+      "chapter": 173,
+      "characters": [
+        "陆雪琪",
+        "文敏"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_440",
+      "event": "陆雪琪因失眠与文敏在屋中交谈，文敏安慰陆雪琪，陆雪琪为连累文敏婚事道歉。",
+      "chapter": 173,
+      "characters": [
+        "文敏",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_441",
+      "event": "前些日子，大竹峰的田师叔和苏茹师叔带着宋大仁亲自上小竹峰提亲，但水月师父当面回绝，并与田师叔大吵了一架。",
+      "chapter": 173,
+      "characters": [
+        "水月",
+        "田师叔",
+        "苏茹师叔",
+        "宋大仁"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_442",
+      "event": "陆雪琪顶撞师父水月，触怒了她，导致水月心情不好，进而连带影响了文敏的婚事。",
+      "chapter": 173,
+      "characters": [
+        "陆雪琪",
+        "水月"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_443",
+      "event": "南疆怪异猛兽在青云山两百里之外的平原聚集，不断有怪兽向天长啸怒吼，夹杂着六、七只巨大妖兽。",
+      "chapter": 174,
+      "characters": [
+        "南疆怪异猛兽",
+        "巨大妖兽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_444",
+      "event": "巨大鸟妖从河阳城头归来，爪子上抓着两个人，在兽群上空盘旋后丢下两人，两人落地后被其他兽妖扑食。",
+      "chapter": 174,
+      "characters": [
+        "巨大鸟妖",
+        "两个人",
+        "南疆怪异猛兽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_445",
+      "event": "正道三大派阀会聚于玉清殿上商议，争论之声不时响起，三大高人低声商议",
+      "chapter": 174,
+      "characters": [
+        "道玄真人",
+        "普泓上人",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_446",
+      "event": "小环说还有诛仙剑阵还有希望，周一仙说小百姓听天由命，并说正道可不要后院起火，小环追问，周一仙怪笑不答。",
+      "chapter": 175,
+      "characters": [
+        "小环",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_447",
+      "event": "鬼厉指出原本约定由他进入幻月洞府吸引注意，鬼先生趁机潜入祖师祠堂毁灵位。",
+      "chapter": 176,
+      "characters": [
+        "鬼厉",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_448",
+      "event": "鬼先生和万剑一在青云山相遇，鬼厉在场，万剑一因心情激荡捏碎手中残破扫把，鬼先生提及当年在西北蛮荒与普智和尚三人相交之事",
+      "chapter": 176,
+      "characters": [
+        "鬼厉",
+        "鬼先生",
+        "万剑一"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_449",
+      "event": "林惊羽冲至万剑一身边，发现他全身骨头碎裂，跪地哭喊询问伤势和凶手",
+      "chapter": 177,
+      "characters": [
+        "林惊羽",
+        "万剑一"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_450",
+      "event": "山顶众人望见黑云深处猎猎风中有一个身着显眼丝绸衣衫的少年负手而立，漠然注视。",
+      "chapter": 177,
+      "characters": [
+        "少年",
+        "山顶的众人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_451",
+      "event": "数百只兽妖被光墙绞碎，但后续兽妖涌来，光墙多处被压出弯曲，有弟子被兽妖扑倒",
+      "chapter": 178,
+      "characters": [
+        "道玄真人",
+        "普泓上人",
+        "云易岚",
+        "萧逸才",
+        "正道中人",
+        "兽妖"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_452",
+      "event": "道玄真人向普泓上人、云易岚看了一眼，两人点头，云易岚表示一切由师兄作主；道玄真人随后让萧逸才去",
+      "chapter": 178,
+      "characters": [
+        "道玄真人",
+        "普泓上人",
+        "云易岚",
+        "萧逸才"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_453",
+      "event": "彷佛无穷无尽的兽妖洪流一波波冲上，以几只巨大妖兽为箭头，撞击正道光幕，光幕摇摇欲坠",
+      "chapter": 179,
+      "characters": [
+        "萧逸才",
+        "陆雪琪",
+        "曾书书",
+        "白骨妖蛇"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_454",
+      "event": "陆雪琪从萧逸才身边冲出，直向白骨妖蛇扑去，曾书书提议帮忙，萧逸才跟上",
+      "chapter": 179,
+      "characters": [
+        "萧逸才",
+        "陆雪琪",
+        "曾书书",
+        "白骨妖蛇"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_455",
+      "event": "陆雪琪凌空出现，手中天琊神剑闪烁着灿烂毫光劈下。白骨妖蛇不避让，张开巨口咬向陆雪琪。陆雪琪天琊神剑光芒更盛，斩断黑气、劈开乌云，砍在白骨妖蛇头下三尺骨骼处，导致骨骼出现裂纹并粉碎。",
+      "chapter": 179,
+      "characters": [
+        "陆雪琪",
+        "白骨妖蛇"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_456",
+      "event": "白骨妖蛇被天琊神剑所伤，骨骼粉碎，发出狂吼，眼眶冒出鬼火般的火焰，愤怒地扑向陆雪琪。",
+      "chapter": 179,
+      "characters": [
+        "白骨妖蛇",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_457",
+      "event": "萧逸才、曾书书、陆雪琪等人同时出手，用法宝仙剑和天琊神剑挡下白骨妖蛇一击，但众人被震开，反震之力将白骨妖蛇头颅打裂一处小骨；白骨妖蛇随后疯狂攻来并喷吐毒气，众人转而围攻",
+      "chapter": 179,
+      "characters": [
+        "萧逸才",
+        "曾书书",
+        "陆雪琪",
+        "白骨妖蛇"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_458",
+      "event": "以萧逸才等为首的精英弟子敌住六只巨大妖兽，虽吃力但稳住局势；普通兽妖被压制，光幕重新稳固",
+      "chapter": 179,
+      "characters": [
+        "萧逸才",
+        "曾书书",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_459",
+      "event": "陆雪琪怔怔望着妖兽尸体，面色苍白；萧逸才叫陆师妹，陆雪琪身子一震，欲言又止后驭剑飞去",
+      "chapter": 180,
+      "characters": [
+        "萧逸才",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_460",
+      "event": "兽神从黑云深处降下半空，万兽嘶吼，黑云中有电芒窜动，云海上的人们和野兽停止厮杀，望向兽神",
+      "chapter": 181,
+      "characters": [
+        "兽神",
+        "饕餮"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_461",
+      "event": "巨大风柱一改缓慢下落趋势，陡然加快速度落向云海，同时无数兽妖嘶吼声更烈。正道中人变色，数个胆大弟子祭出法宝打入风柱，法宝没入其中无声无息。",
+      "chapter": 181,
+      "characters": [
+        "道玄真人",
+        "普泓上人",
+        "正道弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_462",
+      "event": "风柱中飞出数道灰黑色旋风，冲向几位弟子，旋风缠绕住他们并扯入风柱，风柱中闪过血红光芒后无声。",
+      "chapter": 181,
+      "characters": [
+        "道玄真人",
+        "普泓上人",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_463",
+      "event": "从天落下三道毫光，化作道玄真人、普泓上人与云易岚，三人面色凝重。",
+      "chapter": 181,
+      "characters": [
+        "道玄真人",
+        "普泓上人",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_464",
+      "event": "道玄真人等人身形拔高数丈，护体毫光亮起，远离黑气；后道玄挥手令所有长老后退",
+      "chapter": 182,
+      "characters": [
+        "道玄真人",
+        "三位"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_465",
+      "event": "黑云滚动加快，面对道玄真人方向开了一个漆黑小口，小口逐渐扩大，最终一个恐怖恶兽从黑暗中飞扑而出，浑身化为血色。",
+      "chapter": 182,
+      "characters": [
+        "道玄真人",
+        "普泓上人",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_466",
+      "event": "鬼厉与林惊羽在幻月洞府外对峙，林惊羽质问鬼厉为什么杀一个风烛残年的老人。",
+      "chapter": 183,
+      "characters": [
+        "鬼厉",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_467",
+      "event": "林惊羽回忆草庙村惨祸，表达曾视鬼厉为兄弟，但因鬼厉叛入魔教而失望，最终拔剑划下剑痕，宣告一刀两断",
+      "chapter": 183,
+      "characters": [
+        "林惊羽",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_468",
+      "event": "鬼厉与林惊羽关于正道正路的争论，鬼厉质疑正道即正路的说法，林惊羽认为叛弃正道便是堕入迷途，并提及死在其手下的老人对其悉心教导十年，恩重如山",
+      "chapter": 183,
+      "characters": [
+        "鬼厉",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_469",
+      "event": "道玄真人催动诛仙剑阵，紫色气剑一波波冲击黑气，黑气从数十丈被压迫缩小，恶灵逐渐不支，人群欢呼",
+      "chapter": 184,
+      "characters": [
+        "道玄真人",
+        "灵"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_470",
+      "event": "道玄真人与兽神在半空中对峙，脚下正道中人目瞪口呆，道玄真人横诛仙古剑，诛仙剑阵出现天际，道玄真人命兽神束手待擒，兽神冷笑回应要活剥道玄真人。",
+      "chapter": 185,
+      "characters": [
+        "道玄真人",
+        "兽神"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_471",
+      "event": "道玄真人剑诀引处，诛仙剑阵再次发动，七道彩色异芒射入剑阵，凝结成七个巨大单色剑阵，无数气剑攻向兽神。兽神以数百只怪手带着黑气迎击。",
+      "chapter": 185,
+      "characters": [
+        "道玄真人",
+        "兽神"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_472",
+      "event": "道玄真人操纵诛仙剑阵，以七色剑阵轮番轰炸兽神四十九波，兽神正面对撼，最后双方皆显疲态",
+      "chapter": 185,
+      "characters": [
+        "道玄真人",
+        "兽神"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_473",
+      "event": "两人童年好友在幻月洞府周围激战。规模虽小于前山大斗法，但激烈程度有过之而无不及。两人身影忽散忽冲，如狂风暴雨席卷，树木尽倒或连根拔起或当中斩断，大地被强悍术法之力弄得坑坑洼洼。鬼厉道行法力虽高于林惊羽，但二人旗鼓相当。",
+      "chapter": 186,
+      "characters": [
+        "鬼厉",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_474",
+      "event": "林惊羽与鬼厉生死相搏；林惊羽愤而反噬，剑势排山倒海；鬼厉发现心中戾气消退，回复清明",
+      "chapter": 186,
+      "characters": [
+        "林惊羽",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_475",
+      "event": "鬼厉、陆雪琪与林惊羽三人在幻月洞府前相对而立，注意力凝结在倒插在地面的诛仙古剑上，气氛僵硬而微妙；林惊羽欲上前又止步，陆雪琪拉开与鬼厉的距离，鬼厉凝视古剑陷入沉思。",
+      "chapter": 187,
+      "characters": [
+        "鬼厉",
+        "陆雪琪",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_476",
+      "event": "鬼厉冲向诛仙古剑，先被林惊羽以斩龙剑阻挡，法宝相撞；而后在鬼厉黑气逼迫下林惊羽被逼退，陆雪琪以天琊剑再次挡住鬼厉去路。",
+      "chapter": 187,
+      "characters": [
+        "鬼厉",
+        "林惊羽",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_477",
+      "event": "陆雪琪举剑向天刺去，鬼厉从天而下以噬魂当空打下，天琊与噬魂在半空飞舞闪耀碰撞",
+      "chapter": 187,
+      "characters": [
+        "陆雪琪",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_478",
+      "event": "鬼厉骗过林惊羽后化作黑烟向陆雪琪飞来，陆雪琪让出诛仙古剑，用天琊神剑刺向空白地下，溅起鲜血，鬼厉再度化作黑烟后凌空闪现，天琊神剑正插在他肩上",
+      "chapter": 189,
+      "characters": [
+        "陆雪琪",
+        "鬼厉",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_479",
+      "event": "鬼厉在噬血珠闪耀在陆雪琪面容前一刻生生拧回，左手挥动将陆雪琪扫了出去",
+      "chapter": 189,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_480",
+      "event": "曾叔常呼喊所有人停下，青云弟子立刻停住脚步，原本喧闹嘈杂的搜索迅速静了下来",
+      "chapter": 191,
+      "characters": [
+        "曾叔常",
+        "青云弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_481",
+      "event": "曾叔常在这风雨嘈杂中听到鬼厉发出的一点异声，但此刻又怀疑是自己听错或动物跑动所致",
+      "chapter": 191,
+      "characters": [
+        "曾叔常",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_482",
+      "event": "曾叔常命令众弟子分开排成一行，相隔不超过三尺，向前慢慢搜索，不能漏下空隙。曾书书质疑后，曾叔常坚持己见。弟子们排成长蛇缓缓推进，距离鬼厉隐身地两丈时曾叔常突然喊停并望向黑暗深处。",
+      "chapter": 191,
+      "characters": [
+        "曾叔常",
+        "曾书书",
+        "众弟子",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_483",
+      "event": "法相行礼完毕，转身过来，面带平和微笑，道：我看你今日气色不错，而且最近身体也大致回复了，不如我们出去吧！鬼厉反问去哪里，法相说去你想去的地方，见你想见的人。鬼厉提到普泓上人，法相点头说恩师听说你身体恢复，十分欢喜，让我今日过来看看",
+      "chapter": 193,
+      "characters": [
+        "法相",
+        "鬼厉",
+        "普泓上人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_484",
+      "event": "鬼厉和普泓上人站在小屋前，普泓上人拉开布帘推开房门，一股寒气冲出，鬼厉打了个寒战，随后鬼厉也掀帘进入",
+      "chapter": 194,
+      "characters": [
+        "鬼厉",
+        "普泓上人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_485",
+      "event": "普泓上人低低叹息，说‘师弟，我们来看你了，这个人，你想见很久了罢’",
+      "chapter": 194,
+      "characters": [
+        "普泓上人",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_486",
+      "event": "一缕微光白色中带着微微银光，从普泓上人与鬼厉的前方小屋尽头处亮起，随后增多，形成一尺见方左右的圆盘形状，光芒柔和如雪，光线升不过一尺来高，尽头处化作点点雪或白色萤火",
+      "chapter": 194,
+      "characters": [
+        "普泓上人",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_487",
+      "event": "鬼厉与普泓上人听见屋中轻啸，白光盛放照亮屋子，看到纯白寒玉盘上盘坐着普智的遗体，身体缩小一倍，寒玉盘散发幽光森森寒意",
+      "chapter": 194,
+      "characters": [
+        "鬼厉",
+        "普泓上人",
+        "普智"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_488",
+      "event": "法相在山门处发现普智昏倒在地，神志不清，面容憔悴，脸颊通红，后知是因服用了三日必死丸。",
+      "chapter": 195,
+      "characters": [
+        "法相",
+        "普智"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_489",
+      "event": "普智昏迷不醒，气息散乱，中毒且被道行极高的人物击成重伤，油尽灯枯。普泓上人竭尽所能救治，但无法使他清醒。普智强自支撑回天音寺，似有重要事情要交代。",
+      "chapter": 195,
+      "characters": [
+        "普智",
+        "普泓上人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_490",
+      "event": "深夜法相值夜时，本已重伤的普智突然自行醒转，脸色死气颓败，面颊如欲滴血赤红。法相大惊，立刻叫来师父普泓和普方师叔。",
+      "chapter": 195,
+      "characters": [
+        "法相",
+        "普智",
+        "普泓上人",
+        "普方师叔"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_491",
+      "event": "鬼厉（或当年的张小凡）进入普智法身遗体所在小屋，过去一日一夜，无动静",
+      "chapter": 196,
+      "characters": [
+        "鬼厉/当年的张小凡",
+        "普智"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_492",
+      "event": "法相在庭院中眺望西天晚霞，普泓上人出现并与之对话。法相陈述自己站立一日一夜，观繁星青天至夕阳西沉，领悟到人生光阴天地万物渺小如沧海一粟，生有何意；普泓上人肯定其悟性并讲解天命之道；法相进一步提出对天命、佛度众生等疑惑。",
+      "chapter": 196,
+      "characters": [
+        "法相",
+        "普泓上人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_493",
+      "event": "普泓上人与法相在庭院中讨论夕阳西沉与明日朝阳，法相最终有所领悟并喜悦大笑。",
+      "chapter": 196,
+      "characters": [
+        "普泓上人",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_494",
+      "event": "青云之战结束多日，战场逐渐宁静，痕迹被抹去，通天峰上堆积无数尸骸。大竹峰一脉无人死亡但人人挂彩，吴大义、何大智重伤卧床。",
+      "chapter": 197,
+      "characters": [
+        "田不易",
+        "吴大义",
+        "何大智"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_495",
+      "event": "一日早晨，田不易被道玄真人派遣弟子召到通天峰议事，中午回来后脸色阴沉。",
+      "chapter": 197,
+      "characters": [
+        "田不易",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_496",
+      "event": "午时前后，田不易下令让所有大竹峰弟子到守静堂，包括卧床的吴大义与何大智被搀扶到场。",
+      "chapter": 197,
+      "characters": [
+        "田不易",
+        "苏茹",
+        "吴大义",
+        "何大智"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_497",
+      "event": "诛仙神剑损毁，在幻月洞府之外被大竹峰一脉弟子与小竹峰几个女弟子目睹",
+      "chapter": 197,
+      "characters": [
+        "大竹峰一脉弟子",
+        "小竹峰几个女弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_498",
+      "event": "无字玉壁之上出现无数金色古拙字体，时而瑞气升腾，时而又暗红闪烁，庄严肃穆的金光夹带着诡异莫测的红芒",
+      "chapter": 199,
+      "characters": [
+        "鬼厉",
+        "普泓上人",
+        "普方",
+        "众天音寺僧人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_499",
+      "event": "普泓上人长吸一口气，决然道‘此人乃普智师弟传人，更是他一生心血宏愿所在，我们不可不救’，随即重新盘膝坐好，口中颂佛，梵唱又起，身后众僧人跟上，金色光芒再度泛起",
+      "chapter": 199,
+      "characters": [
+        "普泓上人",
+        "普方",
+        "众天音寺僧人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_500",
+      "event": "鬼厉被天音寺僧人佛法大阵镇压，妖力被压制后又突然明亮汹涌，气息更胜从前，引发惊雷和狂风，他仰天长啸，周身光芒转化为黑白二气，冲击金光法阵。",
+      "chapter": 201,
+      "characters": [
+        "鬼厉",
+        "普泓上人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_501",
+      "event": "天幕中出现巨大漩涡，内有电芒，轰然雷声，一道粗大电芒打中金光法阵，法阵散开",
+      "chapter": 201,
+      "characters": [
+        "鬼厉",
+        "普泓上人",
+        "天音寺众僧人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_502",
+      "event": "前日鬼厉再度醒来，普泓上人等人为他细细看过，周身并未有其他大碍，为了以防万一留他在天音寺中多住几日",
+      "chapter": 202,
+      "characters": [
+        "鬼厉",
+        "普泓上人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_503",
+      "event": "鬼厉走到须弥山顶小天音寺，敲门后法相开门，鬼厉询问方丈大师在否，法相让进",
+      "chapter": 204,
+      "characters": [
+        "鬼厉",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_504",
+      "event": "鬼厉向普泓上人行礼，普泓上人称赞其道行大进，鬼厉为损毁无字玉壁致歉，普泓上人表示小事，略讲佛心道理并指窗外大石",
+      "chapter": 204,
+      "characters": [
+        "鬼厉",
+        "普泓上人",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_505",
+      "event": "鬼厉向普泓上人辞别，普泓上人点化他看破世情归入佛门，鬼厉拒绝并离去",
+      "chapter": 204,
+      "characters": [
+        "鬼厉",
+        "普泓上人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_506",
+      "event": "清晨众弟子从卧房走出，望着在守静堂外空地上嬉闹的一猴一狗，露出微笑",
+      "chapter": 205,
+      "characters": [
+        "何大智",
+        "其他弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_507",
+      "event": "大黄对田不易大叫大嚷，表示不满，田不易生气命令杜必书中午宰狗炖肉。",
+      "chapter": 205,
+      "characters": [
+        "大黄",
+        "田不易",
+        "杜必书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_508",
+      "event": "宋大仁收起笑容，严肃地拍杜必书肩膀，说宰狗是师尊交予的重责大任。",
+      "chapter": 205,
+      "characters": [
+        "宋大仁",
+        "杜必书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_509",
+      "event": "杜必书担心违逆师父旨意，宋大仁、吴大义、何大智各有反应，杜必书最后骂师兄们没义气",
+      "chapter": 205,
+      "characters": [
+        "杜必书",
+        "宋大仁",
+        "吴大义",
+        "何大智"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_510",
+      "event": "临近中午时，杜必书抓到满山遍野乱跑的大黄，将其系在厨房门口的树桩上",
+      "chapter": 205,
+      "characters": [
+        "杜必书",
+        "大黄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_511",
+      "event": "周一仙、小环与野狗道人行走在南归的人潮中。周围百姓对面容古怪的人物过敏，野狗道人因此包裹面容。小环常保持笑容。",
+      "chapter": 206,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_512",
+      "event": "小环不顾周一仙劝告，力所能及帮助周围无助百姓：扶起疲乏跌倒者，送衣食给饥寒者，看病弱者，掩埋路旁倒地尸骨。",
+      "chapter": 206,
+      "characters": [
+        "小环",
+        "周一仙",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_513",
+      "event": "小环强行收魂，虽抓到野狗道人魂魄，但激怒冤魂戾气，被鬼气反噬，眼看丧命时鬼先生出手相救。",
+      "chapter": 208,
+      "characters": [
+        "小环",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_514",
+      "event": "小环施展收魂异术，在最后关头被幽魂反噬，鬼先生出手相救，使阵法法力大盛，大法成功。",
+      "chapter": 208,
+      "characters": [
+        "小环",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_515",
+      "event": "小环醒后叫爷爷，周一仙扶起她，她确认野狗道人已活转，发现周围有黑衣人即鬼先生，周一仙解释鬼先生出手相救。",
+      "chapter": 208,
+      "characters": [
+        "小环",
+        "周一仙",
+        "鬼先生",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_516",
+      "event": "鬼厉踏进七里峒，看到残破景象，百姓绝望收拾废墟，发现死者遗骸，气氛哀伤颓败，鬼厉加快脚步离开。",
+      "chapter": 209,
+      "characters": [
+        "鬼厉",
+        "小灰",
+        "苗民"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_517",
+      "event": "鬼厉与金瓶儿在玄火坛中对话，鬼厉询问金瓶儿是否知道八凶玄火法阵相关",
+      "chapter": 210,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_518",
+      "event": "金瓶儿已在玄火坛三日无果，鬼厉与小灰加入。鬼厉提议在此多待些日子寻找八凶玄火法阵，金瓶儿同意。两人在地面法阵图刻前坐下，距离较近。",
+      "chapter": 210,
+      "characters": [
+        "鬼厉",
+        "金瓶儿",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_519",
+      "event": "鬼厉与金瓶儿不约而同向南，到达十万大山之前的荒原，在残阳黑山下凝望山脉",
+      "chapter": 211,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_520",
+      "event": "鬼厉从命令中的恶兽‘饕餮’猜到了自己有过两面之缘的怪异少年就是兽神",
+      "chapter": 211,
+      "characters": [
+        "鬼厉",
+        "兽神"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_521",
+      "event": "鬼厉与金瓶儿决定从黑色森林中行走而过，因为森林上方有黑气，不可御空飞行；森林内树木茂密，雨水从枝叶流淌，两人未打伞，小灰趴在鬼厉肩头",
+      "chapter": 212,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_522",
+      "event": "鬼厉左转急走几步，发现一片亮色，处身之地的乃是一处悬崖，岩石周围大概数尺方圆，并无草木，脚下的却是一片空荡荡的云海，云气翻滚，其中五色斑斓。",
+      "chapter": 212,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_523",
+      "event": "曾书书、陆雪琪、文敏三人从惊愕之中回复过来，对望一眼，眼中都有震骇",
+      "chapter": 213,
+      "characters": [
+        "曾书书",
+        "陆雪琪",
+        "文敏"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_524",
+      "event": "云易岚说听到传言诛仙古剑损毁，曾书书以为是玩笑，陆雪琪和文敏面色苍白",
+      "chapter": 213,
+      "characters": [
+        "云易岚",
+        "曾书书",
+        "陆雪琪",
+        "文敏"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_525",
+      "event": "云易岚询问关于道玄的传言，并自称确信是谣言，陆雪琪、文敏、曾书书皱眉，曾书书转移话题询问兽妖踪迹",
+      "chapter": 213,
+      "characters": [
+        "云易岚",
+        "陆雪琪",
+        "文敏",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_526",
+      "event": "曾书书向云易岚询问兽妖踪迹线索，云易岚看了一眼身后，李洵会意上前表示做向导",
+      "chapter": 213,
+      "characters": [
+        "曾书书",
+        "云易岚",
+        "李洵"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_527",
+      "event": "李洵告知众人焚香谷已追查到失踪兽神的下落，兽神遁入十万大山深处，正向其巢穴而去。",
+      "chapter": 213,
+      "characters": [
+        "李洵",
+        "陆雪琪",
+        "曾书书",
+        "文敏"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_528",
+      "event": "一行十几人站在黑森林前方，需要穿越黑森林去往镇魔古洞，寻找兽妖巢穴",
+      "chapter": 214,
+      "characters": [
+        "李洵",
+        "陆雪琪",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_529",
+      "event": "李洵与曾书书商议请陆雪琪过来讨论接下来如何行动，曾书书去请陆雪琪，陆雪琪回来打断李洵的话，询问十万大山凶险恶地之事",
+      "chapter": 214,
+      "characters": [
+        "曾书书",
+        "李洵",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_530",
+      "event": "在将要进十万大山的时候，文敏突然赶回青云山，原因与云易岚关于诛仙剑损毁的问话有关",
+      "chapter": 214,
+      "characters": [
+        "文敏",
+        "陆雪琪",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_531",
+      "event": "鬼厉和金瓶儿踏上黑色山峰，闻到浓烈硫磺异味，遇到透骨阴风，听到幽幽尖啸声",
+      "chapter": 215,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_532",
+      "event": "金瓶儿觉得情况不对，因为前次跟踪过来时没有这些满山遍野的鬼哭狼嚎和阴风阵阵",
+      "chapter": 215,
+      "characters": [
+        "金瓶儿",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_533",
+      "event": "金瓶儿与鬼厉讨论对付兽神、狐岐山救碧瑶等事，小灰对金瓶儿笑后吐出黑乎乎的东西",
+      "chapter": 215,
+      "characters": [
+        "金瓶儿",
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_534",
+      "event": "小灰用野果果核砸向金瓶儿，金瓶儿躲开，果核直接砸进地上；金瓶儿向鬼厉抱怨，小灰愤怒反应。",
+      "chapter": 215,
+      "characters": [
+        "金瓶儿",
+        "小灰",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_535",
+      "event": "田不易早晨到祖师祠堂找人，遇到守候在外的林惊羽，林惊羽称掌门道玄在里面并命其守候",
+      "chapter": 216,
+      "characters": [
+        "田不易",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_536",
+      "event": "田不易来到祖师祠堂，欲进去找掌门师兄；林惊羽试图阻止，田不易声明自己不是通天峰门下弟子，最终迈步进入祠堂。",
+      "chapter": 216,
+      "characters": [
+        "田不易",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_537",
+      "event": "鬼厉问凶灵是否是当年追随玲珑巫女深入十万大山的南疆七英雄中的黑虎，凶灵呆住",
+      "chapter": 217,
+      "characters": [
+        "鬼厉",
+        "凶灵（黑虎）"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_538",
+      "event": "凶灵黑虎凝视鬼厉许久后低头说多谢，鬼厉向后退半步合眼微欠身还礼。",
+      "chapter": 217,
+      "characters": [
+        "黑虎",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_539",
+      "event": "玉清殿内纷乱脚步、压抑窃窃私语、吵闹之声越来越大且往玉清殿接近，萧逸才闻讯赶来询问，得知是大竹峰苏茹师叔在喧哗",
+      "chapter": 218,
+      "characters": [
+        "萧逸才",
+        "苏茹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_540",
+      "event": "苏茹在玉清殿外喧哗，发出清啸，后打翻十几个人影进入大殿，震慑全场",
+      "chapter": 218,
+      "characters": [
+        "萧逸才",
+        "苏茹",
+        "曹师弟",
+        "徐师弟",
+        "旁边众人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_541",
+      "event": "苏茹在玉清殿上对年轻弟子出手，致其皮外轻伤，随后目光冰冷扫视众人，最终落在萧逸才身上，对萧逸才的问候不予理会。",
+      "chapter": 218,
+      "characters": [
+        "苏茹",
+        "萧逸才"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_542",
+      "event": "祖师祠堂大门被打烂，窗户掉落，千疮百孔，供桌被劈成两半，灵位散落满地",
+      "chapter": 219,
+      "characters": [
+        "苏茹",
+        "水月大师",
+        "阳长老",
+        "范长老",
+        "通天峰众弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_543",
+      "event": "通天峰众弟子和苏茹等人纷纷快步赶到祖师祠堂，看到破坏景象愕然停下",
+      "chapter": 219,
+      "characters": [
+        "苏茹",
+        "水月大师",
+        "阳长老",
+        "范长老",
+        "通天峰众弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_544",
+      "event": "传来轻响，阳长老判断来自供桌背后，苏茹叫‘不易，是你么？’，弟子翻开供桌，发现林惊羽",
+      "chapter": 219,
+      "characters": [
+        "阳长老",
+        "苏茹",
+        "林惊羽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_545",
+      "event": "青云门祖师���堂沦为这等景象，千年来从未有之事，青云门中最重要的两个人似乎随之失踪",
+      "chapter": 219,
+      "characters": [
+        "林惊羽",
+        "苏茹",
+        "水月大师",
+        "阳长老",
+        "萧逸才",
+        "范长老",
+        "掌门师兄",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_546",
+      "event": "兽神和女子在山洞中对话，兽神提及相识时长和死亡话题，女子质疑其非人，火焰变化，八幅凶神图案显现后消失。",
+      "chapter": 220,
+      "characters": [
+        "兽神",
+        "女子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_547",
+      "event": "鬼厉和金瓶儿已经进入镇魔古洞很深的地方，洞穴阴暗潮湿，道路弯曲。鬼厉停下脚步，提醒金瓶儿呼吸声乱了，金瓶儿调整后继续前行。",
+      "chapter": 221,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_548",
+      "event": "金瓶儿和鬼厉在镇魔古洞中前行，阴风逐渐减弱，周围出现人为砌造痕迹，道路平整，无腥臭之气，无骷髅，转了一个弯",
+      "chapter": 221,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_549",
+      "event": "黑暗如无形墙反弹噬魂光亮，鬼厉与金瓶儿闪避后原立身处炸开两个大洞。黑暗扑来，鬼厉用右手插入黑暗，扯开七个口子透出青光，黑暗发出痛苦咆哮后散开，露出两只红色眼睛。",
+      "chapter": 221,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_550",
+      "event": "众人走不到河阳城，找不到人家，可能要在野外露宿。周一仙环顾四周昏暗，无人家也无破庙。",
+      "chapter": 222,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_551",
+      "event": "周一仙因小环看鬼道之书而不悦，每次劝说都被小环以‘这门妖邪之术救人的法子多的很，比你的相术强’反驳。此刻周一仙再次喝止，小环不耐烦地回应是爷爷看相算命导致走慢。",
+      "chapter": 222,
+      "characters": [
+        "周一仙",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_552",
+      "event": "野狗道人指出这里找不到人家借宿，询问周一仙附近是否有破庙可对付一宿。周一仙哼了一声。",
+      "chapter": 222,
+      "characters": [
+        "周一仙",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_553",
+      "event": "周一仙想起河阳城外这个方向有间屋子，但记不清具体是什么；三人顺着路边发现一条几乎隐没的小路通向荒野深处",
+      "chapter": 222,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_554",
+      "event": "黑暗深处闪出白光，迅疾飞向鬼厉与金瓶儿，穿过鬼厉身旁直打向金瓶儿",
+      "chapter": 223,
+      "characters": [
+        "鬼厉",
+        "金瓶儿"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_555",
+      "event": "周一仙、小环、野狗道人三人被一名身穿青云门道袍的神秘人物堵在废弃义庄门口，无法出去。",
+      "chapter": 224,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人",
+        "神秘人物"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_556",
+      "event": "周一仙、小环、野狗道人深夜散步误入义庄，遇到一个黑色人影。周一仙起初震骇，后因人影未伤害他们而胆子变大，试图对话但说错话（义庄是死人居所），改口想离开，却被黑影挡住去路。小环因害怕叫出声并后退。",
+      "chapter": 224,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人",
+        "黑色人影"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_557",
+      "event": "野狗道人用兽牙法宝攻击面目笼罩在阴影中的人影，击中胸口但人影未晃动",
+      "chapter": 224,
+      "characters": [
+        "野狗道人",
+        "面目笼罩在阴影中的人影"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_558",
+      "event": "文敏从南疆赶回，与陆雪琪商议后认为有事非同小可，由文敏先回来禀告师父和诸位长老，陆雪琪留在南疆见机行事。",
+      "chapter": 225,
+      "characters": [
+        "文敏",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_559",
+      "event": "水月大师劝苏茹去床上躺一会，安慰她不要太过担忧，提及田不易和道玄同时不见",
+      "chapter": 225,
+      "characters": [
+        "水月大师",
+        "苏茹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_560",
+      "event": "神秘人物在废弃义庄击败周一仙的法术，展示出高深道行和凶戾之气，呼吸变得沉重，眼神凶狠，似乎要采取行动。",
+      "chapter": 226,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人",
+        "神秘人物"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_561",
+      "event": "周一仙和小环与神秘人相遇，小环挺身挡在神秘人面前，催促爷爷快走，随即施展鬼道之术发动攻击。",
+      "chapter": 226,
+      "characters": [
+        "周一仙",
+        "小环",
+        "神秘人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_562",
+      "event": "小环第一次施展鬼道法术，经由血玉骨片催化，凝聚黑气化为巨大黑色骷髅头，骷髅眼中镶入血玉骨片后红光闪烁，从口中喷射鬼箭攻击神秘人",
+      "chapter": 226,
+      "characters": [
+        "小环",
+        "神秘人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_563",
+      "event": "陆雪琪、曾书书、李洵及十几个焚香谷弟子站在离镇魔古洞十数丈远之外的地方，向洞穴方向眺望，观察后决定过去。",
+      "chapter": 227,
+      "characters": [
+        "陆雪琪",
+        "曾书书",
+        "李洵",
+        "十几个焚香谷弟子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_564",
+      "event": "黑木疾声让大哥先不要出来听他说，凶灵黑虎冷笑并质问，黑木解释来人目的，凶灵黑虎最后散去烟雾",
+      "chapter": 227,
+      "characters": [
+        "黑木",
+        "凶灵黑虎"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_565",
+      "event": "兽神问鬼厉是否来杀他，鬼厉摇头；兽神追问为何不想杀，鬼厉表示十年之前会为天下苍生除害，现在觉得天下苍生与自己无关，毕生心愿只是平凡过一辈子。兽神听后神情庄重并带有迷惘。",
+      "chapter": 228,
+      "characters": [
+        "兽神",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_566",
+      "event": "兽神问鬼厉想要什么，鬼厉回答不知道并提及往事；兽神问是否后悔，鬼厉说后悔也没用；两人陷入沉默追忆往事。",
+      "chapter": 228,
+      "characters": [
+        "鬼厉",
+        "兽神"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_567",
+      "event": "兽神问鬼厉活着是为了什么，鬼厉回答后兽神自言自语，鬼厉随后说明来意是为饕餮",
+      "chapter": 228,
+      "characters": [
+        "兽神",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_568",
+      "event": "金瓶儿疲累之身面对李洵及众焚香谷弟子，李洵指责金瓶儿害了燕虹并率先出手，金瓶儿施放紫芒法术被李洵挡下，威力出乎意料地弱",
+      "chapter": 229,
+      "characters": [
+        "金瓶儿",
+        "李洵",
+        "众焚香谷弟子",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_569",
+      "event": "金瓶儿术法消散后消失于黑暗，李洵愤恨并带头追去，曾书书随后跟上",
+      "chapter": 229,
+      "characters": [
+        "金瓶儿",
+        "李洵",
+        "曾书书",
+        "焚香谷众人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_570",
+      "event": "赤焰魔兽喷吐火焰使石室变为火海，鬼厉消失后出现在火海上空，避开烈焰并手持噬魂魔棒，猴子小灰对魔兽咆哮，赤焰魔兽腾空冲向鬼厉，鬼厉未闪避。",
+      "chapter": 230,
+      "characters": [
+        "鬼厉",
+        "猴子小灰",
+        "赤焰魔兽"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_571",
+      "event": "鬼厉面对赤焰魔兽的扑击，非但不退反而迎上，噬魂魔棒刺向赤焰魔兽头颅；噬血珠表面血丝亮起，青色光芒大盛并出现红色；周围温度瞬间冷却，赤焰魔兽本能的感到畏惧但仍发出咆哮咬下",
+      "chapter": 230,
+      "characters": [
+        "鬼厉",
+        "赤焰魔兽",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_572",
+      "event": "鬼厉将噬魂魔棒深深刺进赤焰魔兽嘶吼的口中，噬魂魔棒红色火光充斥，将赤焰魔兽的精华尽数吸来，赤焰魔兽从半空中颓然摔下，石室里火焰迅速消散，温度下降，鬼厉身上散发极冷冰寒",
+      "chapter": 230,
+      "characters": [
+        "鬼厉",
+        "赤焰魔兽",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_573",
+      "event": "脚下大地开始微微颤抖，轰鸣雷声从洞中传出；天空黑云层射出一道金色光芒，黑云边缘透出金色光边，云层疯狂涌动；阴风消失，转为炽热热浪",
+      "chapter": 231,
+      "characters": [
+        "黑木",
+        "凶灵黑虎"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_574",
+      "event": "黑虎低声指出‘是火龙，八荒火龙’，并解释因有人领悟了娘娘全部巫法咒文且八凶玄火法阵在此，故能召唤八荒火龙。黑木提及此火龙曾将‘他’焚灭，黑虎转述娘娘遗言：火龙复生降临便是冤孽结束之时。",
+      "chapter": 231,
+      "characters": [
+        "黑虎",
+        "黑木"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_575",
+      "event": "李洵等焚香谷弟子惹到白衣女子，白衣女子施展古怪道术，白色光球衍生无数，横冲直撞，困住众人。",
+      "chapter": 231,
+      "characters": [
+        "李洵",
+        "白衣女子",
+        "焚香谷弟子",
+        "曾书书"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_576",
+      "event": "八荒火龙发出龙吟，喷吐巨焰，地面崩溃变作熔岩地狱，鬼厉与陆雪琪共同面对。鬼厉施展融合佛门、魔教、道家等多种法门的法术以应对。",
+      "chapter": 232,
+      "characters": [
+        "鬼厉",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_577",
+      "event": "八荒火龙发出炽热烈焰撞向鬼厉，鬼厉用噬魂防御，金、青、红三色光芒形成无形之壁，挡下攻击，但鬼厉身体异样火烫、颤抖。",
+      "chapter": 232,
+      "characters": [
+        "鬼厉",
+        "八荒火龙",
+        "陆雪琪",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_578",
+      "event": "天琊出鞘，蓝光泛起，陆雪琪踏上一步将鬼厉挡在身后，决然面对八荒火龙",
+      "chapter": 232,
+      "characters": [
+        "陆雪琪",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_579",
+      "event": "云易岚和上官策站在山河殿大门里，向南方天际眺望十万大山深处的巨大火柱",
+      "chapter": 233,
+      "characters": [
+        "云易岚",
+        "上官策"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_580",
+      "event": "黄昏后，远方天际异象模糊，虫鸣声起，云易岚转身走回山河殿，上官策跟随，两人在殿内坐下交谈，云易岚提及有人毁去镇魔古洞并杀死妖孽，上官策回应提及道玄重创兽神之事",
+      "chapter": 233,
+      "characters": [
+        "云易岚",
+        "上官策"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_581",
+      "event": "上官策说或许‘焚香玉册’上还有什么其他的法子，被云易岚哼了一声而住口。",
+      "chapter": 233,
+      "characters": [
+        "上官策",
+        "云易岚"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_582",
+      "event": "云易岚说焚香谷中的秘密只有他和上官策最清楚，祖师因发现上古南疆巫族的遗迹‘玄火坛’而在南疆焚香谷开宗立派，得到奇诡强大的巫法之秘。",
+      "chapter": 233,
+      "characters": [
+        "云易岚",
+        "上官策"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_583",
+      "event": "文敏推开屋门进入小屋，与陆雪琪交谈，劝解她不要责怪师父并多去拜见",
+      "chapter": 234,
+      "characters": [
+        "陆雪琪",
+        "文敏"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_584",
+      "event": "文敏与陆雪琪在窗边并肩看雨，文敏感慨好久没一起看雨，陆雪琪回忆起儿时文敏照顾她的往事，文敏感叹陆雪琪已长大。",
+      "chapter": 234,
+      "characters": [
+        "文敏",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_585",
+      "event": "鬼王步伐稳重平和地走向饕餮，踏入三尺距离内，饕餮狂吼扑向鬼王，狂风骤起，桌椅被刮出",
+      "chapter": 235,
+      "characters": [
+        "鬼王",
+        "饕餮",
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_586",
+      "event": "饕餮巨大的身躯向鬼王扑去，鬼王扬手臂，暗红光辉弥漫，低沉咆哮，饕餮畏惧后退。",
+      "chapter": 235,
+      "characters": [
+        "饕餮",
+        "鬼王"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_587",
+      "event": "鬼厉进入寒冰石室，向一个身影（疑似幽姬）道歉，表示不会再与鬼王动手。",
+      "chapter": 236,
+      "characters": [
+        "鬼厉",
+        "幽姬"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_588",
+      "event": "鬼厉在寒冰石室中面对幽姬的背影，承诺将来让着鬼王几分，幽姬背影似点头赞许。随后鬼厉欲走向寒冰石台看碧瑶，但发现幽姬背影未戴蒙面黑纱且发式异常。",
+      "chapter": 236,
+      "characters": [
+        "鬼厉",
+        "幽姬"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_589",
+      "event": "鬼厉在寒冰石室中看到一个神秘背影，周围有轻烟旋转，铃铛声响起；随后幽姬打开石门进入，斥责鬼厉；鬼厉回身发现一切恢复正常，背影消失，碧瑶依旧躺在石台上。",
+      "chapter": 236,
+      "characters": [
+        "鬼厉",
+        "幽姬",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_590",
+      "event": "百年之前，魔教猖獗，势力强盛，欲一举荡平正道，入侵青云。经过惨烈搏杀，青云前辈祖师请动诛仙古剑，祭出诛仙剑阵，反败为胜。",
+      "chapter": 237,
+      "characters": [
+        "魔教",
+        "前辈祖师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_591",
+      "event": "此战后青云元气大伤，万剑一自告奋勇，豪情万丈，要除恶殆尽，追杀魔教余孽。他带领苏茹、田不易、曾叔常、商正梁、天云、苍松等日后的各脉首座，纵横天下，远赴蛮荒，一路腥风血雨。",
+      "chapter": 237,
+      "characters": [
+        "万剑一",
+        "苏茹师妹",
+        "田不易",
+        "曾叔常",
+        "商正梁",
+        "天云",
+        "苍松"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_592",
+      "event": "深夜，苏茹与田不易偷偷跑到通天峰后山祖师祠堂附近幽会，被水月大师跟踪并喝止",
+      "chapter": 237,
+      "characters": [
+        "水月大师",
+        "苏茹",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_593",
+      "event": "水月大师回忆昔日与另外两人在祖师祠堂外躲藏，目睹一道人影冲出，状若疯癫，随后道玄和万剑一从祠堂掠出跪在其面前。",
+      "chapter": 237,
+      "characters": [
+        "水月大师",
+        "陆雪琪",
+        "道玄师兄",
+        "万剑一师兄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_594",
+      "event": "巨大的灵兽躯体被囚禁在血水之中，包括夔牛、黄鸟、饕餮、烛龙。伏龙鼎悬于血池上空五丈处，鼎脚发射淡紫夹红的光芒照射四只异兽，从它们身上吸取充沛灵力。",
+      "chapter": 238,
+      "characters": [
+        "夔牛",
+        "黄鸟",
+        "饕餮",
+        "烛龙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_595",
+      "event": "鬼先生对鬼王说伏龙鼎鼎身铭文确有其事，四灵聚齐而混沌即开，四灵血阵已成，需等待七七四十九日伏龙鼎收聚四灵灵力，混沌之力开天辟地重开修罗之门",
+      "chapter": 238,
+      "characters": [
+        "鬼先生",
+        "鬼王"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_596",
+      "event": "水月大师回忆起道玄师兄和万师兄的对话，内容涉及历代青云门掌教真人会在清醒时将弑师秘密告知下一代传位弟子。",
+      "chapter": 239,
+      "characters": [
+        "水月大师",
+        "道玄",
+        "万师兄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_597",
+      "event": "水月大师推测道玄师兄未将秘密告诉萧逸才的原因有二：一是被诛仙古剑魔灵反噬前未能告知；二是自恃道行深厚以为能抵挡魔灵。",
+      "chapter": 239,
+      "characters": [
+        "道玄",
+        "萧逸才",
+        "水月大师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_598",
+      "event": "陆雪琪在荒废的路上遇到三三两两的樵夫，老樵夫主动搭话询问她是否迷路，陆雪琪停下脚步感到心中暖和",
+      "chapter": 239,
+      "characters": [
+        "陆雪琪",
+        "老樵夫",
+        "其他樵夫"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_599",
+      "event": "巫妖和上官策在河阳城外一前一后掠过，从上场开始这场追逐从南疆到中土已经旷日持久。",
+      "chapter": 240,
+      "characters": [
+        "巫妖",
+        "上官策"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_600",
+      "event": "巫妖被上官策紧追不舍，试图逃脱但屡被看破，地势渐平坦，巫妖发现远处有鬼气。",
+      "chapter": 240,
+      "characters": [
+        "巫妖",
+        "上官策"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_601",
+      "event": "巫妖大喜过望，急转掠向荒野深处，上官策追踪。巫妖又拉开距离，上官策继续追。巫妖到达一处阴气极盛的废弃义庄。",
+      "chapter": 240,
+      "characters": [
+        "巫妖",
+        "上官策"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_602",
+      "event": "小白用阴魅刺中上官策背部，致其受伤，随后从屋顶飘下与上官策对峙",
+      "chapter": 241,
+      "characters": [
+        "上官策",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_603",
+      "event": "小白与上官策在义庄内面对面，夜风萧萧，阴气大盛，双方有言语交锋",
+      "chapter": 241,
+      "characters": [
+        "上官策",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_604",
+      "event": "小白没有立刻动手，而是饶有兴趣地打量上官策，故意拖延时间，不让他有机会运功疗伤。上官策恼怒质问，小白表示自己有大把时间，慢慢看着上官策。",
+      "chapter": 241,
+      "characters": [
+        "上官策",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_605",
+      "event": "小白被焚香谷一众人囚禁在玄火坛多年，后被鬼厉无意中解开封印逃脱。",
+      "chapter": 241,
+      "characters": [
+        "小白",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_606",
+      "event": "上官策伤势大发，全身颤抖，脸上青筋爆起，双眼翻白，向小白跪地求饶。",
+      "chapter": 241,
+      "characters": [
+        "小白",
+        "上官策"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_607",
+      "event": "周一仙看去全身上下都蒙上了一层尘土，似乎在那个棺材里躺了不短的一段时间，被小白发现并询问为何在棺材里，周一仙回答是被抓住扔进去的。",
+      "chapter": 242,
+      "characters": [
+        "周一仙",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_608",
+      "event": "小白向小黑屋看了一眼，问周一仙旁边两具棺材里的人是谁，周一仙回答左边是孙女小环，右边是野狗道人。",
+      "chapter": 242,
+      "characters": [
+        "小白",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_609",
+      "event": "周一仙向小白作揖恳求，既然救了他，也顺带救小环和野狗道人。小白耸了耸肩向屋子走了两步，忽然皱眉，转身看向周一仙，面上多了几分异样。",
+      "chapter": 242,
+      "characters": [
+        "周一仙",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_610",
+      "event": "小白盯着周一仙，问他刚才叫自己什么，周一仙倒退一步，露出后悔之色。小白打量他几眼，说‘我倒是小看你了啊，居然能看破我的身份’。周一仙苦着脸拱手道歉，称‘姑娘恕罪’。",
+      "chapter": 242,
+      "characters": [
+        "小白",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_611",
+      "event": "周一仙提议立刻离开，小环坚决反对，认为不应丢下被魔头擒住的人，小白好奇走近询问。",
+      "chapter": 242,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_612",
+      "event": "小环说魔头身份看不出来，道行深不可测，将他们锁在棺材里，三、五日出现一回；救他们的人就在里面屋子角落的棺材里",
+      "chapter": 243,
+      "characters": [
+        "小环",
+        "陆雪琪",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_613",
+      "event": "陆雪琪向黑深深的废弃屋子走去，小环喊小心，陆雪琪回头微笑点头，随后踏上布满青苔的石阶。",
+      "chapter": 243,
+      "characters": [
+        "陆雪琪",
+        "小环"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_614",
+      "event": "陆雪琪慢慢接近棺材，发现棺材内有两人，周围有阴晦屏障，气血翻腾，冰凉感觉侵来。",
+      "chapter": 243,
+      "characters": [
+        "陆雪琪",
+        "巫妖",
+        "神秘胖子"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_615",
+      "event": "环在周一仙催促下向田不易告别，与周一仙、野狗道人向外走；途中环发现巫妖穿着与自己师父一样，周一仙让其别理，三人离开",
+      "chapter": 244,
+      "characters": [
+        "环",
+        "周一仙",
+        "野狗道人",
+        "田不易",
+        "巫妖"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_616",
+      "event": "田不易咳嗽，陆雪琪询问，田不易摇手示意无碍；陆雪琪建议回青云，田不易询问大竹峰和苏茹情况，陆雪琪回答一切都好。",
+      "chapter": 244,
+      "characters": [
+        "田不易",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_617",
+      "event": "陆雪琪发现田不易面容憔悴，有若隐若现的黑气，担忧其被诡异妖法所伤。",
+      "chapter": 244,
+      "characters": [
+        "陆雪琪",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_618",
+      "event": "田不易认为老七十年前并未犯错，反出青云是阴差阳错，自己不愿意当作没收过这个弟子，决定只要老七还认他，就要管这件事。陆雪琪对此感到又惊又喜。",
+      "chapter": 245,
+      "characters": [
+        "田不易",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_619",
+      "event": "周一仙说‘若不是在这青云山下，你还看不到呢’后，自觉失言，转移话题。",
+      "chapter": 245,
+      "characters": [
+        "周一仙",
+        "小环",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_620",
+      "event": "田不易转身对神秘人冷冷说：‘他们二人也都是我青云门下的弟子，你既然敢做了这些事，莫非还不敢见他们麽？’",
+      "chapter": 246,
+      "characters": [
+        "田不易",
+        "神秘人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_621",
+      "event": "田不易断然称鬼厉为大竹峰座下第七弟子，并称呼神秘人为‘道玄师兄’，神秘人随后散开黑气露出真容",
+      "chapter": 246,
+      "characters": [
+        "田不易",
+        "神秘人",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_622",
+      "event": "道玄真人看着田不易问‘你要杀我？’，田不易答‘是’，道玄真人又问‘你杀得了我么？’，田不易答‘杀不了也要杀’",
+      "chapter": 246,
+      "characters": [
+        "道玄真人",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_623",
+      "event": "道玄真人说当年看出青云门下这一辈中，除了自己和万剑一，田不易是人才胆识第一人",
+      "chapter": 246,
+      "characters": [
+        "道玄真人",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_624",
+      "event": "鬼厉使用噬魂魔棒攻击道玄真人；道玄真人先是以周身黑气抵挡，随后右手伸出，凌空虚划出阴阳太极图，形成气流漩涡；噬魂击中太极图，被逼退三尺后无力向前；鬼厉收回噬魂，道玄以阴阳太极图反攻。",
+      "chapter": 247,
+      "characters": [
+        "鬼厉",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_625",
+      "event": "鬼厉身影忽隐忽现躲避太极图追击，但最终被太极图追近，太极图一击成空，鬼厉消失，太极图散落",
+      "chapter": 247,
+      "characters": [
+        "鬼厉",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_626",
+      "event": "道玄真人冲天而起，同时义庄庭院地下震动，沙石泥土和破败屋子被卷成巨大土流追向道玄真人",
+      "chapter": 247,
+      "characters": [
+        "鬼厉",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_627",
+      "event": "土龙洪流与黑色气墙激烈碰撞，产生电光惊雷和巨力风力，黑色气墙最终压下土龙洪流",
+      "chapter": 247,
+      "characters": [
+        "鬼厉",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_628",
+      "event": "陆雪琪发现田不易并非发胖，而是因为衣服绷紧，长袍背后裂开，露出插在背上的古朴剑柄",
+      "chapter": 248,
+      "characters": [
+        "田不易",
+        "陆雪琪",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_629",
+      "event": "刚才还斗法斗得惊天动地的局面凝固了，鬼厉与陆雪琪茫然望着田不易，道玄真人没有偷袭",
+      "chapter": 248,
+      "characters": [
+        "鬼厉",
+        "陆雪琪",
+        "道玄真人",
+        "田不易"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_630",
+      "event": "血池之水沸腾，不断冒出气泡并传出破裂声音，气泡数量多且速度快，血腥气息浓烈十倍。四大灵兽被禁锢在血水中，饕餮无精打采。",
+      "chapter": 249,
+      "characters": [
+        "鬼王",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_631",
+      "event": "伏龙鼎从血池和四大灵兽身上吸取灵气妖力，透出红光，呈现通透微显淡黄的琥珀颜色，有庄严之象，鼎身铭文文字一个个已（片段结束未完整）",
+      "chapter": 249,
+      "characters": [
+        "鬼王",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_632",
+      "event": "小灰来到厨房，看到睡在茅草堆上的大黄，犹豫是否叫醒它。大黄醒来发现小灰，兴奋地与它打闹。小灰拍大黄脑袋指屋外，大黄载着小灰跑出厨房，在守静堂看到跪着的人影。",
+      "chapter": 250,
+      "characters": [
+        "大黄",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_633",
+      "event": "灰毛猴子小灰从窗外跳进来，看到鬼厉醒来高兴，跳到床上，拿出野果要给鬼厉分享，鬼厉拒绝后小灰自己蹲在桌子上吃野果。",
+      "chapter": 251,
+      "characters": [
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_634",
+      "event": "门外脚步声传来，门被推开，大师兄走进来，与鬼厉对视并交谈，鬼厉称其大师兄",
+      "chapter": 251,
+      "characters": [
+        "鬼厉",
+        "大师兄"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_635",
+      "event": "十年后宋大仁与鬼厉在峰上初次相见，宋大仁询问鬼厉的近况和伤势，鬼厉询问是否还被认作师弟",
+      "chapter": 251,
+      "characters": [
+        "宋大仁",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_636",
+      "event": "文敏两次去过陆雪琪住处，陆雪琪都不在，其他姐妹也无人看见其踪影。文敏向水月大师报告，水月大师表示陆雪琪向来知道轻重，若下山必会知会，推测另有原因，后让文敏自行修行。",
+      "chapter": 252,
+      "characters": [
+        "文敏",
+        "水月大师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_637",
+      "event": "水月大师听说文敏寻不到陆雪琪，料想她在望月台，于是从竹舍出发，沿小路走到望月台，看到陆雪琪站在悬崖边的巨石上，山风吹动白衣。",
+      "chapter": 252,
+      "characters": [
+        "水月大师",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_638",
+      "event": "陆雪琪在巨石上，水月大师来到她身后。水月大师关心陆雪琪，提及自己将秘密告知并让她下山，但陆雪琪不得不出手杀了被诛仙古剑制住的大竹峰田师叔。陆雪琪表示不怨恨师父，并认为田师叔也让她出手。",
+      "chapter": 252,
+      "characters": [
+        "陆雪琪",
+        "水月大师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_639",
+      "event": "陆雪琪来祭奠田师叔并拜见苏如师叔，宋大仁接待并告知师娘去了后山竹林，小师弟也去了后山",
+      "chapter": 253,
+      "characters": [
+        "陆雪琪",
+        "宋大仁",
+        "何大智",
+        "师娘",
+        "小师弟"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_640",
+      "event": "吴大义担心陆雪琪去后山，何大智认为她肯定要去，宋大仁分析她可能去后山看师娘",
+      "chapter": 253,
+      "characters": [
+        "吴大义",
+        "何大智",
+        "宋大仁"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_641",
+      "event": "鬼厉心急如焚全力掠去，道路两侧草木倾倒，后山竹林里寻找苏茹，听到大黄吠声，从山下石阶冲天而起，看到两个洞穴和两堆湿泥土，苏茹扑在田不易胸口一动不动，大黄对着苏茹狂吠，鬼厉叫师娘无回应，靠近苏茹身体",
+      "chapter": 254,
+      "characters": [
+        "鬼厉",
+        "苏茹",
+        "田不易",
+        "大黄",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_642",
+      "event": "地面多了两个一人多长宽的洞穴，旁边堆着两堆泥土，泥土带着湿气，推测是苏茹自行挖掘",
+      "chapter": 254,
+      "characters": [
+        "鬼厉",
+        "苏茹"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_643",
+      "event": "各脉同门前来大竹峰悼念，田灵儿哭成泪人，水月大师最伤心，但道玄真人未到场，大竹峰弟子对长门弟子冷淡",
+      "chapter": 254,
+      "characters": [
+        "田灵儿",
+        "水月大师",
+        "宋大仁",
+        "萧逸才",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_644",
+      "event": "入夜时分，鬼厉和周一仙站在河阳城头，周一仙饮酒后丢弃酒壶，鬼厉观察城墙上的爪痕。",
+      "chapter": 255,
+      "characters": [
+        "鬼厉",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_645",
+      "event": "鬼厉在城墙上触摸兽妖留下的深深爪痕，与周一仙讨论河阳城百姓被兽妖杀害之事，周一仙称至少五成百姓无辜丧生。鬼厉质疑为何百姓横祸，周一仙以‘众生平等’和‘道法可避’作答。",
+      "chapter": 255,
+      "characters": [
+        "鬼厉",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_646",
+      "event": "鬼厉与周一仙在明月下对话，鬼厉表达对自己的迷茫，不知为何活着，想要什么。周一仙称鬼厉错了。",
+      "chapter": 255,
+      "characters": [
+        "鬼厉",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_647",
+      "event": "周一仙与鬼厉讨论生死，周一仙认为田不易夫妇死而无憾，鬼厉怕死因为心愿未了",
+      "chapter": 256,
+      "characters": [
+        "周一仙",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_648",
+      "event": "文敏在精舍外遇到陆雪琪，询问她是否回去，陆雪琪表示想走走，文敏嘱咐小心后离开。陆雪琪独自在竹林散步，不知不觉走到后山望月台。",
+      "chapter": 257,
+      "characters": [
+        "文敏",
+        "陆雪琪"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_649",
+      "event": "南疆各族百姓无言地重建家园，金人在七里峒搭建新屋，祭坛仍有祭祀出入",
+      "chapter": 258,
+      "characters": [
+        "金人百姓",
+        "祭祀"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_650",
+      "event": "夜深人静时，一条白色身影悄悄接近后山祭坛山脚，守卫兵卒短暂失神后恢复",
+      "chapter": 258,
+      "characters": [
+        "白色身影",
+        "金人兵卒"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_651",
+      "event": "小白潜入洞穴，观察年轻金族祭祀诵咒，随后轻轻拍了一下其脑门，祭祀失去意识倒在地上。",
+      "chapter": 258,
+      "characters": [
+        "小白",
+        "年轻的金族祭祀"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_652",
+      "event": "周一仙、鬼厉、小环和野狗道人四人从河阳城出发，沿着荒野古道行走。小环拉了鬼厉袖子，欲言又止，鬼厉温和询问，小环口吃。周一仙摇头，野狗道人面色不好，猴子小灰与小环互瞪。",
+      "chapter": 259,
+      "characters": [
+        "周一仙",
+        "鬼厉",
+        "小环",
+        "野狗道人",
+        "猴子小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_653",
+      "event": "鬼厉说自己十年以来奔波流离为救一个人，但功亏一篑，如今束手无策",
+      "chapter": 259,
+      "characters": [
+        "鬼厉",
+        "周一仙"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_654",
+      "event": "周一仙向鬼厉招手，走到古道远处一侧低声说话，鬼厉神情随话语变化",
+      "chapter": 259,
+      "characters": [
+        "周一仙",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_655",
+      "event": "鬼王与鬼先生并肩站立，观看石壁景象，讨论四灵血阵威力及禁制问题",
+      "chapter": 260,
+      "characters": [
+        "鬼王",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_656",
+      "event": "鬼先生建议鬼王让本领低微的弟子撤出山腹，鬼王拒绝，称天地奇阵需要血气，有人陪葬也无所谓",
+      "chapter": 260,
+      "characters": [
+        "鬼先生",
+        "鬼王"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_657",
+      "event": "鬼厉由法相带领，一路穿过天音寺殿宇和人群，前往后山小天音寺的禅室，途中鬼厉询问法相关于神明的问题，法相以佛家观点回答。到达禅室后，法相敲门通报，普泓大师请鬼厉入内，鬼厉鞠躬行礼。",
+      "chapter": 261,
+      "characters": [
+        "鬼厉",
+        "法相",
+        "普泓大师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_658",
+      "event": "鬼厉问法相青云之上是否有神明，法相回答世间处处有神明，但最重要在个人心头。鬼厉表示不懂，法相劝其看开。",
+      "chapter": 261,
+      "characters": [
+        "鬼厉",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_659",
+      "event": "鬼厉向普泓大师询问天音寺中是否有乾坤轮回盘，并提及是为了救治碧瑶。",
+      "chapter": 261,
+      "characters": [
+        "鬼厉",
+        "普泓大师",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_660",
+      "event": "鬼厉随普泓大师和法相见普德大师，寻求乾坤轮回盘救治碧瑶。普德大师言乾坤轮回盘为普智带回，本当归鬼厉，但面露难色。",
+      "chapter": 262,
+      "characters": [
+        "鬼厉",
+        "普泓大师",
+        "普德大师",
+        "法相"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_661",
+      "event": "普弘大师说明乾坤轮回盘是世间独一无二之物，有牵魂夺魄之能，可断生死、算轮回、定气数，亦可能令人丧神失志、心魔噬体",
+      "chapter": 263,
+      "characters": [
+        "普泓大师",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_662",
+      "event": "沉重石门关上，隔绝嘈杂声音；小白进入石室，看向鬼王；鬼王抬眼看向小白，没说话；小白哼了一声，目光扫视石室，感觉不对劲；鬼王站起身，问小白怎么突然又回来；小白冷笑回答，说不找他，是找鬼厉；鬼王打断说'且慢'，问小白找鬼厉；小白反问是又怎样；鬼王面色一沉，眼中异光，注视小白片刻，散发寒意，小白没感觉",
+      "chapter": 264,
+      "characters": [
+        "小白",
+        "鬼王"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_663",
+      "event": "小白质问鬼王关于狐歧山中乱象，鬼王起初冷漠回应，后两人冲突，小白提到基业有妹妹小痴心血，鬼王大笑说要一统宇内称霸天下。",
+      "chapter": 264,
+      "characters": [
+        "鬼王",
+        "小白"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_664",
+      "event": "小白怒斥鬼王罔顾门下弟子性命，鬼王听到'疯了'后神情变化，停止狂笑，目光凌厉，身上散发血腥诡异力量",
+      "chapter": 264,
+      "characters": [
+        "小白",
+        "鬼王"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_665",
+      "event": "鬼厉问小灰他刚才趟了多久，小灰三只眼珠转了转，吱吱叫着并用双手比划。",
+      "chapter": 266,
+      "characters": [
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_666",
+      "event": "鬼厉明白过了许久，站起来将小灰抱在怀里，说出去走走，并说不管怎样总要活下去。",
+      "chapter": 266,
+      "characters": [
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_667",
+      "event": "鬼厉向碧瑶道歉没能救她，提到乾坤轮回盘是天音寺秘宝只能借十几日，发誓要救她。",
+      "chapter": 267,
+      "characters": [
+        "鬼厉",
+        "碧瑶"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_668",
+      "event": "鬼先生注视着鬼厉，在鬼厉走过身边后叫住他，问‘碧瑶小姐还好么？’",
+      "chapter": 267,
+      "characters": [
+        "鬼厉",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_669",
+      "event": "鬼先生手指离开玉盘，玉盘恢复原状；鬼厉解释刺眼，鬼先生不信但未追问",
+      "chapter": 268,
+      "characters": [
+        "鬼先生",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_670",
+      "event": "石室剧烈晃动，血腥气弥漫，石壁裂缝扩大，石块震落，远处有绝望叫喊声",
+      "chapter": 268,
+      "characters": [
+        "鬼先生",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_671",
+      "event": "沉静了十天的那股神秘诡异的力量再度觉醒，四周石壁与地面震动得越来越厉害，外面陷入恐惧和疯狂",
+      "chapter": 268,
+      "characters": [
+        "鬼先生",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_672",
+      "event": "鬼厉和鬼先生观察星盘上的玉块，讨论其滑行轨迹与天穹星斗相似，认为关键在玉块的古字上。",
+      "chapter": 269,
+      "characters": [
+        "鬼厉",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_673",
+      "event": "鬼厉进入内室，发现石壁上的暗门如同黑洞；鬼先生随后跟上，看到暗门后怔了一下",
+      "chapter": 271,
+      "characters": [
+        "鬼厉",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_674",
+      "event": "鬼厉和鬼先生先后进入石壁上的暗门。通道狭窄漫长，地势向下，周围变湿，血腥气浓烈。鬼厉快速深入到达另一侧洞口，周围地震越来越厉害，石壁剧烈颤动。",
+      "chapter": 271,
+      "characters": [
+        "鬼厉",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_675",
+      "event": "鬼厉因诡异红影蕴含巨力且乾坤锁被星盘所破，心中不安感觉越发强烈，决意离开此地，身形往洞口掠去。身后传来一声惊心动魄、撕心裂肺的大叫。",
+      "chapter": 272,
+      "characters": [
+        "鬼厉",
+        "鬼先生"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_676",
+      "event": "鬼先生被伏龙鼎上的红影用巨大触手从背后刺入，洞胸而出，钉在地面，随后被拔出触手抛到半空，重伤死亡。鬼厉接住鬼先生，发现伤口巨大无法存活。",
+      "chapter": 272,
+      "characters": [
+        "鬼厉",
+        "鬼先生",
+        "红影"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_677",
+      "event": "小白抱着鬼厉落在距离狐岐山数十里之外的一个小山头，查看鬼厉伤势后松了口气，转身眺望远方狐岐山废墟上的炽热火柱和红色光影。",
+      "chapter": 273,
+      "characters": [
+        "小白",
+        "鬼厉"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_678",
+      "event": "鬼厉平躺时，小灰从他胸口衣衫处爬出，小白看到后微笑并张开双臂。",
+      "chapter": 273,
+      "characters": [
+        "小白",
+        "鬼厉",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_679",
+      "event": "小白发现小灰身上的伤口，拿出小玉瓶倒出绿色丹药，捏碎后洒在小灰伤口上，丹药粉末见肉即化，止血好转，随后撕下白衣白布包扎",
+      "chapter": 273,
+      "characters": [
+        "小白",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_680",
+      "event": "小白站起走向开阔地带，向狐岐山方向眺望；小灰跟来爬上小白肩头。",
+      "chapter": 273,
+      "characters": [
+        "小白",
+        "小灰"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_681",
+      "event": "金瓶儿与苍松道人从青云山返回鬼王宗原先总堂所在的狐岐山，途中在僻静山谷休息，金瓶儿喝溪水，苍松道人沉默不语",
+      "chapter": 274,
+      "characters": [
+        "金瓶儿",
+        "苍松道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_682",
+      "event": "苍松道人突然开口叫金瓶儿，金瓶儿转身微笑回应。苍松道人谈及鬼王宗主命令破坏青云门天机锁，但不明为何还要详细查看附近城镇村庄与百姓。",
+      "chapter": 274,
+      "characters": [
+        "金瓶儿",
+        "苍松道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_683",
+      "event": "金瓶儿和苍松道人讨论鬼王宗主吩咐的调查青云山周边城镇一事，苍松道人担忧百姓安危，金瓶儿不以为意。",
+      "chapter": 274,
+      "characters": [
+        "金瓶儿",
+        "苍松道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_684",
+      "event": "陆雪琪陪伴在张小凡身旁，看日出日落、明月繁星，两人靠在断壁上静静坐着",
+      "chapter": 275,
+      "characters": [
+        "陆雪琪",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_685",
+      "event": "小灰从草丛里窜出，跳上断壁，扔下一大堆野果，砸在陆雪琪和张小凡身上",
+      "chapter": 275,
+      "characters": [
+        "小灰",
+        "陆雪琪",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_686",
+      "event": "陆雪琪将剥好的野果放在张小凡口中，张小凡像机械反应偶尔吃下去一瓣两瓣",
+      "chapter": 275,
+      "characters": [
+        "陆雪琪",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_687",
+      "event": "陆雪琪发现张小凡紧握的手掌中露出一角，试图掰开手指后看到一块水绿色的破碎衣角",
+      "chapter": 275,
+      "characters": [
+        "陆雪琪",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_688",
+      "event": "张小凡睁开眼，发现自己在一个古老荒凉而奇异的地方，面前是巨大到望不见尽头的荒凉戈壁，头顶有深紫色云层和白色闪电，远方天际有暗绿色光环和无数流星。他震惊后平复心情，向前看到一座祭坛，祭坛上有七根巨柱和一只古鼎，道玄真人背靠古鼎，正在看他。",
+      "chapter": 276,
+      "characters": [
+        "张小凡",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_689",
+      "event": "张小凡与道玄真人在荒凉景色中相遇，张小凡询问道玄真人身体状况，道玄真人反问为何来到此地，张小凡回答‘应该来，就来了’",
+      "chapter": 276,
+      "characters": [
+        "张小凡",
+        "道玄真人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_690",
+      "event": "白衣青年向张小凡解释诛仙之力的关键在内心而非修行道行，并回忆自己和道玄师兄曾沉溺其中而被心魔反噬",
+      "chapter": 277,
+      "characters": [
+        "白衣青年",
+        "张小凡"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_691",
+      "event": "天音寺众僧来到青云门，青云门众人迎接，发现天音寺僧人大多带伤且人数很少，普泓大师说明多半弟子已经往生，随后众人进入玉清殿。",
+      "chapter": 277,
+      "characters": [
+        "普泓上人",
+        "普空神僧",
+        "法相",
+        "法善",
+        "干枯老僧",
+        "萧逸才",
+        "曾叔常",
+        "水月大师"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_692",
+      "event": "正道在虹桥桥头抵挡魔教大军，魔教因拥挤和实力不足大量掉落深渊，正道逐渐稳住阵脚",
+      "chapter": 278,
+      "characters": [
+        "鬼王",
+        "正道",
+        "魔教"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_693",
+      "event": "金瓶儿表示放下一切，跟着小环等人一起浪迹天涯，两人并肩走去，周一仙和野狗道人在后抱怨追赶",
+      "chapter": 279,
+      "characters": [
+        "金瓶儿",
+        "小环",
+        "周一仙",
+        "野狗道人"
+      ],
+      "type": "derived",
+      "immutable": false
+    },
+    {
+      "id": "anchor_694",
+      "event": "陆雪琪起身告辞，宋大仁与文敏送她至守静堂外。陆雪琪感叹大竹峰清静，宋大仁提到弟子外出修行和大黄失踪，文敏打趣宋大仁。随后陆雪琪驭剑离开。",
+      "chapter": 279,
+      "characters": [
+        "陆雪琪",
+        "宋大仁",
+        "文敏"
+      ],
+      "type": "derived",
+      "immutable": false
+    }
+  ]
+}

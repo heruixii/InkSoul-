@@ -1316,7 +1316,7 @@ async function main() {
   const needsReExtraction = !previousFileHash || previousFileHash !== currentFileHash;
   
   // 检查是否只重试失败章节
-  const retryFailedOnly = process.env.RETRY_FAILED === 'true';
+  let retryFailedOnly = process.env.RETRY_FAILED === 'true';
   
   // 自动检测缺失的章节
   if (retryFailedOnly && (!progress.failedIndices || progress.failedIndices.length === 0)) {

@@ -1,16 +1,19 @@
-import React, { useState, useEffect } from 'react'
+import React, { Suspense, lazy, useState } from 'react'
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
+import { DataProvider } from './contexts/DataContext'
 import Sidebar from './components/Sidebar'
-import CharacterList from './components/CharacterList'
-import CharacterEdit from './components/CharacterEdit'
-import Chat from './components/Chat'
-import Settings from './components/Settings'
-import LorebookManager from './components/LorebookManager'
-import StoryManager from './components/StoryManager'
-import StoryPlay from './components/StoryPlay'
-import StoryTester from './components/StoryTester'
-import { DataProvider, useData } from './contexts/DataContext'
-import axios from 'axios'
+import { useSettings } from './hooks/useSettings'
+import { useCharacters } from './hooks/useCharacters'
+
+// 懒加载页面组件
+const CharacterList = lazy(() => import('./components/CharacterList'))
+const CharacterEdit = lazy(() => import('./components/CharacterEdit'))
+const Chat = lazy(() => import('./components/Chat'))
+const Settings = lazy(() => import('./components/Settings'))
+const LorebookManager = lazy(() => import('./components/LorebookManager'))
+const StoryManager = lazy(() => import('./components/StoryManager'))
+const StoryPlay = lazy(() => import('./components/StoryPlay'))
+const StoryTester = lazy(() => import('./components/StoryTester'))
 
 const WATERMARK_TEXT = '本软件由我在家2up主制作'
 const WATERMARK_POSITIONS = [
@@ -20,34 +23,22 @@ const WATERMARK_POSITIONS = [
   [14, 82], [38, 78], [62, 83], [86, 79]
 ]
 
+function LoadingFallback() {
+  return (
+    <div className="flex items-center justify-center h-full">
+      <div className="flex gap-2">
+        <div className="w-2.5 h-2.5 bg-amber-400 rounded-full animate-bounce" />
+        <div className="w-2.5 h-2.5 bg-amber-400 rounded-full animate-bounce" style={{ animationDelay: '0.1s' }} />
+        <div className="w-2.5 h-2.5 bg-amber-400 rounded-full animate-bounce" style={{ animationDelay: '0.2s' }} />
+      </div>
+    </div>
+  )
+}
+
 function AppContent() {
-  const { characters, loadCharacters, refreshCharacters } = useData()
+  const { settings } = useSettings()
+  const { characters, loading: charactersLoading, refresh: refreshCharacters } = useCharacters()
   const [selectedCharacter, setSelectedCharacter] = useState(null)
-  const [settings, setSettings] = useState({
-    apiUrl: 'https://api.openai.com/v1/chat/completions',
-    apiKey: '',
-    model: 'gpt-3.5-turbo',
-    maxTokens: 2000,
-    temperature: 0.8,
-    activePresetId: '',
-    contextMode: 'balanced'
-  })
-
-  // 加载设置
-  const loadSettings = async () => {
-    try {
-      const response = await axios.get('/api/settings')
-      if (response.data && typeof response.data === 'object') {
-        setSettings(prev => ({ ...prev, ...response.data }))
-      }
-    } catch (error) {
-      console.error('加载设置失败:', error)
-    }
-  }
-
-  useEffect(() => {
-    loadSettings()
-  }, [])
 
   return (
     <BrowserRouter>
@@ -78,59 +69,46 @@ function AppContent() {
             <path d="M14 22 L48 19 M14 30 L48 27 M14 38 L48 35" stroke="#8a5a2e" strokeWidth="0.6"/>
             <path d="M62 19 L96 22 M62 27 L96 30 M62 35 L96 38" stroke="#8a5a2e" strokeWidth="0.6"/>
           </svg>
-          <Sidebar 
-            characters={characters} 
+          <Sidebar
+            characters={characters}
             selectedCharacter={selectedCharacter}
             onSelectCharacter={setSelectedCharacter}
             onCharactersChange={refreshCharacters}
           />
           <main className="relative flex-1 overflow-hidden page-fade-in">
-            <Routes>
-            <Route path="/" element={
-              <CharacterList 
-                characters={characters} 
-                onCharactersChange={refreshCharacters}
-                onSelectCharacter={setSelectedCharacter}
-              />
-            } />
-            <Route path="/character/new" element={
-              <CharacterEdit onSave={refreshCharacters} />
-            } />
-            <Route path="/character/edit/:id" element={
-              <CharacterEdit onSave={refreshCharacters} />
-            } />
-            <Route path="/chat/:characterId" element={
-              <Chat 
-                settings={settings}
-                characters={characters}
-              />
-            } />
-            <Route path="/chat/:characterId/:chatId" element={
-              <Chat 
-                settings={settings}
-                characters={characters}
-              />
-            } />
-            <Route path="/settings" element={
-              <Settings 
-                settings={settings} 
-                onSettingsChange={setSettings}
-              />
-            } />
-            <Route path="/lorebooks" element={
-              <LorebookManager characters={characters} />
-            } />
-            <Route path="/stories" element={
-              <StoryManager />
-            } />
-            <Route path="/story/play/:storyId" element={
-              <StoryPlay />
-            } />
-            <Route path="/story-tester" element={
-              <StoryTester />
-            } />
-            <Route path="*" element={<Navigate to="/" />} />
-            </Routes>
+            <Suspense fallback={<LoadingFallback />}>
+              <Routes>
+                <Route path="/" element={
+                  <CharacterList
+                    characters={characters}
+                    onCharactersChange={refreshCharacters}
+                    onSelectCharacter={setSelectedCharacter}
+                  />
+                } />
+                <Route path="/character/new" element={
+                  <CharacterEdit onSave={refreshCharacters} />
+                } />
+                <Route path="/character/edit/:id" element={
+                  <CharacterEdit onSave={refreshCharacters} />
+                } />
+                <Route path="/chat/:characterId" element={
+                  <Chat settings={settings} characters={characters} />
+                } />
+                <Route path="/chat/:characterId/:chatId" element={
+                  <Chat settings={settings} characters={characters} />
+                } />
+                <Route path="/settings" element={
+                  <Settings />
+                } />
+                <Route path="/lorebooks" element={
+                  <LorebookManager characters={characters} />
+                } />
+                <Route path="/stories" element={<StoryManager />} />
+                <Route path="/story/play/:storyId" element={<StoryPlay />} />
+                <Route path="/story-tester" element={<StoryTester />} />
+                <Route path="*" element={<Navigate to="/" />} />
+              </Routes>
+            </Suspense>
           </main>
         </div>
       </div>

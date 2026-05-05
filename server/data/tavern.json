@@ -389,6 +389,16 @@
       "avatar": "",
       "created_at": "2026-05-03T09:58:56.443Z",
       "updated_at": "2026-05-03T09:58:56.443Z"
+    },
+    {
+      "id": "67348666-fbda-4b02-9224-8b5416fca61e",
+      "name": "何节",
+      "description": "一名修行者",
+      "personality": "冷静，感情细腻，",
+      "scenario": "开始新的生活",
+      "avatar": "",
+      "created_at": "2026-05-05T05:19:21.449Z",
+      "updated_at": "2026-05-05T05:19:21.449Z"
     }
   ],
   "chats": [],
@@ -397,7 +407,7 @@
   "presets": [],
   "settings": {
     "apiUrl": "https://api.deepseek.com/v1/chat/completions",
-    "apiKey": "",
+    "apiKey": "sk-59ec741b46764e7883969e7b9d4b6802",
     "model": "deepseek-v4-flash",
     "maxTokens": 1000,
     "temperature": 0.8,
@@ -407,1835 +417,1501 @@
   },
   "stories": [
     {
-      "id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "title": "远坊的故事",
-      "description": "基于框架生成的故事，起点：10，共1000章",
-      "created_at": "2026-05-03T13:46:42.412Z",
-      "updated_at": "2026-05-03T14:10:35.003Z",
-      "current_event_id": "dad43a1e-e525-438f-be91-e17c9de2b9c0",
+      "id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "title": "何节的故事",
+      "description": "基于框架生成的故事，起点：1，共300章",
+      "created_at": "2026-05-05T05:19:21.449Z",
+      "updated_at": "2026-05-05T05:27:45.119Z",
+      "current_event_id": "d30b4fdd-f2ca-4666-a230-52f304223cfe",
       "framework_version": "3.0",
-      "generated_at": "2026-05-03T13:46:40.686Z",
-      "phase": 10,
+      "generated_at": "2026-05-05T05:19:11.520Z",
+      "phase": 1,
       "metadata": {
-        "novel_id": "gu_zhen_ren___gu_zhen_ren",
-        "framework_path": "data/novels/gu_zhen_ren___gu_zhen_ren/frameworks/远坊_framework.json",
-        "protagonist_name": "远坊"
+        "novel_id": "诛仙(1-259章)",
+        "framework_path": "data/novels/诛仙(1-259章)/frameworks/何节_framework.json",
+        "protagonist_name": "何节"
       },
-      "summary": "夜雾弥漫的青茅山，你与方源故意踢落山石引开伏击者，沿湿滑藤蔓攀下崖壁，坠入瘴气弥漫的谷底。溪水冰冷有毒，泛着磷光，前方绿幽幽的兽瞳逼近，你们涉溪潜行绕开。顺着水流找到一处暗洞，挤过狭缝深入，洞内腥湿阴冷，散落啃噬过的兽骨。方源停下倾听滴水声，你们决定退回，却听见洞外沉重脚步声逼近，只得疾步退回洞内深处。洞道曲折向下，豁然开朗处是一座溶洞，中央幽绿水潭泛着微光，潭边兽骨堆叠，方源低声道：“此处怕是有主。”你们沿潭探查，在一具半腐兽骨中发现残破玉简，方源认出曾有过蛊师踪迹。话音刚落，潭水泛起涟漪，一道黑影在水面下缓缓游",
-      "summaryGeneratedAt": 1777817445814
+      "summary": "你扶着重伤的老僧藏入阴影，灵力续命间，他指向石壁一道裂缝。你挤入湿冷狭窄的缝隙，身后追兵脚步声渐近。尽头竟是漆黑暗河，岸边散落着修道者",
+      "summaryGeneratedAt": 1777958869033
     }
   ],
   "storyCharacters": [
     {
-      "id": "5e394d65-f9f3-4838-858a-08255fec6154",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "8eef85a0-1d5e-467f-adef-71867c5d5b10",
+      "id": "ba4559f6-4724-47bb-9d7c-c7a1d0bfc410",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "character_id": "67348666-fbda-4b02-9224-8b5416fca61e",
       "role": "protagonist",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "444f9fee-95a5-47be-946e-015b0901f8bf",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "fc4b7c87-b851-4c97-b912-8492abd7a9bc",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "3c33e0ba-7145-459e-8222-08a32eced529",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "fdb2650f-f2ec-42e6-b214-4fb64fbdce07",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "389f0859-fa02-4ecd-8d13-2a78cc6be1f2",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "01059761-7e6e-411b-82ed-baeca785bd94",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "e44c8f12-ffa9-4d8b-93b9-3fdd26ad897f",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "047e9e7f-eca3-41e6-bd96-e96d13638bdb",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "d2b3e9b5-8043-4311-8f4f-fa2558bcbaf4",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "66e918ab-5c9d-43b8-8228-3eba5b11b0b5",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "d4f37011-bd3d-4921-ac99-74247d172a58",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "21a94e26-25a2-49e3-a408-c7708680128d",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "007c8f92-af7e-4931-954f-cc716741da1e",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "f31cad8a-dd70-4f03-950a-ff75f607b346",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "d76006ac-1bec-4fab-8d79-9154000c43e8",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "0eefa22c-07fa-426e-9490-d4e43c388a11",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "1b85c10c-0af9-4c19-adf6-ca2973636449",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "2426eef4-b8c9-415a-a97e-9a40c41f0f41",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "d9dfd98b-874f-446d-8014-d29c8e815ccc",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "d4e985a3-0ee2-4ce4-bb19-d305b51adfa0",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "d6cbeacb-0f5c-45fc-9f9d-dfaee6c5f1b2",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "e915b77e-d80d-4d01-b78f-5150f8ec5394",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "7e127529-a101-4715-90c8-9f702ef83b72",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "4b7e5b65-f69f-42d1-b76c-2cfadf4df512",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "2f333c2a-f8b6-451c-8f80-02261f429fe7",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "1442c947-2f3c-435b-8db2-067114e1a029",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "be59fa5a-d732-48bf-a8e3-04a385ba7a78",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "cfb99981-3e1f-4bca-af5e-ee32b3641693",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "10f703f4-10e4-4e88-b067-1d942fff235e",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "ea39216c-b004-4ad3-9670-eb4372ff8f2a",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "1919f1c7-7ee7-4d36-8f6d-db7df756caa8",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "74e7ebbf-5464-423c-94ef-d694cccb964a",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "523626f3-39d7-479b-a728-7036f59afeba",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "cf05b673-3c4e-4391-b044-6fe493308802",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "a627b34b-40e7-44c9-b9a8-76fcc9d1ddf2",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "a8575082-719a-4a4d-966b-e60f37b5a546",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "0718a228-54f9-43a0-83c7-e10dcd050f55",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "c90fddd8-a648-4788-add8-1293e14369bb",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "95283b36-79bf-4804-8f81-2dd92f393769",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "f674ef00-ed4b-4067-8d01-f104ffd54907",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "f0b32786-d5d5-4152-b6e2-565483a28451",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "804dc960-b2d1-4bc5-a4a9-fd1dccb1e1b1",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
-    },
-    {
-      "id": "4b47d452-779a-4f13-8c60-7cb85a51b0a5",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "character_id": "ee482e34-d347-4f3e-876f-12389cff0238",
-      "role": "supporting",
-      "created_at": "2026-05-03T13:46:42.412Z"
+      "created_at": "2026-05-05T05:19:21.449Z"
     }
   ],
   "storyLorebooks": [],
   "storyEvents": [
     {
-      "id": "b402b40b-c1cd-4b95-aa05-966c1a859fa2",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 10,
+      "id": "7f2221ea-34ef-4b2c-b1db-b94750b21037",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "chapter_index": 1,
       "title": "故事开始",
       "description": "故事的序章正缓缓拉开。",
       "phase": "初期",
       "choices": [],
-      "created_at": "2026-05-03T13:46:45.808Z"
+      "created_at": "2026-05-05T05:19:53.017Z"
     },
     {
-      "id": "f8c45f0a-2acc-45a8-8b10-3e0482d60a35",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "ba3451f4-1143-4914-81be-71698497d358",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 0,
-      "title": "雨后青茅山",
-      "description": "大雨骤歇，青茅山雾气弥漫。远坊踏出宿舍，石阶湿滑，空气中弥漫泥土腥气。远处传来猎户的吆喝声，江牙一行人正拖着猎物归来。方源的房间烛火未熄，透过窗纸隐约可见人影晃动。",
+      "title": "青云山异光",
+      "description": "清虚门接到青云山异象的消息，派你们一行五人前往探查。行至半途，天色骤暗，林间传来打斗声。你拨开树丛，只见一名年轻道士浑身是血，正与一头妖兽搏斗，眼看就要支撑不住。",
       "choices": [
         {
-          "title": "前往交易场",
-          "description": "或许能打探到值钱消息或入手蛊材。"
+          "title": "上前相助",
+          "description": "拔剑冲入战圈，与年轻道士联手对抗妖兽，或可结下善缘。"
         },
         {
-          "title": "接近方源房间",
-          "description": "暗中观察这个深居简出的同僚在做什么。"
+          "title": "暗中观察",
+          "description": "隐于暗处，静观其变，待双方力竭再定行止。"
         },
         {
-          "title": "随猎户同行",
-          "description": "借机套近乎，获取野外情报。"
+          "title": "绕路离开",
+          "description": "不欲多事，悄然退走，继续赶赴青云山。"
         }
       ],
-      "parent_event_id": "b402b40b-c1cd-4b95-aa05-966c1a859fa2",
+      "parent_event_id": "7f2221ea-34ef-4b2c-b1db-b94750b21037",
       "phase": "前期",
-      "created_at": "2026-05-03T13:47:04.059Z"
+      "created_at": "2026-05-05T05:21:57.374Z"
     },
     {
-      "id": "551472e8-2431-461c-a107-68c4f51f4be3",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "d4f24961-42bc-40f2-aa0b-a761004d8bf8",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 0,
-      "title": "接近方源房间",
-      "description": "暗中观察这个深居简出的同僚在做什么。",
+      "title": "上前相助",
+      "description": "拔剑冲入战圈，与年轻道士联手对抗妖兽，或可结下善缘。",
       "choices": [],
-      "parent_event_id": "f8c45f0a-2acc-45a8-8b10-3e0482d60a35",
+      "parent_event_id": "ba3451f4-1143-4914-81be-71698497d358",
       "phase": "前期",
-      "created_at": "2026-05-03T13:47:47.013Z"
+      "created_at": "2026-05-05T05:22:17.287Z"
     },
     {
-      "id": "2e4e30f9-c360-40f5-983a-0f6de1ca8205",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "bd72ae6c-212a-43c1-9a02-e6e2cc482612",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 0,
-      "title": "窗影下的窃听",
-      "description": "远坊蹑足靠近方源的窗下，石缝间积着雨水，湿气渗入衣摆。窗纸薄透，烛影中可辨方源侧坐的身影，他面前摊着数块元石，一只手悬在空窍位置，似在调息。忽然房内传来低语，不是方源的声音——是沈翠？她还在？远坊屏息凝神，听见沈翠轻声问：‘方少爷，那蛊虫……可还满意？’方源沉默片刻，语气平淡：‘尚可。’沈翠又说：‘掌柜让奴婢问，您何时去取那件东西？’方源‘嗯’了一声，未再答话。屋内陷入寂静，只有烛火偶尔噼啪作响。",
+      "title": "林间斗妖兽",
+      "description": "你拔剑冲入战圈，剑光如雪，直取那妖兽的侧腹。那年轻道士见有人相助，眼中闪过一丝喜色，咬牙挥动手中残剑，与你形成夹击之势。妖兽怒吼连连，利爪撕风，掀起满地枯叶。你二人且战且退，渐渐将其逼至一棵古树下。",
       "choices": [
         {
-          "title": "继续偷听",
-          "description": "耐心蹲守，看能否探听到方源与掌柜的交易细节。"
+          "title": "全力强攻",
+          "description": "趁妖兽被牵制，凝聚法力一击毙敌，速战速决。"
         },
         {
-          "title": "故意现身",
-          "description": "假装路过，撞破对话，借机试探方源的反应。"
+          "title": "出声询问",
+          "description": "边斗边问那道士身份来历，试探他为何在此遇险。"
         },
         {
-          "title": "悄然离去",
-          "description": "不欲多事，返回宿舍，日后另寻机会观察。"
+          "title": "诱敌深入",
+          "description": "故意卖出破绽，引妖兽追击，再设伏反杀。"
         },
         {
-          "title": "敲窗投石",
-          "description": "抛一颗石子惊动屋内人，制造意外，观察方源是否露出破绽。"
+          "title": "呼唤同伴",
+          "description": "扬声呼喊同行师兄弟，合力围杀妖兽。"
         }
       ],
-      "parent_event_id": "551472e8-2431-461c-a107-68c4f51f4be3",
+      "parent_event_id": "d4f24961-42bc-40f2-aa0b-a761004d8bf8",
       "phase": "前期",
-      "created_at": "2026-05-03T13:47:56.942Z"
+      "created_at": "2026-05-05T05:22:23.281Z"
     },
     {
-      "id": "0c7370df-9325-4eb3-a6e5-18fabd96e489",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "73dee760-1358-40a6-8c24-ca23fd01f6a6",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 0,
-      "title": "故意现身",
-      "description": "假装路过，撞破对话，借机试探方源的反应。",
+      "title": "出声询问",
+      "description": "边斗边问那道士身份来历，试探他为何在此遇险。",
       "choices": [],
-      "parent_event_id": "2e4e30f9-c360-40f5-983a-0f6de1ca8205",
+      "parent_event_id": "bd72ae6c-212a-43c1-9a02-e6e2cc482612",
       "phase": "前期",
-      "created_at": "2026-05-03T13:48:12.909Z"
+      "created_at": "2026-05-05T05:22:28.670Z"
     },
     {
-      "id": "36b1ac2a-cb87-4b10-98d6-a86741027f94",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "46f120ce-6016-4fed-8029-fca12106e94f",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 0,
-      "title": "窗下偶遇：方源的试探",
-      "description": "你故意加重脚步，在石阶上踩出响动，随即若无其事地绕到方源房门前。门扉虚掩，你正要叩门，门却从内拉开。方源立在门槛内，烛火在他身后跳动，映得他半明半暗。他目光平静地扫过你湿透的衣摆，声音淡如雾气：“远坊兄，雨刚歇就出来走动？进来坐坐？”他侧身让路，袖口微动，似有蛊虫气息一闪而没。",
+      "title": "林中激战问来历",
+      "description": "你剑光不停，口中问道：“道友是何门何派？为何在此遇险？”那年轻道士喘息一声，挥剑格开妖兽利爪，答道：“贫道青云山青云子门下，奉师命下山探查异象，不料遭此畜生埋伏……”话音未落，妖兽咆哮着又扑上来。你正待再问，却听林外传来急促脚步声，似有数人赶来。",
       "choices": [
         {
-          "title": "顺势而入，直问修炼",
-          "description": "借着闲聊打听他方才在炼化什么蛊虫，观察他空窍真元状态。"
+          "title": "速战速决",
+          "description": "加快攻势，先合力斩杀妖兽，再应对来者。"
         },
         {
-          "title": "婉拒邀请，反邀同行",
-          "description": "以猎户归来为由，提议一起去坊市看看猎物，路上套话。"
+          "title": "暂避锋芒",
+          "description": "与道士退至树后，先观察来者是敌是友。"
         },
         {
-          "title": "假装路过，提及大雨",
-          "description": "说雨停了出来透气，恰好路过，问他这几日可曾出门。"
+          "title": "高声示警",
+          "description": "大声呼喊告知同门，同时继续缠住妖兽。"
         },
         {
-          "title": "直接点破，试探敌友",
-          "description": "压低声音说：‘我听到你方才房里有人低语，可是藏了人？’看他神色变化。"
+          "title": "刨根问底",
+          "description": "边战边追问青云山异象的细节，不放过线索。"
         }
       ],
-      "parent_event_id": "0c7370df-9325-4eb3-a6e5-18fabd96e489",
+      "parent_event_id": "73dee760-1358-40a6-8c24-ca23fd01f6a6",
       "phase": "前期",
-      "created_at": "2026-05-03T13:48:21.808Z"
+      "created_at": "2026-05-05T05:22:42.369Z"
     },
     {
-      "id": "b61e5fa1-a118-453a-908f-9a900e1e9b9d",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "0d6e5f90-ae38-4a02-b940-bb456eff30ed",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 0,
-      "title": "直接点破，试探敌友",
-      "description": "压低声音说：‘我听到你方才房里有人低语，可是藏了人？’看他神色变化。",
+      "title": "刨根问底",
+      "description": "边战边追问青云山异象的细节，不放过线索。",
       "choices": [],
-      "parent_event_id": "36b1ac2a-cb87-4b10-98d6-a86741027f94",
+      "parent_event_id": "46f120ce-6016-4fed-8029-fca12106e94f",
       "phase": "前期",
-      "created_at": "2026-05-03T13:48:37.627Z"
+      "created_at": "2026-05-05T05:22:46.039Z"
     },
     {
-      "id": "9d90336c-82e2-4317-a233-3cfeb09b8c26",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "3300711f-9eca-4fcc-aee3-37efb0622bae",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 0,
-      "title": "方源的冷笑",
-      "description": "你压低声音，目光紧锁方源的双眸。他闻言，神色未变分毫，反而嘴角泛起一丝冷笑，慢条斯理道：“哦？远坊兄耳力倒好。不过，我这房里除了烛火和元石，就只有我自己。莫非你听到的是自己心跳声？”他语气平淡，却带着若有若无的讥讽，右手轻轻摩挲着腰间的一枚青铜蛊虫。窗外的雨已停，月光透过云隙洒下，照亮他半边脸庞，另半边隐在阴影中。",
+      "title": "青云山异象之谜",
+      "description": "你剑光凌厉，步步紧逼，口中追问不休。那年轻道士喘息着挥剑格挡，答道：“贫道也不知详情，只听得师尊说夜里青云山顶有紫光冲天，似有异宝出世。我等奉命探查，不想半路遇此妖兽——”话音未落，妖兽突然狂啸，周身泛起黑气，攻势骤猛，竟将你二人逼退数丈。远处林间隐约传来更多兽吼声，显然不止这一头。",
       "choices": [
         {
-          "title": "佯装误会，借机交好",
-          "description": "哈哈一笑，说自己听岔了，顺势向他请教修炼心得，拉近距离。"
+          "title": "合力斩杀眼前妖兽",
+          "description": "先解决当前危机，再细问详情，避免腹背受敌。"
         },
         {
-          "title": "继续试探，逼他露馅",
-          "description": "冷笑回应，直接指出他右手刚炼化的月光蛊气息未散，绝非独自一人。"
+          "title": "且战且退向青云山方向",
+          "description": "边打边往青云山方向移动，寻求救援或探查异象源头。"
         },
         {
-          "title": "转移话题，询问猎物",
-          "description": "听到回程猎户的吆喝，顺口问他是否也要去交任务，暂避锋芒。"
+          "title": "问清道士名姓后分头突围",
+          "description": "分散妖兽注意力，约定在青云山脚下汇合。"
         }
       ],
-      "parent_event_id": "b61e5fa1-a118-453a-908f-9a900e1e9b9d",
+      "parent_event_id": "0d6e5f90-ae38-4a02-b940-bb456eff30ed",
       "phase": "前期",
-      "created_at": "2026-05-03T13:48:45.627Z"
+      "created_at": "2026-05-05T05:22:52.539Z"
     },
     {
-      "id": "a9146244-431b-437d-9ffd-4724dc657df0",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "7425364c-6ff7-41aa-a36d-dee65c620488",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 0,
-      "title": "继续试探，逼他露馅",
-      "description": "冷笑回应，直接指出他右手刚炼化的月光蛊气息未散，绝非独自一人。",
+      "title": "且战且退向青云山方向",
+      "description": "边打边往青云山方向移动，寻求救援或探查异象源头。",
       "choices": [],
-      "parent_event_id": "9d90336c-82e2-4317-a233-3cfeb09b8c26",
+      "parent_event_id": "3300711f-9eca-4fcc-aee3-37efb0622bae",
       "phase": "前期",
-      "created_at": "2026-05-03T13:49:12.003Z"
+      "created_at": "2026-05-05T05:22:53.569Z"
     },
     {
-      "id": "78400161-f621-4c1d-9fa8-69f72d3f062b",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "e64e8761-eb9a-4b22-9f7d-c695165615e7",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 0,
-      "title": "烛影下的交锋",
-      "description": "你话音刚落，方源眼中的笑意倏然凝结。他右手微微握紧又松开，月光蛊的气息隐得更深。沉默片刻，他忽而侧身让出门道，语气平淡却带着一丝寒意：“远坊兄既然听得这般仔细，不如进来说话。外头雨湿，莫要染了风寒。”烛火在他身后摇曳，投下长长的阴影，将门槛内外割成明暗两界。",
+      "title": "青云山脚遇同门",
+      "description": "你与那年轻道士且战且退，一路向青云山方向奔去。妖兽紧追不舍，但山路崎岖，渐渐拉开距离。转过一处山坳，前方忽见几道人影，正是青云子门下其他弟子，闻讯赶来接应。那年轻道士大喜，高声呼喊。妖兽见状，低吼一声，转身没入林中。",
       "choices": [
         {
-          "title": "坦然入内，正面交锋",
-          "description": "跨过门槛，在方源对面坐下，直接摊牌。"
+          "title": "上前道谢，打听异象详情",
+          "description": "主动与青云子弟子攀谈，探听紫光异象的更多信息。"
         },
         {
-          "title": "拱手告辞，暂避锋芒",
-          "description": "以夜深为由婉拒，留待日后观察。"
+          "title": "提出同行上山探查",
+          "description": "请求一同前往青云山，亲眼看看那异宝出世的所在。"
         },
         {
-          "title": "笑而不答，反问其意",
-          "description": "站在门外反问方源为何深夜炼蛊，反客为主。"
+          "title": "告辞离去，独自绕道上山",
+          "description": "婉拒同行，打算暗中观察，避免卷入门派纷争。"
         },
         {
-          "title": "佯装误会，转移话题",
-          "description": "故作轻松说只是路过，借机聊些家常套话。"
+          "title": "询问年轻道士伤势，提议休整",
+          "description": "关心同伴伤势，建议先找安全地方调息再作打算。"
         }
       ],
-      "parent_event_id": "a9146244-431b-437d-9ffd-4724dc657df0",
+      "parent_event_id": "7425364c-6ff7-41aa-a36d-dee65c620488",
       "phase": "前期",
-      "created_at": "2026-05-03T13:49:21.978Z"
+      "created_at": "2026-05-05T05:23:02.406Z"
     },
     {
-      "id": "bac430e5-bc5e-48e5-815d-2ec414827b50",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "8399e7c3-2d2a-43e4-ab7a-f052819a22b1",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "坦然入内，正面交锋",
-      "description": "跨过门槛，在方源对面坐下，直接摊牌。",
+      "title": "告辞离去，独自绕道上山",
+      "description": "婉拒同行，打算暗中观察，避免卷入门派纷争。",
       "choices": [],
-      "parent_event_id": "78400161-f621-4c1d-9fa8-69f72d3f062b",
+      "parent_event_id": "e64e8761-eb9a-4b22-9f7d-c695165615e7",
       "phase": "前期",
-      "created_at": "2026-05-03T13:49:32.317Z"
+      "created_at": "2026-05-05T05:23:03.428Z"
     },
     {
-      "id": "af654b8b-e6b9-4d3f-a157-bbf5e93e7174",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "12d5297f-d024-4f67-b14c-ec560f870297",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "屋内摊牌：针锋相对",
-      "description": "你跨过门槛，在方源对面坐下，目光直视他的双眼。烛火在桌案上跳动，将两人的影子拉长投在斑驳的土墙上。方源缓缓合上房门，转身时青铜蛊虫在腰间轻响。他未落座，只是俯视着你，语气平淡却暗藏锋锐：“远坊兄深夜来访，又听得这般仔细，想必不是来叙旧的。说吧，你想从我这里得到什么？”空气凝滞，窗外雨滴从屋檐坠落的声音清晰可闻。",
+      "title": "密径独行遇异兆",
+      "description": "你辞别那年轻道士，独自寻了一条僻静小径绕道上山。山间雾气渐浓，草木深处隐隐传来低沉的兽吼，似有妖兽潜藏。行得半个时辰，忽见前方一块青石上刻着古怪符文，隐隐散发淡淡紫光，与你之前所闻的青云山异象颇为吻合。你蹲身细看，符文似是指引向更深的山谷。正犹豫间，远处传来脚步声，似是又有修行者赶来。",
       "choices": [
         {
-          "title": "直接质问沈翠之事",
-          "description": "点破方才听到的对话，逼问那蛊虫和‘东西’的来历，试探方源的底牌。"
+          "title": "循符文所指前行",
+          "description": "冒险探查紫光源头，或可一窥异象真相。"
         },
         {
-          "title": "佯装关心炼蛊进度",
-          "description": "以同族身份关切他深夜炼蛊，暗示自己察觉到他真元不足，看他如何回应。"
-        },
-        {
-          "title": "抛出合作的诱饵",
-          "description": "坦言自己也有秘密，提议交换情报或共同谋利，看他是否上钩。"
-        },
-        {
-          "title": "沉默施压，等他先开口",
-          "description": "一言不发，只是盯着他的眼睛，以静制动，观察他的破绽。"
+          "title": "隐入密林静观来人",
+          "description": "先避开来人，暗中观察是敌是友。"
         }
       ],
-      "parent_event_id": "bac430e5-bc5e-48e5-815d-2ec414827b50",
+      "parent_event_id": "8399e7c3-2d2a-43e4-ab7a-f052819a22b1",
       "phase": "前期",
-      "created_at": "2026-05-03T13:49:41.258Z"
+      "created_at": "2026-05-05T05:23:08.562Z"
     },
     {
-      "id": "e16ca658-b727-44bb-989c-91d7ac1e832d",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "7c1fe26b-6fef-4af9-bb25-09ae4625f36a",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "抛出合作的诱饵",
-      "description": "坦言自己也有秘密，提议交换情报或共同谋利，看他是否上钩。",
+      "title": "隐入密林静观来人",
+      "description": "先避开来人，暗中观察是敌是友。",
       "choices": [],
-      "parent_event_id": "af654b8b-e6b9-4d3f-a157-bbf5e93e7174",
+      "parent_event_id": "12d5297f-d024-4f67-b14c-ec560f870297",
       "phase": "前期",
-      "created_at": "2026-05-03T13:50:02.235Z"
+      "created_at": "2026-05-05T05:23:09.582Z"
     },
     {
-      "id": "70bcfc04-d8ec-4ca3-acec-d894fbc865a9",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "65d673d5-edd4-47a9-a107-ed59eaa68409",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "密室交易：试探与权衡",
-      "description": "远坊坐在桌旁，直视方源，坦言自己也有秘密，提议交换情报或共同谋利。方源闻言，眼神闪烁，嘴角勾起一抹意味深长的弧度。他缓缓在对面落座，手指轻叩桌面，沉默片刻后低声道：“合作？远坊兄有何资本，值得我冒风险？”烛火在两人之间跳动，将彼此的影子投在墙上，扭曲而模糊。",
+      "title": "林间窥见青云子",
+      "description": "你屏息隐入密林深处，透过枝叶缝隙望去，只见一个身着青色道袍的中年道人缓步而来，身后跟着数名弟子。那道人步履沉稳，目光如电，扫过青石符文时眉头微皱，正是传说中的青云子。弟子们低声商议着山顶异光之事，神色间既有敬畏亦有好奇。",
       "choices": [
         {
-          "title": "提供情报",
-          "description": "压低声音，透露你窃听到的沈翠与掌柜的交易，以此作为筹码。"
+          "title": "继续潜伏窥听",
+          "description": "不急于现身，听清他们谈话中的更多细节。"
         },
         {
-          "title": "展示实力",
-          "description": "释放一丝自身蛊虫的气息，暗示你并非表面那么简单。"
+          "title": "现身拜见前辈",
+          "description": "走出密林，以清虚门弟子身份上前行礼，借机攀谈。"
         },
         {
-          "title": "提出具体计划",
-          "description": "直接说出一个可行的合作方案，如一起探索某处秘境。"
-        },
-        {
-          "title": "保持神秘激将",
-          "description": "微微一笑，反问方源是否惧怕一个未知的盟友。"
+          "title": "悄然尾随其后",
+          "description": "远远跟在青云子一行人后方，看看他们要去何处。"
         }
       ],
-      "parent_event_id": "e16ca658-b727-44bb-989c-91d7ac1e832d",
+      "parent_event_id": "7c1fe26b-6fef-4af9-bb25-09ae4625f36a",
       "phase": "前期",
-      "created_at": "2026-05-03T13:50:11.392Z"
+      "created_at": "2026-05-05T05:23:14.227Z"
     },
     {
-      "id": "902fe79e-4f11-4be7-908d-384420c153b0",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "e86f1550-a55f-413f-9c18-0a5fb6b58c21",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "保持神秘激将",
-      "description": "微微一笑，反问方源是否惧怕一个未知的盟友。",
+      "title": "悄然尾随其后",
+      "description": "远远跟在青云子一行人后方，看看他们要去何处。",
       "choices": [],
-      "parent_event_id": "70bcfc04-d8ec-4ca3-acec-d894fbc865a9",
+      "parent_event_id": "65d673d5-edd4-47a9-a107-ed59eaa68409",
       "phase": "前期",
-      "created_at": "2026-05-03T13:50:21.107Z"
+      "created_at": "2026-05-05T05:23:15.256Z"
     },
     {
-      "id": "c7f25500-2931-4d56-b664-d5376b6b7ede",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "3bdbeece-8259-4388-a948-81a0a52ac4a7",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "新的冒险",
-      "description": "{\n  \"title\": \"烛火下的试探\",\n  \"description\": \"远坊微微一笑，直视方源双眼，轻声道：“方兄，莫非你惧怕一个未知的盟友？”方源闻言，嘴角勾起一道冷冽的弧度，手指停在半空。屋内烛火一颤，他的目光如冰刃般刮过远坊的面庞。沉默数个呼吸后，他缓缓开口：“怕？在这青茅山上，我唯一怕的，便是看不清人心。远坊兄既然想合作，总得拿出些诚意来——譬如，你方才听到的沈翠那番话，你究竟猜",
+      "title": "密径尾随至古洞",
+      "description": "你远远跟在青云子一行人后方，穿过雾气弥漫的山林，约莫一炷香工夫，来到一处峭壁之下。青云子驻足片刻，似在寻找什么，随后伸手拨开一丛藤蔓，露出一个隐秘洞口。他回头向弟子们低语几句，只带两名弟子进入洞中，其余弟子则在洞口外警戒把守。你藏身于数十丈外的一棵古树后，犹豫着是否要靠近。",
       "choices": [
         {
-          "title": "继续前进",
-          "description": "探索未知的前方"
+          "title": "趁隙靠近洞口",
+          "description": "待守卫视线移开，利用雾气遮掩，悄然潜行至洞口旁侧，窥探洞内情况。"
         },
         {
-          "title": "仔细观察",
-          "description": "分析当前情况"
+          "title": "原地耐心等待",
+          "description": "静伏于树后，压制气息，观察洞口动静，待青云子出来后另作打算。"
+        },
+        {
+          "title": "折返与同门会合",
+          "description": "撤退返回原路，与清虚门同门汇合，分享发现，商议下一步行动。"
+        },
+        {
+          "title": "绕至上路窥探",
+          "description": "绕道攀登至峭壁上方，寻找可俯瞰洞口的有利位置，从高处观察。"
         }
       ],
-      "parent_event_id": "902fe79e-4f11-4be7-908d-384420c153b0",
+      "parent_event_id": "e86f1550-a55f-413f-9c18-0a5fb6b58c21",
       "phase": "前期",
-      "created_at": "2026-05-03T13:50:33.802Z"
+      "created_at": "2026-05-05T05:23:25.046Z"
     },
     {
-      "id": "cb12e11f-a8d9-4fe9-b82a-cec490693326",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "c86fee5e-02cb-4326-ab50-103dd507a3ed",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "仔细观察",
-      "description": "分析当前情况",
+      "title": "绕至上路窥探",
+      "description": "绕道攀登至峭壁上方，寻找可俯瞰洞口的有利位置，从高处观察。",
       "choices": [],
-      "parent_event_id": "c7f25500-2931-4d56-b664-d5376b6b7ede",
+      "parent_event_id": "3bdbeece-8259-4388-a948-81a0a52ac4a7",
       "phase": "前期",
-      "created_at": "2026-05-03T13:50:46.379Z"
+      "created_at": "2026-05-05T05:23:26.082Z"
     },
     {
-      "id": "5539586d-1e93-4293-9ad4-fb959b1b7b3b",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "3e9c71f5-4ff9-4504-a2f6-18cd661a74e5",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "烛影下的暗流",
-      "description": "远坊目光微凝，将方源周身细节尽收眼底——他腰间青铜蛊虫的纹路尚新，应是无碍蛊；桌面元石排列成未完成的阵式，隐约指向炼化月光蛊的消耗。窗棂外传来江牙等人的说笑声，渐行渐近。方源察觉到你的审视，嘴角绷紧一瞬，随即松弛，指尖轻叩桌面三下，似在计算什么。他忽然开口，声音低沉：“远坊兄，你既如此警惕，不如说说，你究竟看到了什么？”烛火跳了一跳，投在他脸上的阴影愈发浓重。",
+      "title": "峭壁俯瞰见秘光",
+      "description": "你攀上峭壁边缘，寻得一处藤蔓遮掩的凹穴，恰好能俯瞰下方洞口。片刻后，洞内忽然透出幽幽青芒，宛如碧水流淌，映得四周藤蔓皆染上一层翠色。你屏住呼吸，只见青云子身影在光中晃动，似在俯身查看何物，随即传来他低沉的自语声：‘上古符文…果然在此…’那青芒渐盛，竟隐约凝成文字模样，却又转瞬消散。",
       "choices": [
         {
-          "title": "直指无碍蛊的来历",
-          "description": "点破他腰间蛊虫的异样，逼问沈翠所言‘那件东西’的真意。"
+          "title": "凝神细观符文",
+          "description": "极力从高处看清那些消散的符文，试图记下只鳞片爪"
         },
         {
-          "title": "以江牙等人为掩护",
-          "description": "目光转向窗外，暗示猎户接近，提议改日再谈，留下退路。"
+          "title": "悄然攀绳而下",
+          "description": "趁青云子专注之时，冒险靠近洞口，以求更真切地窥探"
         },
         {
-          "title": "展示诚意，露底三分",
-          "description": "微微前倾，压低声音透露自己也在追踪同一线索，以求交换情报。"
+          "title": "回身下山报信",
+          "description": "深知此事非同小可，决定先返回与同门汇合，再从长计议"
         },
         {
-          "title": "故作轻松，岔开话题",
-          "description": "笑言只是好奇炼蛊手法，反问方源对江牙猎获的野狼蛊可有兴趣。"
+          "title": "静候其离去",
+          "description": "按捺住好奇心，藏于暗处，等待青云子离开后再探查山洞"
         }
       ],
-      "parent_event_id": "cb12e11f-a8d9-4fe9-b82a-cec490693326",
+      "parent_event_id": "c86fee5e-02cb-4326-ab50-103dd507a3ed",
       "phase": "前期",
-      "created_at": "2026-05-03T13:50:56.895Z"
+      "created_at": "2026-05-05T05:23:32.841Z"
     },
     {
-      "id": "62b01ae8-5cf5-4993-9864-812f80de5956",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "ec3c8d1e-eb43-47fe-999e-47bed2832417",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "展示诚意，露底三分",
-      "description": "微微前倾，压低声音透露自己也在追踪同一线索，以求交换情报。",
+      "title": "静候其离去",
+      "description": "按捺住好奇心，藏于暗处，等待青云子离开后再探查山洞",
       "choices": [],
-      "parent_event_id": "5539586d-1e93-4293-9ad4-fb959b1b7b3b",
+      "parent_event_id": "3e9c71f5-4ff9-4504-a2f6-18cd661a74e5",
       "phase": "前期",
-      "created_at": "2026-05-03T13:51:40.838Z"
+      "created_at": "2026-05-05T05:23:33.865Z"
     },
     {
-      "id": "2ecd1c60-df5a-402f-a54b-f614c4f6ff0e",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "57d0d087-75df-41fb-8158-dc24dabf2f1c",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 1,
-      "title": "烛影下的对质",
-      "description": "远坊话音落下，方源眼神陡然锐利，嘴角勾起一丝冷笑，手指轻叩桌面，发出笃笃声响。他缓缓站起身，烛火在他脸上投下半明半暗的阴影，低声道：“偷听了墙角，便敢说与我同道？这青茅山上，知道那线索的人不超过三个。你从何得知？”窗外传来江牙等人粗豪的谈笑声，渐行渐近，方源的目光却如寒冰般锁定远坊，等待回答。",
+      "title": "古洞余痕见经卷",
+      "description": "你在峭壁凹穴中屏息等候，约莫半个时辰，青云子方从洞口走出，面色如常，袖中似藏着何物。待他身影消失在山雾之中，你方攀下岩壁，拨开藤蔓，闪身进入洞内。洞中石壁上青芒未散，依稀可见几行古朴文字，似为功法心诀，但更深的幽暗中，一张残破的兽皮卷静静躺在石台上。",
       "choices": [
         {
-          "title": "坦诚窃听，具体提及",
-          "description": "承认偷听，并说出沈翠提到的蛊虫与‘那件东西’，以换取信任。"
+          "title": "细读壁上功法",
+          "description": "凝神记下壁上残留的文字，虽不完整，或能悟出几分玄妙。"
         },
         {
-          "title": "模棱两可，反向试探",
-          "description": "微笑不语，反问方源是否真以为只有三人知晓，暗示背后有人。"
+          "title": "取走兽皮古卷",
+          "description": "伸手拿起石台上的兽皮卷，小心翼翼收入怀中。"
         },
         {
-          "title": "转移焦点，提议联手",
-          "description": "不与方源纠缠情报来源，直接提出合作的具体计划，以行动示诚。"
+          "title": "探查洞内深处",
+          "description": "不急于取物，先持火折子向洞深处摸索，看看是否另有奇遇。"
         },
         {
-          "title": "以退为进，起身告辞",
-          "description": "故作失望，叹方源疑心太重，作势欲走，观察对方反应。"
+          "title": "原路退出隐踪",
+          "description": "不欲多留，悄然退出山洞，继续前往青云山探查异光。"
         }
       ],
-      "parent_event_id": "62b01ae8-5cf5-4993-9864-812f80de5956",
+      "parent_event_id": "ec3c8d1e-eb43-47fe-999e-47bed2832417",
       "phase": "前期",
-      "created_at": "2026-05-03T13:51:54.119Z"
+      "created_at": "2026-05-05T05:23:40.721Z"
     },
     {
-      "id": "e8bbb06f-f031-40bb-9b9a-b82f178aae87",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "f20e7c25-2354-48a8-9ac7-a7ae5af29e4e",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "坦诚窃听，具体提及",
-      "description": "承认偷听，并说出沈翠提到的蛊虫与‘那件东西’，以换取信任。",
+      "title": "探查洞内深处",
+      "description": "不急于取物，先持火折子向洞深处摸索，看看是否另有奇遇。",
       "choices": [],
-      "parent_event_id": "2ecd1c60-df5a-402f-a54b-f614c4f6ff0e",
+      "parent_event_id": "57d0d087-75df-41fb-8158-dc24dabf2f1c",
       "phase": "前期",
-      "created_at": "2026-05-03T13:52:14.375Z"
+      "created_at": "2026-05-05T05:23:41.739Z"
     },
     {
-      "id": "639cf2d7-efd6-479b-98c4-7d0ef0738f83",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "1e77d51b-7c14-49f8-838f-3ecfa921a68d",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "烛火下的摊牌",
-      "description": "你话音未落，方源眼神骤然凝住，烛火无声跳动，映得他半边脸明暗不定。他缓缓收回按在无碍蛊上的手指，嘴角却勾起一丝意味不明的弧度：“既然你能听到沈翠的话，想必也清楚那件东西的价值。”他顿了顿，目光如寒刃刮过你面庞，“你想用这个来换我的信任？那就说说，你打算怎么合作。”窗外的说笑声已远，屋内只剩两人对峙的呼吸。",
+      "title": "洞中秘径见遗刻",
+      "description": "你手持火折子，沿着洞壁向内摸索。火光摇曳，映出洞壁上斑驳的苔痕，前行约十丈，洞势忽而收窄，仅容一人侧身而过。侧身挤过石缝，眼前豁然开朗——一间数丈见方的石室，四壁光滑如镜，正中一座石台，台上放着一卷竹简，简上尘埃厚积，似许久无人动过。石室顶部嵌着一枚鸽卵大小的夜明珠，散发幽幽清辉，照得室内纤毫毕现。你正欲上前查看，却听身后传来细微的碎石声响。",
       "choices": [
         {
-          "title": "直指月光蛊",
-          "description": "直接点明方源炼化月光蛊的进度，提出联手窃取更多资源。"
+          "title": "回身查看动静",
+          "description": "警觉回身，火折子照向声响来源，戒备可能尾随之人或物。"
         },
         {
-          "title": "退一步示弱",
-          "description": "低头避开锋芒，说自己只是仰慕方源手段，愿效犬马之劳。"
+          "title": "先取竹简",
+          "description": "不管身后异响，快步上前，先将石台上的竹简收入怀中。"
         },
         {
-          "title": "抛出诱饵",
-          "description": "暗示自己知道一处藏着上古蛊虫的遗迹，邀方源同探。"
-        },
-        {
-          "title": "沉默观察",
-          "description": "不接话，只是盯着方源的眼睛，等他的后手。"
+          "title": "观察石壁刻痕",
+          "description": "暂不取物，先举火细看四壁是否另有文字或机关痕迹。"
         }
       ],
-      "parent_event_id": "e8bbb06f-f031-40bb-9b9a-b82f178aae87",
+      "parent_event_id": "f20e7c25-2354-48a8-9ac7-a7ae5af29e4e",
       "phase": "前期",
-      "created_at": "2026-05-03T13:52:25.067Z"
+      "created_at": "2026-05-05T05:23:47.945Z"
     },
     {
-      "id": "faad393c-4489-43c8-bb63-6e5cb40033f1",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "78ab1669-9b91-444f-8257-bb7cc8435dae",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "直指月光蛊",
-      "description": "直接点明方源炼化月光蛊的进度，提出联手窃取更多资源。",
+      "title": "回身查看动静",
+      "description": "警觉回身，火折子照向声响来源，戒备可能尾随之人或物。",
       "choices": [],
-      "parent_event_id": "639cf2d7-efd6-479b-98c4-7d0ef0738f83",
+      "parent_event_id": "1e77d51b-7c14-49f8-838f-3ecfa921a68d",
       "phase": "前期",
-      "created_at": "2026-05-03T13:52:42.352Z"
+      "created_at": "2026-05-05T05:23:48.966Z"
     },
     {
-      "id": "cc7a9472-d4b3-44b7-8755-6c24241b9c96",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "0755fed5-1216-40c0-819e-fb8181c30938",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "月色下的试探",
-      "description": "你直接点破月光蛊，方源瞳孔微缩，随即恢复平静。他缓缓坐回椅上，手指轻抚桌面元石，低声道：“既然你清楚月光蛊，也该知道炼化它需要多少资源。你想联手？说说你的计划，以及——你凭什么让我相信你不是古月家族派来的探子？”",
+      "title": "石室暗影闻异声",
+      "description": "你猛然回身，火折子的光芒摇曳不定，照向声响传来的方向。石室入口处，一道黑影一闪而没，你隐约看到一件似袖袍的衣角消失在转角。洞中寂静，只余你自己的呼吸声与火折子燃烧的细微噼啪声。那影子似人非人，动作迅捷无声，不知是尾随而来，还是这古洞中另有生灵。",
       "choices": [
         {
-          "title": "拿出投名状",
-          "description": "透露自己窃取的家族情报作为诚意，换取方源的信任。"
+          "title": "提剑追查黑影",
+          "description": "握紧手中凡铁，压低身形追向黑影消失的方向，欲探究竟。"
         },
         {
-          "title": "以利诱之",
-          "description": "描述合作后可获得更多资源，比如其他蛊虫或元石，避开信任问题。"
+          "title": "先查看石室遗刻",
+          "description": "按下心中警觉，先抓紧时间浏览石壁上的遗刻，以免错失机缘。"
         },
         {
-          "title": "反问反制",
-          "description": "反问方源为何深夜炼化月光蛊，是否已有异心，将压力抛回。"
+          "title": "吹灭火折隐入黑暗",
+          "description": "熄灭火光，背靠石壁静静等待，以不变应万变。"
         }
       ],
-      "parent_event_id": "faad393c-4489-43c8-bb63-6e5cb40033f1",
+      "parent_event_id": "78ab1669-9b91-444f-8257-bb7cc8435dae",
       "phase": "前期",
-      "created_at": "2026-05-03T13:52:49.489Z"
+      "created_at": "2026-05-05T05:23:54.234Z"
     },
     {
-      "id": "a40553b1-c82a-4676-a2a0-e63c78a9ac4f",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "fb6eb315-7662-4384-867f-8271efa454d6",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "以利诱之",
-      "description": "描述合作后可获得更多资源，比如其他蛊虫或元石，避开信任问题。",
+      "title": "提剑追查黑影",
+      "description": "握紧手中凡铁，压低身形追向黑影消失的方向，欲探究竟。",
       "choices": [],
-      "parent_event_id": "cc7a9472-d4b3-44b7-8755-6c24241b9c96",
+      "parent_event_id": "0755fed5-1216-40c0-819e-fb8181c30938",
       "phase": "前期",
-      "created_at": "2026-05-03T13:53:08.986Z"
+      "created_at": "2026-05-05T05:23:55.257Z"
     },
     {
-      "id": "96cec5a6-f34a-4b8e-a50e-1f50b2693b9b",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "09253906-6924-464e-b447-ed90d6458554",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "利益交换的试探",
-      "description": "你话音落下，方源沉默片刻，烛火在他眼底跳动。他冷笑一声，低声道：“合作？说出来听听，你能拿出什么让我心动的东西——月光蛊、元石，还是别的秘密？”屋外传来几声猎户的吆喝，江牙一行人正拖着猎物经过，脚步声在湿漉漉的石阶上渐行渐远。方源指尖轻叩桌面，目光灼灼地盯着你，显然在等一个足够分量的筹码。",
+      "title": "洞中追影见岔路",
+      "description": "你提剑疾追，火折子在山风中明灭不定。那黑影身法诡异，在曲折洞道中一闪再闪，始终与你保持数丈距离。追出百步，洞势忽分三岔，黑影没入左侧洞口，消失不见。你驻足凝神，只闻右侧洞中传来若有若无的诵经声，而中间洞口则隐隐透出青色微光。",
       "choices": [
         {
-          "title": "透露月光蛊线索",
-          "description": "说出月光蛊的出处或弱点，换取方源信任"
+          "title": "追入左侧洞道",
+          "description": "黑影消失在左侧，或藏有隐秘，但可能落入陷阱。"
         },
         {
-          "title": "展示元石储",
-          "description": "直接掏出十块元石放在桌上，证明财力"
+          "title": "循声探右侧洞",
+          "description": "诵经声在这古洞中显得诡异，或许另有玄机。"
         },
         {
-          "title": "提起沈翠的异常",
-          "description": "点出沈翠背后可能有人指使，转移焦点"
-        },
-        {
-          "title": "虚张声势",
-          "description": "暗示自己背后有靠山，让方源不敢轻举妄动"
+          "title": "走向中间青光",
+          "description": "青芒闪烁，似是法宝或禁制之光，值得一探。"
         }
       ],
-      "parent_event_id": "a40553b1-c82a-4676-a2a0-e63c78a9ac4f",
+      "parent_event_id": "fb6eb315-7662-4384-867f-8271efa454d6",
       "phase": "前期",
-      "created_at": "2026-05-03T13:53:18.127Z"
+      "created_at": "2026-05-05T05:24:04.308Z"
     },
     {
-      "id": "73aaa3fb-6b18-4fa9-9402-80b94d6dc9ce",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "1ecef4a6-7d01-41a0-973f-708cd90f6582",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "提起沈翠的异常",
-      "description": "点出沈翠背后可能有人指使，转移焦点",
+      "title": "追入左侧洞道",
+      "description": "黑影消失在左侧，或藏有隐秘，但可能落入陷阱。",
       "choices": [],
-      "parent_event_id": "96cec5a6-f34a-4b8e-a50e-1f50b2693b9b",
+      "parent_event_id": "09253906-6924-464e-b447-ed90d6458554",
       "phase": "前期",
-      "created_at": "2026-05-03T13:53:28.988Z"
+      "created_at": "2026-05-05T05:24:05.330Z"
     },
     {
-      "id": "189c878c-8219-4f33-a10e-0e06fecc379f",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "8a8b7456-fd49-417c-8f2a-8e65b874c06a",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "沈翠的隐秘",
-      "description": "你话音落下，方源眼神微眯，烛火在他眼中跳动。他冷笑一声，手指轻敲桌面：“沈翠背后有人？你倒是说说，看到了什么。”话音刚落，屋外传来细碎的脚步声，停在门前。沈翠的声音响起：“方源少爷，掌柜请您去一趟账房。”方源迅速收起月光蛊，目光与你交汇，示意你噤声，随即拉开门，语气平淡：“知道了。远坊兄，你先回吧。”沈翠的目光在你身上一扫而过，带着一丝不易察觉的警惕。",
+      "title": "左侧洞道遇尸骸",
+      "description": "你提剑追入左侧洞道，火折子光芒勉强照亮前路。洞道蜿蜒向下，潮湿阴冷，石壁上渗出细密水珠。约莫二十步后，洞势骤宽，只见一具白衣骸骨靠壁而坐，骨骼完好，衣袍尚存，右手握着一柄锈迹斑斑的长剑，左手边散落一卷竹简。骸骨眉心处有一道细长裂痕，似是被利器贯穿。洞中再无黑影踪迹，只余水滴声与你的心跳。",
       "choices": [
         {
-          "title": "与方源共进退",
-          "description": "留在房间内，与方源一同应对沈翠的突然到来"
+          "title": "查看竹简与骸骨",
+          "description": "上前仔细检查竹简内容与骸骨遗物，可能发现珍贵功法或线索。"
         },
         {
-          "title": "借故离开观察",
-          "description": "借口回宿舍，实则暗中观察沈翠与方源的动向"
+          "title": "取走长剑与竹简",
+          "description": "谨慎地拾起长剑和竹简，以备后用。"
         },
         {
-          "title": "当面质问沈翠",
-          "description": "直接开口质问沈翠，点破她之前的异常行为"
+          "title": "搜索洞道其余角落",
+          "description": "环顾四周，检查是否还有暗门或机关。"
         },
         {
-          "title": "装作若无其事",
-          "description": "配合方源，假装一切正常，看看沈翠葫芦里卖的什么药"
+          "title": "退出原路返回",
+          "description": "此地诡异，不宜久留，速速撤回岔路口。"
         }
       ],
-      "parent_event_id": "73aaa3fb-6b18-4fa9-9402-80b94d6dc9ce",
+      "parent_event_id": "1ecef4a6-7d01-41a0-973f-708cd90f6582",
       "phase": "前期",
-      "created_at": "2026-05-03T13:53:38.982Z"
+      "created_at": "2026-05-05T05:24:12.193Z"
     },
     {
-      "id": "6cf48bb2-05c6-40d9-b8df-2ec5fd270c69",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "dda0ff1d-4b85-47d3-857a-6739bb5db07b",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "装作若无其事",
-      "description": "配合方源，假装一切正常，看看沈翠葫芦里卖的什么药",
+      "title": "查看竹简与骸骨",
+      "description": "上前仔细检查竹简内容与骸骨遗物，可能发现珍贵功法或线索。",
       "choices": [],
-      "parent_event_id": "189c878c-8219-4f33-a10e-0e06fecc379f",
+      "parent_event_id": "8a8b7456-fd49-417c-8f2a-8e65b874c06a",
       "phase": "前期",
-      "created_at": "2026-05-03T13:53:58.177Z"
+      "created_at": "2026-05-05T05:24:13.218Z"
     },
     {
-      "id": "eab7a7f5-c6b2-4034-a7b3-ddac4e3620f8",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "0f609aa3-504c-49f7-931a-d4e9347df208",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 2,
-      "title": "沈翠入室",
-      "description": "脚步声停顿片刻，随即响起敲门声。沈翠的声音隔着门板传来，温软中带着试探：“方源少爷，我熬了姜汤，雨后天寒，给您暖暖身子。”方源瞥你一眼，眼底闪过一丝冷光，随即扬声应道：“进来吧。”门吱呀推开，沈翠端着托盘低头走入，目光却快速扫过屋内陈设，尤其在你们二人之间打了个转。她将托盘放在桌上，碗中热气袅袅，眼神似不经意地掠过你腰间空窍位置。",
+      "title": "骸骨遗卷观秘录",
+      "description": "你俯身靠近那具白衣骸骨，火折子微光映在泛黄的竹简上。竹简用细绳编连，上刻蝇头小楷，内容似是某种心法口诀，但字迹潦草，多处被水渍模糊。骸骨右手边散落着一枚玉佩，质地温润，雕作莲花形状，背面刻有一个‘玄’字。你正欲细看，忽听洞深处传来一声极轻的叹息，似有似无，却又清晰入耳。",
       "choices": [
         {
-          "title": "主动搭话",
-          "description": "自然接过姜汤，借机询问沈翠近日可有发现什么异常，看她反应。"
+          "title": "细读竹简内容",
+          "description": "逐字辨识字迹，尝试记下心法口诀，可能有所领悟。"
         },
         {
-          "title": "冷眼旁观",
-          "description": "沉默饮汤，让方源主导对话，观察沈翠的小动作和方源的应对。"
+          "title": "拾起玉佩观察",
+          "description": "捡起莲花玉佩，探查其质地与灵韵，或许与骸骨身份相关。"
         },
         {
-          "title": "借故离开",
-          "description": "以有事为由起身告辞，给方源与沈翠单独相处的空间，暗中留意。"
+          "title": "循声探查洞深处",
+          "description": "放下竹简与玉佩，握紧长剑，朝着叹息声方向小心前行。"
+        },
+        {
+          "title": "原地警戒片刻",
+          "description": "不急于行动，先确认周围是否有机关或埋伏，再作打算。"
         }
       ],
-      "parent_event_id": "6cf48bb2-05c6-40d9-b8df-2ec5fd270c69",
+      "parent_event_id": "dda0ff1d-4b85-47d3-857a-6739bb5db07b",
       "phase": "前期",
-      "created_at": "2026-05-03T13:54:06.764Z"
+      "created_at": "2026-05-05T05:24:19.430Z"
     },
     {
-      "id": "13b5eac1-bc41-46ba-94a3-901bb7d09b36",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "dd09fb7d-6ba3-437d-bb92-6be1c44c3466",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 3,
-      "title": "主动搭话",
-      "description": "自然接过姜汤，借机询问沈翠近日可有发现什么异常，看她反应。",
+      "title": "原地警戒片刻",
+      "description": "不急于行动，先确认周围是否有机关或埋伏，再作打算。",
       "choices": [],
-      "parent_event_id": "eab7a7f5-c6b2-4034-a7b3-ddac4e3620f8",
+      "parent_event_id": "0f609aa3-504c-49f7-931a-d4e9347df208",
       "phase": "前期",
-      "created_at": "2026-05-03T13:55:08.539Z"
+      "created_at": "2026-05-05T05:24:20.447Z"
     },
     {
-      "id": "fb651977-0b35-4877-8438-4189d2f8b641",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "9227ee38-559f-413d-8054-ac85900838d2",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 3,
-      "title": "姜汤试探",
-      "description": "你自然接过沈翠递来的姜汤，碗壁温热透过指尖。你抿了一口，目光落在她低垂的眼帘上，低声问道：“沈翠姑娘，近日山寨可有什么异常？我总觉得雨夜不太平。”沈翠指尖微颤，抬起脸时已换上温婉笑意：“远坊少爷多虑了，青茅山一向安宁。”方源靠坐在窗边，右手轻抚腰间的青铜蛊虫，月光蛊的微光在他指缝间明灭，嘴角噙着一丝冷笑，并不插话。",
+      "title": "骸骨遗物现端倪",
+      "description": "你屏息凝神，火折子微光在洞壁间摇曳。四周静得出奇，只有水珠滴落石上的声响。确认无机关后，你重新审视那具白衣骸骨——其左手无名指上戴着一枚暗青色指环，虽蒙尘却隐有灵光流转。你正欲细看，洞外忽然传来一声凄厉兽吼，紧接着是兵刃交击之声，竟是有人在激斗。",
       "choices": [
         {
-          "title": "紧逼追问",
-          "description": "放下姜汤，目光直视沈翠，语气加重：“当真没有？我昨夜似乎听到些动静。”"
+          "title": "取走指环与竹简",
+          "description": "迅速收起遗物，循声出洞查看动静。"
         },
         {
-          "title": "顺势圆场",
-          "description": "哈哈一笑，将姜汤喝完：“那就好，许是我多心了。多谢沈翠姑娘姜汤。”"
+          "title": "只取竹简",
+          "description": "认为指环可能另有主人，仅带走竹简，再出洞探查。"
         },
         {
-          "title": "转向方源",
-          "description": "瞥向方源，意味深长地说：“方源少爷觉得呢？雨夜漫长，可有什么趣事？”"
+          "title": "记下位置后离开",
+          "description": "不动遗物，先行出洞援助斗法之人，以免错过变故。"
         }
       ],
-      "parent_event_id": "13b5eac1-bc41-46ba-94a3-901bb7d09b36",
+      "parent_event_id": "dd09fb7d-6ba3-437d-bb92-6be1c44c3466",
       "phase": "前期",
-      "created_at": "2026-05-03T13:55:17.869Z"
+      "created_at": "2026-05-05T05:24:27.722Z"
     },
     {
-      "id": "ad9500c2-c930-4bf5-aa87-90658209d4b0",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "08bd0300-d520-47de-8629-96b540f386f2",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 3,
-      "title": "顺势圆场",
-      "description": "哈哈一笑，将姜汤喝完：“那就好，许是我多心了。多谢沈翠姑娘姜汤。”",
+      "title": "记下位置后离开",
+      "description": "不动遗物，先行出洞援助斗法之人，以免错过变故。",
       "choices": [],
-      "parent_event_id": "fb651977-0b35-4877-8438-4189d2f8b641",
+      "parent_event_id": "9227ee38-559f-413d-8054-ac85900838d2",
       "phase": "前期",
-      "created_at": "2026-05-03T13:55:36.347Z"
+      "created_at": "2026-05-05T05:24:28.754Z"
     },
     {
-      "id": "1688e8d4-66b7-4aed-9bd0-0114c8b4ecb0",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "6c3c87ad-253c-4302-9a1a-fea26093cbfd",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 3,
-      "title": "新的冒险",
-      "description": "{\n  \"title\": \"姜汤余温\",\n  \"description\": \"你哈哈一笑，仰头将姜汤饮尽，碗底搁在桌上。沈翠接过空碗，指尖不经意擦过你的手背，垂首道：“少爷谬赞，翠儿告退。”她转身时裙角带起一阵若有若无的药草气息，门扉轻合。方源盯着门板，指尖在烛台边缘缓缓摩挲，烛火在他眼底明明灭灭，好一会儿才凉凉开口：“你这圆场，打得倒是及时。”\",\n  \"choices\": [\n    {\n  ",
+      "title": "出洞遇天雷斗法",
+      "description": "你收起火折子，疾步沿原路折返。洞外风雨已至，天际雷光闪烁，一股浩然法力与凶厉邪气正猛烈碰撞。你刚踏出洞口，便见数十丈外，一位身披袈裟的老僧浑身浴血，双手紧握翡翠念珠，以佛门真言硬撼一道从天而降的紫色雷霆。雷光炸裂，气浪掀翻周遭树木，两个七八岁的孩童倒在老僧身后不远处，已是昏迷不醒。",
       "choices": [
         {
-          "title": "继续前进",
-          "description": "探索未知的前方"
+          "title": "赶往同门处报信",
+          "description": "你认出远处斗法之人绝非寻常，急寻清虚门师兄弟，共同应对。"
         },
         {
-          "title": "仔细观察",
-          "description": "分析当前情况"
+          "title": "尝试救助孩童",
+          "description": "趁斗法正酣，你压低身形潜向两个昏迷的孩子，想将他们带离险境。"
+        },
+        {
+          "title": "隐于暗处观战",
+          "description": "你伏身于乱石后，凝神观看这场惊世对决，试图从中领悟几分。"
+        },
+        {
+          "title": "绕后查探黑衣人",
+          "description": "你瞥见雷光源头处有一道黑影，便想迂回靠近，探查其来历。"
         }
       ],
-      "parent_event_id": "ad9500c2-c930-4bf5-aa87-90658209d4b0",
+      "parent_event_id": "08bd0300-d520-47de-8629-96b540f386f2",
       "phase": "前期",
-      "created_at": "2026-05-03T13:55:44.770Z"
+      "created_at": "2026-05-05T05:24:37.585Z"
     },
     {
-      "id": "2a55c16f-301a-4183-9d55-0fb30909f6a7",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "4c946dba-921b-4170-a3e7-707089298f60",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 3,
-      "title": "继续前进",
-      "description": "探索未知的前方",
+      "title": "隐于暗处观战",
+      "description": "你伏身于乱石后，凝神观看这场惊世对决，试图从中领悟几分。",
       "choices": [],
-      "parent_event_id": "1688e8d4-66b7-4aed-9bd0-0114c8b4ecb0",
+      "parent_event_id": "6c3c87ad-253c-4302-9a1a-fea26093cbfd",
       "phase": "前期",
-      "created_at": "2026-05-03T13:55:54.104Z"
+      "created_at": "2026-05-05T05:24:38.621Z"
     },
     {
-      "id": "4f5a83d2-21a1-4f1d-aa5e-698dca650f21",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "38bef751-17ce-4fcd-b88a-3327a3cb4cb4",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 3,
-      "title": "石阶偶遇猎户",
-      "description": "你走出方源的房间，青茅山的雾气在晨光中渐散。石阶向下延伸，远处传来猎户的谈笑声。江牙扛着半只野猪，身旁的女同伴和峰哥正比划着什么。见到你，江牙咧嘴一笑，将猎物搁在石阶上，朝你扬了扬手：“小哥，雨停了，可有兴致跟我们去后山探探？听说有野狼踪迹。”他眼中闪过一丝精光，似乎话里有话。",
+      "title": "暗处窥得胜负分",
+      "description": "风雨如晦，雷光炸裂。那老僧以翡翠念珠硬撼天雷，佛门真言与道家雷法碰撞，震得你耳中嗡鸣。邪人一声惨呼，身形踉跄遁入黑暗，老僧亦颓然坐倒，怀中滚落出两个昏迷的孩童。你伏于石后，手心冷汗涔涔，不知该趁势离去，还是上前探看。",
       "choices": [
-        {
-          "title": "应允同行猎狼",
-          "description": "答应江牙的邀请，借机探查后山异常和野狼传闻"
-        },
-        {
-          "title": "婉拒独自闲逛",
-          "description": "以有事为由推脱，打算在山寨中自行收集情报或观察方源动向"
-        },
-        {
-          "title": "询问细节再定",
-          "description": "追问野狼踪迹的具体位置和发现时间，判断是否值得一去"
-        }
-      ],
-      "parent_event_id": "2a55c16f-301a-4183-9d55-0fb30909f6a7",
-      "phase": "前期",
-      "created_at": "2026-05-03T13:56:01.854Z"
-    },
-    {
-      "id": "c900f038-3e05-4fd9-b04b-80b53bce4ac0",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 3,
-      "title": "婉拒独自闲逛",
-      "description": "以有事为由推脱，打算在山寨中自行收集情报或观察方源动向",
-      "choices": [],
-      "parent_event_id": "4f5a83d2-21a1-4f1d-aa5e-698dca650f21",
-      "phase": "前期",
-      "created_at": "2026-05-03T13:56:14.854Z"
-    },
-    {
-      "id": "11189b0d-bd3b-4d20-a40d-f7f4d2d4d1da",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 3,
-      "title": "石阶岔路",
-      "description": "你婉拒江牙的邀约，目送猎户们谈笑着远去。晨雾渐散，青茅山寨的石阶分作两条：一条通往学堂方向，隐约有诵读声传来；另一条通向市集，偶有叫卖声混杂着铁器碰撞。你想起方源房中的异样，沈翠离开不久，或许能探到些线索。",
-      "choices": [
-        {
-          "title": "尾随沈翠",
-          "description": "悄悄跟上沈翠，看她去往何处、与谁接触。"
-        },
-        {
-          "title": "折返方源窗外",
-          "description": "绕回方源屋后，借雾气遮掩继续窥探。"
-        },
-        {
-          "title": "市集探听",
-          "description": "往市集走，从商贩闲谈中收集近期消息。"
-        },
-        {
-          "title": "学堂摸底",
-          "description": "去学堂查看课程与学员，了解家族底层情况。"
-        }
-      ],
-      "parent_event_id": "c900f038-3e05-4fd9-b04b-80b53bce4ac0",
-      "phase": "前期",
-      "created_at": "2026-05-03T13:56:23.903Z"
-    },
-    {
-      "id": "696c8195-db6b-463c-bb3d-de14381041df",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 3,
-      "title": "尾随沈翠",
-      "description": "悄悄跟上沈翠，看她去往何处、与谁接触。",
-      "choices": [],
-      "parent_event_id": "11189b0d-bd3b-4d20-a40d-f7f4d2d4d1da",
-      "phase": "前期",
-      "created_at": "2026-05-03T13:56:31.679Z"
-    },
-    {
-      "id": "e05e8715-148b-4a3a-b9f8-d0ae187a8c06",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 3,
-      "title": "石阶暗影",
-      "description": "你放轻脚步，贴着石阶旁的木栏向下望去。沈翠的身影在晨雾中若隐若现，她并未走向市集，反而拐向学堂后的一条窄巷。巷口堆着半人高的柴垛，你闪身躲在柴垛后，听见她压低声音与一人交谈。那人的声音低沉，带着几分沙哑：“东西到手了？”沈翠轻轻摇头，只回了一句：“他防得紧。”你屏住呼吸，手心渗出薄汗。",
-      "choices": [
-        {
-          "title": "靠近细听",
-          "description": "冒险挪近柴垛，试图看清对话者的面貌与蛊虫气息。"
-        },
-        {
-          "title": "就地等待",
-          "description": "按住不动，等沈翠离开后，再跟踪那神秘人。"
-        },
         {
           "title": "悄然退走",
-          "description": "不愿暴露自己，趁未被发现前原路返回。"
+          "description": "此地凶险，非你所能涉足，速离为妙。"
+        },
+        {
+          "title": "上前查看",
+          "description": "那老僧气息奄奄，两个孩童尚在，或许能救。"
+        },
+        {
+          "title": "隐匿窥探",
+          "description": "且观后续，看是否有其他人闻声而来。"
         }
       ],
-      "parent_event_id": "696c8195-db6b-463c-bb3d-de14381041df",
+      "parent_event_id": "4c946dba-921b-4170-a3e7-707089298f60",
       "phase": "前期",
-      "created_at": "2026-05-03T13:56:40.050Z"
+      "created_at": "2026-05-05T05:24:45.388Z"
     },
     {
-      "id": "8fcbc1f3-9407-4df1-b1bf-52d43c3626d0",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "d3bf73ad-3606-4913-9b5a-4d1e479631e7",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "chapter_index": 3,
+      "title": "上前查看",
+      "description": "那老僧气息奄奄，两个孩童尚在，或许能救。",
+      "choices": [],
+      "parent_event_id": "38bef751-17ce-4fcd-b88a-3327a3cb4cb4",
+      "phase": "前期",
+      "created_at": "2026-05-05T05:24:46.423Z"
+    },
+    {
+      "id": "7a5558de-110a-4831-bfa8-889b3be4c189",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "chapter_index": 3,
+      "title": "雨夜残僧藏秘辛",
+      "description": "你快步上前，风雨中老僧袈裟尽裂，胸前一道焦黑掌印触目惊心。他强撑眼皮见你靠近，沙哑道：‘施主…莫近…邪人未远…’话音未落，一口鲜血喷出，染红了翡翠念珠。两个孩童蜷卧泥泞，一个眉宇倔强，一个面庞圆润，呼吸尚在。远处雷光隐现，似有追兵将至。",
+      "choices": [
+        {
+          "title": "先救孩童",
+          "description": "护住两个昏迷孩子，试探其伤势，速寻避雨处"
+        },
+        {
+          "title": "询问老僧",
+          "description": "听从老僧警告，但追问邪人来历与洞中骸骨之事"
+        },
+        {
+          "title": "警戒四周",
+          "description": "提剑环视风雨，防备邪人折返或其他妖兽"
+        }
+      ],
+      "parent_event_id": "d3bf73ad-3606-4913-9b5a-4d1e479631e7",
+      "phase": "前期",
+      "created_at": "2026-05-05T05:24:53.194Z"
+    },
+    {
+      "id": "705e38c5-7fb9-4f6f-840a-335f356e4fd9",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "chapter_index": 3,
+      "title": "询问老僧",
+      "description": "听从老僧警告，但追问邪人来历与洞中骸骨之事",
+      "choices": [],
+      "parent_event_id": "7a5558de-110a-4831-bfa8-889b3be4c189",
+      "phase": "前期",
+      "created_at": "2026-05-05T05:24:54.221Z"
+    },
+    {
+      "id": "eaf6a2db-60fd-49c5-9a07-6d01adf2bfd7",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "chapter_index": 3,
+      "title": "残僧低语问来由",
+      "description": "你压低身形，靠近老僧三步之遥，风雨浸透袈裟与皮肉。老僧勉强抬眼，血污下的目光浑浊却锐利，他咳出一口血沫，喘息道：‘施…施主何门何派？此间凶险，非你所能涉…’话音未落，远处密林深处传来一声短促哨音，老僧神色骤变，强撑身子将两个孩童拢入怀中，念珠上的翡翠微光一明一灭。",
+      "choices": [
+        {
+          "title": "报出清虚门身份，追问邪人底细",
+          "description": "表明自己乃清虚门弟子，追问方才斗法之人是谁、洞中骸骨是否与他有关。"
+        },
+        {
+          "title": "自称路过散修，先助老僧疗伤",
+          "description": "含糊带过门派，从怀中摸出止血草药，欲上前查看老僧伤势。"
+        },
+        {
+          "title": "不动声色，反问他为何护着这两个孩童",
+          "description": "暂时不答身份，目光扫向昏迷的孩童，试探老僧的动机与来历。"
+        }
+      ],
+      "parent_event_id": "705e38c5-7fb9-4f6f-840a-335f356e4fd9",
+      "phase": "前期",
+      "created_at": "2026-05-05T05:25:01.592Z"
+    },
+    {
+      "id": "042ef3f5-0462-49f3-8e4b-eab09b7bf22c",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "靠近细听",
-      "description": "冒险挪近柴垛，试图看清对话者的面貌与蛊虫气息。",
+      "title": "不动声色，反问他为何护着这两个孩童",
+      "description": "暂时不答身份，目光扫向昏迷的孩童，试探老僧的动机与来历。",
       "choices": [],
-      "parent_event_id": "e05e8715-148b-4a3a-b9f8-d0ae187a8c06",
+      "parent_event_id": "eaf6a2db-60fd-49c5-9a07-6d01adf2bfd7",
       "phase": "前期",
-      "created_at": "2026-05-03T13:56:52.487Z"
+      "created_at": "2026-05-05T05:25:02.616Z"
     },
     {
-      "id": "ddb185e8-2c14-4054-b931-7d6a6574b12e",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "80dce86c-ecf7-48b4-ada7-c16c4ee38e77",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "柴垛窃听",
-      "description": "你屏息挪近柴垛，透过木柴缝隙望去。窄巷中，沈翠背对着你，对面站着个驼背老者，手拄木杖，杖头嵌着一枚灰扑扑的蛊虫——是寻常的传信蛊。沈翠低声问：“那东西真有这般神效？”老者沙哑一笑：“古月方源炼化月光蛊的消息，值这个价。”沈翠沉默片刻，从袖中摸出一块元石递过去。老者接过，转身欲走。你心跳如鼓，再靠近一步，脚下枯枝“咔嚓”一响。",
+      "title": "残僧托孤言真相",
+      "description": "老僧闻言，眼神微黯，又是一口鲜血涌出，染红了胸前破碎的袈裟。他勉力抬手，指了指两个昏迷的孩童，声音嘶哑如破风箱：“他们…是草庙村的孤儿…老衲普智，受人所托，护他二人周全。邪人觊觎我佛门至宝，方才袭杀…施主既见，可否…”话音未落，远处林间又传来一声凄厉长啸，老僧神色剧变，挣扎欲起却力不从心。",
       "choices": [
         {
-          "title": "冲出去逼问",
-          "description": "趁老者未走远，现身质问，但可能惊动方源。"
+          "title": "上前搀扶老僧，答应护送孩童",
+          "description": "虽涉险，但见孩童无辜，心生恻隐，愿助一臂之力。"
         },
         {
-          "title": "继续潜伏",
-          "description": "等两人离开后再跟追踪老者，查其来历。"
+          "title": "警惕后退，表明自己乃清虚门下",
+          "description": "先亮明身份，试探老僧是否可信，再定行止。"
         },
         {
-          "title": "悄然撤离",
-          "description": "不想卷入是非，原路返回，当没看见。"
+          "title": "询问佛门至宝与邪人来历",
+          "description": "抓住关键，欲知更多内情，再做决断。"
         },
         {
-          "title": "故意弄出声响",
-          "description": "假装路过，试探沈翠反应，看她如何圆场。"
+          "title": "迅速查看孩童伤势",
+          "description": "不急于应答，先确认孩童安危，再考虑后续。"
         }
       ],
-      "parent_event_id": "8fcbc1f3-9407-4df1-b1bf-52d43c3626d0",
+      "parent_event_id": "042ef3f5-0462-49f3-8e4b-eab09b7bf22c",
       "phase": "前期",
-      "created_at": "2026-05-03T13:57:02.680Z"
+      "created_at": "2026-05-05T05:25:12.556Z"
     },
     {
-      "id": "431125a3-7bd4-4c69-bbb8-549543617e01",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "5f4ab050-6e53-4e04-a8f5-aa5aa06e1786",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "继续潜伏",
-      "description": "等两人离开后再跟追踪老者，查其来历。",
+      "title": "警惕后退，表明自己乃清虚门下",
+      "description": "先亮明身份，试探老僧是否可信，再定行止。",
       "choices": [],
-      "parent_event_id": "ddb185e8-2c14-4054-b931-7d6a6574b12e",
+      "parent_event_id": "80dce86c-ecf7-48b4-ada7-c16c4ee38e77",
       "phase": "前期",
-      "created_at": "2026-05-03T13:57:25.454Z"
+      "created_at": "2026-05-05T05:25:13.585Z"
     },
     {
-      "id": "d7b3240b-81f6-40e5-a058-72e3838bdf2b",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "d4a6e260-06ac-4e55-9777-511530c59577",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "柴垛之后：跟踪驼背老者",
-      "description": "沈翠与驼背老者又低语几句，老者点点头，转身拄杖向巷子深处走去。沈翠则留在原地，似乎在整理衣襟。你心中一动，待她转身离去，立刻从柴垛后闪出，贴着墙根跟上那驼背老者。晨雾中，老者的身形佝偻，步伐却稳健，木杖点地声在潮湿的石板路上轻轻回响。他拐过两个弯，径直走向山寨外围的一座破败木屋。",
+      "title": "残僧闻讯神色松",
+      "description": "老僧听得‘清虚门下’四字，浑浊眼中掠过一丝宽慰，血污嘴角勉强扯出笑意：‘原是清虚道友……好，好……’话音未落，他身子一软，向后倒去，手中翡翠念珠滑落，滚至你脚边。风雨更急，远处隐约传来几声凄厉长啸，似有追踪者正循声而来。两个孩童依旧昏迷，衣襟已被泥水浸透。",
       "choices": [
         {
-          "title": "潜至木屋窗下",
-          "description": "冒险靠近，从缝隙窥探屋内动静，可能暴露但能获取更多信息。"
+          "title": "拾起念珠，扶住老僧",
+          "description": "救人要紧，先稳住伤势再问缘由，但可能暴露行踪。"
         },
         {
-          "title": "绕后蹲守",
-          "description": "躲到木屋背后的草丛中，等待老者出来，更安全但可能错过屋内谈话。"
+          "title": "抱起孩童，速离此地",
+          "description": "老僧伤势太重，不如先带孩童到安全处藏身。"
         },
         {
-          "title": "记下位置撤退",
-          "description": "先记住木屋位置和特征，日后备查，避免打草惊蛇。"
+          "title": "凝神戒备，环顾四周",
+          "description": "先确定啸声来源，再决定如何应对逼近的危险。"
         }
       ],
-      "parent_event_id": "431125a3-7bd4-4c69-bbb8-549543617e01",
+      "parent_event_id": "5f4ab050-6e53-4e04-a8f5-aa5aa06e1786",
       "phase": "前期",
-      "created_at": "2026-05-03T13:57:32.926Z"
+      "created_at": "2026-05-05T05:25:20.332Z"
     },
     {
-      "id": "1cf57895-46de-4ac4-b082-26a42cb24622",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "3019b6ff-ec7e-4519-87b3-531420085735",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "潜至木屋窗下",
-      "description": "冒险靠近，从缝隙窥探屋内动静，可能暴露但能获取更多信息。",
+      "title": "凝神戒备，环顾四周",
+      "description": "先确定啸声来源，再决定如何应对逼近的危险。",
       "choices": [],
-      "parent_event_id": "d7b3240b-81f6-40e5-a058-72e3838bdf2b",
+      "parent_event_id": "d4a6e260-06ac-4e55-9777-511530c59577",
       "phase": "前期",
-      "created_at": "2026-05-03T13:57:43.190Z"
+      "created_at": "2026-05-05T05:25:21.364Z"
     },
     {
-      "id": "adac13d0-36fb-4f45-8888-c16c2358d4fd",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "2ca2f079-d3a1-415c-889d-80749c703ceb",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "木窗微隙见密谋",
-      "description": "你屏息蹲身，指尖轻触窗沿的朽木，寻到一处细缝。屋内烛火摇曳，驼背老者背对着你，对面却是个黑斗篷人影——那身形、那站姿，分明是前日在山脚猎户酒肆里见过的峰哥！峰哥压低嗓音道：“东西到手了，但方源那小子盯得紧，得换条路送出去。”驼背老者咳嗽一声：“今夜子时，老地方。”你心头一凛，方源为何被牵扯其中？",
+      "title": "风雨啸声隐杀机",
+      "description": "你凝神屏息，目光如电扫过四周。风雨中，那啸声愈发凄厉，似从东南方密林深处传来，夹杂着树木摧折的声响。你瞥见昏迷的老僧与两个孩童，心中暗忖：此地不可久留，那黑影或已折返。正待细辨方位，一道破空声骤然从头顶压下——一柄染血飞剑直刺你面门！",
       "choices": [
         {
-          "title": "继续潜伏窃听",
-          "description": "冒险多听几句，可能获知交易细节，但若被发现则后果难料。"
+          "title": "拔剑格挡，护住后方",
+          "description": "你横剑架开飞剑，但也暴露了位置，需速战速决"
         },
         {
-          "title": "悄然退走通报方源",
-          "description": "此事涉及方源，或许该卖他个人情，但要冒暴露行踪的风险。"
+          "title": "侧身躲避，并祭出符箓",
+          "description": "你闪身避开，同时甩出一道清虚门传讯符，召唤同门"
         },
         {
-          "title": "跟踪峰哥摸清老底",
-          "description": "峰哥离开后跟上他，看能否找到更多线索，但驼背老者可能还在屋内。"
-        },
-        {
-          "title": "原地设伏守株待兔",
-          "description": "今夜子时再来此处，直接参与交易，或许能捞一笔。"
+          "title": "抓起孩童后撤，暂避锋芒",
+          "description": "你一手一个提起两个昏迷的孩子，向洞中退去，以石室为屏障"
         }
       ],
-      "parent_event_id": "1cf57895-46de-4ac4-b082-26a42cb24622",
+      "parent_event_id": "3019b6ff-ec7e-4519-87b3-531420085735",
       "phase": "前期",
-      "created_at": "2026-05-03T13:57:53.094Z"
+      "created_at": "2026-05-05T05:25:29.239Z"
     },
     {
-      "id": "7b9a1b1c-ae07-455c-9f8f-039a7b37ce46",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "01969beb-7169-47c3-bdfe-3806f1e52391",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "木屋窥听见密谋",
-      "description": "你屏息凝神，将耳朵贴近窗缝。屋内峰哥压低嗓音道：‘东西到手了，但方源那小子盯得紧，得换条路送出去。’驼背老者咳嗽一声，沙哑回答：‘今夜子时，老地方，我安排人接应。’峰哥冷哼一声：‘那丫头呢？’老者顿了顿：‘沈翠那边，我已吩咐她稳住方源。’你心头一紧——他们口中的‘东西’和‘丫头’究竟指什么？",
-      "choices": [
-        {
-          "title": "继续潜伏，听更多细节",
-          "description": "冒险靠近，从缝隙窥探屋内动静，可能暴露但能获取更多信息。"
-        },
-        {
-          "title": "悄然撤退，去通知方源",
-          "description": "立即离开，赶回学堂向方源报信，但可能错过后续关键信息。"
-        },
-        {
-          "title": "跟踪峰哥离开",
-          "description": "峰哥似乎要先行离去，尾随他或许能发现‘东西’的下落。"
-        },
-        {
-          "title": "原地等待，观察驼背老者",
-          "description": "待峰哥走后，看驼背老者是否还有后续动作，可能发现接头人。"
-        }
-      ],
-      "parent_event_id": "adac13d0-36fb-4f45-8888-c16c2358d4fd",
+      "title": "抓起孩童后撤，暂避锋芒",
+      "description": "你一手一个提起两个昏迷的孩子，向洞中退去，以石室为屏障",
+      "choices": [],
+      "parent_event_id": "2ca2f079-d3a1-415c-889d-80749c703ceb",
       "phase": "前期",
-      "created_at": "2026-05-03T13:58:15.110Z"
+      "created_at": "2026-05-05T05:25:30.260Z"
     },
     {
-      "id": "18d36587-cd78-451d-bad4-3be7583d62fc",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "fc033fcc-10f2-4f39-808e-329059f8c247",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "继续潜伏，听更多细节",
-      "description": "冒险靠近，从缝隙窥探屋内动静，可能暴露但能获取更多信息。",
-      "choices": [],
-      "parent_event_id": "7b9a1b1c-ae07-455c-9f8f-039a7b37ce46",
+      "title": "石室藏身处，风雨待天明",
+      "description": "你提着两个孩童疾退入洞，将昏迷的老僧也拖至石室。洞外风雨如晦，凄厉兽吼与兵刃交击声渐远，终归于寂。你喘息未定，借着洞壁幽光审视怀中孩童——不过七八岁年纪，眉目清秀，却满脸血污。昏暗中，那串翡翠念珠在石地上泛着微光。",
+      "choices": [
+        {
+          "title": "检查老僧伤势",
+          "description": "你放下孩童，俯身查看普智伤势，试图施救或寻其遗言。"
+        },
+        {
+          "title": "探查洞外动静",
+          "description": "你将三人安置在石室角落，提剑悄然摸向洞口，窥视外界情况。"
+        },
+        {
+          "title": "拾起念珠细看",
+          "description": "你捡起翡翠念珠，借微光端详，或许能从中得知老僧来历。"
+        },
+        {
+          "title": "唤醒昏迷孩童",
+          "description": "你轻拍孩童脸颊，试图唤醒他们，询问草庙村变故。"
+        }
+      ],
+      "parent_event_id": "01969beb-7169-47c3-bdfe-3806f1e52391",
       "phase": "前期",
-      "created_at": "2026-05-03T13:58:28.538Z"
+      "created_at": "2026-05-05T05:25:36.780Z"
     },
     {
-      "id": "dd7b801b-8d0b-47f4-a32d-7f5ca538a3c9",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "bbed6b5d-81d3-4d89-a81c-88d8fd549442",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "新的冒险",
-      "description": "{\n  \"title\": \"木屋窗下闻密语\",\n  \"description\": \"你稳住呼吸，将耳朵更贴近窗缝。屋内峰哥压低声音道：‘那月光蛊的残骸虽小，但足够让沈家少爷炼出一丝蛊性。’驼背老者咳嗽道：‘莫要大意，方源那小子机警得很，今夜子时在乱葬岗西头枯槐下交接，切记。’你心中一凛——他们竟与沈家勾结，算计的是方源的月光蛊！',\n  \"choices\": [\n    {\n      \"titl",
-      "choices": [
-        {
-          "title": "继续前进",
-          "description": "探索未知的前方"
-        },
-        {
-          "title": "仔细观察",
-          "description": "分析当前情况"
-        }
-      ],
-      "parent_event_id": "18d36587-cd78-451d-bad4-3be7583d62fc",
+      "title": "探查洞外动静",
+      "description": "你将三人安置在石室角落，提剑悄然摸向洞口，窥视外界情况。",
+      "choices": [],
+      "parent_event_id": "fc033fcc-10f2-4f39-808e-329059f8c247",
       "phase": "前期",
-      "created_at": "2026-05-03T13:58:37.366Z"
+      "created_at": "2026-05-05T05:25:37.812Z"
     },
     {
-      "id": "6764aa05-c6e2-4283-9a0d-dc0285cb200f",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "3c94bc2a-5d52-4494-b932-e6914846de1b",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 4,
-      "title": "继续前进",
-      "description": "探索未知的前方",
-      "choices": [],
-      "parent_event_id": "dd7b801b-8d0b-47f4-a32d-7f5ca538a3c9",
+      "title": "洞外风雨歇，青云来客至",
+      "description": "你贴着洞壁向外望去，风雨渐歇，天色微明。远处林间有数道剑光掠来，为首一人身着青云门服饰，面色凝重，正是通天峰常箭。他身后跟着几位弟子，正仔细搜寻着什么。你的目光扫过空地——昨夜那场激战的痕迹犹在，却已不见那神秘黑影的踪影。",
+      "choices": [
+        {
+          "title": "现身相见，说明情况",
+          "description": "主动迎出，将老僧与孩童之事告知青云门人，寻求协助。"
+        },
+        {
+          "title": "静观其变，先看青云门动向",
+          "description": "暂不暴露自己，观察他们搜寻的意图，再决定下一步。"
+        },
+        {
+          "title": "返回石室，唤醒老僧询问详情",
+          "description": "先回石室设法让老僧醒来，弄清昨夜之事后再做打算。"
+        }
+      ],
+      "parent_event_id": "bbed6b5d-81d3-4d89-a81c-88d8fd549442",
       "phase": "前期",
-      "created_at": "2026-05-03T13:58:55.939Z"
+      "created_at": "2026-05-05T05:25:46.694Z"
     },
     {
-      "id": "bebb58bd-9579-470f-b9b2-ca2013208ac1",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "d4373f5c-7164-4f74-ba55-f1bc2c9e548f",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "窗下再闻交易声",
-      "description": "你稳住身形，将呼吸压到最低。屋内峰哥的声音更低了几分：‘驼爷，那小子精得很，我怀疑他已经嗅到味了。今夜子时，北坡废弃矿洞，东西放第三根立柱下。’驼背老者咳嗽一声：‘放心，我的人会提前清场。这次买卖做完，咱们各奔东西。’你心中一动——矿洞、子时、方源……这分明是冲着他去的。",
-      "choices": [
-        {
-          "title": "尾随峰哥探其落脚",
-          "description": "待峰哥离开，悄然跟上，看他是否还有同伙接应。"
-        },
-        {
-          "title": "折返通知方源",
-          "description": "事涉方源，你决定立即回寨告知他这桩密谋。"
-        },
-        {
-          "title": "夜探废弃矿洞",
-          "description": "趁天色尚早，先往北坡矿洞侦查地形，设下埋伏。"
-        },
-        {
-          "title": "留记号给猎户江牙",
-          "description": "江牙与峰哥熟识，或许能从他口中套出更多信息。"
-        }
-      ],
-      "parent_event_id": "6764aa05-c6e2-4283-9a0d-dc0285cb200f",
+      "title": "静观其变，先看青云门动向",
+      "description": "暂不暴露自己，观察他们搜寻的意图，再决定下一步。",
+      "choices": [],
+      "parent_event_id": "3c94bc2a-5d52-4494-b932-e6914846de1b",
       "phase": "前期",
-      "created_at": "2026-05-03T13:59:04.154Z"
+      "created_at": "2026-05-05T05:25:47.713Z"
     },
     {
-      "id": "bcb3e632-f60d-43bc-8a6d-a4fde3e1d905",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "de64a425-ddbc-40cc-a5d5-1e51bcc74c21",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "折返通知方源",
-      "description": "事涉方源，你决定立即回寨告知他这桩密谋。",
-      "choices": [],
-      "parent_event_id": "bebb58bd-9579-470f-b9b2-ca2013208ac1",
+      "title": "青云弟子搜林间",
+      "description": "你隐在洞口暗影中，屏息凝望。常箭领着数名青云弟子在林间仔细翻寻，忽有一人惊呼，从灌木丛中拾起一片碎裂的袈裟。常箭接过端详片刻，面色一沉，挥手示意众人散开搜索，目光恰好扫过你藏身的洞口。你的心猛地一紧——他停了下来，正朝这边走来。",
+      "choices": [
+        {
+          "title": "主动现身，上前搭话",
+          "description": "既然已被察觉，不如坦荡相见，借机探问青云门意图。"
+        },
+        {
+          "title": "退回洞内深处，隐匿气息",
+          "description": "暂避锋芒，利用洞中岔路与石室躲避，再寻他法脱身。"
+        }
+      ],
+      "parent_event_id": "d4373f5c-7164-4f74-ba55-f1bc2c9e548f",
       "phase": "前期",
-      "created_at": "2026-05-03T13:59:23.790Z"
+      "created_at": "2026-05-05T05:25:53.131Z"
     },
     {
-      "id": "37b4a21f-c7ae-4586-975d-fd2fdc72960d",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "f5a482fe-d4a7-46bc-b02e-d58951db108d",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "通报密谋于方源",
-      "description": "你快步穿过湿漉漉的石阶，来到方源房前。窗纸透出昏黄烛光，屋内传来翻书声。你轻叩房门，压低嗓音道：‘方源师兄，有要事相告。’门吱呀一声拉开，方源身着青衫，目光清冷，手中仍捏着一卷蛊经。他侧身让你进屋，眼中闪过一丝警惕：‘何事？’你简略说出峰哥与驼背老者今夜子时在北坡矿洞交易的密谋。方源沉默片刻，指尖轻敲桌面，似在盘算。",
-      "choices": [
-        {
-          "title": "和盘托出全部细节",
-          "description": "你将听到的每句话都复述一遍，期待方源有所行动。"
-        },
-        {
-          "title": "试探方源的态度",
-          "description": "你故意说得模棱两可，观察他的反应和底牌。"
-        },
-        {
-          "title": "建议联手截获",
-          "description": "你直截了当提议今晚一同前往矿洞，分一杯羹。"
-        }
-      ],
-      "parent_event_id": "bcb3e632-f60d-43bc-8a6d-a4fde3e1d905",
+      "title": "退回洞内深处，隐匿气息",
+      "description": "暂避锋芒，利用洞中岔路与石室躲避，再寻他法脱身。",
+      "choices": [],
+      "parent_event_id": "de64a425-ddbc-40cc-a5d5-1e51bcc74c21",
       "phase": "前期",
-      "created_at": "2026-05-03T13:59:35.137Z"
+      "created_at": "2026-05-05T05:25:54.162Z"
     },
     {
-      "id": "8aae6193-3e0a-439f-a4a4-bb16a473e689",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "099d50d6-e7b9-435f-92b6-ebcc1dbf2792",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "试探方源的态度",
-      "description": "你故意说得模棱两可，观察他的反应和底牌。",
-      "choices": [],
-      "parent_event_id": "37b4a21f-c7ae-4586-975d-fd2fdc72960d",
+      "title": "石室幽光，老僧转醒",
+      "description": "你退回洞内深处，石室中幽光朦胧，两个孩童仍昏迷不醒，老僧气息微弱却渐趋平稳。你正欲查看，忽听老僧喉间发出一声低哑咳嗽，眼皮微微颤动。同时，洞外传来常箭沉声吩咐：“仔细搜，那边山洞也看看！”脚步声正朝洞口方向移动。你心头一紧，四周再无退路。",
+      "choices": [
+        {
+          "title": "上前查看老僧",
+          "description": "快步上前，查看老僧伤势，试图唤醒他问清原委。"
+        },
+        {
+          "title": "掩住孩童口鼻",
+          "description": "迅速捂住两个孩童的嘴，以防他们惊醒出声暴露藏身处。"
+        },
+        {
+          "title": "隐入角落戒备",
+          "description": "闪身至石室最暗处，屏息握剑，准备万一被发现的应对。"
+        },
+        {
+          "title": "检查遗骸玉佩",
+          "description": "摸出怀中那枚刻有‘玄’字的莲花玉佩，试着注入灵力，看是否有异动。"
+        }
+      ],
+      "parent_event_id": "f5a482fe-d4a7-46bc-b02e-d58951db108d",
       "phase": "前期",
-      "created_at": "2026-05-03T14:00:05.864Z"
+      "created_at": "2026-05-05T05:26:07.836Z"
     },
     {
-      "id": "65489dfe-c632-4b27-bcb2-9280be096cf2",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "4fb61534-6630-408d-acf2-460d8f101dd7",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "烛下试探露锋芒",
-      "description": "你站在门内，烛火在方源眼中跳动。他未急着问话，只是盯着你，等你先开口。你故作含糊道：‘方源师兄，方才听人说起北坡矿洞有桩买卖，或许与你寻蛊有关。’话音刚落，他眉梢微动，声音却平淡：‘远坊师弟有心了。只是这雨夜路滑，你怎会跑到北坡去？’他反将一军，目光如刀。",
-      "choices": [
-        {
-          "title": "坦言偷听交易",
-          "description": "将峰哥与驼爷的密谋和盘托出，换取他的信任。"
-        },
-        {
-          "title": "编造偶遇借口",
-          "description": "声称自己路过偶然听闻，看他是否会透露更多底牌。"
-        },
-        {
-          "title": "反问他的打算",
-          "description": "不答反问，试探他对月光蛊的态度和下一步行动。"
-        }
-      ],
-      "parent_event_id": "8aae6193-3e0a-439f-a4a4-bb16a473e689",
+      "title": "检查遗骸玉佩",
+      "description": "摸出怀中那枚刻有‘玄’字的莲花玉佩，试着注入灵力，看是否有异动。",
+      "choices": [],
+      "parent_event_id": "099d50d6-e7b9-435f-92b6-ebcc1dbf2792",
       "phase": "前期",
-      "created_at": "2026-05-03T14:00:14.028Z"
+      "created_at": "2026-05-05T05:26:08.870Z"
     },
     {
-      "id": "82a1b9fd-4ba7-4a68-9416-cbab2ff183a9",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "98e8082d-9bfb-47a9-815f-f6e7ed5fe922",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "坦言偷听交易",
-      "description": "将峰哥与驼爷的密谋和盘托出，换取他的信任。",
-      "choices": [],
-      "parent_event_id": "65489dfe-c632-4b27-bcb2-9280be096cf2",
+      "title": "玉佩幽光，老僧遗言",
+      "description": "你指尖凝出一缕灵力，缓缓注入那枚莲花玉佩。玉佩微微一颤，泛起一层柔和青光，随即又归于沉寂——仿佛认主一般，将你一丝气息纳入其中。你正自惊疑，身旁传来一声苍老叹息：“施主……那玉佩，与老衲有些渊源。”你转头，见那老僧不知何时已撑开眼帘，目光浑浊却透着一丝清明，望向那玉佩。洞外传来常箭沉声吩咐：“仔细搜这附近，莫要遗漏。”脚步声渐近。",
+      "choices": [
+        {
+          "title": "询问玉佩来历",
+          "description": "向老僧询问玉佩与那具骸骨的关系，争取时间了解真相。"
+        },
+        {
+          "title": "扶起老僧躲避",
+          "description": "扶起老僧与两个孩童，退入洞中更深处，避开青云门搜索。"
+        },
+        {
+          "title": "提及青云弟子",
+          "description": "轻声告知老僧青云门弟子已在洞外，看他如何应对。"
+        }
+      ],
+      "parent_event_id": "4fb61534-6630-408d-acf2-460d8f101dd7",
       "phase": "前期",
-      "created_at": "2026-05-03T14:00:25.137Z"
+      "created_at": "2026-05-05T05:26:14.979Z"
     },
     {
-      "id": "001793f0-2d75-4bd3-a3a4-91cb56fedb89",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "3f9f960d-3a47-4e80-80a0-237e3ce7edfc",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "方源布局于矿洞",
-      "description": "你一口气将峰哥与驼爷的密谋和盘托出，方源指尖停在书页上，目光幽深。他沉默片刻，忽然轻笑一声：‘原来如此。’他起身吹灭蜡烛，夜色中语气平淡：‘既然他们想引我入局，那便去会会。你既知晓此事，可愿同往？’言罢，他推开门，潮湿的山风裹着腐叶气息扑面而来。",
-      "choices": [
-        {
-          "title": "应允同往矿洞",
-          "description": "跟随方源赴子时之约，伺机而动。"
-        },
-        {
-          "title": "建议先查沈翠",
-          "description": "提醒方源丫鬟沈翠可疑，或可反制。"
-        },
-        {
-          "title": "婉拒独守暗处",
-          "description": "推脱修为低微，愿在外围接应。"
-        },
-        {
-          "title": "追问方源打算",
-          "description": "试探他是否已有破局之策。"
-        }
-      ],
-      "parent_event_id": "82a1b9fd-4ba7-4a68-9416-cbab2ff183a9",
+      "title": "询问玉佩来历",
+      "description": "向老僧询问玉佩与那具骸骨的关系，争取时间了解真相。",
+      "choices": [],
+      "parent_event_id": "98e8082d-9bfb-47a9-815f-f6e7ed5fe922",
       "phase": "前期",
-      "created_at": "2026-05-03T14:00:34.024Z"
+      "created_at": "2026-05-05T05:26:15.996Z"
     },
     {
-      "id": "059aaf59-f2d2-44e7-bcb8-5d614a1e8a53",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "41618778-4cbc-4f3a-a9ec-ce41857193e7",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "应允同往矿洞",
-      "description": "跟随方源赴子时之约，伺机而动。",
-      "choices": [],
-      "parent_event_id": "001793f0-2d75-4bd3-a3a4-91cb56fedb89",
+      "title": "石室问缘，老僧叙旧",
+      "description": "你收起玉佩，转身望向那老僧，低声道：“前辈，这玉佩与洞中骸骨……究竟是何来历？”老僧目光微凝，喘息片刻，方颤声道：“那……那是老衲师兄，天音寺‘玄’字辈高僧，法号玄通。三十年前，他奉命追查一件邪物，一去不返……这玉佩乃他本命信物。你既能让它认主，怕是与他有缘。”话音未落，洞外常箭的声音又近了几分。",
+      "choices": [
+        {
+          "title": "追问玄通事迹",
+          "description": "详细询问玄通和尚的往事与邪物线索，但可能拖延时间"
+        },
+        {
+          "title": "先为老僧疗伤",
+          "description": "以微末修为助老僧稳固伤势，争取好感，但会分心"
+        },
+        {
+          "title": "注意洞外动静",
+          "description": "警觉常箭的逼近，准备随时隐匿或应对"
+        },
+        {
+          "title": "查看洞内竹简",
+          "description": "趁老僧说话时迅速浏览散落的竹简内容，寻找线索"
+        }
+      ],
+      "parent_event_id": "3f9f960d-3a47-4e80-80a0-237e3ce7edfc",
       "phase": "前期",
-      "created_at": "2026-05-03T14:00:51.410Z"
+      "created_at": "2026-05-05T05:26:23.613Z"
     },
     {
-      "id": "dfe86771-d635-4247-8f12-033b22fa0b55",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "e934a636-6cb3-42a3-b1aa-c02b2333676d",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "雾夜潜行入矿洞",
-      "description": "子时将至，青茅山雾气愈浓。你跟在方源身后，踩着湿滑的山路向北坡摸去。远处传来几声夜枭啼叫，矿洞的轮廓在雾中若隐若现。方源脚步突然一顿，示意你伏低身形——洞口处，两道黑影晃动，正是峰哥与驼爷。他们低声交谈几句，驼爷提着一盏幽绿的灯笼先进了洞。峰哥回头四顾，随即跟入。方源压低嗓音：“跟紧我，进洞后见机行事。”",
-      "choices": [
-        {
-          "title": "紧随方源入洞",
-          "description": "紧贴洞壁阴影，保持数步距离，观察内部情况。"
-        },
-        {
-          "title": "绕行侧洞潜伏",
-          "description": "不随方源走主路，寻找废弃侧道切入，抢占先机。"
-        },
-        {
-          "title": "留在洞口警戒",
-          "description": "向方源示意在外接应，防止对方有后手封死退路。"
-        }
-      ],
-      "parent_event_id": "059aaf59-f2d2-44e7-bcb8-5d614a1e8a53",
+      "title": "查看洞内竹简",
+      "description": "趁老僧说话时迅速浏览散落的竹简内容，寻找线索",
+      "choices": [],
+      "parent_event_id": "41618778-4cbc-4f3a-a9ec-ce41857193e7",
       "phase": "前期",
-      "created_at": "2026-05-03T14:00:58.663Z"
+      "created_at": "2026-05-05T05:26:24.643Z"
     },
     {
-      "id": "6c35e318-932b-44f9-bb42-c3ed3f2aaf38",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "5f7b37aa-3a38-421e-b14f-dad459fb0a0b",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 5,
-      "title": "紧随方源入洞",
-      "description": "紧贴洞壁阴影，保持数步距离，观察内部情况。",
-      "choices": [],
-      "parent_event_id": "dfe86771-d635-4247-8f12-033b22fa0b55",
+      "title": "古卷残简，往事浮现",
+      "description": "趁老僧喘息未定，你迅速拾起脚边一枚竹简。简上字迹潦草，似是临终前以血写就：『玄清师兄……入魔……已诛……吾亦重伤……天音之秘……不可泄……』你正欲再看，老僧忽然剧烈咳嗽，低声道：『莫……莫看那竹简！那是……师兄的遗书！』",
+      "choices": [
+        {
+          "title": "追问玄清师兄之事",
+          "description": "放下竹简，直视老僧，询问玄清师兄为何入魔"
+        },
+        {
+          "title": "继续翻阅竹简",
+          "description": "不理老僧劝阻，快速浏览其余竹简内容"
+        },
+        {
+          "title": "安抚老僧并询问伤势",
+          "description": "先扶老僧坐稳，问明他伤势来历"
+        },
+        {
+          "title": "将竹简收好，向洞外通报",
+          "description": "决定将此发现告知常箭师兄"
+        }
+      ],
+      "parent_event_id": "e934a636-6cb3-42a3-b1aa-c02b2333676d",
       "phase": "前期",
-      "created_at": "2026-05-03T14:01:39.594Z"
+      "created_at": "2026-05-05T05:26:32.033Z"
     },
     {
-      "id": "1f9ae434-743f-4ad4-a387-e48bb22f4c3f",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "476230de-9e4b-4107-8b4b-5c6856fe20cf",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "矿洞深处见暗光",
-      "description": "你跟紧方源摸入矿洞，腐湿气息扑面而来。洞内仅有一盏油灯挂在第三根立柱上，昏黄光圈中，驼爷背对洞口蹲在地上，峰哥站在一旁，手中捏着一枚泛青的月光蛊残骸。方源停步阴影中，示意你别出声——他目光扫过立柱四周，地面有新翻的泥土痕迹，显然埋了什么陷阱。",
-      "choices": [
-        {
-          "title": "暗中观察陷阱",
-          "description": "压低身形，试图看清泥土下埋藏的东西。"
-        },
-        {
-          "title": "提醒方源小心",
-          "description": "轻声告诉方源立柱下有诈。"
-        },
-        {
-          "title": "绕后包抄",
-          "description": "沿着洞壁阴影摸向驼爷身后，寻找伏击机会。"
-        },
-        {
-          "title": "静待方源行动",
-          "description": "不贸然行动，看方源如何应对。"
-        }
-      ],
-      "parent_event_id": "6c35e318-932b-44f9-bb42-c3ed3f2aaf38",
+      "title": "安抚老僧并询问伤势",
+      "description": "先扶老僧坐稳，问明他伤势来历",
+      "choices": [],
+      "parent_event_id": "5f7b37aa-3a38-421e-b14f-dad459fb0a0b",
       "phase": "前期",
-      "created_at": "2026-05-03T14:02:02.777Z"
+      "created_at": "2026-05-05T05:26:33.063Z"
     },
     {
-      "id": "e3381109-eb69-4822-9a4d-563b87f26618",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "af2b86b6-dba4-46f1-a158-01072fecff23",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "提醒方源小心",
-      "description": "轻声告诉方源立柱下有诈。",
-      "choices": [],
-      "parent_event_id": "1f9ae434-743f-4ad4-a387-e48bb22f4c3f",
+      "title": "残喘老僧，洞中秘辛",
+      "description": "你连忙上前扶住老僧，让他靠坐于石壁之上，只觉他身躯枯瘦如柴，气息微弱如游丝。你低声问道：‘前辈，你伤在何处？是何人所为？’老僧惨然一笑，颤巍巍抬手抚胸：‘老衲心脉已碎，勉强以一口佛门真气吊命。伤我者……便是师兄玄清。他入魔后狂性大发，老衲不得以与他在此搏杀，最后以同归于尽之法将他击毙，却也中了魔元反噬……’他喘息数声，目光又落向那玉佩：‘那玉佩是玄清之物，曾受天音寺佛法加持，或许……能引你寻得一线机缘。’",
+      "choices": [
+        {
+          "title": "细问玄清入魔缘由",
+          "description": "追问玄清是如何入魔，背后可有隐情"
+        },
+        {
+          "title": "以自身灵力为老僧续命",
+          "description": "尝试注入微薄灵力，看能否延缓伤势"
+        },
+        {
+          "title": "翻阅更多竹简",
+          "description": "查看洞中散落的其余竹简，寻找线索"
+        },
+        {
+          "title": "询问天音寺之秘",
+          "description": "探问老僧提及的‘天音之秘’所指为何"
+        }
+      ],
+      "parent_event_id": "476230de-9e4b-4107-8b4b-5c6856fe20cf",
       "phase": "前期",
-      "created_at": "2026-05-03T14:02:19.857Z"
+      "created_at": "2026-05-05T05:26:40.297Z"
     },
     {
-      "id": "b9bec345-5a93-47ea-8140-d53a0fd0c94a",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "a511cf91-dfde-4de2-af1f-2aa650b36281",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "矿洞立柱下的陷阱",
-      "description": "你压低声音，对方源道：“立柱四周泥土新翻，似有埋伏。”方源目光一凝，微微点头。他取出一只酒蛊，倒出半盏酒水泼向立柱——酒液落地，嗤嗤作响，瞬间化为白烟。立柱下方的泥土中，三根骨刺破土而出，尖端泛着幽绿的光。驼爷和峰哥猛然转身，眼中凶光毕露。方源冷笑一声：“雕虫小技。”他将你拉至身后，五指间已扣住三枚铁砂蛊。",
-      "choices": [
-        {
-          "title": "协助方源夹击",
-          "description": "绕至侧翼，以月光蛊残骸干扰峰哥视线。"
-        },
-        {
-          "title": "后撤封住洞口",
-          "description": "退至洞口，防止二人逃脱或外援。"
-        },
-        {
-          "title": "静观其变不出手",
-          "description": "保持隐蔽，让方源独自应对，伺机而动。"
-        }
-      ],
-      "parent_event_id": "e3381109-eb69-4822-9a4d-563b87f26618",
+      "title": "以自身灵力为老僧续命",
+      "description": "尝试注入微薄灵力，看能否延缓伤势",
+      "choices": [],
+      "parent_event_id": "af2b86b6-dba4-46f1-a158-01072fecff23",
       "phase": "前期",
-      "created_at": "2026-05-03T14:02:28.508Z"
+      "created_at": "2026-05-05T05:26:41.331Z"
     },
     {
-      "id": "f0775dff-7175-4139-af3c-f273c21bd0e7",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "14f04d32-33fe-48ba-8637-e71f1679d1e3",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "后撤封住洞口",
-      "description": "退至洞口，防止二人逃脱或外援。",
-      "choices": [],
-      "parent_event_id": "b9bec345-5a93-47ea-8140-d53a0fd0c94a",
+      "title": "残喘老僧，灵力续命",
+      "description": "你深吸一口气，将掌心贴合老僧背心，体内那点微薄灵力缓缓渡入。老僧身躯一震，灰败的脸上竟泛起一丝血色，喘息稍定。他睁开浑浊双眼，定定望着你，声音沙哑：‘小友……不必费心了，老衲心脉已碎，回天乏术。但……有些话，再不说就晚了。’他艰难抬手，指向那具骸骨，‘玄清师兄……并非入魔，他是……’话音未落，洞外忽然传来急促脚步声，有人喝道：‘里面何人！’",
+      "choices": [
+        {
+          "title": "抢问真相",
+          "description": "不顾来人，催促老僧说完玄清秘密。"
+        },
+        {
+          "title": "警惕应对",
+          "description": "立刻起身护住老僧，先查看来者身份。"
+        },
+        {
+          "title": "隐藏行踪",
+          "description": "迅速扶老僧躲入阴影，静观其变。"
+        }
+      ],
+      "parent_event_id": "a511cf91-dfde-4de2-af1f-2aa650b36281",
       "phase": "前期",
-      "created_at": "2026-05-03T14:03:00.586Z"
+      "created_at": "2026-05-05T05:26:47.250Z"
     },
     {
-      "id": "9859caea-f446-4992-97de-58c99299a71e",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "ef9f93b2-7440-4bf9-882d-a7a89ea8d5a1",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "洞口突现沈家影",
-      "description": "你退至洞口，正欲搬动碎石封路，却闻洞外脚步急促。方源神色一凛，低声道：“有人来了！”你侧耳倾听，只听一个女声轻唤：“峰哥？驼爷？东西可到手了？”正是沈翠的声音。她身后似乎还跟着一人，气息沉稳，至少一转巅峰。洞内峰哥和驼爷也听到动静，停下了动作。三方对峙，局面一触即发。",
-      "choices": [
-        {
-          "title": "快攻先制，与方源夹击",
-          "description": "趁外面二人未进洞，与方源前后夹击，速战速决。"
-        },
-        {
-          "title": "封死洞口，困兽犹斗",
-          "description": "不理外面，直接封死洞口，先解决洞内两人再说。"
-        },
-        {
-          "title": "潜藏暗处，坐观变化",
-          "description": "闪身躲入阴影，等双方火并，再寻渔利之机。"
-        },
-        {
-          "title": "出言挑拨，分化敌人",
-          "description": "隐在暗处模仿峰哥语气，谎称东西已被沈翠私吞，引他们内讧。"
-        }
-      ],
-      "parent_event_id": "f0775dff-7175-4139-af3c-f273c21bd0e7",
+      "title": "隐藏行踪",
+      "description": "迅速扶老僧躲入阴影，静观其变。",
+      "choices": [],
+      "parent_event_id": "14f04d32-33fe-48ba-8637-e71f1679d1e3",
       "phase": "前期",
-      "created_at": "2026-05-03T14:03:13.877Z"
+      "created_at": "2026-05-05T05:26:48.266Z"
     },
     {
-      "id": "c7eb84eb-ab38-433b-ae79-e954b9bbc046",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "3300802d-ba49-4497-aa13-4e0ea47e98d7",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "封死洞口，困兽犹斗",
-      "description": "不理外面，直接封死洞口，先解决洞内两人再说。",
-      "choices": [],
-      "parent_event_id": "9859caea-f446-4992-97de-58c99299a71e",
+      "title": "暗影窥伺，洞中异响",
+      "description": "你扶老僧藏入阴影深处，掌心仍贴着他背心，灵力缓缓续命。洞内寂静片刻，忽从三岔洞口传来脚步声，夹杂低语：“那小子追谁去了？怎的半点动静也无？”你屏息凝神，指尖触到腰间剑柄，只待异变。老僧呼吸渐弱，却勉强抬手，指向右侧洞道石壁上一道不起眼裂缝，喉间发出微弱气音：“……那里……有路。”",
+      "choices": [
+        {
+          "title": "循老僧所指，探秘道",
+          "description": "趁来人未至，扶老僧钻入石缝，寻逃生出路。"
+        },
+        {
+          "title": "原地不动，先观来者",
+          "description": "继续潜伏，听清来人身份与意图再作打算。"
+        },
+        {
+          "title": "佯作迷路，迎上前去",
+          "description": "将老僧藏好，独自现身引出对方，趁机套话。"
+        }
+      ],
+      "parent_event_id": "ef9f93b2-7440-4bf9-882d-a7a89ea8d5a1",
       "phase": "前期",
-      "created_at": "2026-05-03T14:03:26.032Z"
+      "created_at": "2026-05-05T05:26:53.504Z"
     },
     {
-      "id": "a83cc702-97b2-498e-8c38-61e7364a1db6",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "075c40f9-5bc6-4844-825d-4050040df422",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "矿洞封门，瓮中捉鳖",
-      "description": "你咬牙搬起碎石，三两下堵死洞口。洞内瞬间昏暗，驼爷霍然转身，手中幽绿灯笼一晃：“谁？！”峰哥攥紧月光蛊残骸，眼中凶光毕露。方源从阴影中踱出，语气平静：“峰哥，驼爷，这么晚了，在矿洞里做什么？”驼爷冷笑一声，袖中滑出一柄骨刃——蛊虫气息弥漫。",
-      "choices": [
-        {
-          "title": "与方源夹击驼爷",
-          "description": "你先发制人，攻向驼爷，配合方源速战速决。"
-        },
-        {
-          "title": "盯死峰哥，防其毁蛊",
-          "description": "你紧盯峰哥手中的月光蛊残骸，防止他销毁证据。"
-        },
-        {
-          "title": "出声劝降，分化二人",
-          "description": "你开口挑拨：“峰哥，沈家少爷可值得你卖命？”"
-        },
-        {
-          "title": "静观其变，蓄势待发",
-          "description": "你退后半步，让方源主攻，自己伺机偷袭。"
-        }
-      ],
-      "parent_event_id": "c7eb84eb-ab38-433b-ae79-e954b9bbc046",
+      "title": "循老僧所指，探秘道",
+      "description": "趁来人未至，扶老僧钻入石缝，寻逃生出路。",
+      "choices": [],
+      "parent_event_id": "3300802d-ba49-4497-aa13-4e0ea47e98d7",
       "phase": "前期",
-      "created_at": "2026-05-03T14:03:33.882Z"
+      "created_at": "2026-05-05T05:26:54.520Z"
     },
     {
-      "id": "6f5932c6-c963-43a6-83de-c2affb22ac55",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "19cc5769-8692-4dd9-b6ef-42803e88216e",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "与方源夹击驼爷",
-      "description": "你先发制人，攻向驼爷，配合方源速战速决。",
-      "choices": [],
-      "parent_event_id": "a83cc702-97b2-498e-8c38-61e7364a1db6",
+      "title": "石缝秘径，暗河幽深",
+      "description": "你搀扶着老僧，侧身挤入石缝。缝隙狭窄，仅容一人通过，石壁湿滑，冷气逼人。身后脚步声渐近，你不敢停留，奋力向前。约莫一炷香功夫，前方豁然开朗，竟是一条地下暗河，河水漆黑如墨，无声流淌。岸边散落着几具骨骸，看装束似是多年前的修道之人。老僧气息微弱，低声道：‘此河……通往青云山深处……’话音未落，暗河深处传来一声低沉的嘶吼。",
+      "choices": [
+        {
+          "title": "沿河探查，寻路而上",
+          "description": "沿暗河向下游走，寻找出口，但需提防河中异兽。"
+        },
+        {
+          "title": "返身布阵，阻敌追踪",
+          "description": "在石缝口布置简易禁制，争取时间再探暗河。"
+        },
+        {
+          "title": "查看骨骸，搜寻遗物",
+          "description": "或许能从骨骸旁遗物中找到线索或疗伤丹药。"
+        }
+      ],
+      "parent_event_id": "075c40f9-5bc6-4844-825d-4050040df422",
       "phase": "前期",
-      "created_at": "2026-05-03T14:03:53.243Z"
+      "created_at": "2026-05-05T05:27:00.730Z"
     },
     {
-      "id": "78f7ef8c-cb00-45cd-98b6-44c78b17ef41",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "f68e69e0-ee4a-4ba6-be89-3a6284c76824",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "矿洞夹击，驼爷伏诛",
-      "description": "你身形暴起，右手一扬，一道灰影直射驼爷面门——正是你炼化的土刺蛊。驼爷冷哼一声，幽绿灯笼一晃，绿火凝成盾牌挡下土刺。方源趁势从阴影中掠出，月光蛊残骸在他掌心瞬间爆发出刺目青芒，化作数道月刃斩向驼爷后颈。驼爷腹背受敌，灯笼脱手坠地，绿焰炸裂，照亮他惊恐的脸。峰哥欲上前相助，却被方源一脚踢飞手中残骸，踉跄撞在立柱上。驼爷捂住肩膀伤口，咬牙低吼：“你们找死！”",
-      "choices": [
-        {
-          "title": "痛下杀手",
-          "description": "趁驼爷负伤，催动土刺蛊直取咽喉，不留活口。"
-        },
-        {
-          "title": "留活口问话",
-          "description": "击伤驼爷腿脚，令其失去行动能力，逼问沈家幕后主使。"
-        },
-        {
-          "title": "先制峰哥",
-          "description": "转身扑向倒地的峰哥，夺回月光蛊残骸，以防他趁机毁掉证据。"
-        }
-      ],
-      "parent_event_id": "6f5932c6-c963-43a6-83de-c2affb22ac55",
+      "title": "查看骨骸，搜寻遗物",
+      "description": "或许能从骨骸旁遗物中找到线索或疗伤丹药。",
+      "choices": [],
+      "parent_event_id": "19cc5769-8692-4dd9-b6ef-42803e88216e",
       "phase": "前期",
-      "created_at": "2026-05-03T14:04:00.975Z"
+      "created_at": "2026-05-05T05:27:01.757Z"
     },
     {
-      "id": "225c3bdf-6b5c-4e37-9d8b-d116c72d8cd0",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "a8df07d1-85ac-43c4-8562-42f88c731189",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 6,
-      "title": "留活口问话",
-      "description": "击伤驼爷腿脚，令其失去行动能力，逼问沈家幕后主使。",
-      "choices": [],
-      "parent_event_id": "78f7ef8c-cb00-45cd-98b6-44c78b17ef41",
-      "phase": "前期",
-      "created_at": "2026-05-03T14:04:31.845Z"
-    },
-    {
-      "id": "695e1a38-deae-4aa4-93ff-c3bcd35fc811",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 7,
-      "title": "矿洞逼供，驼爷吐实",
-      "description": "驼爷瘫坐在地，左腿血流如注，却仍咬牙冷笑：“小子，沈家不会放过你们……”方源蹲下身，月光蛊残骸在他指间翻转，语气平淡：“沈家少爷派你们来设局，是想逼我交出炼蛊心得？还是另有所图？”驼爷瞳孔微缩，正要开口，洞外忽传来沈翠尖声呼喊：“峰哥！驼爷！出什么事了？！”紧接着碎石被撞击的闷响传来——沈翠在尝试破门。",
+      "title": "暗河遗骨，玉简藏机",
+      "description": "你搀着老僧走近那具骨骸，白骨森然，衣袍早已腐朽，唯腰间一枚玉简在幽暗中泛着微光。你伸手取过，触手冰凉，隐约有字迹浮现。老僧忽然咳嗽一声，低声道：“这是……天音寺的‘渡厄心经’残篇。”话音未落，暗河深处传来一阵水花翻涌之声，似有什么东西正朝此处游来。",
       "choices": [
         {
-          "title": "速战速决，逼问情报",
-          "description": "你抽出短刃抵住驼爷咽喉，低喝：“说！沈家到底要什么？”同时示意方源准备迎击破门之敌。"
+          "title": "速读玉简，记下经文",
+          "description": "趁异动未至，先铭记玉简内容，或许对疗伤或修行有益。"
         },
         {
-          "title": "兵分两路，内外兼顾",
-          "description": "你低声对方源说：“你问，我挡。”随即转身快步走向洞口，土刺蛊蓄势待发。"
+          "title": "搜寻骨骸其他遗物",
+          "description": "除玉简外，看看骸骨旁散落的竹简或乾坤袋中是否另有丹药法器。"
         },
         {
-          "title": "杀伐果断，先清外患",
-          "description": "你冷笑一声，手起刀落结果驼爷，随即与方源交换眼色，同时扑向洞口方向。"
+          "title": "戒备暗河，准备应敌",
+          "description": "将老僧护在身后，凝神提防水中未知之物，先确保安全。"
         },
         {
-          "title": "以人质要挟，逼退沈翠",
-          "description": "你架起重伤的驼爷，朝洞外喝道：“沈翠，再进一步，他的命就没了！”"
+          "title": "退回石缝，暂避锋芒",
+          "description": "不知来者强弱，先扶老僧退回狭窄石缝，观察动静再做打算。"
         }
       ],
-      "parent_event_id": "225c3bdf-6b5c-4e37-9d8b-d116c72d8cd0",
+      "parent_event_id": "f68e69e0-ee4a-4ba6-be89-3a6284c76824",
       "phase": "前期",
-      "created_at": "2026-05-03T14:04:45.046Z"
+      "created_at": "2026-05-05T05:27:08.624Z"
     },
     {
-      "id": "1956712f-073e-4d97-809b-6994ea9981e0",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "9f39688f-60b5-4b4a-b820-0fccec9ab67c",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 7,
-      "title": "以人质要挟，逼退沈翠",
-      "description": "你架起重伤的驼爷，朝洞外喝道：“沈翠，再进一步，他的命就没了！”",
+      "title": "速读玉简，记下经文",
+      "description": "趁异动未至，先铭记玉简内容，或许对疗伤或修行有益。",
       "choices": [],
-      "parent_event_id": "695e1a38-deae-4aa4-93ff-c3bcd35fc811",
+      "parent_event_id": "a8df07d1-85ac-43c4-8562-42f88c731189",
       "phase": "前期",
-      "created_at": "2026-05-03T14:05:10.927Z"
+      "created_at": "2026-05-05T05:27:09.649Z"
     },
     {
-      "id": "ed770adc-2e61-45a8-a36a-4de6dcce83fe",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "c75e5df4-2892-401c-864f-5e0a1253464d",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 7,
-      "title": "洞口对峙，沈翠让步",
-      "description": "你的喝声在矿洞中回荡。沈翠脚步一顿，灯笼光映出她半张脸，惊疑不定。方源从阴影中缓步走出，月光蛊残骸在他掌心幽幽发亮，他扫了你一眼，目光又落在沈翠身上，语气平淡：“放了他，你可以走。或者，你进来，我送你们一起上路。”沈翠抿紧嘴唇，手中匕首缓缓垂下，退后半步。她身后夜雾中，隐约传来窸窣声响——似不止一人。",
+      "title": "暗河诵读，追兵渐近",
+      "description": "你指尖急触玉简，灵力涌入，碎金般的经文在识海浮现——竟是天音寺失传的《大梵般若》残篇！老僧神色一震，正欲开口，三岔洞外传来急促脚步，有人厉喝：“在那边！暗河有光！”你猛然抬头，见火把光影已映上洞壁。",
       "choices": [
         {
-          "title": "挟持驼爷出洞，逼沈翠退远",
-          "description": "步步紧逼，探明洞外埋伏，再寻脱身之机。"
+          "title": "携老僧涉水而行",
+          "description": "暗河幽深，顺流而下或能甩脱追兵，但水下不知藏何凶险。"
         },
         {
-          "title": "就地灭口，与方源速离",
-          "description": "不留活口，趁黑雾掩护突围，避免被围堵在洞内。"
+          "title": "藏入石壁裂隙",
+          "description": "两侧石壁多有裂缝，寻一处窄缝藏身，待追兵过后再寻出路。"
         },
         {
-          "title": "向沈翠谈条件，交换情报",
-          "description": "以驼爷和月光蛊残骸为筹码，套问沈家真正图谋。"
-        },
-        {
-          "title": "按兵不动，等沈翠先动",
-          "description": "静观其变，让方源拿主意，自己保持警戒状态。"
+          "title": "迎敌并借机质问",
+          "description": "将老僧护在身后，直面来人，质问他们为何追杀天音寺僧人。"
         }
       ],
-      "parent_event_id": "1956712f-073e-4d97-809b-6994ea9981e0",
+      "parent_event_id": "9f39688f-60b5-4b4a-b820-0fccec9ab67c",
       "phase": "前期",
-      "created_at": "2026-05-03T14:05:19.328Z"
+      "created_at": "2026-05-05T05:27:15.083Z"
     },
     {
-      "id": "74aac77e-875f-4615-b4dc-cb54b247e937",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "1928c101-bc4f-462c-8753-199813805213",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 7,
-      "title": "就地灭口，与方源速离",
-      "description": "不留活口，趁黑雾掩护突围，避免被围堵在洞内。",
+      "title": "迎敌并借机质问",
+      "description": "将老僧护在身后，直面来人，质问他们为何追杀天音寺僧人。",
       "choices": [],
-      "parent_event_id": "ed770adc-2e61-45a8-a36a-4de6dcce83fe",
+      "parent_event_id": "c75e5df4-2892-401c-864f-5e0a1253464d",
       "phase": "前期",
-      "created_at": "2026-05-03T14:05:49.863Z"
+      "created_at": "2026-05-05T05:27:16.098Z"
     },
     {
-      "id": "4f08d767-080c-4fab-a091-960551119eb3",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "dfad96b3-5ff4-41a0-a5ce-004ef8ff3887",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 7,
-      "title": "黑雾遁离，山道遇伏",
-      "description": "你手起刀落，沈翠闷哼倒地。方源迅速搜出她身上的几块元石和一只信蛊，低声道：“走！”两人借着洞口未散的黑雾钻出矿洞。山道湿滑，夜风裹着腥气扑面而来。刚走出百步，前方树林中忽然亮起几点火光，有人喝道：“谁？！”——竟是沈家设下的外围暗哨。",
+      "title": "暗河对峙，质问追兵",
+      "description": "你将老僧护在身后，拔剑指向洞口。三人鱼贯而入，为首是个黑衣修士，面容阴鸷，手持一柄泛着幽光的短刃。他见你横剑在前，冷笑道：“小辈，把老秃驴和玉简留下，饶你不死。”你沉声问道：“你们是什么人？为何追杀天音寺僧人？”黑衣修士眼神一厉：“天音寺的秃驴多管闲事，死有余辜。你若识相，速速滚开！”身后两人已各自亮出兵刃，洞中杀气弥漫。",
       "choices": [
         {
-          "title": "绕道密林，避其锋芒",
-          "description": "侧身钻入左侧密林，利用夜色和树影掩护，避开正面冲突。"
+          "title": "拔剑相向，掩护老僧",
+          "description": "你挺剑直刺为首之人，试图逼退他们，为老僧争取逃脱机会。"
         },
         {
-          "title": "示弱诈退，反向突围",
-          "description": "故意弄出声响引他们追来，再折返从反方向的山崖小路脱身。"
+          "title": "厉声质问，拖延时间",
+          "description": "你高声质问他们的身份和目的，同时暗暗观察四周是否有其他出路。"
         },
         {
-          "title": "硬闯突围，速战速决",
-          "description": "趁对方人数不多，与方源合力强冲过去，杀出一条血路。"
+          "title": "示弱周旋，伺机而动",
+          "description": "你假装犹豫，假意答应交出玉简，实则寻找反击或逃跑的时机。"
+        },
+        {
+          "title": "催动玉简，试其威力",
+          "description": "你暗中将灵力注入玉简，试图激发其中经文的力量，震慑对方。"
         }
       ],
-      "parent_event_id": "74aac77e-875f-4615-b4dc-cb54b247e937",
+      "parent_event_id": "1928c101-bc4f-462c-8753-199813805213",
       "phase": "前期",
-      "created_at": "2026-05-03T14:05:57.922Z"
+      "created_at": "2026-05-05T05:27:24.699Z"
     },
     {
-      "id": "2e2d250f-0bd9-469f-a69c-5fc31c23c5f5",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "228d5482-779c-40fd-bedd-98dc4cdecac5",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 7,
-      "title": "示弱诈退，反向突围",
-      "description": "故意弄出声响引他们追来，再折返从反方向的山崖小路脱身。",
+      "title": "拔剑相向，掩护老僧",
+      "description": "你挺剑直刺为首之人，试图逼退他们，为老僧争取逃脱机会。",
       "choices": [],
-      "parent_event_id": "4f08d767-080c-4fab-a091-960551119eb3",
+      "parent_event_id": "dfad96b3-5ff4-41a0-a5ce-004ef8ff3887",
       "phase": "前期",
-      "created_at": "2026-05-03T14:06:12.647Z"
+      "created_at": "2026-05-05T05:27:25.725Z"
     },
     {
-      "id": "ba892d57-ac11-4fb9-97b3-532dc5bb0f38",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "5e60d72d-96a4-4821-a4c3-6e46b3917038",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 7,
-      "title": "山崖小径，夜雾迷踪",
-      "description": "你故意踢落一块山石，声响在夜雾中滚远。伏击者低喝一声，脚步声朝那个方向追去。你与方源屏息折返，摸向反方向的山崖小径。崖壁湿滑，藤蔓垂挂，下方是深不见底的谷雾。方源扯了扯你的衣袖，低声道：“走这边，他们很快会发现上当。”话音未落，崖顶传来一声冷笑：“两位，这是要去哪儿？”",
+      "title": "暗河剑影，老僧危局",
+      "description": "你一剑刺出，剑光在幽暗的洞窟中划过一道弧线，直取为首黑衣修士的咽喉。那人冷哼一声，身形如鬼魅般侧滑，短刃反撩，叮的一声架开你的剑锋，火星四溅。你只觉虎口一震，剑势已乱。身后老僧咳喘着低声念了声佛号，那修士嘴角勾起一丝残忍笑意，余下两人已从左右包抄而来。剑刃破风声、脚步声、水声混作一团，暗河激流在脚下翻涌，寒气逼人。",
       "choices": [
         {
-          "title": "攀藤而下，冒险入谷",
-          "description": "抓牢藤蔓滑入雾谷，赌谷底有生路。"
+          "title": "且战且退，引敌入水",
+          "description": "借暗河地形周旋，趁乱将老僧推向对岸浅滩。"
         },
         {
-          "title": "回身迎战，速战速决",
-          "description": "既然暴露，不如趁对方人少强杀突围。"
+          "title": "怒喝质问，借机拖延",
+          "description": "厉声质问黑衣修士身份与目的，争取片刻喘息。"
         },
         {
-          "title": "抛洒元石，声东击西",
-          "description": "将元石掷向远处，趁混乱另寻路径。"
+          "title": "全力一击，搏命开路",
+          "description": "不顾防守，聚全身灵力刺向为首者，为老僧夺路。"
+        },
+        {
+          "title": "丢出玉简，声东击西",
+          "description": "将玉简抛向洞窟深处，趁三人分神时带老僧遁走。"
         }
       ],
-      "parent_event_id": "2e2d250f-0bd9-469f-a69c-5fc31c23c5f5",
+      "parent_event_id": "228d5482-779c-40fd-bedd-98dc4cdecac5",
       "phase": "前期",
-      "created_at": "2026-05-03T14:06:20.709Z"
+      "created_at": "2026-05-05T05:27:31.896Z"
     },
     {
-      "id": "81347ea3-4f3b-4482-a962-131ee3805cb5",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "c8de920f-79ee-4ec8-abfd-a6e13458f7c8",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 7,
-      "title": "攀藤而下，冒险入谷",
-      "description": "抓牢藤蔓滑入雾谷，赌谷底有生路。",
+      "title": "丢出玉简，声东击西",
+      "description": "将玉简抛向洞窟深处，趁三人分神时带老僧遁走。",
       "choices": [],
-      "parent_event_id": "ba892d57-ac11-4fb9-97b3-532dc5bb0f38",
+      "parent_event_id": "5e60d72d-96a4-4821-a4c3-6e46b3917038",
       "phase": "前期",
-      "created_at": "2026-05-03T14:06:32.142Z"
+      "created_at": "2026-05-05T05:27:32.910Z"
     },
     {
-      "id": "08be7523-a34e-4604-83e8-81083696f8d7",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "d22128d3-9055-44b8-a665-9930a405c2ca",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 7,
-      "title": "谷底瘴溪，暗影潜行",
-      "description": "藤蔓尽头是湿滑的岩壁，你与方源坠入浓雾笼罩的谷底。脚下是没过脚踝的溪水，冰冷刺骨，水面泛着幽幽磷光。四周古木参天，藤萝密布，隐约传来低沉的兽吼。方源蹲下身，指尖沾水嗅了嗅，脸色微变：“这水有毒，是腐尸草浸过的。谷中必有凶兽或蛊阵，小心。”话音未落，前方雾中亮起两团绿幽幽的光，缓缓逼近。",
+      "title": "暗河遁走，密道岔路",
+      "description": "你将玉简奋力掷向洞窟深处，玉简撞在石壁上发出一声脆响，三人的目光瞬间被吸引。趁此间隙，你抓住老僧的衣袖，转身便往暗河上游狂奔。水声轰鸣中，身后传来怒喝与脚步声，但洞中岔道众多，你拉着老僧七拐八绕，终于暂时甩脱了追兵。前方出现三条岔路，左侧干燥，右侧潮湿，中间有微风吹来。",
       "choices": [
         {
-          "title": "涉溪潜行，绕开光源",
-          "description": "沿溪流下游迂回，避开不明生物，寻找谷口出路。"
+          "title": "走左侧干燥岔道",
+          "description": "地势较高，可能通往地面，但或有埋伏。"
         },
         {
-          "title": "攀岩而上，寻洞穴暂避",
-          "description": "退回岩壁，寻找高处洞穴，观察谷内情况再做打算。"
+          "title": "走右侧潮湿岔道",
+          "description": "水汽弥漫，或是暗河源头，可能有出口。"
         },
         {
-          "title": "主动探查，诱敌出手",
-          "description": "故意弄出声响引那发光之物靠近，看清虚实。"
+          "title": "走中间有风岔道",
+          "description": "有风说明连通外界，但不知通往何处。"
+        },
+        {
+          "title": "原地调息，暂作休整",
+          "description": "老僧伤势不轻，先疗伤再决定去向。"
         }
       ],
-      "parent_event_id": "81347ea3-4f3b-4482-a962-131ee3805cb5",
+      "parent_event_id": "c8de920f-79ee-4ec8-abfd-a6e13458f7c8",
       "phase": "前期",
-      "created_at": "2026-05-03T14:06:42.861Z"
+      "created_at": "2026-05-05T05:27:38.679Z"
     },
     {
-      "id": "b7ee3830-f2dc-43b0-8b4c-8e3f7347c563",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
+      "id": "2dc96cd5-fe63-4148-8109-e8bd7d098a17",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
       "chapter_index": 7,
-      "title": "涉溪潜行，绕开光源",
-      "description": "沿溪流下游迂回，避开不明生物，寻找谷口出路。",
+      "title": "走右侧潮湿岔道",
+      "description": "水汽弥漫，或是暗河源头，可能有出口。",
       "choices": [],
-      "parent_event_id": "08be7523-a34e-4604-83e8-81083696f8d7",
+      "parent_event_id": "d22128d3-9055-44b8-a665-9930a405c2ca",
       "phase": "前期",
-      "created_at": "2026-05-03T14:07:01.946Z"
+      "created_at": "2026-05-05T05:27:39.704Z"
     },
     {
-      "id": "23ea6bb0-f4ce-4e14-ab56-31d999d9abda",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 8,
-      "title": "溪涧暗洞，古藤垂壁",
-      "description": "你与方源沿溪流下游潜行半里，水声渐弱。左侧崖壁裂开一道狭缝，藤蔓密垂，隐有风从隙中流出。方源伸手探了探，低声道：“此处有暗洞，或能避过谷中兽踪。”洞内腥湿阴冷，岩壁黏滑，深处若有若无传来滴水回声。",
+      "id": "d30b4fdd-f2ca-4666-a230-52f304223cfe",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "chapter_index": 7,
+      "title": "暗河源头水潭",
+      "description": "你拽着老僧冲入右侧岔道，水汽愈发浓重，洞壁上渗出水珠，脚下湿滑难行。奔行数十丈后，眼前豁然开朗——一个丈许见方的水潭横在面前，水色幽碧，寒气逼人。潭水上方一道裂隙透下微光，隐约可闻风声，似是出口所在。身后追兵的脚步声越来越近，已不足十丈。",
       "choices": [
         {
-          "title": "钻入窄缝，探暗洞",
-          "description": "洞道狭窄仅容一人侧身，深处未知，可能另有出口或陷阱。"
+          "title": "跃入水潭探路",
+          "description": "赌一把，潜入潭中寻找水下通道，可能避开追兵"
         },
         {
-          "title": "继续沿着溪流走",
-          "description": "溪流方向可能通往外谷，但可能撞上光源处的不明生物。"
+          "title": "藏身潭边石后",
+          "description": "借助水声掩护，待追兵靠近时突袭，夺回玉简"
         },
         {
-          "title": "攀上崖壁，另寻路径",
-          "description": "崖壁多苔，攀爬危险，但或能俯瞰谷中地形。"
+          "title": "攀爬裂隙出口",
+          "description": "抓紧时间向上攀爬，但可能暴露在追兵视线中"
         }
       ],
-      "parent_event_id": "b7ee3830-f2dc-43b0-8b4c-8e3f7347c563",
+      "parent_event_id": "2dc96cd5-fe63-4148-8109-e8bd7d098a17",
       "phase": "前期",
-      "created_at": "2026-05-03T14:07:10.735Z"
-    },
-    {
-      "id": "2777364f-6b23-4353-b798-18ab31a5fbf1",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 8,
-      "title": "钻入窄缝，探暗洞",
-      "description": "洞道狭窄仅容一人侧身，深处未知，可能另有出口或陷阱。",
-      "choices": [],
-      "parent_event_id": "23ea6bb0-f4ce-4e14-ab56-31d999d9abda",
-      "phase": "前期",
-      "created_at": "2026-05-03T14:07:26.108Z"
-    },
-    {
-      "id": "50b4cbb1-324f-4b9a-b324-a124b80e84a2",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 8,
-      "title": "洞窟深处，骨堆秘痕",
-      "description": "侧身挤过狭缝，洞道渐宽，腥气愈发浓郁。方源摸出火折子，微光映出洞壁上的暗色苔藓。前行十余步，地面出现散落兽骨，有些已被啃噬得光滑。深处传来滴水声，隐约可见一个开阔的洞室，中央似乎有一堆篝火残烬。方源停下脚步，侧耳倾听。",
-      "choices": [
-        {
-          "title": "搜索骨堆，寻找线索",
-          "description": "翻检兽骨，或能找到前人遗物或蛊虫残骸。"
-        },
-        {
-          "title": "察看篝火残烬",
-          "description": "余烬尚温，可能有人不久前在此停留。"
-        },
-        {
-          "title": "沿洞壁摸索，寻找出路",
-          "description": "可能有隐藏通道，但易触发机关。"
-        },
-        {
-          "title": "低声与方源商议，是否返回",
-          "description": "洞中未知风险太多，退出另寻他路。"
-        }
-      ],
-      "parent_event_id": "2777364f-6b23-4353-b798-18ab31a5fbf1",
-      "phase": "前期",
-      "created_at": "2026-05-03T14:07:36.794Z"
-    },
-    {
-      "id": "a9a4cf9d-b673-4413-bf32-ea6dc22a7165",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 8,
-      "title": "低声与方源商议，是否返回",
-      "description": "洞中未知风险太多，退出另寻他路。",
-      "choices": [],
-      "parent_event_id": "50b4cbb1-324f-4b9a-b324-a124b80e84a2",
-      "phase": "前期",
-      "created_at": "2026-05-03T14:07:47.438Z"
-    },
-    {
-      "id": "7957487b-be3d-4cbc-bfcc-102cc5ed3e73",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 8,
-      "title": "暗洞退路，兽踪逼近",
-      "description": "你低声向方源道出退意。他目光扫过深处滴水声传来的方向，微微颔首：“此地凶险未明，先退为妙。”二人转身沿来路折返，刚至狭缝处，洞外传来沉重脚步声与粗重喘息——有大型野兽正朝此方向靠近。腥风灌入，藤蔓簌簌抖动。",
-      "choices": [
-        {
-          "title": "紧贴岩壁，屏息等待",
-          "description": "赌野兽只是路过，不主动暴露位置。"
-        },
-        {
-          "title": "疾步退回洞内深处",
-          "description": "趁野兽未至，另寻藏身处或出口。"
-        },
-        {
-          "title": "抽出蛊虫，准备迎击",
-          "description": "若被发现，先下手为强。"
-        }
-      ],
-      "parent_event_id": "a9a4cf9d-b673-4413-bf32-ea6dc22a7165",
-      "phase": "前期",
-      "created_at": "2026-05-03T14:07:56.820Z"
-    },
-    {
-      "id": "a0cea83e-dda9-484a-97d0-43c56bf18008",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 8,
-      "title": "疾步退回洞内深处",
-      "description": "趁野兽未至，另寻藏身处或出口。",
-      "choices": [],
-      "parent_event_id": "7957487b-be3d-4cbc-bfcc-102cc5ed3e73",
-      "phase": "前期",
-      "created_at": "2026-05-03T14:08:05.986Z"
-    },
-    {
-      "id": "75dcea73-83f5-44d8-9515-60cd58fc6af4",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 8,
-      "title": "洞底水潭，暗流涌动",
-      "description": "你与方源疾步退回洞内深处，身后的沉重脚步声渐近，夹杂着粗重的喘息。洞道曲折向下，滴水声愈发清晰。转过一处弯道，眼前豁然开朗——一个地下溶洞，中央有一汪幽绿水潭，水面泛着微光。潭边散落着更多兽骨，有些还带着新鲜的齿痕。方源压低声音道：“此处怕是有主。”",
-      "choices": [
-        {
-          "title": "探查潭边，搜寻出口",
-          "description": "绕潭而行，寻找其他通道，但可能惊动潭中潜藏之物。"
-        },
-        {
-          "title": "躲入石笋阴影，静观其变",
-          "description": "藏身暗处，等野兽退去或现出真身，再作打算。"
-        },
-        {
-          "title": "试探性地投石入潭",
-          "description": "掷石激水，观察反应，判断潭中是否有危险。"
-        },
-        {
-          "title": "建议方源合力布设简易陷阱",
-          "description": "利用洞中碎石和藤蔓设伏，若野兽追来可反制。"
-        }
-      ],
-      "parent_event_id": "a0cea83e-dda9-484a-97d0-43c56bf18008",
-      "phase": "前期",
-      "created_at": "2026-05-03T14:08:14.051Z"
-    },
-    {
-      "id": "337a99f2-7103-4878-861d-2314e349f18d",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 8,
-      "title": "探查潭边，搜寻出口",
-      "description": "绕潭而行，寻找其他通道，但可能惊动潭中潜藏之物。",
-      "choices": [],
-      "parent_event_id": "75dcea73-83f5-44d8-9515-60cd58fc6af4",
-      "phase": "前期",
-      "created_at": "2026-05-03T14:10:27.495Z"
-    },
-    {
-      "id": "dad43a1e-e525-438f-be91-e17c9de2b9c0",
-      "story_id": "a884c1f4-deeb-4855-9f4f-b24c685fadf6",
-      "chapter_index": 8,
-      "title": "潭边枯骨，暗流异动",
-      "description": "你与方源沿着幽绿水潭边缘缓步探查，脚下湿滑的岩壁布满苔藓。绕过一块巨岩后，一具半腐的兽骨斜倚在石壁上，肋骨间卡着一枚残破的玉简。方源蹲身拾起，指尖轻抚玉简纹路，眉头微蹙：“有蛊师来过此地。”话音未落，潭水中央忽然泛起涟漪，一道黑影在水面下缓缓游弋。",
-      "choices": [
-        {
-          "title": "速取玉简，退向角落",
-          "description": "捡起玉简后寻觅隐蔽处，暂避潭中未知之物。"
-        },
-        {
-          "title": "凝神戒备，观察黑影",
-          "description": "按兵不动，先看清水中是何物再做决断。"
-        },
-        {
-          "title": "掷石试探，逼其现身",
-          "description": "主动试探水潭，迫使潜藏之物露出真容。"
-        },
-        {
-          "title": "与方源分头搜索",
-          "description": "你搜左岸，方源搜右岸，分头寻找其他出路。"
-        }
-      ],
-      "parent_event_id": "337a99f2-7103-4878-861d-2314e349f18d",
-      "phase": "前期",
-      "created_at": "2026-05-03T14:10:35.003Z"
+      "created_at": "2026-05-05T05:27:45.119Z"
     }
   ],
   "storyNPCs": [],
@@ -31666,6 +31342,914 @@
         "fc4b7c87-b851-4c97-b912-8492abd7a9bc"
       ],
       "timestamp": "2026-05-03T14:10:35.003Z",
+      "phase": "前期"
+    },
+    {
+      "id": "67a8caa6-229e-435c-8b6a-6d41a0e19a53",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "ba3451f4-1143-4914-81be-71698497d358",
+      "event_title": "青云山异光",
+      "event_description": "清虚门接到青云山异象的消息，派你们一行五人前往探查。行至半途，天色骤暗，林间传来打斗声。你拨开树丛，只见一名年轻道士浑身是血，正与一头妖兽搏斗，眼看就要支撑不住。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:21:57.374Z",
+      "phase": "前期"
+    },
+    {
+      "id": "310df318-f4e0-43db-97fd-f33dbaa37182",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "d4f24961-42bc-40f2-aa0b-a761004d8bf8",
+      "event_title": "青云山异光",
+      "event_description": "清虚门接到青云山异象的消息，派你们一行五人前往探查。行至半途，天色骤暗，林间传来打斗声。你拨开树丛，只见一名年轻道士浑身是血，正与一头妖兽搏斗，眼看就要支撑不住。",
+      "choice": "上前相助",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:22:17.287Z",
+      "phase": "前期"
+    },
+    {
+      "id": "ce54b2a8-093c-49e4-a23e-899b2d7815ab",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "bd72ae6c-212a-43c1-9a02-e6e2cc482612",
+      "event_title": "林间斗妖兽",
+      "event_description": "你拔剑冲入战圈，剑光如雪，直取那妖兽的侧腹。那年轻道士见有人相助，眼中闪过一丝喜色，咬牙挥动手中残剑，与你形成夹击之势。妖兽怒吼连连，利爪撕风，掀起满地枯叶。你二人且战且退，渐渐将其逼至一棵古树下。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:22:23.281Z",
+      "phase": "前期"
+    },
+    {
+      "id": "4a0c6082-e3de-4df1-a1c1-ed8f4e48f3f6",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "73dee760-1358-40a6-8c24-ca23fd01f6a6",
+      "event_title": "林间斗妖兽",
+      "event_description": "你拔剑冲入战圈，剑光如雪，直取那妖兽的侧腹。那年轻道士见有人相助，眼中闪过一丝喜色，咬牙挥动手中残剑，与你形成夹击之势。妖兽怒吼连连，利爪撕风，掀起满地枯叶。你二人且战且退，渐渐将其逼至一棵古树下。",
+      "choice": "出声询问",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:22:28.670Z",
+      "phase": "前期"
+    },
+    {
+      "id": "b845f059-5464-49c8-b54b-9b608f0669b1",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "46f120ce-6016-4fed-8029-fca12106e94f",
+      "event_title": "林中激战问来历",
+      "event_description": "你剑光不停，口中问道：“道友是何门何派？为何在此遇险？”那年轻道士喘息一声，挥剑格开妖兽利爪，答道：“贫道青云山青云子门下，奉师命下山探查异象，不料遭此畜生埋伏……”话音未落，妖兽咆哮着又扑上来。你正待再问，却听林外传来急促脚步声，似有数人赶来。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:22:42.369Z",
+      "phase": "前期"
+    },
+    {
+      "id": "3e46ada4-19c8-4d95-adda-4bf99a7304d2",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "0d6e5f90-ae38-4a02-b940-bb456eff30ed",
+      "event_title": "林中激战问来历",
+      "event_description": "你剑光不停，口中问道：“道友是何门何派？为何在此遇险？”那年轻道士喘息一声，挥剑格开妖兽利爪，答道：“贫道青云山青云子门下，奉师命下山探查异象，不料遭此畜生埋伏……”话音未落，妖兽咆哮着又扑上来。你正待再问，却听林外传来急促脚步声，似有数人赶来。",
+      "choice": "刨根问底",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:22:46.039Z",
+      "phase": "前期"
+    },
+    {
+      "id": "b0d1c64c-6f30-475d-a2d1-096866586703",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "3300711f-9eca-4fcc-aee3-37efb0622bae",
+      "event_title": "青云山异象之谜",
+      "event_description": "你剑光凌厉，步步紧逼，口中追问不休。那年轻道士喘息着挥剑格挡，答道：“贫道也不知详情，只听得师尊说夜里青云山顶有紫光冲天，似有异宝出世。我等奉命探查，不想半路遇此妖兽——”话音未落，妖兽突然狂啸，周身泛起黑气，攻势骤猛，竟将你二人逼退数丈。远处林间隐约传来更多兽吼声，显然不止这一头。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:22:52.539Z",
+      "phase": "前期"
+    },
+    {
+      "id": "c6796859-a7d7-4134-82b4-46694ef47f53",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "7425364c-6ff7-41aa-a36d-dee65c620488",
+      "event_title": "青云山异象之谜",
+      "event_description": "你剑光凌厉，步步紧逼，口中追问不休。那年轻道士喘息着挥剑格挡，答道：“贫道也不知详情，只听得师尊说夜里青云山顶有紫光冲天，似有异宝出世。我等奉命探查，不想半路遇此妖兽——”话音未落，妖兽突然狂啸，周身泛起黑气，攻势骤猛，竟将你二人逼退数丈。远处林间隐约传来更多兽吼声，显然不止这一头。",
+      "choice": "且战且退向青云山方向",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:22:53.569Z",
+      "phase": "前期"
+    },
+    {
+      "id": "c7d59038-99e6-49a9-b7c2-9ae8e495e6b8",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "e64e8761-eb9a-4b22-9f7d-c695165615e7",
+      "event_title": "青云山脚遇同门",
+      "event_description": "你与那年轻道士且战且退，一路向青云山方向奔去。妖兽紧追不舍，但山路崎岖，渐渐拉开距离。转过一处山坳，前方忽见几道人影，正是青云子门下其他弟子，闻讯赶来接应。那年轻道士大喜，高声呼喊。妖兽见状，低吼一声，转身没入林中。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:02.406Z",
+      "phase": "前期"
+    },
+    {
+      "id": "eed9ae3e-7eb2-44a5-b875-40c59841c247",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "8399e7c3-2d2a-43e4-ab7a-f052819a22b1",
+      "event_title": "青云山脚遇同门",
+      "event_description": "你与那年轻道士且战且退，一路向青云山方向奔去。妖兽紧追不舍，但山路崎岖，渐渐拉开距离。转过一处山坳，前方忽见几道人影，正是青云子门下其他弟子，闻讯赶来接应。那年轻道士大喜，高声呼喊。妖兽见状，低吼一声，转身没入林中。",
+      "choice": "告辞离去，独自绕道上山",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:03.428Z",
+      "phase": "前期"
+    },
+    {
+      "id": "dc808b5d-efea-4562-9682-5e9f520967e8",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "12d5297f-d024-4f67-b14c-ec560f870297",
+      "event_title": "密径独行遇异兆",
+      "event_description": "你辞别那年轻道士，独自寻了一条僻静小径绕道上山。山间雾气渐浓，草木深处隐隐传来低沉的兽吼，似有妖兽潜藏。行得半个时辰，忽见前方一块青石上刻着古怪符文，隐隐散发淡淡紫光，与你之前所闻的青云山异象颇为吻合。你蹲身细看，符文似是指引向更深的山谷。正犹豫间，远处传来脚步声，似是又有修行者赶来。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:08.562Z",
+      "phase": "前期"
+    },
+    {
+      "id": "708ec8c3-79d6-4aab-ad20-8f9932ec2445",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "7c1fe26b-6fef-4af9-bb25-09ae4625f36a",
+      "event_title": "密径独行遇异兆",
+      "event_description": "你辞别那年轻道士，独自寻了一条僻静小径绕道上山。山间雾气渐浓，草木深处隐隐传来低沉的兽吼，似有妖兽潜藏。行得半个时辰，忽见前方一块青石上刻着古怪符文，隐隐散发淡淡紫光，与你之前所闻的青云山异象颇为吻合。你蹲身细看，符文似是指引向更深的山谷。正犹豫间，远处传来脚步声，似是又有修行者赶来。",
+      "choice": "隐入密林静观来人",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:09.582Z",
+      "phase": "前期"
+    },
+    {
+      "id": "5d312a4e-c07e-4e05-999e-eee5851330e0",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "65d673d5-edd4-47a9-a107-ed59eaa68409",
+      "event_title": "林间窥见青云子",
+      "event_description": "你屏息隐入密林深处，透过枝叶缝隙望去，只见一个身着青色道袍的中年道人缓步而来，身后跟着数名弟子。那道人步履沉稳，目光如电，扫过青石符文时眉头微皱，正是传说中的青云子。弟子们低声商议着山顶异光之事，神色间既有敬畏亦有好奇。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:14.227Z",
+      "phase": "前期"
+    },
+    {
+      "id": "230219c4-55a0-4f38-bf50-437586b0f264",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "e86f1550-a55f-413f-9c18-0a5fb6b58c21",
+      "event_title": "林间窥见青云子",
+      "event_description": "你屏息隐入密林深处，透过枝叶缝隙望去，只见一个身着青色道袍的中年道人缓步而来，身后跟着数名弟子。那道人步履沉稳，目光如电，扫过青石符文时眉头微皱，正是传说中的青云子。弟子们低声商议着山顶异光之事，神色间既有敬畏亦有好奇。",
+      "choice": "悄然尾随其后",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:15.256Z",
+      "phase": "前期"
+    },
+    {
+      "id": "db453524-a28e-4a86-a133-3ee76b3347f1",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "3bdbeece-8259-4388-a948-81a0a52ac4a7",
+      "event_title": "密径尾随至古洞",
+      "event_description": "你远远跟在青云子一行人后方，穿过雾气弥漫的山林，约莫一炷香工夫，来到一处峭壁之下。青云子驻足片刻，似在寻找什么，随后伸手拨开一丛藤蔓，露出一个隐秘洞口。他回头向弟子们低语几句，只带两名弟子进入洞中，其余弟子则在洞口外警戒把守。你藏身于数十丈外的一棵古树后，犹豫着是否要靠近。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:25.046Z",
+      "phase": "前期"
+    },
+    {
+      "id": "2383cdd0-94d1-474a-8ae0-5a7aeb0ec04a",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "c86fee5e-02cb-4326-ab50-103dd507a3ed",
+      "event_title": "密径尾随至古洞",
+      "event_description": "你远远跟在青云子一行人后方，穿过雾气弥漫的山林，约莫一炷香工夫，来到一处峭壁之下。青云子驻足片刻，似在寻找什么，随后伸手拨开一丛藤蔓，露出一个隐秘洞口。他回头向弟子们低语几句，只带两名弟子进入洞中，其余弟子则在洞口外警戒把守。你藏身于数十丈外的一棵古树后，犹豫着是否要靠近。",
+      "choice": "绕至上路窥探",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:26.082Z",
+      "phase": "前期"
+    },
+    {
+      "id": "4b949728-518a-4031-9fda-fb4cda1a2e42",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "3e9c71f5-4ff9-4504-a2f6-18cd661a74e5",
+      "event_title": "峭壁俯瞰见秘光",
+      "event_description": "你攀上峭壁边缘，寻得一处藤蔓遮掩的凹穴，恰好能俯瞰下方洞口。片刻后，洞内忽然透出幽幽青芒，宛如碧水流淌，映得四周藤蔓皆染上一层翠色。你屏住呼吸，只见青云子身影在光中晃动，似在俯身查看何物，随即传来他低沉的自语声：‘上古符文…果然在此…’那青芒渐盛，竟隐约凝成文字模样，却又转瞬消散。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:32.841Z",
+      "phase": "前期"
+    },
+    {
+      "id": "ab89b522-bb2d-429a-8767-58c5200a6e86",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "ec3c8d1e-eb43-47fe-999e-47bed2832417",
+      "event_title": "峭壁俯瞰见秘光",
+      "event_description": "你攀上峭壁边缘，寻得一处藤蔓遮掩的凹穴，恰好能俯瞰下方洞口。片刻后，洞内忽然透出幽幽青芒，宛如碧水流淌，映得四周藤蔓皆染上一层翠色。你屏住呼吸，只见青云子身影在光中晃动，似在俯身查看何物，随即传来他低沉的自语声：‘上古符文…果然在此…’那青芒渐盛，竟隐约凝成文字模样，却又转瞬消散。",
+      "choice": "静候其离去",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:33.865Z",
+      "phase": "前期"
+    },
+    {
+      "id": "04e79e1d-9774-420c-bbf9-cd6e24a84692",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "57d0d087-75df-41fb-8158-dc24dabf2f1c",
+      "event_title": "古洞余痕见经卷",
+      "event_description": "你在峭壁凹穴中屏息等候，约莫半个时辰，青云子方从洞口走出，面色如常，袖中似藏着何物。待他身影消失在山雾之中，你方攀下岩壁，拨开藤蔓，闪身进入洞内。洞中石壁上青芒未散，依稀可见几行古朴文字，似为功法心诀，但更深的幽暗中，一张残破的兽皮卷静静躺在石台上。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:40.721Z",
+      "phase": "前期"
+    },
+    {
+      "id": "4461f15d-3bae-4625-a964-bfd50c7ac916",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "f20e7c25-2354-48a8-9ac7-a7ae5af29e4e",
+      "event_title": "古洞余痕见经卷",
+      "event_description": "你在峭壁凹穴中屏息等候，约莫半个时辰，青云子方从洞口走出，面色如常，袖中似藏着何物。待他身影消失在山雾之中，你方攀下岩壁，拨开藤蔓，闪身进入洞内。洞中石壁上青芒未散，依稀可见几行古朴文字，似为功法心诀，但更深的幽暗中，一张残破的兽皮卷静静躺在石台上。",
+      "choice": "探查洞内深处",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:41.739Z",
+      "phase": "前期"
+    },
+    {
+      "id": "8f53e9e9-e445-4818-8968-198a3eacbd70",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "1e77d51b-7c14-49f8-838f-3ecfa921a68d",
+      "event_title": "洞中秘径见遗刻",
+      "event_description": "你手持火折子，沿着洞壁向内摸索。火光摇曳，映出洞壁上斑驳的苔痕，前行约十丈，洞势忽而收窄，仅容一人侧身而过。侧身挤过石缝，眼前豁然开朗——一间数丈见方的石室，四壁光滑如镜，正中一座石台，台上放着一卷竹简，简上尘埃厚积，似许久无人动过。石室顶部嵌着一枚鸽卵大小的夜明珠，散发幽幽清辉，照得室内纤毫毕现。你正欲上前查看，却听身后传来细微的碎石声响。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:47.945Z",
+      "phase": "前期"
+    },
+    {
+      "id": "0d307a78-4d8d-4cd1-8eae-9cc78f4c50fc",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "78ab1669-9b91-444f-8257-bb7cc8435dae",
+      "event_title": "洞中秘径见遗刻",
+      "event_description": "你手持火折子，沿着洞壁向内摸索。火光摇曳，映出洞壁上斑驳的苔痕，前行约十丈，洞势忽而收窄，仅容一人侧身而过。侧身挤过石缝，眼前豁然开朗——一间数丈见方的石室，四壁光滑如镜，正中一座石台，台上放着一卷竹简，简上尘埃厚积，似许久无人动过。石室顶部嵌着一枚鸽卵大小的夜明珠，散发幽幽清辉，照得室内纤毫毕现。你正欲上前查看，却听身后传来细微的碎石声响。",
+      "choice": "回身查看动静",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:48.966Z",
+      "phase": "前期"
+    },
+    {
+      "id": "647b4376-1595-4081-97e3-abfc337b7363",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "0755fed5-1216-40c0-819e-fb8181c30938",
+      "event_title": "石室暗影闻异声",
+      "event_description": "你猛然回身，火折子的光芒摇曳不定，照向声响传来的方向。石室入口处，一道黑影一闪而没，你隐约看到一件似袖袍的衣角消失在转角。洞中寂静，只余你自己的呼吸声与火折子燃烧的细微噼啪声。那影子似人非人，动作迅捷无声，不知是尾随而来，还是这古洞中另有生灵。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:54.234Z",
+      "phase": "前期"
+    },
+    {
+      "id": "93dd5afe-9f8d-4cc5-80c7-91ab188d90ce",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "fb6eb315-7662-4384-867f-8271efa454d6",
+      "event_title": "石室暗影闻异声",
+      "event_description": "你猛然回身，火折子的光芒摇曳不定，照向声响传来的方向。石室入口处，一道黑影一闪而没，你隐约看到一件似袖袍的衣角消失在转角。洞中寂静，只余你自己的呼吸声与火折子燃烧的细微噼啪声。那影子似人非人，动作迅捷无声，不知是尾随而来，还是这古洞中另有生灵。",
+      "choice": "提剑追查黑影",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:23:55.257Z",
+      "phase": "前期"
+    },
+    {
+      "id": "938a47d8-285c-43f7-ae9f-212814a8e3bd",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "09253906-6924-464e-b447-ed90d6458554",
+      "event_title": "洞中追影见岔路",
+      "event_description": "你提剑疾追，火折子在山风中明灭不定。那黑影身法诡异，在曲折洞道中一闪再闪，始终与你保持数丈距离。追出百步，洞势忽分三岔，黑影没入左侧洞口，消失不见。你驻足凝神，只闻右侧洞中传来若有若无的诵经声，而中间洞口则隐隐透出青色微光。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:04.308Z",
+      "phase": "前期"
+    },
+    {
+      "id": "eafb1772-7f6f-4b00-9a88-67d6022564ef",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "1ecef4a6-7d01-41a0-973f-708cd90f6582",
+      "event_title": "洞中追影见岔路",
+      "event_description": "你提剑疾追，火折子在山风中明灭不定。那黑影身法诡异，在曲折洞道中一闪再闪，始终与你保持数丈距离。追出百步，洞势忽分三岔，黑影没入左侧洞口，消失不见。你驻足凝神，只闻右侧洞中传来若有若无的诵经声，而中间洞口则隐隐透出青色微光。",
+      "choice": "追入左侧洞道",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:05.330Z",
+      "phase": "前期"
+    },
+    {
+      "id": "c26f9ab0-76b9-4fbc-9601-7381feb179c3",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "8a8b7456-fd49-417c-8f2a-8e65b874c06a",
+      "event_title": "左侧洞道遇尸骸",
+      "event_description": "你提剑追入左侧洞道，火折子光芒勉强照亮前路。洞道蜿蜒向下，潮湿阴冷，石壁上渗出细密水珠。约莫二十步后，洞势骤宽，只见一具白衣骸骨靠壁而坐，骨骼完好，衣袍尚存，右手握着一柄锈迹斑斑的长剑，左手边散落一卷竹简。骸骨眉心处有一道细长裂痕，似是被利器贯穿。洞中再无黑影踪迹，只余水滴声与你的心跳。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:12.193Z",
+      "phase": "前期"
+    },
+    {
+      "id": "ae5f9113-9e26-4b8e-932c-45e61921f0c5",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "dda0ff1d-4b85-47d3-857a-6739bb5db07b",
+      "event_title": "左侧洞道遇尸骸",
+      "event_description": "你提剑追入左侧洞道，火折子光芒勉强照亮前路。洞道蜿蜒向下，潮湿阴冷，石壁上渗出细密水珠。约莫二十步后，洞势骤宽，只见一具白衣骸骨靠壁而坐，骨骼完好，衣袍尚存，右手握着一柄锈迹斑斑的长剑，左手边散落一卷竹简。骸骨眉心处有一道细长裂痕，似是被利器贯穿。洞中再无黑影踪迹，只余水滴声与你的心跳。",
+      "choice": "查看竹简与骸骨",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:13.218Z",
+      "phase": "前期"
+    },
+    {
+      "id": "2a15b6d1-4fa0-4279-9fdf-d0596aad42dc",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "0f609aa3-504c-49f7-931a-d4e9347df208",
+      "event_title": "骸骨遗卷观秘录",
+      "event_description": "你俯身靠近那具白衣骸骨，火折子微光映在泛黄的竹简上。竹简用细绳编连，上刻蝇头小楷，内容似是某种心法口诀，但字迹潦草，多处被水渍模糊。骸骨右手边散落着一枚玉佩，质地温润，雕作莲花形状，背面刻有一个‘玄’字。你正欲细看，忽听洞深处传来一声极轻的叹息，似有似无，却又清晰入耳。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:19.430Z",
+      "phase": "前期"
+    },
+    {
+      "id": "737a38b7-810d-46a5-a9f0-9dc3e3acfb15",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "dd09fb7d-6ba3-437d-bb92-6be1c44c3466",
+      "event_title": "骸骨遗卷观秘录",
+      "event_description": "你俯身靠近那具白衣骸骨，火折子微光映在泛黄的竹简上。竹简用细绳编连，上刻蝇头小楷，内容似是某种心法口诀，但字迹潦草，多处被水渍模糊。骸骨右手边散落着一枚玉佩，质地温润，雕作莲花形状，背面刻有一个‘玄’字。你正欲细看，忽听洞深处传来一声极轻的叹息，似有似无，却又清晰入耳。",
+      "choice": "原地警戒片刻",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:20.447Z",
+      "phase": "前期"
+    },
+    {
+      "id": "f1e98490-a43d-4251-951b-e8ae0a6dde5d",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "9227ee38-559f-413d-8054-ac85900838d2",
+      "event_title": "骸骨遗物现端倪",
+      "event_description": "你屏息凝神，火折子微光在洞壁间摇曳。四周静得出奇，只有水珠滴落石上的声响。确认无机关后，你重新审视那具白衣骸骨——其左手无名指上戴着一枚暗青色指环，虽蒙尘却隐有灵光流转。你正欲细看，洞外忽然传来一声凄厉兽吼，紧接着是兵刃交击之声，竟是有人在激斗。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:27.722Z",
+      "phase": "前期"
+    },
+    {
+      "id": "610e0f8e-ac30-49cb-af8e-ab907dc58268",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "08bd0300-d520-47de-8629-96b540f386f2",
+      "event_title": "骸骨遗物现端倪",
+      "event_description": "你屏息凝神，火折子微光在洞壁间摇曳。四周静得出奇，只有水珠滴落石上的声响。确认无机关后，你重新审视那具白衣骸骨——其左手无名指上戴着一枚暗青色指环，虽蒙尘却隐有灵光流转。你正欲细看，洞外忽然传来一声凄厉兽吼，紧接着是兵刃交击之声，竟是有人在激斗。",
+      "choice": "记下位置后离开",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:28.754Z",
+      "phase": "前期"
+    },
+    {
+      "id": "ba085f67-4175-4f48-a7ac-aa4640e878ad",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "6c3c87ad-253c-4302-9a1a-fea26093cbfd",
+      "event_title": "出洞遇天雷斗法",
+      "event_description": "你收起火折子，疾步沿原路折返。洞外风雨已至，天际雷光闪烁，一股浩然法力与凶厉邪气正猛烈碰撞。你刚踏出洞口，便见数十丈外，一位身披袈裟的老僧浑身浴血，双手紧握翡翠念珠，以佛门真言硬撼一道从天而降的紫色雷霆。雷光炸裂，气浪掀翻周遭树木，两个七八岁的孩童倒在老僧身后不远处，已是昏迷不醒。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:37.585Z",
+      "phase": "前期"
+    },
+    {
+      "id": "1e7f25f0-abb0-4c11-a0b2-c86acbd6f00a",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "4c946dba-921b-4170-a3e7-707089298f60",
+      "event_title": "出洞遇天雷斗法",
+      "event_description": "你收起火折子，疾步沿原路折返。洞外风雨已至，天际雷光闪烁，一股浩然法力与凶厉邪气正猛烈碰撞。你刚踏出洞口，便见数十丈外，一位身披袈裟的老僧浑身浴血，双手紧握翡翠念珠，以佛门真言硬撼一道从天而降的紫色雷霆。雷光炸裂，气浪掀翻周遭树木，两个七八岁的孩童倒在老僧身后不远处，已是昏迷不醒。",
+      "choice": "隐于暗处观战",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:38.621Z",
+      "phase": "前期"
+    },
+    {
+      "id": "67dd4bd5-74ce-44db-a727-4988cd03e8f2",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "38bef751-17ce-4fcd-b88a-3327a3cb4cb4",
+      "event_title": "暗处窥得胜负分",
+      "event_description": "风雨如晦，雷光炸裂。那老僧以翡翠念珠硬撼天雷，佛门真言与道家雷法碰撞，震得你耳中嗡鸣。邪人一声惨呼，身形踉跄遁入黑暗，老僧亦颓然坐倒，怀中滚落出两个昏迷的孩童。你伏于石后，手心冷汗涔涔，不知该趁势离去，还是上前探看。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:45.388Z",
+      "phase": "前期"
+    },
+    {
+      "id": "104ab00f-c846-4fbd-8eec-074ae8f28b8d",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "d3bf73ad-3606-4913-9b5a-4d1e479631e7",
+      "event_title": "暗处窥得胜负分",
+      "event_description": "风雨如晦，雷光炸裂。那老僧以翡翠念珠硬撼天雷，佛门真言与道家雷法碰撞，震得你耳中嗡鸣。邪人一声惨呼，身形踉跄遁入黑暗，老僧亦颓然坐倒，怀中滚落出两个昏迷的孩童。你伏于石后，手心冷汗涔涔，不知该趁势离去，还是上前探看。",
+      "choice": "上前查看",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:46.423Z",
+      "phase": "前期"
+    },
+    {
+      "id": "c83399ae-8e59-4507-aec2-11aab25eb45c",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "7a5558de-110a-4831-bfa8-889b3be4c189",
+      "event_title": "雨夜残僧藏秘辛",
+      "event_description": "你快步上前，风雨中老僧袈裟尽裂，胸前一道焦黑掌印触目惊心。他强撑眼皮见你靠近，沙哑道：‘施主…莫近…邪人未远…’话音未落，一口鲜血喷出，染红了翡翠念珠。两个孩童蜷卧泥泞，一个眉宇倔强，一个面庞圆润，呼吸尚在。远处雷光隐现，似有追兵将至。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:53.194Z",
+      "phase": "前期"
+    },
+    {
+      "id": "f5391869-8a64-41fe-885d-ca8ba830f964",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "705e38c5-7fb9-4f6f-840a-335f356e4fd9",
+      "event_title": "雨夜残僧藏秘辛",
+      "event_description": "你快步上前，风雨中老僧袈裟尽裂，胸前一道焦黑掌印触目惊心。他强撑眼皮见你靠近，沙哑道：‘施主…莫近…邪人未远…’话音未落，一口鲜血喷出，染红了翡翠念珠。两个孩童蜷卧泥泞，一个眉宇倔强，一个面庞圆润，呼吸尚在。远处雷光隐现，似有追兵将至。",
+      "choice": "询问老僧",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:24:54.221Z",
+      "phase": "前期"
+    },
+    {
+      "id": "10688b84-f857-407e-9726-39b396985bcf",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "eaf6a2db-60fd-49c5-9a07-6d01adf2bfd7",
+      "event_title": "残僧低语问来由",
+      "event_description": "你压低身形，靠近老僧三步之遥，风雨浸透袈裟与皮肉。老僧勉强抬眼，血污下的目光浑浊却锐利，他咳出一口血沫，喘息道：‘施…施主何门何派？此间凶险，非你所能涉…’话音未落，远处密林深处传来一声短促哨音，老僧神色骤变，强撑身子将两个孩童拢入怀中，念珠上的翡翠微光一明一灭。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:01.593Z",
+      "phase": "前期"
+    },
+    {
+      "id": "df9e9017-0d25-4520-bad2-90fbd14499bf",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "042ef3f5-0462-49f3-8e4b-eab09b7bf22c",
+      "event_title": "残僧低语问来由",
+      "event_description": "你压低身形，靠近老僧三步之遥，风雨浸透袈裟与皮肉。老僧勉强抬眼，血污下的目光浑浊却锐利，他咳出一口血沫，喘息道：‘施…施主何门何派？此间凶险，非你所能涉…’话音未落，远处密林深处传来一声短促哨音，老僧神色骤变，强撑身子将两个孩童拢入怀中，念珠上的翡翠微光一明一灭。",
+      "choice": "不动声色，反问他为何护着这两个孩童",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:02.616Z",
+      "phase": "前期"
+    },
+    {
+      "id": "a669b8b2-403f-4372-a1bd-4fe024fa94c0",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "80dce86c-ecf7-48b4-ada7-c16c4ee38e77",
+      "event_title": "残僧托孤言真相",
+      "event_description": "老僧闻言，眼神微黯，又是一口鲜血涌出，染红了胸前破碎的袈裟。他勉力抬手，指了指两个昏迷的孩童，声音嘶哑如破风箱：“他们…是草庙村的孤儿…老衲普智，受人所托，护他二人周全。邪人觊觎我佛门至宝，方才袭杀…施主既见，可否…”话音未落，远处林间又传来一声凄厉长啸，老僧神色剧变，挣扎欲起却力不从心。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:12.557Z",
+      "phase": "前期"
+    },
+    {
+      "id": "fc67eca3-6aac-4af2-910a-f63462d85fd1",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "5f4ab050-6e53-4e04-a8f5-aa5aa06e1786",
+      "event_title": "残僧托孤言真相",
+      "event_description": "老僧闻言，眼神微黯，又是一口鲜血涌出，染红了胸前破碎的袈裟。他勉力抬手，指了指两个昏迷的孩童，声音嘶哑如破风箱：“他们…是草庙村的孤儿…老衲普智，受人所托，护他二人周全。邪人觊觎我佛门至宝，方才袭杀…施主既见，可否…”话音未落，远处林间又传来一声凄厉长啸，老僧神色剧变，挣扎欲起却力不从心。",
+      "choice": "警惕后退，表明自己乃清虚门下",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:13.585Z",
+      "phase": "前期"
+    },
+    {
+      "id": "54793558-0ade-46c7-a38f-9d4dbbc43ade",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "d4a6e260-06ac-4e55-9777-511530c59577",
+      "event_title": "残僧闻讯神色松",
+      "event_description": "老僧听得‘清虚门下’四字，浑浊眼中掠过一丝宽慰，血污嘴角勉强扯出笑意：‘原是清虚道友……好，好……’话音未落，他身子一软，向后倒去，手中翡翠念珠滑落，滚至你脚边。风雨更急，远处隐约传来几声凄厉长啸，似有追踪者正循声而来。两个孩童依旧昏迷，衣襟已被泥水浸透。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:20.332Z",
+      "phase": "前期"
+    },
+    {
+      "id": "b5580499-8021-4480-95ce-aa0ecadb8ff3",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "3019b6ff-ec7e-4519-87b3-531420085735",
+      "event_title": "残僧闻讯神色松",
+      "event_description": "老僧听得‘清虚门下’四字，浑浊眼中掠过一丝宽慰，血污嘴角勉强扯出笑意：‘原是清虚道友……好，好……’话音未落，他身子一软，向后倒去，手中翡翠念珠滑落，滚至你脚边。风雨更急，远处隐约传来几声凄厉长啸，似有追踪者正循声而来。两个孩童依旧昏迷，衣襟已被泥水浸透。",
+      "choice": "凝神戒备，环顾四周",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:21.364Z",
+      "phase": "前期"
+    },
+    {
+      "id": "d1857048-f7f8-4679-a546-2fc0394d178c",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "2ca2f079-d3a1-415c-889d-80749c703ceb",
+      "event_title": "风雨啸声隐杀机",
+      "event_description": "你凝神屏息，目光如电扫过四周。风雨中，那啸声愈发凄厉，似从东南方密林深处传来，夹杂着树木摧折的声响。你瞥见昏迷的老僧与两个孩童，心中暗忖：此地不可久留，那黑影或已折返。正待细辨方位，一道破空声骤然从头顶压下——一柄染血飞剑直刺你面门！",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:29.240Z",
+      "phase": "前期"
+    },
+    {
+      "id": "5f2a3680-cffe-4d7a-8bb9-e6915a30e380",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "01969beb-7169-47c3-bdfe-3806f1e52391",
+      "event_title": "风雨啸声隐杀机",
+      "event_description": "你凝神屏息，目光如电扫过四周。风雨中，那啸声愈发凄厉，似从东南方密林深处传来，夹杂着树木摧折的声响。你瞥见昏迷的老僧与两个孩童，心中暗忖：此地不可久留，那黑影或已折返。正待细辨方位，一道破空声骤然从头顶压下——一柄染血飞剑直刺你面门！",
+      "choice": "抓起孩童后撤，暂避锋芒",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:30.260Z",
+      "phase": "前期"
+    },
+    {
+      "id": "c7b331ee-27eb-48bf-8051-256c52632b1c",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "fc033fcc-10f2-4f39-808e-329059f8c247",
+      "event_title": "石室藏身处，风雨待天明",
+      "event_description": "你提着两个孩童疾退入洞，将昏迷的老僧也拖至石室。洞外风雨如晦，凄厉兽吼与兵刃交击声渐远，终归于寂。你喘息未定，借着洞壁幽光审视怀中孩童——不过七八岁年纪，眉目清秀，却满脸血污。昏暗中，那串翡翠念珠在石地上泛着微光。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:36.780Z",
+      "phase": "前期"
+    },
+    {
+      "id": "ad1eca6a-edcd-4e68-8891-50610a2bbd52",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "bbed6b5d-81d3-4d89-a81c-88d8fd549442",
+      "event_title": "石室藏身处，风雨待天明",
+      "event_description": "你提着两个孩童疾退入洞，将昏迷的老僧也拖至石室。洞外风雨如晦，凄厉兽吼与兵刃交击声渐远，终归于寂。你喘息未定，借着洞壁幽光审视怀中孩童——不过七八岁年纪，眉目清秀，却满脸血污。昏暗中，那串翡翠念珠在石地上泛着微光。",
+      "choice": "探查洞外动静",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:37.812Z",
+      "phase": "前期"
+    },
+    {
+      "id": "1b0d5dd6-8782-4915-a88b-85edc4e8efe5",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "3c94bc2a-5d52-4494-b932-e6914846de1b",
+      "event_title": "洞外风雨歇，青云来客至",
+      "event_description": "你贴着洞壁向外望去，风雨渐歇，天色微明。远处林间有数道剑光掠来，为首一人身着青云门服饰，面色凝重，正是通天峰常箭。他身后跟着几位弟子，正仔细搜寻着什么。你的目光扫过空地——昨夜那场激战的痕迹犹在，却已不见那神秘黑影的踪影。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:46.694Z",
+      "phase": "前期"
+    },
+    {
+      "id": "736a3c82-4001-4234-b8f9-fb47b4985863",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "d4373f5c-7164-4f74-ba55-f1bc2c9e548f",
+      "event_title": "洞外风雨歇，青云来客至",
+      "event_description": "你贴着洞壁向外望去，风雨渐歇，天色微明。远处林间有数道剑光掠来，为首一人身着青云门服饰，面色凝重，正是通天峰常箭。他身后跟着几位弟子，正仔细搜寻着什么。你的目光扫过空地——昨夜那场激战的痕迹犹在，却已不见那神秘黑影的踪影。",
+      "choice": "静观其变，先看青云门动向",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:47.713Z",
+      "phase": "前期"
+    },
+    {
+      "id": "81a889d3-d305-45f0-91ac-eb54531f46fd",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "de64a425-ddbc-40cc-a5d5-1e51bcc74c21",
+      "event_title": "青云弟子搜林间",
+      "event_description": "你隐在洞口暗影中，屏息凝望。常箭领着数名青云弟子在林间仔细翻寻，忽有一人惊呼，从灌木丛中拾起一片碎裂的袈裟。常箭接过端详片刻，面色一沉，挥手示意众人散开搜索，目光恰好扫过你藏身的洞口。你的心猛地一紧——他停了下来，正朝这边走来。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:53.132Z",
+      "phase": "前期"
+    },
+    {
+      "id": "35864e76-8cd6-4eff-9968-4e9523112009",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "f5a482fe-d4a7-46bc-b02e-d58951db108d",
+      "event_title": "青云弟子搜林间",
+      "event_description": "你隐在洞口暗影中，屏息凝望。常箭领着数名青云弟子在林间仔细翻寻，忽有一人惊呼，从灌木丛中拾起一片碎裂的袈裟。常箭接过端详片刻，面色一沉，挥手示意众人散开搜索，目光恰好扫过你藏身的洞口。你的心猛地一紧——他停了下来，正朝这边走来。",
+      "choice": "退回洞内深处，隐匿气息",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:25:54.162Z",
+      "phase": "前期"
+    },
+    {
+      "id": "9ea216e5-2bc2-4026-8d5b-37432324e855",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "099d50d6-e7b9-435f-92b6-ebcc1dbf2792",
+      "event_title": "石室幽光，老僧转醒",
+      "event_description": "你退回洞内深处，石室中幽光朦胧，两个孩童仍昏迷不醒，老僧气息微弱却渐趋平稳。你正欲查看，忽听老僧喉间发出一声低哑咳嗽，眼皮微微颤动。同时，洞外传来常箭沉声吩咐：“仔细搜，那边山洞也看看！”脚步声正朝洞口方向移动。你心头一紧，四周再无退路。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:07.836Z",
+      "phase": "前期"
+    },
+    {
+      "id": "d2026066-7d92-4d6d-ba3b-2171b2d4ac83",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "4fb61534-6630-408d-acf2-460d8f101dd7",
+      "event_title": "石室幽光，老僧转醒",
+      "event_description": "你退回洞内深处，石室中幽光朦胧，两个孩童仍昏迷不醒，老僧气息微弱却渐趋平稳。你正欲查看，忽听老僧喉间发出一声低哑咳嗽，眼皮微微颤动。同时，洞外传来常箭沉声吩咐：“仔细搜，那边山洞也看看！”脚步声正朝洞口方向移动。你心头一紧，四周再无退路。",
+      "choice": "检查遗骸玉佩",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:08.870Z",
+      "phase": "前期"
+    },
+    {
+      "id": "0efd5edb-71fa-4d72-8a91-5fef4f8c4d26",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "98e8082d-9bfb-47a9-815f-f6e7ed5fe922",
+      "event_title": "玉佩幽光，老僧遗言",
+      "event_description": "你指尖凝出一缕灵力，缓缓注入那枚莲花玉佩。玉佩微微一颤，泛起一层柔和青光，随即又归于沉寂——仿佛认主一般，将你一丝气息纳入其中。你正自惊疑，身旁传来一声苍老叹息：“施主……那玉佩，与老衲有些渊源。”你转头，见那老僧不知何时已撑开眼帘，目光浑浊却透着一丝清明，望向那玉佩。洞外传来常箭沉声吩咐：“仔细搜这附近，莫要遗漏。”脚步声渐近。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:14.979Z",
+      "phase": "前期"
+    },
+    {
+      "id": "0e3c33dc-cda9-45bf-a53b-309e93061012",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "3f9f960d-3a47-4e80-80a0-237e3ce7edfc",
+      "event_title": "玉佩幽光，老僧遗言",
+      "event_description": "你指尖凝出一缕灵力，缓缓注入那枚莲花玉佩。玉佩微微一颤，泛起一层柔和青光，随即又归于沉寂——仿佛认主一般，将你一丝气息纳入其中。你正自惊疑，身旁传来一声苍老叹息：“施主……那玉佩，与老衲有些渊源。”你转头，见那老僧不知何时已撑开眼帘，目光浑浊却透着一丝清明，望向那玉佩。洞外传来常箭沉声吩咐：“仔细搜这附近，莫要遗漏。”脚步声渐近。",
+      "choice": "询问玉佩来历",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:15.996Z",
+      "phase": "前期"
+    },
+    {
+      "id": "513e224d-f070-45fe-97cf-ff07037b9dd8",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "41618778-4cbc-4f3a-a9ec-ce41857193e7",
+      "event_title": "石室问缘，老僧叙旧",
+      "event_description": "你收起玉佩，转身望向那老僧，低声道：“前辈，这玉佩与洞中骸骨……究竟是何来历？”老僧目光微凝，喘息片刻，方颤声道：“那……那是老衲师兄，天音寺‘玄’字辈高僧，法号玄通。三十年前，他奉命追查一件邪物，一去不返……这玉佩乃他本命信物。你既能让它认主，怕是与他有缘。”话音未落，洞外常箭的声音又近了几分。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:23.613Z",
+      "phase": "前期"
+    },
+    {
+      "id": "27b21a3a-cbc9-4aec-b2c8-838a1c831cf2",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "e934a636-6cb3-42a3-b1aa-c02b2333676d",
+      "event_title": "石室问缘，老僧叙旧",
+      "event_description": "你收起玉佩，转身望向那老僧，低声道：“前辈，这玉佩与洞中骸骨……究竟是何来历？”老僧目光微凝，喘息片刻，方颤声道：“那……那是老衲师兄，天音寺‘玄’字辈高僧，法号玄通。三十年前，他奉命追查一件邪物，一去不返……这玉佩乃他本命信物。你既能让它认主，怕是与他有缘。”话音未落，洞外常箭的声音又近了几分。",
+      "choice": "查看洞内竹简",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:24.643Z",
+      "phase": "前期"
+    },
+    {
+      "id": "550b44a3-f9d3-4523-ae13-12945361f2c3",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "5f7b37aa-3a38-421e-b14f-dad459fb0a0b",
+      "event_title": "古卷残简，往事浮现",
+      "event_description": "趁老僧喘息未定，你迅速拾起脚边一枚竹简。简上字迹潦草，似是临终前以血写就：『玄清师兄……入魔……已诛……吾亦重伤……天音之秘……不可泄……』你正欲再看，老僧忽然剧烈咳嗽，低声道：『莫……莫看那竹简！那是……师兄的遗书！』",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:32.033Z",
+      "phase": "前期"
+    },
+    {
+      "id": "562884cd-08d0-42d5-b6d5-50a7f8bcbb5b",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "476230de-9e4b-4107-8b4b-5c6856fe20cf",
+      "event_title": "古卷残简，往事浮现",
+      "event_description": "趁老僧喘息未定，你迅速拾起脚边一枚竹简。简上字迹潦草，似是临终前以血写就：『玄清师兄……入魔……已诛……吾亦重伤……天音之秘……不可泄……』你正欲再看，老僧忽然剧烈咳嗽，低声道：『莫……莫看那竹简！那是……师兄的遗书！』",
+      "choice": "安抚老僧并询问伤势",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:33.063Z",
+      "phase": "前期"
+    },
+    {
+      "id": "cd6dded7-8c27-46d8-8664-ac179e76c95d",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "af2b86b6-dba4-46f1-a158-01072fecff23",
+      "event_title": "残喘老僧，洞中秘辛",
+      "event_description": "你连忙上前扶住老僧，让他靠坐于石壁之上，只觉他身躯枯瘦如柴，气息微弱如游丝。你低声问道：‘前辈，你伤在何处？是何人所为？’老僧惨然一笑，颤巍巍抬手抚胸：‘老衲心脉已碎，勉强以一口佛门真气吊命。伤我者……便是师兄玄清。他入魔后狂性大发，老衲不得以与他在此搏杀，最后以同归于尽之法将他击毙，却也中了魔元反噬……’他喘息数声，目光又落向那玉佩：‘那玉佩是玄清之物，曾受天音寺佛法加持，或许……能引你寻得一线机缘。’",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:40.297Z",
+      "phase": "前期"
+    },
+    {
+      "id": "7ca26a12-2ff3-4d71-aa93-4b27dbd182f3",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "a511cf91-dfde-4de2-af1f-2aa650b36281",
+      "event_title": "残喘老僧，洞中秘辛",
+      "event_description": "你连忙上前扶住老僧，让他靠坐于石壁之上，只觉他身躯枯瘦如柴，气息微弱如游丝。你低声问道：‘前辈，你伤在何处？是何人所为？’老僧惨然一笑，颤巍巍抬手抚胸：‘老衲心脉已碎，勉强以一口佛门真气吊命。伤我者……便是师兄玄清。他入魔后狂性大发，老衲不得以与他在此搏杀，最后以同归于尽之法将他击毙，却也中了魔元反噬……’他喘息数声，目光又落向那玉佩：‘那玉佩是玄清之物，曾受天音寺佛法加持，或许……能引你寻得一线机缘。’",
+      "choice": "以自身灵力为老僧续命",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:41.331Z",
+      "phase": "前期"
+    },
+    {
+      "id": "d403c4ea-1cb6-4b8a-a8c8-4822245efbc5",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "14f04d32-33fe-48ba-8637-e71f1679d1e3",
+      "event_title": "残喘老僧，灵力续命",
+      "event_description": "你深吸一口气，将掌心贴合老僧背心，体内那点微薄灵力缓缓渡入。老僧身躯一震，灰败的脸上竟泛起一丝血色，喘息稍定。他睁开浑浊双眼，定定望着你，声音沙哑：‘小友……不必费心了，老衲心脉已碎，回天乏术。但……有些话，再不说就晚了。’他艰难抬手，指向那具骸骨，‘玄清师兄……并非入魔，他是……’话音未落，洞外忽然传来急促脚步声，有人喝道：‘里面何人！’",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:47.250Z",
+      "phase": "前期"
+    },
+    {
+      "id": "af4dea43-ec64-4dd0-9033-6c5b19c94d5c",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "ef9f93b2-7440-4bf9-882d-a7a89ea8d5a1",
+      "event_title": "残喘老僧，灵力续命",
+      "event_description": "你深吸一口气，将掌心贴合老僧背心，体内那点微薄灵力缓缓渡入。老僧身躯一震，灰败的脸上竟泛起一丝血色，喘息稍定。他睁开浑浊双眼，定定望着你，声音沙哑：‘小友……不必费心了，老衲心脉已碎，回天乏术。但……有些话，再不说就晚了。’他艰难抬手，指向那具骸骨，‘玄清师兄……并非入魔，他是……’话音未落，洞外忽然传来急促脚步声，有人喝道：‘里面何人！’",
+      "choice": "隐藏行踪",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:48.266Z",
+      "phase": "前期"
+    },
+    {
+      "id": "5ba3b854-dabd-46cd-aa0c-46f965c79888",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "3300802d-ba49-4497-aa13-4e0ea47e98d7",
+      "event_title": "暗影窥伺，洞中异响",
+      "event_description": "你扶老僧藏入阴影深处，掌心仍贴着他背心，灵力缓缓续命。洞内寂静片刻，忽从三岔洞口传来脚步声，夹杂低语：“那小子追谁去了？怎的半点动静也无？”你屏息凝神，指尖触到腰间剑柄，只待异变。老僧呼吸渐弱，却勉强抬手，指向右侧洞道石壁上一道不起眼裂缝，喉间发出微弱气音：“……那里……有路。”",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:53.504Z",
+      "phase": "前期"
+    },
+    {
+      "id": "b2cf6798-0c34-4d8d-8e13-2e4726a879b6",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "075c40f9-5bc6-4844-825d-4050040df422",
+      "event_title": "暗影窥伺，洞中异响",
+      "event_description": "你扶老僧藏入阴影深处，掌心仍贴着他背心，灵力缓缓续命。洞内寂静片刻，忽从三岔洞口传来脚步声，夹杂低语：“那小子追谁去了？怎的半点动静也无？”你屏息凝神，指尖触到腰间剑柄，只待异变。老僧呼吸渐弱，却勉强抬手，指向右侧洞道石壁上一道不起眼裂缝，喉间发出微弱气音：“……那里……有路。”",
+      "choice": "循老僧所指，探秘道",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:26:54.520Z",
+      "phase": "前期"
+    },
+    {
+      "id": "70b642fc-4814-429a-992c-933393257222",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "19cc5769-8692-4dd9-b6ef-42803e88216e",
+      "event_title": "石缝秘径，暗河幽深",
+      "event_description": "你搀扶着老僧，侧身挤入石缝。缝隙狭窄，仅容一人通过，石壁湿滑，冷气逼人。身后脚步声渐近，你不敢停留，奋力向前。约莫一炷香功夫，前方豁然开朗，竟是一条地下暗河，河水漆黑如墨，无声流淌。岸边散落着几具骨骸，看装束似是多年前的修道之人。老僧气息微弱，低声道：‘此河……通往青云山深处……’话音未落，暗河深处传来一声低沉的嘶吼。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:00.730Z",
+      "phase": "前期"
+    },
+    {
+      "id": "bcc97382-6a3b-4506-b8c2-b78fc0960bfe",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "f68e69e0-ee4a-4ba6-be89-3a6284c76824",
+      "event_title": "石缝秘径，暗河幽深",
+      "event_description": "你搀扶着老僧，侧身挤入石缝。缝隙狭窄，仅容一人通过，石壁湿滑，冷气逼人。身后脚步声渐近，你不敢停留，奋力向前。约莫一炷香功夫，前方豁然开朗，竟是一条地下暗河，河水漆黑如墨，无声流淌。岸边散落着几具骨骸，看装束似是多年前的修道之人。老僧气息微弱，低声道：‘此河……通往青云山深处……’话音未落，暗河深处传来一声低沉的嘶吼。",
+      "choice": "查看骨骸，搜寻遗物",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:01.757Z",
+      "phase": "前期"
+    },
+    {
+      "id": "ed1976a2-4a44-4176-9c15-e2ff43e81b3a",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "a8df07d1-85ac-43c4-8562-42f88c731189",
+      "event_title": "暗河遗骨，玉简藏机",
+      "event_description": "你搀着老僧走近那具骨骸，白骨森然，衣袍早已腐朽，唯腰间一枚玉简在幽暗中泛着微光。你伸手取过，触手冰凉，隐约有字迹浮现。老僧忽然咳嗽一声，低声道：“这是……天音寺的‘渡厄心经’残篇。”话音未落，暗河深处传来一阵水花翻涌之声，似有什么东西正朝此处游来。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:08.624Z",
+      "phase": "前期"
+    },
+    {
+      "id": "e888297f-a4cb-402b-942d-f85e9164d6df",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "9f39688f-60b5-4b4a-b820-0fccec9ab67c",
+      "event_title": "暗河遗骨，玉简藏机",
+      "event_description": "你搀着老僧走近那具骨骸，白骨森然，衣袍早已腐朽，唯腰间一枚玉简在幽暗中泛着微光。你伸手取过，触手冰凉，隐约有字迹浮现。老僧忽然咳嗽一声，低声道：“这是……天音寺的‘渡厄心经’残篇。”话音未落，暗河深处传来一阵水花翻涌之声，似有什么东西正朝此处游来。",
+      "choice": "速读玉简，记下经文",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:09.649Z",
+      "phase": "前期"
+    },
+    {
+      "id": "02984619-f187-4d28-b69e-470725dfbb6f",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "c75e5df4-2892-401c-864f-5e0a1253464d",
+      "event_title": "暗河诵读，追兵渐近",
+      "event_description": "你指尖急触玉简，灵力涌入，碎金般的经文在识海浮现——竟是天音寺失传的《大梵般若》残篇！老僧神色一震，正欲开口，三岔洞外传来急促脚步，有人厉喝：“在那边！暗河有光！”你猛然抬头，见火把光影已映上洞壁。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:15.083Z",
+      "phase": "前期"
+    },
+    {
+      "id": "95b541b3-af8b-40c4-bb12-8018780c0c49",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "1928c101-bc4f-462c-8753-199813805213",
+      "event_title": "暗河诵读，追兵渐近",
+      "event_description": "你指尖急触玉简，灵力涌入，碎金般的经文在识海浮现——竟是天音寺失传的《大梵般若》残篇！老僧神色一震，正欲开口，三岔洞外传来急促脚步，有人厉喝：“在那边！暗河有光！”你猛然抬头，见火把光影已映上洞壁。",
+      "choice": "迎敌并借机质问",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:16.098Z",
+      "phase": "前期"
+    },
+    {
+      "id": "4d431b20-6dee-43ed-ad93-c0bc60a96d87",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "dfad96b3-5ff4-41a0-a5ce-004ef8ff3887",
+      "event_title": "暗河对峙，质问追兵",
+      "event_description": "你将老僧护在身后，拔剑指向洞口。三人鱼贯而入，为首是个黑衣修士，面容阴鸷，手持一柄泛着幽光的短刃。他见你横剑在前，冷笑道：“小辈，把老秃驴和玉简留下，饶你不死。”你沉声问道：“你们是什么人？为何追杀天音寺僧人？”黑衣修士眼神一厉：“天音寺的秃驴多管闲事，死有余辜。你若识相，速速滚开！”身后两人已各自亮出兵刃，洞中杀气弥漫。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:24.699Z",
+      "phase": "前期"
+    },
+    {
+      "id": "538e1a52-d51b-4b11-9c78-5b5525dd53b2",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "228d5482-779c-40fd-bedd-98dc4cdecac5",
+      "event_title": "暗河对峙，质问追兵",
+      "event_description": "你将老僧护在身后，拔剑指向洞口。三人鱼贯而入，为首是个黑衣修士，面容阴鸷，手持一柄泛着幽光的短刃。他见你横剑在前，冷笑道：“小辈，把老秃驴和玉简留下，饶你不死。”你沉声问道：“你们是什么人？为何追杀天音寺僧人？”黑衣修士眼神一厉：“天音寺的秃驴多管闲事，死有余辜。你若识相，速速滚开！”身后两人已各自亮出兵刃，洞中杀气弥漫。",
+      "choice": "拔剑相向，掩护老僧",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:25.725Z",
+      "phase": "前期"
+    },
+    {
+      "id": "47d9a1a7-6447-41f2-a869-5c13d9a81f64",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "5e60d72d-96a4-4821-a4c3-6e46b3917038",
+      "event_title": "暗河剑影，老僧危局",
+      "event_description": "你一剑刺出，剑光在幽暗的洞窟中划过一道弧线，直取为首黑衣修士的咽喉。那人冷哼一声，身形如鬼魅般侧滑，短刃反撩，叮的一声架开你的剑锋，火星四溅。你只觉虎口一震，剑势已乱。身后老僧咳喘着低声念了声佛号，那修士嘴角勾起一丝残忍笑意，余下两人已从左右包抄而来。剑刃破风声、脚步声、水声混作一团，暗河激流在脚下翻涌，寒气逼人。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:31.896Z",
+      "phase": "前期"
+    },
+    {
+      "id": "7d668b57-3ffe-4984-8f16-a61e45085ae7",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "c8de920f-79ee-4ec8-abfd-a6e13458f7c8",
+      "event_title": "暗河剑影，老僧危局",
+      "event_description": "你一剑刺出，剑光在幽暗的洞窟中划过一道弧线，直取为首黑衣修士的咽喉。那人冷哼一声，身形如鬼魅般侧滑，短刃反撩，叮的一声架开你的剑锋，火星四溅。你只觉虎口一震，剑势已乱。身后老僧咳喘着低声念了声佛号，那修士嘴角勾起一丝残忍笑意，余下两人已从左右包抄而来。剑刃破风声、脚步声、水声混作一团，暗河激流在脚下翻涌，寒气逼人。",
+      "choice": "丢出玉简，声东击西",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:32.910Z",
+      "phase": "前期"
+    },
+    {
+      "id": "174f6a38-f6f1-45a7-808e-9d13d6384d61",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "d22128d3-9055-44b8-a665-9930a405c2ca",
+      "event_title": "暗河遁走，密道岔路",
+      "event_description": "你将玉简奋力掷向洞窟深处，玉简撞在石壁上发出一声脆响，三人的目光瞬间被吸引。趁此间隙，你抓住老僧的衣袖，转身便往暗河上游狂奔。水声轰鸣中，身后传来怒喝与脚步声，但洞中岔道众多，你拉着老僧七拐八绕，终于暂时甩脱了追兵。前方出现三条岔路，左侧干燥，右侧潮湿，中间有微风吹来。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:38.679Z",
+      "phase": "前期"
+    },
+    {
+      "id": "d62179b9-d8f7-404e-a3a2-fda6ddb15400",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "choice",
+      "event_id": "2dc96cd5-fe63-4148-8109-e8bd7d098a17",
+      "event_title": "暗河遁走，密道岔路",
+      "event_description": "你将玉简奋力掷向洞窟深处，玉简撞在石壁上发出一声脆响，三人的目光瞬间被吸引。趁此间隙，你抓住老僧的衣袖，转身便往暗河上游狂奔。水声轰鸣中，身后传来怒喝与脚步声，但洞中岔道众多，你拉着老僧七拐八绕，终于暂时甩脱了追兵。前方出现三条岔路，左侧干燥，右侧潮湿，中间有微风吹来。",
+      "choice": "走右侧潮湿岔道",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:39.704Z",
+      "phase": "前期"
+    },
+    {
+      "id": "e1f404d7-7ee8-4def-a62d-d116a31cd057",
+      "story_id": "a1004065-cdee-41a7-bb03-10f03509a3fa",
+      "type": "ai_generate",
+      "event_id": "d30b4fdd-f2ca-4666-a230-52f304223cfe",
+      "event_title": "暗河源头水潭",
+      "event_description": "你拽着老僧冲入右侧岔道，水汽愈发浓重，洞壁上渗出水珠，脚下湿滑难行。奔行数十丈后，眼前豁然开朗——一个丈许见方的水潭横在面前，水色幽碧，寒气逼人。潭水上方一道裂隙透下微光，隐约可闻风声，似是出口所在。身后追兵的脚步声越来越近，已不足十丈。",
+      "involved_character_ids": [],
+      "timestamp": "2026-05-05T05:27:45.119Z",
       "phase": "前期"
     }
   ],

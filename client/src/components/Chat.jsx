@@ -75,11 +75,39 @@ function Chat({ settings, characters }) {
     if (!currentChat) return
     try {
       const response = await axios.get(`/api/chats/${currentChat.id}/export`)
-      const blob = new Blob([JSON.stringify(response.data, null, 2)], { type: 'application/json' })
+      const data = response.data
+
+      // 构建易读的文本格式
+      let txtContent = ''
+      txtContent += `========================================\n`
+      txtContent += `  InkSoul / 墨魂 - 故事导出\n`
+      txtContent += `========================================\n\n`
+      txtContent += `标题: ${data.chat?.title || '未命名'}\n`
+      if (data.character) {
+        txtContent += `角色: ${data.character.name}\n`
+      }
+      txtContent += `导出时间: ${data.exported_at || new Date().toISOString()}\n`
+      txtContent += `\n----------------------------------------\n`
+      txtContent += `                故事正文\n`
+      txtContent += `----------------------------------------\n\n`
+
+      if (data.messages && Array.isArray(data.messages)) {
+        data.messages.forEach((msg, index) => {
+          const roleLabel = msg.role === 'user' ? '【玩家】' : `【${data.character?.name || '角色'}】`
+          txtContent += `${roleLabel}\n`
+          txtContent += `${msg.content || ''}\n\n`
+        })
+      }
+
+      txtContent += `----------------------------------------\n`
+      txtContent += `         ${data.copyright_notice || 'InkSoul / 墨魂'}\n`
+      txtContent += `========================================\n`
+
+      const blob = new Blob([txtContent], { type: 'text/plain;charset=utf-8' })
       const url = URL.createObjectURL(blob)
       const link = document.createElement('a')
       link.href = url
-      link.download = `${(currentChat.title || 'chat').replace(/[\\/:*?"<>|]/g, '_')}.json`
+      link.download = `${(currentChat.title || 'story').replace(/[\\/:*?"<>|]/g, '_')}.txt`
       link.click()
       URL.revokeObjectURL(url)
     } catch (error) {

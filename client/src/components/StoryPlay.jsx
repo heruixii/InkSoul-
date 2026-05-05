@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo, useRef } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { ArrowLeft, Users, BookOpen, Plus, Trash2, Edit, RefreshCw, GitBranch, Sparkles, History, ChevronRight, ToggleLeft, ToggleRight, X, ArrowUpDown, Filter, ChevronDown, ChevronUp, Eye, MessageSquare, GitFork, StickyNote, Save, RotateCcw } from 'lucide-react'
+import { ArrowLeft, Users, BookOpen, Plus, Trash2, Edit, RefreshCw, GitBranch, Sparkles, History, ChevronRight, ToggleLeft, ToggleRight, X, ArrowUpDown, Filter, ChevronDown, ChevronUp, Eye, MessageSquare, GitFork, StickyNote, Save, RotateCcw, Download } from 'lucide-react'
 import axios from 'axios'
 import Avatar from './Avatar'
 
@@ -278,6 +278,46 @@ function StoryPlay() {
     } finally {
       setIsAiGenerating(false)
     }
+  }
+
+  // 导出故事为txt
+  const exportStory = () => {
+    if (!story || !storyHistory.length) {
+      alert('暂无故事内容可导出')
+      return
+    }
+
+    let txtContent = ''
+    txtContent += `========================================\n`
+    txtContent += `  InkSoul / 墨魂 - 故事导出\n`
+    txtContent += `========================================\n\n`
+    txtContent += `故事: ${story.title || '未命名'}\n`
+    txtContent += `章节: ${story.chapter_title || ''}\n`
+    txtContent += `导出时间: ${new Date().toLocaleString()}\n`
+    txtContent += `事件数: ${storyHistory.length}\n`
+    txtContent += `\n----------------------------------------\n`
+    txtContent += `                故事正文\n`
+    txtContent += `----------------------------------------\n\n`
+
+    storyHistory.forEach((item, index) => {
+      txtContent += `【第 ${index + 1} 幕】${item.event_title || '未命名事件'}\n`
+      if (item.choice) {
+        txtContent += `选择: ${item.choice}\n`
+      }
+      txtContent += `${item.event_description || ''}\n\n`
+    })
+
+    txtContent += `----------------------------------------\n`
+    txtContent += `         本软件由我在家2up主制作\n`
+    txtContent += `========================================\n`
+
+    const blob = new Blob([txtContent], { type: 'text/plain;charset=utf-8' })
+    const url = URL.createObjectURL(blob)
+    const link = document.createElement('a')
+    link.href = url
+    link.download = `${(story.title || 'story').replace(/[\\/:*?"<>|]/g, '_')}_故事.txt`
+    link.click()
+    URL.revokeObjectURL(url)
   }
 
   // 手动点击「生成下一事件」时调用
@@ -613,6 +653,14 @@ function StoryPlay() {
               {revealedFacts.length > 0 && (
                 <span className="ml-1 text-xs bg-amber-500/30 px-1.5 rounded-full">{revealedFacts.length}</span>
               )}
+            </button>
+            <button
+              onClick={exportStory}
+              className="flex items-center gap-2 px-3 py-2 rounded-lg border bg-emerald-900/20 hover:bg-emerald-900/40 border-emerald-700/50 text-emerald-200 transition-all"
+              title="导出故事为txt文件"
+            >
+              <Download className="w-4 h-4" />
+              <span className="text-sm">导出</span>
             </button>
             <button
               onClick={handleResetStory}
